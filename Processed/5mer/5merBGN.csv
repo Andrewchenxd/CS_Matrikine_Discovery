@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+BGN, cathepsin K  and  cathepsin K ,34,39,0.93,5,FMMND,0,
+BGN, cathepsin G  and  matrix metallopeptidase-9 ,338,343,0.92,5,FNNPV,1,ASPN( )
+BGN, cathepsin K  and  cathepsin G ,326,331,0.94,5,GVKRA,0,
+BGN, cathepsin G  and  elastase-2 ,36,41,1.15,5,MNDEE,0,
+BGN, cathepsin K  and  elastase-2 ,345,350,0.94,5,WEVQP,0,

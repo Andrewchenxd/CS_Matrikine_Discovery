@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CST4, elastase-2  and  matrix metallopeptidase-2 ,13,18,0.92,5,ATLAG,1,TGFBI( )
+CST4, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,33,38,0.91,5,GIYDA,0,
+CST4, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,33,38,1.01,5,GIYDA,0,
+CST4, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,33,38,0.99,5,GIYDA,0,

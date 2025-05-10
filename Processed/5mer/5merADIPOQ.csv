@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ADIPOQ, cathepsin G  and  cathepsin K ,115,120,1.19,5,FSVGL,0,
+ADIPOQ, cathepsin K  and  matrix metallopeptidase-9 ,105,110,0.955,5,GEGAY,0,
+ADIPOQ, elastase-2  and  cathepsin G ,117,122,0.9,5,VGLET,0,
+ADIPOQ, matrix metallopeptidase-9  and  cathepsin G ,110,115,1.12,5,VYRSA,0,

@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ADIPOQ, cathepsin K  and  cathepsin G ,105,109,0.905,4,GEGA,7,HMCN2( );MATN2( );COL5A1( );IGFBP7( );A1BG( );AMBP( );WNT5A( )
+ADIPOQ, matrix metallopeptidase-9  and  elastase-2 ,93,97,0.96,4,GFPG,30,COL7A1( );ELN( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL5A1( );COL6A3( );COL6A5( );COL4A4( );COL12A1( );COL4A1( );COL4A3( );COL4A5( );COL4A6( );COL14A1( );COL6A1( );COL4A2( );COL16A1( );COL6A6( );COL6A2( );COLQ( );COL15A1( );COL17A1( );HSPA8( );A2M( );GLA( );C1S( )
+ADIPOQ, cathepsin K  and  cathepsin K ,116,120,0.925,4,SVGL,10,FRAS1( );TNXB( );HSPG2( );COL4A1( );DAG1( );SOGA1( );KDR( );GANAB( );ACE2( );TG( )

@@ -1,0 +1,18 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C9, elastase-2  and  cathepsin G ,259,264,0.97,5,ASSIS,0,
+C9, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,451,456,0.905,5,DVTDF,1,LGALS3BP( )
+C9, cathepsin K  and  matrix metallopeptidase-2 ,256,261,0.995,5,EETAS,0,
+C9, cathepsin K  and  matrix metallopeptidase-3 ,535,540,0.935,5,EGIAC,0,
+C9, matrix metallopeptidase-7  and  cathepsin K ,224,229,0.945,5,FKSII,0,
+C9, elastase-2  and  cathepsin K ,224,229,0.955,5,FKSII,0,
+C9, matrix metallopeptidase-9  and  cathepsin K ,164,169,0.945,5,GMDPL,0,
+C9, elastase-2  and  cathepsin G ,416,421,0.98,5,ITSEN,0,
+C9, cathepsin G  and  elastase-2 ,421,426,1.03,5,LIDDV,0,
+C9, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,415,420,0.9,5,NITSE,0,
+C9, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,478,483,0.955,5,NLVPV,2,ORM1( );ORM2( )
+C9, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,478,483,1.0699999999999998,5,NLVPV,2,ORM1( );ORM2( )
+C9, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,478,483,0.93,5,NLVPV,2,ORM1( );ORM2( )
+C9, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,478,483,1.015,5,NLVPV,2,ORM1( );ORM2( )
+C9, cathepsin K  and  cathepsin K ,63,68,1.0,5,RSRSI,0,
+C9, cathepsin K  and  matrix metallopeptidase-7 ,547,552,0.96,5,SEGLP,1,COL16A1( )
+C9, elastase-2  and  matrix metallopeptidase-3 ,456,461,0.9,5,VNWAS,0,

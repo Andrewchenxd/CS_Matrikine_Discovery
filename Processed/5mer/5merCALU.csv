@@ -1,0 +1,12 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CALU, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,308,313,0.93,5,ALVRH,0,
+CALU, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,216,221,0.96,5,DMYSH,0,
+CALU, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,216,221,0.905,5,DMYSH,0,
+CALU, cathepsin K  and  matrix metallopeptidase-2 ,211,216,0.92,5,EEYIG,0,
+CALU, cathepsin K  and  matrix metallopeptidase-3 ,211,216,1.04,5,EEYIG,0,
+CALU, cathepsin K  and  matrix metallopeptidase-7 ,211,216,0.985,5,EEYIG,0,
+CALU, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,211,216,0.97,5,EEYIG,0,
+CALU, cathepsin K  and  cathepsin K ,119,124,0.985,5,NEDGL,0,
+CALU, cathepsin K  and  elastase-2 ,119,124,0.94,5,NEDGL,0,
+CALU, cathepsin K  and  elastase-2 ,33,38,0.915,5,QLSDK,0,
+CALU, elastase-2  and  cathepsin K ,28,33,1.03,5,VHHEP,0,

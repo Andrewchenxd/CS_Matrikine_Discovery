@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CASP4, matrix metallopeptidase-7  and  elastase-2 ,124,128,0.94,4,EIYP,3,LTBP2( );CASP1( );PRL( )
+CASP4, matrix metallopeptidase-2  and  elastase-2 ,274,278,1.05,4,SLEV,6,HSPG2( );VCAN( );COL16A1( );ITIH5( );MUC4( );FGFR2( )
+CASP4, matrix metallopeptidase-9  and  elastase-2 ,274,278,1.065,4,SLEV,6,HSPG2( );VCAN( );COL16A1( );ITIH5( );MUC4( );FGFR2( )
+CASP4, matrix metallopeptidase-3  and  elastase-2 ,274,278,0.96,4,SLEV,6,HSPG2( );VCAN( );COL16A1( );ITIH5( );MUC4( );FGFR2( )
+CASP4, matrix metallopeptidase-7  and  elastase-2 ,274,278,1.085,4,SLEV,6,HSPG2( );VCAN( );COL16A1( );ITIH5( );MUC4( );FGFR2( )
+CASP4, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,56,60,0.91,4,VMAD,1,THBS2( )

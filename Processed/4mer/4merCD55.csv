@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD55, matrix metallopeptidase-2  and  cathepsin K ,179,183,0.95,4,GILF,5,SDC4( );GGH( );CD40( );CRIP2(Gly-rich);SPINK5( )
+CD55, matrix metallopeptidase-3  and  cathepsin K ,179,183,0.955,4,GILF,5,SDC4( );GGH( );CD40( );CRIP2(Gly-rich);SPINK5( )
+CD55, elastase-2  and  elastase-2 ,302,306,0.98,4,VNVP,7,HMCN2(Ig-like C2-type 16);COL7A1( );MATN2( );COL6A3( );PDCD6IP( );NUCB1( );NCAM1( )

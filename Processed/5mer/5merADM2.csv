@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ADM2, cathepsin K  and  cathepsin K ,37,42,1.005,5,REPPA,2,TG( );LOX( )
+ADM2, cathepsin K  and  cathepsin G ,142,147,0.935,5,SSPHS,0,
+ADM2, matrix metallopeptidase-9  and  cathepsin G ,77,82,1.175,5,VMGQP,0,
+ADM2, elastase-2  and  cathepsin G ,77,82,1.035,5,VMGQP,0,

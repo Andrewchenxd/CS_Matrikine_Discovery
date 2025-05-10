@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CKLF, cathepsin G  and  matrix metallopeptidase-9 ,59,64,0.9,5,FILLY,0,
+CKLF, cathepsin G  and  matrix metallopeptidase-7 ,122,127,0.9,5,LADGA,0,
+CKLF, cathepsin G  and  cathepsin K ,97,102,0.945,5,LALIP,0,
+CKLF, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,84,89,0.905,5,SLVTT,1,APOB( )

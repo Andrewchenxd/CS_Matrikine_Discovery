@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ARF4, matrix metallopeptidase-9  and  cathepsin K ,133,137,0.92,4,AMAI,1,MAP2K2( )
+ARF4, cathepsin K  and  cathepsin G ,86,90,0.905,4,QGLI,5,TNXB( );TLN1( );GHR( );LEPROT( );PRKDC( )
+ARF4, cathepsin K  and  matrix metallopeptidase-2 ,83,87,0.92,4,QNTQ,3,CSPG4( );DYNC1H1( );A2M( )
+ARF4, cathepsin K  and  matrix metallopeptidase-9 ,83,87,0.915,4,QNTQ,3,CSPG4( );DYNC1H1( );A2M( )
+ARF4, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,7,11,0.955,4,SLFS,10,VTN( );DCN( );COL17A1( );TNF(Cytoplasmic);ITIH2( );DYNC1H1( );SOGA1( );APCS( );PRKDC( );PLG( )

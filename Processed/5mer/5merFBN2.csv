@@ -1,0 +1,22 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FBN2, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,532,537,0.92,5,DCIDV,1,FBN1(EGF-like 32; calcium-binding)
+FBN2, cathepsin K  and  cathepsin K ,1139,1144,0.93,5,ECECF,0,
+FBN2, matrix metallopeptidase-3  and  cathepsin K ,2790,2795,0.94,5,EQISL,0,
+FBN2, cathepsin K  and  cathepsin K ,2795,2800,1.01,5,ESVDM,0,
+FBN2, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,2795,2800,1.04,5,ESVDM,0,
+FBN2, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,2086,2091,1.135,5,GFVLS,0,
+FBN2, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,2086,2091,0.905,5,GFVLS,0,
+FBN2, matrix metallopeptidase-3  and  cathepsin G ,2642,2647,0.96,5,GYIQH,0,
+FBN2, elastase-2  and  elastase-2 ,2792,2797,0.9,5,ISLES,1,DMBT1( )
+FBN2, cathepsin K  and  cathepsin K ,2808,2813,0.96,5,NLSHL,0,
+FBN2, matrix metallopeptidase-3  and  cathepsin G ,2804,2809,0.9,5,NMKFN,0,
+FBN2, matrix metallopeptidase-9  and  cathepsin G ,2804,2809,1.145,5,NMKFN,0,
+FBN2, cathepsin K  and  cathepsin G ,1182,1187,1.0,5,QCDCP,0,
+FBN2, cathepsin K  and  matrix metallopeptidase-3 ,2629,2634,0.945,5,QNILG,0,
+FBN2, cathepsin K  and  cathepsin K ,2370,2375,1.005,5,QSSSS,1,CDSN( )
+FBN2, matrix metallopeptidase-9  and  elastase-2 ,2904,2909,0.925,5,RMRLQ,0,
+FBN2, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,2690,2695,0.95,5,SSACH,1, calcium-binding);FST( )
+FBN2, matrix metallopeptidase-2  and  cathepsin K ,2031,2036,1.005,5,TCQNL,1,FBN1( )
+FBN2, elastase-2  and  matrix metallopeptidase-3 ,2355,2360,0.92,5,VNIIG,0,
+FBN2, elastase-2  and  cathepsin K ,2803,2808,1.005,5,VNMKF,0,
+FBN2, elastase-2  and  matrix metallopeptidase-3 ,1426,1431,0.965,5,VNTPG,2,EFEMP1( );FBN1( )

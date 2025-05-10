@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ACPP, matrix metallopeptidase-9  and  cathepsin K ,34,38,0.945,4,ELKF,4,S100A13( );NUCB2( );PRKDC( );PLAU( )
+ACPP, matrix metallopeptidase-9  and  elastase-2 ,34,38,1.06,4,ELKF,4,S100A13( );NUCB2( );PRKDC( );PLAU( )
+ACPP, matrix metallopeptidase-7  and  elastase-2 ,34,38,0.925,4,ELKF,4,S100A13( );NUCB2( );PRKDC( );PLAU( )
+ACPP, matrix metallopeptidase-3  and  cathepsin K ,362,366,0.94,4,PVIP,2,VCAN( );PRELP( )
+ACPP, cathepsin K  and  matrix metallopeptidase-7 ,149,153,0.915,4,SEDQ,2,ITIH5( );PRLR( )
+ACPP, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,112,116,0.92,4,TLMS,1,CDH1( )
+ACPP, cathepsin K  and  matrix metallopeptidase-9 ,222,226,1.06,4,TLPS,9,ABI3BP( );LAMC1( );COL14A1(Fibronectin type-III 6);SPP1( );VWA5B1( );PGLYRP2( );EFTUD2( );MELTF( );CD109( )
+ACPP, elastase-2  and  cathepsin K ,218,222,1.08,4,VHNF,1,COL6A6( )
+ACPP, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,286,290,0.94,4,YSAH,0,

@@ -1,0 +1,17 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CFH, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,988,993,0.95,5,DCLSL,0,
+CFH, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,377,382,0.955,5,DGWSP,1,THBS1( )
+CFH, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,947,952,0.955,5,DSYQY,1,KDR( )
+CFH, cathepsin K  and  cathepsin G ,996,1001,0.915,5,ENAIP,0,
+CFH, elastase-2  and  cathepsin G ,760,765,1.08,5,ILEEH,0,
+CFH, cathepsin G  and  cathepsin K ,945,950,1.04,5,MSDSY,0,
+CFH, matrix metallopeptidase-2  and  cathepsin K ,757,762,1.0550000000000002,5,NLIIL,0,
+CFH, matrix metallopeptidase-9  and  cathepsin K ,757,762,1.0,5,NLIIL,0,
+CFH, cathepsin K  and  cathepsin K ,819,824,1.045,5,NSHNM,0,
+CFH, cathepsin G  and  cathepsin K ,819,824,0.955,5,NSHNM,0,
+CFH, cathepsin K  and  elastase-2 ,950,955,0.995,5,QYGEE,0,
+CFH, cathepsin K  and  cathepsin K ,991,996,0.945,5,SLPSF,0,
+CFH, matrix metallopeptidase-9  and  cathepsin G ,1053,1058,0.915,5,TVQNA,1,CFHR1( )
+CFH, cathepsin G  and  matrix metallopeptidase-9 ,658,663,1.155,5,YCNPR,0,
+CFH, cathepsin G  and  matrix metallopeptidase-7 ,658,663,1.055,5,YCNPR,0,
+CFH, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,1081,1086,0.97,5,YEMFG,1,CFHR1( )

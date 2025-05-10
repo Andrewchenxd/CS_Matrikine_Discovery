@@ -1,0 +1,118 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APOB, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,163,168,0.905,5,ALLVP,1,TNFSF12(Cytoplasmic)
+APOB, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,163,168,0.915,5,ALLVP,1,TNFSF12(Cytoplasmic)
+APOB, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,2499,2504,0.91,5,ALSSA,2,LAMB2( );LAMA4( )
+APOB, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,125,130,0.98,5,AMSRY,0,
+APOB, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,125,130,1.025,5,AMSRY,0,
+APOB, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,125,130,1.04,5,AMSRY,0,
+APOB, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,125,130,1.14,5,AMSRY,0,
+APOB, elastase-2  and  matrix metallopeptidase-2 ,867,872,0.915,5,ANMQA,0,
+APOB, elastase-2  and  cathepsin K ,1680,1685,0.97,5,ASMKL,1,LAD1( )
+APOB, matrix metallopeptidase-2  and  elastase-2 ,2312,2317,0.975,5,DILEH,0,
+APOB, matrix metallopeptidase-2  and  cathepsin K ,2228,2233,0.925,5,DLHLF,0,
+APOB, matrix metallopeptidase-9  and  cathepsin K ,2228,2233,0.9,5,DLHLF,0,
+APOB, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,2016,2021,1.025,5,DLTLL,0,
+APOB, matrix metallopeptidase-2  and  cathepsin K ,2016,2021,1.025,5,DLTLL,0,
+APOB, matrix metallopeptidase-7  and  cathepsin K ,2016,2021,0.935,5,DLTLL,0,
+APOB, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,2016,2021,0.935,5,DLTLL,0,
+APOB, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,749,754,1.02,5,DMVNG,0,
+APOB, matrix metallopeptidase-3  and  elastase-2 ,749,754,0.91,5,DMVNG,0,
+APOB, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,2351,2356,1.005,5,DQQIQ,0,
+APOB, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,1031,1036,1.0499999999999998,5,DTLKF,0,
+APOB, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,1070,1075,0.9,5,DVDLG,0,
+APOB, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,3289,3294,0.96,5,DVRVP,0,
+APOB, cathepsin K  and  cathepsin K ,3937,3942,0.975,5,EDGTL,0,
+APOB, cathepsin K  and  matrix metallopeptidase-9 ,120,125,1.09,5,EEFAA,0,
+APOB, cathepsin K  and  matrix metallopeptidase-7 ,120,125,0.975,5,EEFAA,0,
+APOB, cathepsin K  and  matrix metallopeptidase-3 ,120,125,0.99,5,EEFAA,0,
+APOB, cathepsin K  and  matrix metallopeptidase-2 ,120,125,0.93,5,EEFAA,0,
+APOB, cathepsin K  and  matrix metallopeptidase-3 ,3666,3671,0.93,5,EGHLR,1,CSPG4( )
+APOB, cathepsin K  and  matrix metallopeptidase-7 ,3666,3671,1.0,5,EGHLR,1,CSPG4( )
+APOB, cathepsin K  and  cathepsin G ,1297,1302,0.93,5,EIPLP,1,PZP( )
+APOB, matrix metallopeptidase-2  and  elastase-2 ,331,336,0.925,5,ELKKL,1,FBN2( )
+APOB, cathepsin K  and  cathepsin G ,3134,3139,0.91,5,EMRLP,0,
+APOB, cathepsin K  and  cathepsin K ,311,316,0.945,5,ESTKS,0,
+APOB, cathepsin K  and  elastase-2 ,372,377,0.955,5,EVSSP,0,
+APOB, matrix metallopeptidase-7  and  cathepsin K ,2600,2605,0.935,5,FEVSL,1,CDH1( )
+APOB, cathepsin G  and  matrix metallopeptidase-2 ,4284,4289,0.95,5,FKAIQ,0,
+APOB, cathepsin G  and  cathepsin G ,178,183,0.995,5,FLDTV,0,
+APOB, matrix metallopeptidase-7  and  cathepsin G ,178,183,0.96,5,FLDTV,0,
+APOB, cathepsin K  and  cathepsin G ,178,183,0.96,5,FLDTV,0,
+APOB, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,3077,3082,0.975,5,FLSPS,0,
+APOB, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,3077,3082,1.085,5,FLSPS,0,
+APOB, cathepsin G  and  cathepsin G ,3039,3044,0.93,5,FSAQP,0,
+APOB, cathepsin G  and  cathepsin K ,1864,1869,0.925,5,FSHRL,0,
+APOB, cathepsin G  and  matrix metallopeptidase-2 ,4243,4248,0.975,5,FSYFQ,0,
+APOB, cathepsin K  and  elastase-2 ,4557,4562,0.965,5,GELTI,0,
+APOB, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,681,686,0.915,5,GFASA,0,
+APOB, matrix metallopeptidase-9  and  cathepsin K ,3006,3011,1.0550000000000002,5,GMALF,0,
+APOB, matrix metallopeptidase-9  and  cathepsin G ,230,235,1.0499999999999998,5,GMTRP,0,
+APOB, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,277,282,0.93,5,GMVAQ,0,
+APOB, cathepsin K  and  matrix metallopeptidase-2 ,1711,1716,0.935,5,GSAYQ,0,
+APOB, cathepsin K  and  cathepsin K ,1632,1637,0.925,5,GTDKI,0,
+APOB, matrix metallopeptidase-9  and  cathepsin K ,3932,3937,0.955,5,GTHKI,0,
+APOB, cathepsin K  and  matrix metallopeptidase-2 ,4183,4188,0.915,5,HMKVK,0,
+APOB, cathepsin K  and  matrix metallopeptidase-7 ,1205,1210,0.96,5,HMYAN,0,
+APOB, cathepsin K  and  matrix metallopeptidase-2 ,1205,1210,0.95,5,HMYAN,0,
+APOB, cathepsin G  and  cathepsin K ,3640,3645,0.96,5,HSGSF,0,
+APOB, elastase-2  and  matrix metallopeptidase-3 ,2034,2039,0.92,5,INIID,1,CDH1( )
+APOB, elastase-2  and  cathepsin K ,4251,4256,0.975,5,ITLPF,0,
+APOB, elastase-2  and  matrix metallopeptidase-9 ,4251,4256,1.07,5,ITLPF,0,
+APOB, elastase-2  and  matrix metallopeptidase-3 ,4251,4256,0.92,5,ITLPF,0,
+APOB, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,1229,1234,0.935,5,KLIVA,0,
+APOB, cathepsin G  and  cathepsin K ,3726,3731,0.935,5,LADKF,0,
+APOB, elastase-2  and  matrix metallopeptidase-9 ,225,230,1.01,5,LALIK,2,NAMPT( );IL33( )
+APOB, cathepsin G  and  matrix metallopeptidase-9 ,225,230,1.065,5,LALIK,2,NAMPT( );IL33( )
+APOB, cathepsin G  and  cathepsin K ,2466,2471,0.9,5,LKLFL,1,HBEGF( )
+APOB, cathepsin G  and  matrix metallopeptidase-2 ,326,331,0.95,5,LKTLQ,0,
+APOB, cathepsin G  and  cathepsin K ,2297,2302,1.065,5,LLDQL,2,LAMB3( );LAMA4( )
+APOB, matrix metallopeptidase-3  and  cathepsin K ,164,169,0.91,5,LLVPP,1,COL18A1( )
+APOB, cathepsin G  and  matrix metallopeptidase-3 ,2030,2035,0.96,5,LSEPI,1,VCAN( )
+APOB, cathepsin G  and  matrix metallopeptidase-2 ,2030,2035,0.97,5,LSEPI,1,VCAN( )
+APOB, cathepsin K  and  cathepsin K ,1615,1620,0.965,5,LSGSL,0,
+APOB, cathepsin G  and  cathepsin K ,3401,3406,0.93,5,LSNKF,0,
+APOB, cathepsin G  and  cathepsin K ,734,739,0.93,5,LVDHF,0,
+APOB, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,143,148,0.915,5,LYPEK,0,
+APOB, cathepsin G  and  matrix metallopeptidase-7 ,750,755,0.935,5,MVNGI,0,
+APOB, cathepsin K  and  matrix metallopeptidase-2 ,2168,2173,0.96,5,NEKLS,1,PLEC( )
+APOB, cathepsin K  and  cathepsin K ,2405,2410,0.905,5,NELSF,0,
+APOB, matrix metallopeptidase-2  and  cathepsin K ,599,604,1.055,5,NILNS,1,COL6A6( )
+APOB, matrix metallopeptidase-3  and  cathepsin K ,599,604,0.94,5,NILNS,1,COL6A6( )
+APOB, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,2894,2899,1.035,5,NIPKL,0,
+APOB, matrix metallopeptidase-9  and  cathepsin G ,1826,1831,0.98,5,NLKGA,0,
+APOB, matrix metallopeptidase-9  and  cathepsin G ,3312,3317,1.04,5,NLKLS,0,
+APOB, cathepsin K  and  cathepsin K ,2070,2075,0.98,5,NLPFF,0,
+APOB, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,4150,4155,0.91,5,NLYQE,0,
+APOB, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,4150,4155,0.92,5,NLYQE,0,
+APOB, cathepsin K  and  matrix metallopeptidase-7 ,3072,3077,0.98,5,NNYAL,0,
+APOB, cathepsin K  and  cathepsin K ,1620,1625,1.065,5,NSHGL,2,C4B( );C4A( )
+APOB, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,376,381,0.915,5,PITLQ,0,
+APOB, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,2767,2772,0.95,5,PLFTL,0,
+APOB, matrix metallopeptidase-9  and  elastase-2 ,234,239,0.91,5,PLSTL,0,
+APOB, matrix metallopeptidase-7  and  elastase-2 ,234,239,0.93,5,PLSTL,0,
+APOB, cathepsin K  and  elastase-2 ,2605,2610,0.905,5,QALQK,1,SERPINE1( )
+APOB, cathepsin K  and  matrix metallopeptidase-9 ,1787,1792,0.925,5,QLQPY,0,
+APOB, matrix metallopeptidase-9  and  cathepsin G ,425,430,0.94,5,QLREI,1,COL6A6( )
+APOB, matrix metallopeptidase-7  and  cathepsin G ,425,430,0.925,5,QLREI,1,COL6A6( )
+APOB, cathepsin K  and  cathepsin G ,3645,3650,1.05,5,QSQVE,0,
+APOB, matrix metallopeptidase-2  and  cathepsin K ,3558,3563,0.965,5,RIYSL,0,
+APOB, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,1203,1208,0.95,5,SLHMY,0,
+APOB, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,1756,1761,0.9,5,SLNIA,0,
+APOB, matrix metallopeptidase-9  and  cathepsin G ,1792,1797,0.91,5,SLVTT,1,CKLF( )
+APOB, matrix metallopeptidase-9  and  cathepsin K ,3245,3250,1.07,5,TFQIP,0,
+APOB, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,1248,1253,0.95,5,TQTLQ,0,
+APOB, cathepsin K  and  cathepsin K ,3417,3422,0.92,5,TTKNM,0,
+APOB, cathepsin K  and  cathepsin K ,3821,3826,0.94,5,TVSQF,0,
+APOB, elastase-2  and  matrix metallopeptidase-2 ,1104,1109,0.945,5,VALMG,0,
+APOB, elastase-2  and  elastase-2 ,2317,2322,0.945,5,VKHFV,0,
+APOB, matrix metallopeptidase-9  and  cathepsin K ,1899,1904,0.975,5,VMAPF,0,
+APOB, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,1899,1904,1.045,5,VMAPF,0,
+APOB, elastase-2  and  cathepsin G ,751,756,1.115,5,VNGIM,0,
+APOB, matrix metallopeptidase-9  and  cathepsin G ,1859,1864,0.945,5,VQGVE,0,
+APOB, cathepsin G  and  matrix metallopeptidase-9 ,2216,2221,0.905,5,YHIRV,0,
+APOB, cathepsin G  and  matrix metallopeptidase-9 ,272,277,0.935,5,YKNKY,0,
+APOB, matrix metallopeptidase-7  and  cathepsin K ,562,567,0.995,5,YLMLM,0,
+APOB, matrix metallopeptidase-3  and  cathepsin K ,562,567,0.93,5,YLMLM,0,
+APOB, matrix metallopeptidase-9  and  cathepsin K ,562,567,1.1150000000000002,5,YLMLM,0,
+APOB, matrix metallopeptidase-2  and  cathepsin K ,562,567,0.975,5,YLMLM,0,
+APOB, cathepsin G  and  cathepsin K ,3098,3103,0.99,5,YNQNF,1,HNRNPU( )

@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGF3, matrix metallopeptidase-3  and  cathepsin K ,87,92,0.92,5,AIRGL,1,VCL( )
+FGF3, matrix metallopeptidase-3  and  cathepsin G ,87,92,0.91,5,AIRGL,1,VCL( )
+FGF3, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,224,229,0.935,5,HVQAS,1,HSPG2( )
+FGF3, matrix metallopeptidase-7  and  cathepsin K ,190,195,1.125,5,MVRQL,0,
+FGF3, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,219,224,1.015,5,NLEPS,0,
+FGF3, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,219,224,0.97,5,NLEPS,0,
+FGF3, matrix metallopeptidase-7  and  elastase-2 ,132,137,1.025,5,RLYRT,0,

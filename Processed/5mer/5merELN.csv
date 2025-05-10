@@ -1,0 +1,21 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ELN, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,362,367,1.01,5,AAVPG,2,TLR9( );LOX( )
+ELN, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,357,362,1.085,5,AGIPG,7,ADIPOQ(Collagen-like);COL7A1( );COL1A2( );COL5A2( );COL3A1( );COL4A4( );COL6A6( )
+ELN, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,90,95,0.995,5,ALVPG,0,
+ELN, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,90,95,0.935,5,ALVPG,0,
+ELN, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,90,95,0.905,5,ALVPG,0,
+ELN, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,90,95,1.155,5,ALVPG,0,
+ELN, cathepsin K  and  cathepsin K ,356,361,0.915,5,GAGIP,0,
+ELN, cathepsin K  and  matrix metallopeptidase-2 ,547,552,0.9,5,GIGPG,0,
+ELN, cathepsin K  and  matrix metallopeptidase-3 ,547,552,0.9,5,GIGPG,0,
+ELN, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,69,74,0.925,5,GLAGA,6,HMCN2( );COL1A2( );COL18A1( );COL3A1( );TLN1( );NECTIN1( )
+ELN, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,69,74,0.92,5,GLAGA,6,HMCN2( );COL1A2( );COL18A1( );COL3A1( );TLN1( );NECTIN1( )
+ELN, matrix metallopeptidase-3  and  cathepsin K ,366,371,0.94,5,GVVSP,0,
+ELN, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,229,234,0.99,5,GYGPG,1,FBN2( )
+ELN, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,229,234,0.99,5,GYGPG,1,FBN2( )
+ELN, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,85,90,0.92,5,VTFPG,0,
+ELN, elastase-2  and  matrix metallopeptidase-7 ,85,90,1.02,5,VTFPG,0,
+ELN, elastase-2  and  matrix metallopeptidase-3 ,85,90,1.18,5,VTFPG,0,
+ELN, elastase-2  and  matrix metallopeptidase-2 ,85,90,0.96,5,VTFPG,0,
+ELN, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,85,90,1.08,5,VTFPG,0,
+ELN, elastase-2  and  matrix metallopeptidase-9 ,85,90,0.93,5,VTFPG,0,

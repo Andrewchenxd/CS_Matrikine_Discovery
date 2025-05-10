@@ -1,0 +1,74 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+COL5A1, elastase-2  and  matrix metallopeptidase-2 ,737,742,0.955,5,AIGPP,5,COL4A4( );COL12A1( );COL4A1( );COL4A3( );DAG1( )
+COL5A1, matrix metallopeptidase-2  and  elastase-2 ,548,553,0.97,5,AILQQ,0,
+COL5A1, matrix metallopeptidase-3  and  elastase-2 ,548,553,1.005,5,AILQQ,0,
+COL5A1, elastase-2  and  cathepsin K ,553,558,1.065,5,ARLAL,2,CASP14( );TG( )
+COL5A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,1214,1219,0.905,5,DEGPR,0,
+COL5A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,1475,1480,1.0,5,DSGPK,0,
+COL5A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,1475,1480,0.95,5,DSGPK,0,
+COL5A1, cathepsin K  and  matrix metallopeptidase-7 ,1609,1614,0.985,5,EEIFG,0,
+COL5A1, cathepsin K  and  matrix metallopeptidase-2 ,1609,1614,1.0,5,EEIFG,0,
+COL5A1, cathepsin K  and  matrix metallopeptidase-2 ,1830,1835,1.045,5,EVGPA,2,COL1A2( );COL3A1( )
+COL5A1, cathepsin K  and  matrix metallopeptidase-9 ,1830,1835,0.985,5,EVGPA,2,COL1A2( );COL3A1( )
+COL5A1, matrix metallopeptidase-3  and  cathepsin G ,1571,1576,1.07,5,EVIQP,0,
+COL5A1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,1209,1214,0.915,5,FGQKG,0,
+COL5A1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,48,53,0.915,5,FHNLP,0,
+COL5A1, matrix metallopeptidase-7  and  cathepsin G ,115,120,0.95,5,FLVSI,0,
+COL5A1, matrix metallopeptidase-9  and  elastase-2 ,1096,1101,0.93,5,GAAGP,5,COL7A1( );COL1A2( );COL1A1( );COL2A1( );COL3A1( )
+COL5A1, matrix metallopeptidase-2  and  elastase-2 ,1096,1101,0.925,5,GAAGP,5,COL7A1( );COL1A2( );COL1A1( );COL2A1( );COL3A1( )
+COL5A1, matrix metallopeptidase-2  and  cathepsin K ,838,843,0.945,5,GEDGP,3,COL1A2( );COL6A1( );COL15A1( )
+COL5A1, cathepsin K  and  matrix metallopeptidase-7 ,394,399,0.9,5,GEGAD,0,
+COL5A1, matrix metallopeptidase-2  and  cathepsin K ,1486,1491,1.025,5,GLIGL,1,COL4A6( )
+COL5A1, matrix metallopeptidase-7  and  cathepsin K ,1228,1233,0.96,5,GLQGL,10,COL1A2( );COL2A1( );COL5A2( );COL3A1( );COL4A4( );COL4A1( );COL4A6( );EMILIN1( );COL17A1( );MUC4( )
+COL5A1, matrix metallopeptidase-3  and  cathepsin K ,1228,1233,0.965,5,GLQGL,10,COL1A2( );COL2A1( );COL5A2( );COL3A1( );COL4A4( );COL4A1( );COL4A6( );EMILIN1( );COL17A1( );MUC4( )
+COL5A1, matrix metallopeptidase-9  and  cathepsin K ,1228,1233,1.105,5,GLQGL,10,COL1A2( );COL2A1( );COL5A2( );COL3A1( );COL4A4( );COL4A1( );COL4A6( );EMILIN1( );COL17A1( );MUC4( )
+COL5A1, matrix metallopeptidase-2  and  cathepsin K ,1228,1233,1.12,5,GLQGL,10,COL1A2( );COL2A1( );COL5A2( );COL3A1( );COL4A4( );COL4A1( );COL4A6( );EMILIN1( );COL17A1( );MUC4( )
+COL5A1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,754,759,0.9,5,GMPGA,1,COL16A1(Collagen-like 5)
+COL5A1, matrix metallopeptidase-2  and  cathepsin K ,709,714,0.9,5,GNVGP,0,
+COL5A1, matrix metallopeptidase-9  and  cathepsin K ,1204,1209,0.97,5,GQQGL,2,COL4A6( );TLN1( )
+COL5A1, matrix metallopeptidase-2  and  cathepsin K ,1132,1137,1.025,5,GRDGL,4,COL7A1( );COL4A1( );COL4A6( );COL4A2( )
+COL5A1, matrix metallopeptidase-9  and  cathepsin K ,595,600,1.085,5,GVQGP,7,COL1A1( );COL5A2( );COL4A5( );COL4A6( );COL4A2( );COL16A1( );COL17A1( )
+COL5A1, matrix metallopeptidase-2  and  cathepsin K ,595,600,0.995,5,GVQGP,7,COL1A1( );COL5A2( );COL4A5( );COL4A6( );COL4A2( );COL16A1( );COL17A1( )
+COL5A1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,697,702,0.905,5,GVTGM,0,
+COL5A1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,697,702,0.985,5,GVTGM,0,
+COL5A1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,697,702,0.985,5,GVTGM,0,
+COL5A1, matrix metallopeptidase-9  and  cathepsin K ,997,1002,1.105,5,GVVGP,4,COL1A2( );FLNA( );PLEC( );C4BPA( )
+COL5A1, matrix metallopeptidase-2  and  cathepsin K ,997,1002,1.2,5,GVVGP,4,COL1A2( );FLNA( );PLEC( );C4BPA( )
+COL5A1, matrix metallopeptidase-3  and  cathepsin K ,997,1002,1.15,5,GVVGP,4,COL1A2( );FLNA( );PLEC( );C4BPA( )
+COL5A1, elastase-2  and  cathepsin K ,1611,1616,1.1,5,IFGSL,0,
+COL5A1, elastase-2  and  matrix metallopeptidase-9 ,445,450,1.01,5,IGGPR,1,GLA( )
+COL5A1, elastase-2  and  matrix metallopeptidase-2 ,445,450,1.065,5,IGGPR,1,GLA( )
+COL5A1, elastase-2  and  matrix metallopeptidase-3 ,460,465,0.94,5,IIEPG,1,SOGA1( )
+COL5A1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,460,465,0.985,5,IIEPG,1,SOGA1( )
+COL5A1, elastase-2  and  matrix metallopeptidase-7 ,460,465,0.9,5,IIEPG,1,SOGA1( )
+COL5A1, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,460,465,0.9,5,IIEPG,1,SOGA1( )
+COL5A1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,460,465,0.94,5,IIEPG,1,SOGA1( )
+COL5A1, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,460,465,1.025,5,IIEPG,1,SOGA1( )
+COL5A1, elastase-2  and  matrix metallopeptidase-7 ,549,554,0.995,5,ILQQA,0,
+COL5A1, elastase-2  and  elastase-2 ,1573,1578,1.025,5,IQPLP,1,KLK6( )
+COL5A1, elastase-2  and  matrix metallopeptidase-2 ,1520,1525,0.935,5,ITGPS,0,
+COL5A1, cathepsin G  and  cathepsin G ,1812,1817,0.94,5,IVDIM,0,
+COL5A1, cathepsin G  and  matrix metallopeptidase-2 ,198,203,0.93,5,MIDIN,0,
+COL5A1, cathepsin K  and  cathepsin K ,1616,1621,1.0499999999999998,5,NSLKL,0,
+COL5A1, matrix metallopeptidase-9  and  cathepsin G ,415,420,0.96,5,NYYDP,0,
+COL5A1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,816,821,1.02,5,PGFKG,7,COL1A2( );COL5A2( );COL4A5( );COL4A2( );COL16A1( );COL6A6( );COL6A2( )
+COL5A1, cathepsin K  and  matrix metallopeptidase-2 ,513,518,0.955,5,PGPPG,24,COL7A1( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL6A5( );COL4A4( );COL12A1( );COL4A1( );COL4A3( );COL4A5( );COL4A6( );COL14A1(Collagen-like 2);COL6A1( );COL4A2( );COL16A1( );COL6A6( );EMILIN1( );COL6A2( );COLQ( );COL15A1( );COL17A1( )
+COL5A1, cathepsin K  and  matrix metallopeptidase-9 ,513,518,0.965,5,PGPPG,24,COL7A1( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL6A5( );COL4A4( );COL12A1( );COL4A1( );COL4A3( );COL4A5( );COL4A6( );COL14A1(Collagen-like 2);COL6A1( );COL4A2( );COL16A1( );COL6A6( );EMILIN1( );COL6A2( );COLQ( );COL15A1( );COL17A1( )
+COL5A1, cathepsin K  and  matrix metallopeptidase-3 ,513,518,0.945,5,PGPPG,24,COL7A1( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL6A5( );COL4A4( );COL12A1( );COL4A1( );COL4A3( );COL4A5( );COL4A6( );COL14A1(Collagen-like 2);COL6A1( );COL4A2( );COL16A1( );COL6A6( );EMILIN1( );COL6A2( );COLQ( );COL15A1( );COL17A1( )
+COL5A1, cathepsin K  and  elastase-2 ,513,518,1.0550000000000002,5,PGPPG,24,COL7A1( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL6A5( );COL4A4( );COL12A1( );COL4A1( );COL4A3( );COL4A5( );COL4A6( );COL14A1(Collagen-like 2);COL6A1( );COL4A2( );COL16A1( );COL6A6( );EMILIN1( );COL6A2( );COLQ( );COL15A1( );COL17A1( )
+COL5A1, cathepsin K  and  elastase-2 ,732,737,0.99,5,PGPQG,18,COL7A1( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL4A4( );COL12A1( );COL4A1( );COL4A3( );COL4A5( );COL14A1( );COL4A2( );COL16A1( );EMILIN1( );COLQ( );COL17A1( )
+COL5A1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,857,862,0.92,5,PLGPP,5,COL7A1( );COL5A2( );COL4A4( );COL4A1( );NID1( )
+COL5A1, cathepsin K  and  matrix metallopeptidase-2 ,1269,1274,0.925,5,QGPPG,24,COL7A1( );HSPG2( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL4A4( );COL12A1( );COL4A1( );COL4A3( );COL4A5( );COL4A6( );COL14A1( );COL6A1( );COL4A2( );COL16A1( );COL6A6( );EMILIN1( );COLQ( );COL15A1( );COL17A1( );PLSCR1( )
+COL5A1, cathepsin K  and  elastase-2 ,591,596,1.02,5,QGPRG,9,COL7A1( );COL1A1( );COL2A1( );COL5A2( );COL3A1( );COL4A4( );COL14A1( );COL6A6( );COL17A1( )
+COL5A1, cathepsin K  and  cathepsin K ,126,131,0.915,5,QQIGL,0,
+COL5A1, elastase-2  and  elastase-2 ,440,445,1.0,5,TIYEG,1,DYNC1H1( )
+COL5A1, elastase-2  and  matrix metallopeptidase-2 ,485,490,0.91,5,TMGPT,0,
+COL5A1, elastase-2  and  matrix metallopeptidase-9 ,518,523,0.915,5,TMLML,0,
+COL5A1, elastase-2  and  matrix metallopeptidase-7 ,424,429,1.005,5,TSSPS,1,FGFR1( )
+COL5A1, cathepsin G  and  cathepsin K ,1604,1609,1.05,5,YADGM,0,
+COL5A1, cathepsin G  and  cathepsin G ,352,357,0.97,5,YDDLT,0,
+COL5A1, cathepsin G  and  matrix metallopeptidase-9 ,788,793,0.975,5,YPGPR,1,COL6A2( )
+COL5A1, cathepsin G  and  matrix metallopeptidase-2 ,788,793,1.02,5,YPGPR,1,COL6A2( )
+COL5A1, cathepsin G  and  cathepsin K ,420,425,1.03,5,YYDPT,1,SPINT1( )
+COL5A1, cathepsin G  and  cathepsin G ,274,279,0.955,5,YYEYP,0,
+COL5A1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,262,267,0.965,5,YYTEG,0,

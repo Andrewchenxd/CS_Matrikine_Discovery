@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FMOD, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,89,93,0.925,4,AMYC,1,LUM(Cys-rich)
+FMOD, cathepsin G  and  cathepsin K ,28,32,1.02,4,FHYL,2,PZP( );C5( )
+FMOD, cathepsin K  and  matrix metallopeptidase-9 ,102,106,0.905,4,FVPS,4,FBN1( );COL12A1( );F2R( );TG( )
+FMOD, matrix metallopeptidase-2  and  elastase-2 ,130,134,0.995,4,GLLW,2,TREM1( );LCN2( )
+FMOD, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,270,274,0.945,4,LLYV,6,COL4A1( );COL4A5( );TLN1( );CKLF(Helical);LEPROT( );TSLP( )
+FMOD, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,173,177,0.99,4,PLPR,6,LTBP4( );COL18A1( );KERA(LRR 3);COL12A1(Fibronectin type-III 10);VWA5B1( );CCL5( )
+FMOD, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,54,58,0.9,4,PYGV,3,LAMA3( );SERPINE1( );F13A1( )
+FMOD, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,159,163,1.045,4,RLYL,5,ASPN( );DCN( );CASP14( );ANGPT1( );IL20( )
+FMOD, matrix metallopeptidase-9  and  cathepsin K ,106,110,0.925,4,RMKY,1,DPP7( )

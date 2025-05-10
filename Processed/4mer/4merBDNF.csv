@@ -1,0 +1,12 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+BDNF, matrix metallopeptidase-3  and  cathepsin K ,158,162,0.9,4,DMSG,4,LAMA2( );LBP( );COPA( );CASP14( )
+BDNF, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,68,72,0.97,4,EELL,19,HMCN2( );MFAP2( );EMILIN1( );COL17A1( );ITIH4(VIT);APOE( );ITIH3(VIT);SOGA1( );ATP5A1( );PLEC( );CLTC( );ITIH5(VIT);SEMA3A( );AMBP( );FLT1( );PRLR( );IL25( );CFB( );VEGFD( )
+BDNF, cathepsin K  and  cathepsin K ,64,68,1.05,4,EHVI,1,EFTUD2( )
+BDNF, cathepsin K  and  matrix metallopeptidase-9 ,102,106,0.91,4,LEPP,6,HMCN2( );COL7A1( );CSPG4( );LOXL1( );PAPPA( );NTF3( )
+BDNF, cathepsin K  and  matrix metallopeptidase-7 ,102,106,0.955,4,LEPP,6,HMCN2( );COL7A1( );CSPG4( );LOXL1( );PAPPA( );NTF3( )
+BDNF, cathepsin G  and  elastase-2 ,96,100,0.955,4,LSSQ,13,LAMC1( );COL5A2( );VCAN( );HSPA5( );APOE( );CSPG4( );DYNC1H1( );C3( );ITIH1( );APOB( );TEK( );PRKDC( );TG(Thyroglobulin type-1 5)
+BDNF, cathepsin G  and  matrix metallopeptidase-7 ,84,88,0.91,4,NKDA,2,LAMA3( );FLT1( )
+BDNF, matrix metallopeptidase-7  and  cathepsin K ,121,125,0.915,4,NMSM,1,EGFR( )
+BDNF, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,121,125,0.965,4,NMSM,1,EGFR( )
+BDNF, elastase-2  and  granzyme B ({Homo sapiens}-type) ,57,61,0.975,4,TSLA,4,EMILIN1( );CD34( );PI16( );CFI( )
+BDNF, cathepsin G  and  elastase-2 ,90,94,1.05,4,YTSR,1,COL16A1( )

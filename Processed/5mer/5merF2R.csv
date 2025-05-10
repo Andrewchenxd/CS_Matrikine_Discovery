@@ -1,0 +1,16 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+F2R, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,86,91,0.945,5,AFISE,0,
+F2R, elastase-2  and  granzyme B ({Homo sapiens}-type) ,86,91,0.93,5,AFISE,0,
+F2R, elastase-2  and  elastase-2 ,36,41,0.915,5,ATLDP,0,
+F2R, elastase-2  and  cathepsin G ,36,41,1.03,5,ATLDP,0,
+F2R, cathepsin G  and  matrix metallopeptidase-2 ,13,18,0.96,5,FSLCG,0,
+F2R, matrix metallopeptidase-2  and  cathepsin K ,293,298,1.01,5,IIRCL,0,
+F2R, matrix metallopeptidase-3  and  cathepsin K ,293,298,1.06,5,IIRCL,0,
+F2R, cathepsin K  and  cathepsin K ,259,264,1.0,5,NETLL,0,
+F2R, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,120,125,0.94,5,NIMAI,0,
+F2R, matrix metallopeptidase-9  and  cathepsin K ,207,212,0.98,5,PMQSL,0,
+F2R, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,402,407,0.91,5,QLMAS,0,
+F2R, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,402,407,0.965,5,QLMAS,0,
+F2R, cathepsin K  and  matrix metallopeptidase-3 ,298,303,1.015,5,SSSAV,0,
+F2R, cathepsin K  and  elastase-2 ,67,72,0.96,5,TEYRL,1,COL7A1( )
+F2R, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,149,154,0.93,5,VLFVS,0,

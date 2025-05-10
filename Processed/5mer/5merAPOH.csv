@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APOH, cathepsin K  and  elastase-2 ,244,249,0.995,5,EEIEC,0,
+APOH, cathepsin K  and  cathepsin K ,86,91,0.915,5,FAGIL,0,
+APOH, cathepsin G  and  cathepsin K ,86,91,1.025,5,FAGIL,0,
+APOH, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,207,212,0.925,5,FPSRP,0,

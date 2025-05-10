@@ -1,0 +1,25 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ERAP1, matrix metallopeptidase-3  and  cathepsin K ,776,780,1.0,4,AQST,6,DPP7( );PLEC( );ACE2(Extracellular);C5( );GSN( );TG( )
+ERAP1, cathepsin K  and  matrix metallopeptidase-7 ,195,199,0.94,4,DEPA,2,CTGF( );PRELP( )
+ERAP1, cathepsin K  and  cathepsin K ,124,128,0.935,4,EHPR,0,
+ERAP1, cathepsin K  and  matrix metallopeptidase-3 ,255,259,0.935,4,ESVS,6,VCAN( );COL6A6( );CKAP4( );PFKP( );KDR( );A2ML1( )
+ERAP1, cathepsin K  and  matrix metallopeptidase-9 ,255,259,0.9,4,ESVS,6,VCAN( );COL6A6( );CKAP4( );PFKP( );KDR( );A2ML1( )
+ERAP1, cathepsin K  and  matrix metallopeptidase-2 ,255,259,0.905,4,ESVS,6,VCAN( );COL6A6( );CKAP4( );PFKP( );KDR( );A2ML1( )
+ERAP1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,249,253,1.05,4,FIIS,3,IL18( );PRKDC( );FLT1( )
+ERAP1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,249,253,1.02,4,FIIS,3,IL18( );PRKDC( );FLT1( )
+ERAP1, matrix metallopeptidase-9  and  elastase-2 ,381,385,0.95,4,FMEF,0,
+ERAP1, matrix metallopeptidase-9  and  cathepsin K ,873,877,0.925,4,HMVM,0,
+ERAP1, matrix metallopeptidase-3  and  cathepsin K ,873,877,0.955,4,HMVM,0,
+ERAP1, cathepsin K  and  matrix metallopeptidase-9 ,590,594,0.935,4,ILPE,9,HMCN2( );VCAN( );HSD17B11( );RPN1( );PZP( );A2M( );MUC4( );ANGPT1( );PRKDC( )
+ERAP1, elastase-2  and  matrix metallopeptidase-9 ,681,685,0.9,4,IPMY,0,
+ERAP1, cathepsin K  and  matrix metallopeptidase-2 ,134,138,1.085,4,LAPE,15,HMCN2( );TNXB( );TNC( );FBN2( );VWF( );SPON1( );LTBP2( );CSPG4( );TNXA( );P4HB( );CPE( );RNPEP( );NTF4( );A2ML1( );TLR9( )
+ERAP1, cathepsin K  and  matrix metallopeptidase-7 ,134,138,0.945,4,LAPE,15,HMCN2( );TNXB( );TNC( );FBN2( );VWF( );SPON1( );LTBP2( );CSPG4( );TNXA( );P4HB( );CPE( );RNPEP( );NTF4( );A2ML1( );TLR9( )
+ERAP1, cathepsin G  and  cathepsin K ,120,124,0.98,4,LQVL,16,HMCN2( );HSPG2( );FMOD( );LRG1( );CSPG4( );DYNC1H1( );MAP2K2( );RNPEP( );FGFR3( );ANGPT2( );GSN( );CST4( );KLK14( );ADAMTSL5( );PRKDC( );TLR9( )
+ERAP1, cathepsin K  and  matrix metallopeptidase-7 ,678,682,0.9,4,NELI,7,FRAS1( );COL16A1( );PZP( );A2M( );CLTC( );MANF( );SPINK5( )
+ERAP1, matrix metallopeptidase-2  and  cathepsin K ,138,142,0.965,4,PLLV,10,HMCN2( );TLN1( );RPN1(Helical);DYNC1H1( );COPA( );A2M( );ITIH1( );MMP2( );CRH( );ADAMTS17( )
+ERAP1, cathepsin K  and  elastase-2 ,101,105,1.01,4,QISR,2,LAMC1( );FMOD( )
+ERAP1, cathepsin K  and  cathepsin K ,930,934,0.965,4,RVWL,0,
+ERAP1, elastase-2  and  cathepsin K ,97,101,0.995,4,SHHL,2,DYNC1H1( );APOB( )
+ERAP1, elastase-2  and  cathepsin K ,410,414,0.95,4,VDAL,6,FRAS1( );IGFBP7( );ITIH4( );ATP5A1( );APOA1( );IGF1( )
+ERAP1, elastase-2  and  cathepsin G ,141,145,0.97,4,VGLP,16,COL7A1( );ELN( );COL1A2( );COL1A1( );COL2A1( );COL5A1( );COL4A4( );COL4A1( );COL4A5( );COL4A6( );COL4A2( );COL16A1( );COL17A1( );KDR( );MMP28(Hemopexin 1);ACE2( )
+ERAP1, cathepsin G  and  elastase-2 ,145,149,0.9,4,YTVV,2,ADH7( );LEPROT( )

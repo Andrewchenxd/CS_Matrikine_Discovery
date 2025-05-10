@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD14, matrix metallopeptidase-2  and  cathepsin K ,125,129,0.94,4,DLKI,5,COL6A3( );S100A13( );MYH9(IQ);LRPAP1( );APOB( )
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,294,298,0.99,4,GLPA,20,TNXB( );LAMA5( );COL18A1( );THBS3( );COL4A6( );COL4A2( );HPSE( );FLNA( );LRPAP1( );FGFR3( );MMP14(Hemopexin 1);CRTAP( );C9( );IGHG2( );SPINT1( );FGFR4( );FLT1( );FGFR1( );FGFR2( );IGF2-AS( )
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,294,298,1.015,4,GLPA,20,TNXB( );LAMA5( );COL18A1( );THBS3( );COL4A6( );COL4A2( );HPSE( );FLNA( );LRPAP1( );FGFR3( );MMP14(Hemopexin 1);CRTAP( );C9( );IGHG2( );SPINT1( );FGFR4( );FLT1( );FGFR1( );FGFR2( );IGF2-AS( )
+CD14, elastase-2  and  matrix metallopeptidase-2 ,59,63,0.945,4,IHAG,3,HMCN2( );EFTUD2( );CP( )
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,105,109,0.955,4,LLVG,12,LAMA5( );LAMB2( );COL6A1( );LAMB3( );CSPG4( );VWA8( );FLNA( );ERAP1( );SERPINA4( );C5( );MUC4( );TNFRSF1A( )
+CD14, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,105,109,1.02,4,LLVG,12,LAMA5( );LAMB2( );COL6A1( );LAMB3( );CSPG4( );VWA8( );FLNA( );ERAP1( );SERPINA4( );C5( );MUC4( );TNFRSF1A( )
+CD14, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,105,109,0.9,4,LLVG,12,LAMA5( );LAMB2( );COL6A1( );LAMB3( );CSPG4( );VWA8( );FLNA( );ERAP1( );SERPINA4( );C5( );MUC4( );TNFRSF1A( )
+CD14, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,105,109,0.955,4,LLVG,12,LAMA5( );LAMB2( );COL6A1( );LAMB3( );CSPG4( );VWA8( );FLNA( );ERAP1( );SERPINA4( );C5( );MUC4( );TNFRSF1A( )
+CD14, cathepsin G  and  cathepsin K ,144,148,0.905,4,LSSL,20,LAMC2( );LAMA5( );LAMB2( );ABI3BP( );COL18A1( );COL12A1( );LAD1( );CKAP4( );CDH1( );ITIH3( );TFRC( );SOGA1( );DSG1( );ERAP1(Helical; Signal-anchor for type II);FLNB( );AGTR2( );IGHV1-46( );PRKDC( );CFB( );EGFR( )
+CD14, cathepsin K  and  matrix metallopeptidase-2 ,222,226,0.97,4,PAIQ,3,FBN2( );CSPG4( );ALCAM( )
+CD14, matrix metallopeptidase-2  and  elastase-2 ,136,140,1.005,4,PLEA,6,HSPG2( );LAMA5(Laminin G-like 5);CSPG4(CSPG 9);FLNA(Filamin 8);PKM( );IL4R( )
+CD14, cathepsin K  and  matrix metallopeptidase-9 ,268,272,0.96,4,SAPR,7,COL7A1(Fibronectin type-III 1);LTBP4( );HSP90B1( );SERPINF2( );PGLYRP2( );PLEC( );EPHB4( )

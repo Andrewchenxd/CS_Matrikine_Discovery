@@ -1,0 +1,25 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGA, matrix metallopeptidase-9  and  cathepsin K ,494,498,1.01,4,AMDL,3,LAMB1( );CHGB( );TEK(Extracellular)
+FGA, matrix metallopeptidase-3  and  cathepsin K ,494,498,0.945,4,AMDL,3,LAMB1( );CHGB( );TEK(Extracellular)
+FGA, matrix metallopeptidase-7  and  cathepsin K ,494,498,0.965,4,AMDL,3,LAMB1( );CHGB( );TEK(Extracellular)
+FGA, elastase-2  and  matrix metallopeptidase-7 ,815,819,0.92,4,ANLN,4,TNXB( );AEBP1( );MFAP4( );VEGFC( )
+FGA, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,612,616,0.93,4,DHEG,1,HMCN2( )
+FGA, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,593,597,0.915,4,DSTF,5,ADIPOQ( );SPON1( );CASP1( );CP( );CASP4( )
+FGA, matrix metallopeptidase-3  and  cathepsin G ,532,536,0.905,4,FFSP,6,ASPN( );SERPINA5( );SERPINA7( );IDE( );SERPINA1( );SERPINA4( )
+FGA, cathepsin K  and  cathepsin G ,533,537,0.925,4,FSPM,1,A2ML1( )
+FGA, matrix metallopeptidase-2  and  elastase-2 ,646,650,0.905,4,GIFN,0,
+FGA, matrix metallopeptidase-3  and  elastase-2 ,266,270,0.91,4,GNEI,4,FMOD( );KERA( );DYNC1H1( );CP( )
+FGA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,697,701,0.995,4,GSLN,6,LAMC2( );COL5A1( );DMBT1( );LAMA2( );APOB( );AZGP1( )
+FGA, cathepsin K  and  matrix metallopeptidase-2 ,498,502,0.96,4,GTLS,11,HSPG2(Ig-like C2-type 3);LTBP2( );VCAN( );PDCD6IP( );CANX( );C3( );PLEC( );APOB( );FLNB( );IGKV3-20( );TLL1( )
+FGA, elastase-2  and  cathepsin K ,650,654,0.91,4,IKLP,2,TNC( );PFKP( )
+FGA, cathepsin G  and  elastase-2 ,537,541,0.915,4,LGEF,7,FRAS1( );VWF( );LAMA2( );VWA5B1( );EFTUD2( );ORM1( );ORM2( )
+FGA, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,236,240,0.915,4,NFKS,1,DMKN( )
+FGA, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,256,260,0.91,4,QMRM,0,
+FGA, cathepsin K  and  elastase-2 ,375,379,1.035,4,SESS,9,HSPG2( );DMBT1( );LBP( );SOGA1( );DMKN( );LOXL1( );CFHR2( );CFHR1( );CFHR3( )
+FGA, cathepsin K  and  elastase-2 ,3,7,0.935,4,SMRI,0,
+FGA, elastase-2  and  matrix metallopeptidase-9 ,778,782,0.935,4,TSHN,1,FGG( )
+FGA, elastase-2  and  granzyme B ({Homo sapiens}-type) ,207,211,0.935,4,VIAK,4,VCAN( );P4HB( );VWA8( );ESR2( )
+FGA, elastase-2  and  matrix metallopeptidase-7 ,207,211,1.01,4,VIAK,4,VCAN( );P4HB( );VWA8( );ESR2( )
+FGA, elastase-2  and  matrix metallopeptidase-3 ,207,211,1.0,4,VIAK,4,VCAN( );P4HB( );VWA8( );ESR2( )
+FGA, cathepsin G  and  matrix metallopeptidase-3 ,428,432,0.905,4,YHTE,1,LAMB1( )
+FGA, cathepsin G  and  matrix metallopeptidase-7 ,428,432,0.99,4,YHTE,1,LAMB1( )

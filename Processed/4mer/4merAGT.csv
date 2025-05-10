@@ -1,0 +1,30 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AGT, cathepsin K  and  matrix metallopeptidase-3 ,295,299,0.97,4,AEPQ,1,ESR2( )
+AGT, elastase-2  and  elastase-2 ,403,407,1.005,4,AILH,1,COL7A1( )
+AGT, matrix metallopeptidase-2  and  elastase-2 ,183,187,0.945,4,ALQA,16,HMCN2( );LAMA5( );EMILIN1( );CKAP4( );TLN1( );HSP90AA1( );DYNC1H1( );ALDOA( );PLEC( );LCN1( );MUC4( );A2ML1( );ADM2( );CFB( );DEFA1( );DEFA3( )
+AGT, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,104,108,0.99,4,AMVG,1,HSPG2( )
+AGT, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,104,108,0.935,4,AMVG,1,HSPG2( )
+AGT, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,104,108,0.91,4,AMVG,1,HSPG2( )
+AGT, elastase-2  and  cathepsin G ,201,205,1.065,4,AQLL,22,HSPG2( );LGI3( );ATP5B( );TLN1( );VIP( );GPC2( );HPSE( );IGKV1-33( );PLEC( );IGKV1-17( );IGKV3-15( );IGKV2D-40( );CD14( );SERPINA6( );IGKV1-5( );IGKV2D-28( );IGKV2-30( );IGKV3-20( );A2ML1( );IGKV1D-33( );IGKV1-39( );ADM2( )
+AGT, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,431,435,0.965,4,ELEA,16,LTBP4(EGF-like 15);COL12A1( );COL14A1( );MYH9( );NENF( );CSPG4( );HSPH1( );RPN1( );MAP2K2( );NAMPT( );PLEC( );NUCB1( );LRPAP1( );CASP1( );NUCB2( );IGF2-AS( )
+AGT, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,67,71,0.945,4,FIPA,3,COL6A3( );EFTUD2( );APOB( )
+AGT, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,67,71,0.955,4,FIPA,3,COL6A3( );EFTUD2( );APOB( )
+AGT, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,119,123,1.115,4,GMHS,0,
+AGT, matrix metallopeptidase-9  and  cathepsin K ,119,123,1.035,4,GMHS,0,
+AGT, cathepsin G  and  cathepsin K ,313,317,1.04,4,LSGM,4,COL14A1( );C4B( );C4A( );SPINK6( )
+AGT, cathepsin K  and  cathepsin K ,313,317,0.94,4,LSGM,4,COL14A1( );C4B( );C4A( );SPINK6( )
+AGT, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,108,112,0.94,4,MLAN,0,
+AGT, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,108,112,1.0,4,MLAN,0,
+AGT, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,108,112,0.945,4,MLAN,0,
+AGT, cathepsin K  and  matrix metallopeptidase-7 ,447,451,0.96,4,NKPE,2,CDH1(Cadherin 1);ITIH5( )
+AGT, cathepsin K  and  matrix metallopeptidase-9 ,447,451,1.11,4,NKPE,2,CDH1(Cadherin 1);ITIH5( )
+AGT, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,71,75,0.97,4,PIQA,2,COL5A1( );ITIH4( )
+AGT, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,71,75,0.98,4,PIQA,2,COL5A1( );ITIH4( )
+AGT, cathepsin K  and  matrix metallopeptidase-2 ,185,189,0.905,4,QAVQ,7,COL7A1( );LAMA5( );TLN1( );PLEC( );CASP1( );SLTM( );TG( )
+AGT, matrix metallopeptidase-2  and  cathepsin K ,427,431,0.975,4,SIFF,2,SERPINA5( );AGTR2( )
+AGT, matrix metallopeptidase-9  and  cathepsin K ,238,242,0.93,4,SLDF,5,LAMA2( );CSPG4( );PON1( );APOB( );ANGPT1( )
+AGT, cathepsin K  and  matrix metallopeptidase-2 ,337,341,1.05,4,TESA,4,ABI3BP(Fibronectin type-III 2);COL12A1( );TG( );FLT1(Ig-like C2-type 1)
+AGT, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,89,93,0.9,4,VLVA,7,HMCN2( );VCAN( );SOGA1( );C3( );GANAB( );CFD( );NECTIN1( )
+AGT, cathepsin K  and  matrix metallopeptidase-3 ,89,93,0.9,4,VLVA,7,HMCN2( );VCAN( );SOGA1( );C3( );GANAB( );CFD( );NECTIN1( )
+AGT, elastase-2  and  matrix metallopeptidase-3 ,89,93,0.92,4,VLVA,7,HMCN2( );VCAN( );SOGA1( );C3( );GANAB( );CFD( );NECTIN1( )
+AGT, cathepsin G  and  cathepsin G ,37,41,0.91,4,YIHP,2,F2( );TNFRSF1A( )

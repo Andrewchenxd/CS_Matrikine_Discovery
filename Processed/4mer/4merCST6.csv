@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CST6, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,40,44,0.905,4,DLSP,12,TNC( );NID1( );ITIH4( );CCT6A( );CLCA4( );SHH( );DYNC1H1( );RNPEP( );LEP( );C4B( );A2ML1( );FGFR4( )
+CST6, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,40,44,0.965,4,DLSP,12,TNC( );NID1( );ITIH4( );CCT6A( );CLCA4( );SHH( );DYNC1H1( );RNPEP( );LEP( );C4B( );A2ML1( );FGFR4( )
+CST6, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,80,84,0.925,4,QLVA,10,FRAS1( );THBS3( );TLN1( );SDCBP( );ITIH2( );IL1RN( );CD109( );C4B( );C4A( );PSAPL1( )

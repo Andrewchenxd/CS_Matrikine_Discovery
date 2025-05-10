@@ -1,0 +1,23 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD163, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,506,510,0.915,4,DFSL,9,FRAS1( );LTBP2( );COL18A1( );GBP1( );GANAB( );SERPING1( );CD109( );APOB( );GLG1( )
+CD163, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,249,253,0.925,4,DHAE,4,TNC( );COL12A1( );CALU(EF-hand 6);FLT1( )
+CD163, matrix metallopeptidase-7  and  cathepsin G ,1107,1111,0.945,4,DLDL,3,LGI3( );IL1B( );HBEGF( )
+CD163, cathepsin K  and  matrix metallopeptidase-9 ,510,514,1.005,4,EAAS,11,LTBP4( );DCD( );CDH1( );VCL( );TLN1( );HNRNPU( );DYNC1H1( );APOB( );IL17C( );TG( );CCL20( )
+CD163, cathepsin K  and  elastase-2 ,1141,1145,0.965,4,EKEA,5,PLEC( );KARS( );LRPAP1( );IDE( );SPINK5( )
+CD163, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,1127,1131,0.92,4,ELIS,8,LTBP2( );COL17A1( );APOC1( );HSP90B1( );HSP90AA1( );PLEC( );AFM( );HPX( )
+CD163, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,675,679,1.0499999999999998,4,EQVA,4,EMILIN1( );COL6A2( );APOE(8);ATP5A1( )
+CD163, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,675,679,0.905,4,EQVA,4,EMILIN1( );COL6A2( );APOE(8);ATP5A1( )
+CD163, cathepsin G  and  matrix metallopeptidase-3 ,1051,1055,0.975,4,FIAV,1,HLA-C( )
+CD163, cathepsin G  and  matrix metallopeptidase-2 ,1051,1055,0.995,4,FIAV,1,HLA-C( )
+CD163, cathepsin G  and  matrix metallopeptidase-9 ,1123,1127,0.905,4,FSAA,2,HMCN2( );EMILIN1( )
+CD163, cathepsin G  and  matrix metallopeptidase-3 ,1123,1127,0.955,4,FSAA,2,HMCN2( );EMILIN1( )
+CD163, matrix metallopeptidase-3  and  cathepsin K ,530,534,0.93,4,GAHF,0,
+CD163, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,459,463,0.91,4,GLTC,4,HSPG2( );KLK10( );TSHB( );HGF( )
+CD163, elastase-2  and  cathepsin K ,1137,1141,1.035,4,ISGM,1,VTN( )
+CD163, matrix metallopeptidase-3  and  elastase-2 ,1133,1137,0.97,4,KFLP,5,HSPA5( );TLN1(I/LWEQ);NGRN( );IL1RL1( );HGF( )
+CD163, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,887,891,0.93,4,PMWV,0,
+CD163, cathepsin K  and  matrix metallopeptidase-7 ,907,911,0.965,4,SSPW,1,LTBP2( )
+CD163, cathepsin K  and  matrix metallopeptidase-3 ,907,911,0.95,4,SSPW,1,LTBP2( )
+CD163, cathepsin K  and  matrix metallopeptidase-3 ,631,635,0.98,4,STPG,6,LTBP2(EGF-like 4);FGF3( );FLNB( );MUC4( );NRP1( );SPINK5( )
+CD163, elastase-2  and  matrix metallopeptidase-2 ,22,26,0.9,4,VNLS,3,HSPG2( );VCAN( );F2( )
+CD163, elastase-2  and  cathepsin K ,664,668,0.99,4,VTAL,12,COL7A1( );HSPG2( );COL12A1( );CHGA( );DSC2( );ALDOA( );FLNA(Filamin 15);EPHB4( );CD8A( );CD109( );MUC4( );HBB( )

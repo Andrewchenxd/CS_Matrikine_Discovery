@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CASP4, cathepsin K  and  elastase-2 ,273,278,1.02,5,ASLEV,1,ITIH5( )
+CASP4, elastase-2  and  elastase-2 ,273,278,1.29,5,ASLEV,1,ITIH5( )
+CASP4, cathepsin K  and  cathepsin K ,93,98,1.035,5,EAGPP,5,COL7A1( );LTBP2( );COL4A1( );EMILIN1( );COL17A1( )
+CASP4, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,15,20,0.92,5,ESLGK,0,
+CASP4, matrix metallopeptidase-9  and  cathepsin K ,69,74,0.91,5,GQMLL,0,
+CASP4, cathepsin G  and  cathepsin K ,57,62,1.1,5,MADSM,0,
+CASP4, cathepsin G  and  cathepsin K ,208,213,0.905,5,MSHGI,1,CASP1( )
+CASP4, matrix metallopeptidase-9  and  cathepsin K ,346,351,1.235,5,VQQSF,0,

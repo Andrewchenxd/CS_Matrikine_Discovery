@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CST3, elastase-2  and  elastase-2 ,13,17,0.905,4,AILA,7,LAMB2( );MGP( );DSC2(Extracellular);ACTN4( );CELA1( );DEFA1( );DEFA3( )
+CST3, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,107,111,1.02,4,DNCP,5,COMP( );THBS4( );THBS1( );THBS2( );THBS3( )
+CST3, cathepsin K  and  matrix metallopeptidase-3 ,30,34,0.935,4,GKPP,4,HMCN2( );LTBP2( );MIF( );NECTIN1( )
+CST3, cathepsin K  and  matrix metallopeptidase-7 ,30,34,1.035,4,GKPP,4,HMCN2( );LTBP2( );MIF( );NECTIN1( )

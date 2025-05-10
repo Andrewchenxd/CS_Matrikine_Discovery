@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CELA1, elastase-2  and  cathepsin K ,34,39,0.93,5,ISLQY,0,
+CELA1, matrix metallopeptidase-2  and  cathepsin K ,209,214,1.015,5,PLHCL,0,
+CELA1, matrix metallopeptidase-2  and  elastase-2 ,209,214,0.97,5,PLHCL,0,
+CELA1, matrix metallopeptidase-7  and  elastase-2 ,116,121,1.115,5,RLAQS,0,

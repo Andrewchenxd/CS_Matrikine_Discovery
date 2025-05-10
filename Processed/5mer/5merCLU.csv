@@ -1,0 +1,18 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CLU, elastase-2  and  granzyme B ({Homo sapiens}-type) ,390,395,0.935,5,ASHTS,0,
+CLU, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,23,28,0.985,5,DQTVS,0,
+CLU, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,380,385,0.915,5,DQYYL,0,
+CLU, cathepsin G  and  matrix metallopeptidase-7 ,366,371,0.92,5,FNWVS,0,
+CLU, matrix metallopeptidase-2  and  cathepsin K ,267,272,0.975,5,FQHPP,0,
+CLU, matrix metallopeptidase-9  and  cathepsin K ,267,272,0.95,5,FQHPP,0,
+CLU, matrix metallopeptidase-3  and  cathepsin K ,267,272,1.015,5,FQHPP,0,
+CLU, cathepsin K  and  matrix metallopeptidase-9 ,244,249,0.97,5,FQPFL,0,
+CLU, cathepsin G  and  matrix metallopeptidase-3 ,180,185,0.94,5,FSRAS,1,TGFBI( )
+CLU, cathepsin K  and  cathepsin K ,263,268,1.055,5,HSPAF,1,CD14( )
+CLU, cathepsin K  and  cathepsin G ,29,34,0.97,5,NELQE,2,COL14A1( );APOB( )
+CLU, matrix metallopeptidase-9  and  cathepsin K ,239,244,0.975,5,NFHAM,0,
+CLU, cathepsin K  and  matrix metallopeptidase-3 ,268,273,0.945,5,QHPPT,0,
+CLU, matrix metallopeptidase-7  and  cathepsin K ,158,163,0.98,5,RIDSL,1,COL6A2( )
+CLU, matrix metallopeptidase-7  and  elastase-2 ,385,390,0.99,5,RVTTV,1,COPA( )
+CLU, cathepsin G  and  elastase-2 ,204,209,0.975,5,YHYLP,0,
+CLU, cathepsin G  and  cathepsin G ,204,209,1.03,5,YHYLP,0,

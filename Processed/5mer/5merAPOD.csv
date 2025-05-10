@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APOD, cathepsin K  and  elastase-2 ,92,97,0.995,5,GEATP,0,
+APOD, matrix metallopeptidase-3  and  cathepsin G ,104,109,0.91,5,KLEVK,0,
+APOD, matrix metallopeptidase-7  and  cathepsin G ,104,109,1.005,5,KLEVK,0,
+APOD, cathepsin G  and  matrix metallopeptidase-7 ,99,104,0.925,5,LTEPA,0,
+APOD, matrix metallopeptidase-9  and  elastase-2 ,98,103,0.97,5,NLTEP,0,
+APOD, matrix metallopeptidase-7  and  elastase-2 ,98,103,0.95,5,NLTEP,0,
+APOD, cathepsin K  and  elastase-2 ,178,183,0.915,5,TVTDQ,1,CDH1( )

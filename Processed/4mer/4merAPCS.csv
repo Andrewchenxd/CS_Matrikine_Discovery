@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APCS, cathepsin K  and  cathepsin K ,46,50,0.95,4,EKPL,7,FRAS1( );ABI3BP( );HPSE( );TEK( );IL33( );CRIP2( );ALB( )
+APCS, matrix metallopeptidase-3  and  cathepsin K ,89,93,0.98,4,EYSL,3,FBLN1( );TLN1( );C5( )
+APCS, cathepsin K  and  cathepsin K ,42,46,1.0,4,ITPL,3,COL6A3( );OGN( );PRKDC( )
+APCS, cathepsin K  and  cathepsin G ,139,143,0.92,4,RQGY,2,FBLN2( );CD109( )
+APCS, cathepsin G  and  cathepsin K ,111,115,0.92,4,VHIC,0,
+APCS, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,215,219,0.935,4,VIIK,0,

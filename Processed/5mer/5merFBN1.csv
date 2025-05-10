@@ -1,0 +1,15 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FBN1, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,2122,2127,0.935,5,DDSAV,0,
+FBN1, cathepsin K  and  cathepsin K ,2042,2047,1.035,5,EGFSL,1,COL4A5( )
+FBN1, cathepsin K  and  cathepsin K ,2066,2071,0.94,5,EGGKC,0,
+FBN1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,1227,1232,0.955,5,FALMP,0,
+FBN1, matrix metallopeptidase-3  and  cathepsin G ,1755,1760,0.96,5,FVIDI,2,ITIH3( );ITIH1( )
+FBN1, elastase-2  and  matrix metallopeptidase-3 ,1825,1830,0.925,5,INTAG,0,
+FBN1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,772,777,0.905,5,NSLLC,1,A2M( )
+FBN1, cathepsin K  and  matrix metallopeptidase-3 ,2582,2587,0.94,5,QNIIG,0,
+FBN1, cathepsin K  and  cathepsin G ,2108,2113,0.955,5,RQICP,0,
+FBN1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,443,448,0.92,5,RVLPV,0,
+FBN1, cathepsin K  and  matrix metallopeptidase-9 ,2341,2346,0.92,5,TEVLQ,0,
+FBN1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,21,26,0.905,5,TSHGA,0,
+FBN1, elastase-2  and  matrix metallopeptidase-3 ,1503,1508,0.945,5,VNTPG,2,FBN2( );EFEMP1( )
+FBN1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,1962,1967,0.9,5,YEVAP,0,

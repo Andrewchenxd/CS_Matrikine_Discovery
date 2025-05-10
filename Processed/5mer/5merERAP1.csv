@@ -1,0 +1,27 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ERAP1, matrix metallopeptidase-9  and  elastase-2 ,64,69,0.94,5,DLLIH,0,
+ERAP1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,64,69,0.93,5,DLLIH,0,
+ERAP1, cathepsin K  and  cathepsin K ,409,414,0.955,5,EVDAL,0,
+ERAP1, cathepsin K  and  cathepsin K ,96,101,0.9,5,HSHHL,0,
+ERAP1, elastase-2  and  matrix metallopeptidase-7 ,149,154,0.95,5,IHYAG,1,MYH9( )
+ERAP1, elastase-2  and  matrix metallopeptidase-2 ,149,154,0.96,5,IHYAG,1,MYH9( )
+ERAP1, matrix metallopeptidase-3  and  cathepsin K ,250,255,1.0,5,IISDF,0,
+ERAP1, cathepsin K  and  cathepsin G ,134,139,1.065,5,LAPEP,0,
+ERAP1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,133,138,0.95,5,LLAPE,1,TNC( )
+ERAP1, cathepsin G  and  cathepsin G ,115,120,1.02,5,LSEEP,0,
+ERAP1, cathepsin K  and  elastase-2 ,414,419,1.095,5,NSSHP,0,
+ERAP1, matrix metallopeptidase-2  and  cathepsin G ,428,433,1.0,5,QIREM,0,
+ERAP1, matrix metallopeptidase-9  and  cathepsin G ,428,433,0.995,5,QIREM,0,
+ERAP1, matrix metallopeptidase-3  and  cathepsin G ,428,433,1.0699999999999998,5,QIREM,0,
+ERAP1, matrix metallopeptidase-7  and  cathepsin G ,428,433,0.98,5,QIREM,0,
+ERAP1, cathepsin K  and  matrix metallopeptidase-7 ,101,106,0.905,5,QISRA,0,
+ERAP1, cathepsin K  and  matrix metallopeptidase-3 ,101,106,0.925,5,QISRA,0,
+ERAP1, cathepsin K  and  matrix metallopeptidase-9 ,101,106,1.0,5,QISRA,0,
+ERAP1, matrix metallopeptidase-9  and  cathepsin K ,645,650,0.975,5,QLVSI,0,
+ERAP1, cathepsin K  and  cathepsin K ,315,320,0.96,5,QSGAM,0,
+ERAP1, elastase-2  and  cathepsin K ,72,77,0.92,5,TTLTF,0,
+ERAP1, elastase-2  and  cathepsin K ,673,678,0.965,5,VFQGL,0,
+ERAP1, elastase-2  and  matrix metallopeptidase-9 ,141,146,0.9,5,VGLPY,0,
+ERAP1, elastase-2  and  matrix metallopeptidase-2 ,225,230,0.91,5,VTVAE,0,
+ERAP1, elastase-2  and  matrix metallopeptidase-9 ,225,230,0.92,5,VTVAE,0,
+ERAP1, matrix metallopeptidase-2  and  cathepsin K ,31,36,0.97,5,WCQST,0,

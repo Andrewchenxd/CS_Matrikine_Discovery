@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ALDOA, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,219,224,0.955,5,DHHIY,0,
+ALDOA, cathepsin K  and  elastase-2 ,155,160,1.045,5,GEHTP,0,
+ALDOA, matrix metallopeptidase-3  and  cathepsin K ,76,81,0.93,5,GVILF,0,
+ALDOA, cathepsin G  and  matrix metallopeptidase-7 ,292,297,0.95,5,LLKPW,0,
+ALDOA, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,189,194,0.9,5,PEILP,0,
+ALDOA, matrix metallopeptidase-7  and  cathepsin K ,43,48,0.995,5,RLQSI,0,

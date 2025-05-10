@@ -1,0 +1,14 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD34, cathepsin G  and  elastase-2 ,49,54,0.99,5,FSNVS,1,CD40( )
+CD34, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,29,34,1.045,5,GFMSL,0,
+CD34, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,29,34,1.09,5,GFMSL,0,
+CD34, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,29,34,0.91,5,GFMSL,0,
+CD34, elastase-2  and  cathepsin K ,117,122,0.98,5,ISTVF,0,
+CD34, cathepsin G  and  elastase-2 ,146,151,0.98,5,LSTTS,0,
+CD34, matrix metallopeptidase-9  and  cathepsin K ,76,81,0.93,5,SQHGN,0,
+CD34, matrix metallopeptidase-3  and  cathepsin K ,76,81,0.9,5,SQHGN,0,
+CD34, elastase-2  and  cathepsin K ,54,59,1.105,5,TNVSY,0,
+CD34, elastase-2  and  matrix metallopeptidase-9 ,70,75,0.96,5,TSLHP,0,
+CD34, elastase-2  and  elastase-2 ,70,75,1.06,5,TSLHP,0,
+CD34, cathepsin K  and  elastase-2 ,94,99,0.935,5,TSTSV,1,LAMA3( )
+CD34, elastase-2  and  elastase-2 ,91,96,0.945,5,VKFTS,0,

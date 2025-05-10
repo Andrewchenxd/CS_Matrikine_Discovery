@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C4BPA, cathepsin K  and  elastase-2 ,59,64,1.0,5,AAPMD,0,
+C4BPA, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,41,46,0.935,5,ALLPA,1,LAMA5( )
+C4BPA, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,41,46,1.04,5,ALLPA,1,LAMA5( )
+C4BPA, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,497,502,1.005,5,DKDQY,0,
+C4BPA, cathepsin K  and  cathepsin G ,133,138,0.955,5,GSQIE,0,
+C4BPA, cathepsin K  and  cathepsin K ,413,418,0.955,5,GTWSP,0,

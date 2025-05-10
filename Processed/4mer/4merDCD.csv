@@ -1,0 +1,2 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DCD, elastase-2  and  cathepsin K ,25,29,0.985,4,ASAP,7,LAMA5( );EMILIN1( );ITIH4( );SDCBP( );DPP7( );CPE( );IGHM( )

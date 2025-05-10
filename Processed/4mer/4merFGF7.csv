@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGF7, cathepsin G  and  cathepsin K ,164,168,0.94,4,FVAL,6,VWF( );COL18A1( );GPI( );GANAB( );C2( );CD163( )
+FGF7, matrix metallopeptidase-2  and  elastase-2 ,106,110,0.915,4,GIVA,6,CCT6A( );FGF3( );HLA-C( );CD109( );SERPINC1( );IL4R( )
+FGF7, cathepsin G  and  elastase-2 ,40,44,0.905,4,MATN,2,TGFBI( );TLN1( )
+FGF7, cathepsin G  and  matrix metallopeptidase-3 ,95,99,0.905,4,YNIM,2,COL6A6( );CALR( )

@@ -1,0 +1,32 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ALCAM, matrix metallopeptidase-2  and  cathepsin K ,143,147,0.965,4,ALFL,11,LAMA5( );EFEMP1( );SPX( );SERPINA6( );SERPINA4( );IL1RN( );F2R(Helical; Name=6);APOB( );MUC4( );PSAP( );TSHB( )
+ALCAM, matrix metallopeptidase-9  and  cathepsin K ,143,147,1.0,4,ALFL,11,LAMA5( );EFEMP1( );SPX( );SERPINA6( );SERPINA4( );IL1RN( );F2R(Helical; Name=6);APOB( );MUC4( );PSAP( );TSHB( )
+ALCAM, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,540,544,0.93,4,ALVA,13,APOA4( );HYOU1( );CKAP4(Poly-Ala);HSP90B1( );RPL27( );DYNC1H1( );GPI( );GPC1( );AHSG( );C4B( );C4A( );MUC4( );CST6( )
+ALCAM, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,348,352,0.965,4,DALP,3,HMCN2( );TLR9(TIR);FGFR1( )
+ALCAM, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,81,85,0.91,4,DDVP,4,ADH7( );NUCB1( );FLNB( );CFB( )
+ALCAM, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,509,513,1.02,4,DEAD,7,IGLV3-19( );EIF4A1( );VWA8( );IGLV3-21( );IGLV1-47( );GANAB( );IGLV3-1( )
+ALCAM, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,119,123,0.97,4,DNVF,4,FRAS1( );COL6A5( );COL6A6( );APOB( )
+ALCAM, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,161,165,0.94,4,DSYP,3,THBS4( );TNFSF15( );SLTM( )
+ALCAM, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,46,50,1.105,4,DVPQ,3,PLEC( );GPC1( );PLG(Kringle 5)
+ALCAM, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,46,50,0.92,4,DVPQ,3,PLEC( );GPC1( );PLG(Kringle 5)
+ALCAM, cathepsin K  and  matrix metallopeptidase-9 ,181,185,1.045,4,EGAV,4,COL6A5( );COL6A6( );PLEC( );CXCL8( )
+ALCAM, cathepsin K  and  matrix metallopeptidase-3 ,181,185,1.1,4,EGAV,4,COL6A5( );COL6A6( );PLEC( );CXCL8( )
+ALCAM, matrix metallopeptidase-9  and  elastase-2 ,191,195,0.95,4,EMDP,0,
+ALCAM, matrix metallopeptidase-2  and  cathepsin K ,67,71,1.1,4,FIAF,3,CASP1( );MUC4( );CASP4( )
+ALCAM, matrix metallopeptidase-7  and  cathepsin K ,67,71,1.095,4,FIAF,3,CASP1( );MUC4( );CASP4( )
+ALCAM, matrix metallopeptidase-3  and  cathepsin K ,67,71,1.085,4,FIAF,3,CASP1( );MUC4( );CASP4( )
+ALCAM, matrix metallopeptidase-2  and  elastase-2 ,229,233,0.985,4,GQKT,5,POSTN( );GPC1( );NRP1( );PLAU( );EGFR( )
+ALCAM, cathepsin K  and  matrix metallopeptidase-3 ,287,291,1.01,4,GQPE,6,FRAS1( );IL36G( );IGHG4( );IGHG1( );IGHG2( );IGHG3( )
+ALCAM, elastase-2  and  cathepsin K ,233,237,0.935,4,IHSE,1,CD109( )
+ALCAM, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,382,386,1.0499999999999998,4,LHYQ,2,ITIH2(VIT);PLEC( )
+ALCAM, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,536,540,0.965,4,LLLA,47,ADIPOQ( );FN1( );HSPG2( );LGI3( );COL1A2( );COL1A1( );THBS1( );FMOD( );COL3A1( );DCN( );NID1( );LRG1( );GPX3( );UCN( );TLN1( );CD34( );CSPG4( );TNFSF12( );SHH( );DPP7( );POMC( );CALCA( );DMKN( );CDSN( );SOD3( );CTSG( );ERAP1( );SERPINA1( );SERPING1( );LCN1( );MELTF( );APOB( );AGTR2( );GNLY( );NPC2( );GBA( );ACPP( );RBP4( );PRKDC( );CST3( );CD8B( );FGFR4( );TPSD1( );TPSB2( );TIMP2( );CCL20( );TPSAB1( )
+ALCAM, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,536,540,0.96,4,LLLA,47,ADIPOQ( );FN1( );HSPG2( );LGI3( );COL1A2( );COL1A1( );THBS1( );FMOD( );COL3A1( );DCN( );NID1( );LRG1( );GPX3( );UCN( );TLN1( );CD34( );CSPG4( );TNFSF12( );SHH( );DPP7( );POMC( );CALCA( );DMKN( );CDSN( );SOD3( );CTSG( );ERAP1( );SERPINA1( );SERPING1( );LCN1( );MELTF( );APOB( );AGTR2( );GNLY( );NPC2( );GBA( );ACPP( );RBP4( );PRKDC( );CST3( );CD8B( );FGFR4( );TPSD1( );TPSB2( );TIMP2( );CCL20( );TPSAB1( )
+ALCAM, cathepsin G  and  cathepsin G ,92,96,0.91,4,LSEN,7,THBS2( );EEF2( );PFKP( );IL1RN( );FLT1( );TLR9( );C1S( )
+ALCAM, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,115,119,0.915,4,LVTE,14,HSPG2( );VCAN( );LAMA2( );ADH7( );GPI( );PI16( );FGFR3( );APOB( );PKM( );FGFR4( );AMBP( );PRL( );FGFR1( );FGFR2( )
+ALCAM, matrix metallopeptidase-2  and  cathepsin K ,50,54,0.905,4,NLMF,0,
+ALCAM, matrix metallopeptidase-7  and  cathepsin K ,50,54,0.935,4,NLMF,0,
+ALCAM, matrix metallopeptidase-9  and  cathepsin K ,50,54,1.12,4,NLMF,0,
+ALCAM, cathepsin K  and  matrix metallopeptidase-3 ,237,241,0.985,4,QAVF,1,POTEKP( )
+ALCAM, cathepsin K  and  matrix metallopeptidase-7 ,397,401,0.92,4,QEVE,3,NGRN( );DYNC1H1( );C3( )
+ALCAM, cathepsin K  and  matrix metallopeptidase-2 ,397,401,0.93,4,QEVE,3,NGRN( );DYNC1H1( );C3( )
+ALCAM, cathepsin K  and  cathepsin G ,380,384,0.92,4,SSLH,5,KITLG(Extracellular);TFRC( );SOGA1( );VWA8( );EPHB4( )

@@ -1,0 +1,31 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ADAMTS17, elastase-2  and  matrix metallopeptidase-7 ,87,91,0.945,4,AFGR,4,FBLN2( );EEF2( );EFTUD2( );CALCA( )
+ADAMTS17, matrix metallopeptidase-9  and  elastase-2 ,999,1003,1.085,4,CMHK,0,
+ADAMTS17, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,30,34,0.91,4,DAAA,4,VWF( );ELN(Poly-Ala);LAMB2( );EMILIN1( )
+ADAMTS17, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,241,245,0.9,4,DADM,1,COL6A5( )
+ADAMTS17, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,630,634,0.97,4,DKPC,0,
+ADAMTS17, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,725,729,0.925,4,DWKI,0,
+ADAMTS17, matrix metallopeptidase-2  and  cathepsin K ,123,127,0.955,4,ELCF,0,
+ADAMTS17, cathepsin K  and  matrix metallopeptidase-3 ,729,733,1.02,4,ELPG,10,COL7A1( );FBN2( );FBN1( );COL4A6( );COL14A1( );COL15A1( );PZP( );A2M( );CLU( );TG( )
+ADAMTS17, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,769,773,0.945,4,FHDQ,1,CST3( )
+ADAMTS17, cathepsin K  and  matrix metallopeptidase-3 ,133,137,1.005,4,GHPG,18,ADIPOQ( );COL1A2( );COL3A1( );COL5A1( );COL4A4( );COL4A1( );COL4A3( );NID1( );COL4A5( );COL4A6( );COL4A2( );COL16A1( );COL17A1( );TLN1( );FKBP1A( );C1QC( );TEK( );CFH( )
+ADAMTS17, cathepsin K  and  matrix metallopeptidase-2 ,133,137,0.92,4,GHPG,18,ADIPOQ( );COL1A2( );COL3A1( );COL5A1( );COL4A4( );COL4A1( );COL4A3( );NID1( );COL4A5( );COL4A6( );COL4A2( );COL16A1( );COL17A1( );TLN1( );FKBP1A( );C1QC( );TEK( );CFH( )
+ADAMTS17, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,149,153,0.975,4,GLVG,22,FRAS1( );COL7A1( );HSPG2( );ELN( );COL1A2( );COL2A1( );COL5A2( );COL4A4( );COL4A1( );COL4A3( );COL4A6( );COL4A2( );SDC1( );EEF2( );DSG1( );PLEC( );GANAB( );CLU( );FLNB( );C4B( );C4A( );KLK11( )
+ADAMTS17, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,149,153,0.93,4,GLVG,22,FRAS1( );COL7A1( );HSPG2( );ELN( );COL1A2( );COL2A1( );COL5A2( );COL4A4( );COL4A1( );COL4A3( );COL4A6( );COL4A2( );SDC1( );EEF2( );DSG1( );PLEC( );GANAB( );CLU( );FLNB( );C4B( );C4A( );KLK11( )
+ADAMTS17, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,149,153,0.97,4,GLVG,22,FRAS1( );COL7A1( );HSPG2( );ELN( );COL1A2( );COL2A1( );COL5A2( );COL4A4( );COL4A1( );COL4A3( );COL4A6( );COL4A2( );SDC1( );EEF2( );DSG1( );PLEC( );GANAB( );CLU( );FLNB( );C4B( );C4A( );KLK11( )
+ADAMTS17, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,396,400,0.925,4,GMNH,0,
+ADAMTS17, cathepsin K  and  cathepsin K ,163,167,0.95,4,IQPL,4,FBN2( );COL5A1( );COL6A3(VWFA 4);KLK6( )
+ADAMTS17, cathepsin G  and  elastase-2 ,762,766,1.025,4,LHLM,1,LAMC2( )
+ADAMTS17, cathepsin G  and  cathepsin K ,762,766,1.06,4,LHLM,1,LAMC2( )
+ADAMTS17, cathepsin G  and  matrix metallopeptidase-3 ,858,862,0.935,4,LHPC,3,LAMA5( );CFHR1(Sushi 4);CFH(Sushi 19)
+ADAMTS17, cathepsin G  and  cathepsin K ,858,862,1.025,4,LHPC,3,LAMA5( );CFHR1(Sushi 4);CFH(Sushi 19)
+ADAMTS17, matrix metallopeptidase-3  and  cathepsin K ,153,157,0.92,4,LIQL,4,ECM1( );COL6A5( );LAMA2( );PRTN3( )
+ADAMTS17, matrix metallopeptidase-2  and  cathepsin K ,153,157,0.915,4,LIQL,4,ECM1( );COL6A5( );LAMA2( );PRTN3( )
+ADAMTS17, matrix metallopeptidase-9  and  cathepsin K ,262,266,1.02,4,NMVY,0,
+ADAMTS17, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,262,266,0.98,4,NMVY,0,
+ADAMTS17, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,262,266,1.2,4,NMVY,0,
+ADAMTS17, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,262,266,1.015,4,NMVY,0,
+ADAMTS17, elastase-2  and  cathepsin G ,758,762,1.1,4,TKLP,3,VCAN( );LAMA2( );APOH( )
+ADAMTS17, elastase-2  and  cathepsin K ,48,52,0.905,4,VHLP,5,FBLN2( );COL4A6( );TEK( );TPSD1( );NELL2( )
+ADAMTS17, matrix metallopeptidase-9  and  cathepsin K ,889,893,0.985,4,VYQL,2,LAMA5( );SOGA1( )
+ADAMTS17, cathepsin G  and  cathepsin G ,1020,1024,0.98,4,YRQC,1,VWF( )

@@ -1,0 +1,16 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+HGFAC, matrix metallopeptidase-7  and  elastase-2 ,160,164,0.945,4,ALDP,6,FBN2( );LAMB2( );FBN1( );LAMB1( );RPN1( );ACE(Extracellular)
+HGFAC, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,100,104,0.915,4,ALTE,8,COL7A1( );COL6A3( );CKAP4( );ACTN1(Spectrin 3);HLA-C( );APOB( );PRKDC( );EGFR( )
+HGFAC, matrix metallopeptidase-3  and  cathepsin K ,564,568,1.01,4,DHKC,0,
+HGFAC, cathepsin K  and  matrix metallopeptidase-7 ,325,329,0.95,4,GAAA,25,ELN( );ANOS1( );LAMA3(Laminin N-terminal);LAMB2( );COL3A1( );COL6A3( );IGFBP7( );LAMA4( );COL17A1( );TLN1( );P4HB( );HSPA9( );ALDOA( );A1BG( );CD8A( );CFD( );AHSG( );GSN( );MELTF( );CRTAP( );LOXL1( );FGF2( );P3H1( );IL4R(Poly-Ala);TIMP2( )
+HGFAC, cathepsin K  and  matrix metallopeptidase-2 ,156,160,0.94,4,GGPA,8,LTBP2( );COL4A4( );CSPG4( );VWA8( );OLFML3( );EPHB4( );GLG1(Poly-Gly);NTF3( )
+HGFAC, cathepsin K  and  matrix metallopeptidase-9 ,156,160,1.005,4,GGPA,8,LTBP2( );COL4A4( );CSPG4( );VWA8( );OLFML3( );EPHB4( );GLG1(Poly-Gly);NTF3( )
+HGFAC, cathepsin K  and  matrix metallopeptidase-3 ,156,160,0.975,4,GGPA,8,LTBP2( );COL4A4( );CSPG4( );VWA8( );OLFML3( );EPHB4( );GLG1(Poly-Gly);NTF3( )
+HGFAC, cathepsin K  and  matrix metallopeptidase-7 ,156,160,1.105,4,GGPA,8,LTBP2( );COL4A4( );CSPG4( );VWA8( );OLFML3( );EPHB4( );GLG1(Poly-Gly);NTF3( )
+HGFAC, cathepsin G  and  matrix metallopeptidase-7 ,375,379,0.985,4,LSPD,15,AEBP1( );VCAN( );COL6A3( );COL12A1( );COLQ( );CCT6A( );MMP11( );ACE2( );C5( );IFI30( );CST6( );FGFR4( );TLR9( );CCL27( );CFH( )
+HGFAC, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,560,564,0.955,4,PLVA,6,TNXB( );FN1(Fibronectin type-III 2);COL6A3( );PCOLCE( );TLL1( );PAPPA( )
+HGFAC, cathepsin K  and  cathepsin G ,97,101,0.975,4,QAQA,7,COL5A1( );EMILIN1( );CKAP4( );PLEC( );SERPINB2( );DEFA1( );DEFA3( )
+HGFAC, matrix metallopeptidase-2  and  elastase-2 ,369,373,1.05,4,SLTR,2,COL14A1(VWFA 1);KITLG( )
+HGFAC, matrix metallopeptidase-7  and  elastase-2 ,369,373,1.06,4,SLTR,2,COL14A1(VWFA 1);KITLG( )
+HGFAC, elastase-2  and  elastase-2 ,57,61,1.1749999999999998,4,TILV,3,HMCN2( );VWF( );NAMPT( )
+HGFAC, elastase-2  and  elastase-2 ,60,64,0.91,4,VTSV,7,THBS3( );COL14A1( );EMCN( );F13A1( );SERPING1( );ST14( );LCN2( )

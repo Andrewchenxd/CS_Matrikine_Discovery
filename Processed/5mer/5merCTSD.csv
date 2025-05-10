@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTSD, cathepsin K  and  matrix metallopeptidase-2 ,15,20,1.01,5,AAPAS,3,C1QBP( );ATP5B( );MUC4( )
+CTSD, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,20,25,0.975,5,ALVRI,0,
+CTSD, cathepsin K  and  matrix metallopeptidase-2 ,239,244,0.91,5,AQPGG,0,
+CTSD, elastase-2  and  cathepsin K ,119,124,0.94,5,IHHKY,0,
+CTSD, elastase-2  and  cathepsin K ,338,343,0.925,5,ITLKL,0,
+CTSD, matrix metallopeptidase-9  and  cathepsin K ,25,30,0.975,5,PLHKF,0,
+CTSD, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,5,10,1.095,5,SLLPL,4,NID1( );PLEC( );ORM1( );ORM2( )
+CTSD, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,5,10,0.945,5,SLLPL,4,NID1( );PLEC( );ORM1( );ORM2( )
+CTSD, cathepsin K  and  elastase-2 ,30,35,1.03,5,TSIRR,0,

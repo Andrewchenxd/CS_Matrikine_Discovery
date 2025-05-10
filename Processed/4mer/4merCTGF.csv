@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTGF, matrix metallopeptidase-9  and  elastase-2 ,316,320,0.95,4,NMMF,0,
+CTGF, matrix metallopeptidase-3  and  cathepsin K ,265,269,0.97,4,PIKF,2,RAN( );EFNA3( )
+CTGF, elastase-2  and  cathepsin G ,9,13,0.955,4,VRVA,10,COL7A1( );VWF( );LAMC1( );COL6A3( );COL6A1( );EEF2( );ATP5A1( );IDE( );ACE2( );HGF( )

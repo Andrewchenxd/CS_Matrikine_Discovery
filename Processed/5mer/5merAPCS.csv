@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APCS, matrix metallopeptidase-2  and  cathepsin G ,61,66,0.93,5,DLSRA,0,
+APCS, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,175,180,0.925,5,DLYMW,0,
+APCS, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,84,89,0.955,5,KERVG,0,
+APCS, cathepsin K  and  matrix metallopeptidase-2 ,170,175,0.92,5,VGEIG,1,COL6A3( )
+APCS, cathepsin K  and  matrix metallopeptidase-3 ,170,175,0.96,5,VGEIG,1,COL6A3( )
+APCS, cathepsin K  and  matrix metallopeptidase-7 ,170,175,1.005,5,VGEIG,1,COL6A3( )

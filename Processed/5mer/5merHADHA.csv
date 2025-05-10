@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+HADHA, matrix metallopeptidase-9  and  cathepsin G ,197,202,0.9,5,ALDMM,0,
+HADHA, cathepsin G  and  matrix metallopeptidase-9 ,681,686,1.025,5,FVNEA,1,GGH( )
+HADHA, cathepsin G  and  elastase-2 ,681,686,1.02,5,FVNEA,1,GGH( )
+HADHA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,355,360,0.94,5,GAPQK,0,
+HADHA, matrix metallopeptidase-7  and  cathepsin K ,570,575,0.935,5,KLDSL,1,NUCB2( )
+HADHA, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,267,272,1.0,5,KLTAY,0,
+HADHA, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,267,272,1.01,5,KLTAY,0,
+HADHA, cathepsin G  and  elastase-2 ,364,369,0.985,5,LAILG,1,ACTN1( )
+HADHA, matrix metallopeptidase-7  and  elastase-2 ,618,623,0.965,5,LLTQM,0,
+HADHA, cathepsin G  and  cathepsin K ,217,222,1.07,5,LVDQL,0,
+HADHA, cathepsin K  and  cathepsin K ,690,695,1.31,5,QEGIL,2,LAMA2( );SNCA( )
+HADHA, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,43,48,1.0,5,YGVKG,1,COL4A2( )

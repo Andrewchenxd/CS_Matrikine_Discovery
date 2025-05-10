@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+HGF, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,578,583,1.01,5,DLVLM,0,
+HGF, cathepsin K  and  cathepsin K ,680,685,0.95,5,EQHKM,0,
+HGF, matrix metallopeptidase-9  and  cathepsin K ,680,685,0.985,5,EQHKM,0,
+HGF, cathepsin K  and  elastase-2 ,301,306,1.025,5,ETTEC,0,
+HGF, cathepsin K  and  cathepsin K ,158,163,0.925,5,HEHSF,1,TLR9( )
+HGF, matrix metallopeptidase-2  and  cathepsin K ,633,638,0.92,5,HLYIM,0,
+HGF, matrix metallopeptidase-3  and  cathepsin K ,633,638,0.915,5,HLYIM,0,
+HGF, matrix metallopeptidase-7  and  elastase-2 ,479,484,0.91,5,NLDHP,0,
+HGF, matrix metallopeptidase-9  and  cathepsin K ,566,571,0.94,5,NVSQL,1,TG( )
+HGF, matrix metallopeptidase-9  and  elastase-2 ,566,571,0.925,5,NVSQL,1,TG( )
+HGF, cathepsin K  and  matrix metallopeptidase-2 ,685,690,0.955,5,RMVLG,0,
+HGF, matrix metallopeptidase-9  and  cathepsin K ,580,585,0.99,5,VLMKL,0,

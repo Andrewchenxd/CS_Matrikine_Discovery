@@ -1,0 +1,25 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AGT, cathepsin K  and  cathepsin G ,295,300,0.985,5,AEPQE,0,
+AGT, matrix metallopeptidase-7  and  elastase-2 ,228,233,0.935,5,ALYTP,0,
+AGT, cathepsin K  and  elastase-2 ,228,233,0.92,5,ALYTP,0,
+AGT, matrix metallopeptidase-9  and  cathepsin G ,104,109,0.935,5,AMVGM,0,
+AGT, matrix metallopeptidase-2  and  cathepsin G ,324,329,1.01,5,DIQDN,0,
+AGT, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,324,329,1.04,5,DIQDN,0,
+AGT, matrix metallopeptidase-3  and  cathepsin G ,324,329,1.015,5,DIQDN,0,
+AGT, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,430,435,0.975,5,FELEA,1,HSPH1( )
+AGT, cathepsin G  and  matrix metallopeptidase-2 ,336,341,0.93,5,FTESA,1,COL12A1( )
+AGT, matrix metallopeptidase-9  and  cathepsin G ,119,124,1.0550000000000002,5,GMHSE,0,
+AGT, matrix metallopeptidase-7  and  cathepsin K ,312,317,0.945,5,MLSGM,0,
+AGT, cathepsin G  and  cathepsin K ,312,317,0.95,5,MLSGM,0,
+AGT, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,145,150,1.025,5,SLYLG,0,
+AGT, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,145,150,1.06,5,SLYLG,0,
+AGT, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,145,150,0.94,5,SLYLG,0,
+AGT, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,145,150,0.905,5,SLYLG,0,
+AGT, cathepsin K  and  matrix metallopeptidase-9 ,337,342,0.975,5,TESAC,0,
+AGT, cathepsin K  and  matrix metallopeptidase-7 ,337,342,1.01,5,TESAC,0,
+AGT, elastase-2  and  matrix metallopeptidase-2 ,66,71,0.96,5,TFIPA,0,
+AGT, elastase-2  and  matrix metallopeptidase-3 ,66,71,0.97,5,TFIPA,0,
+AGT, elastase-2  and  matrix metallopeptidase-7 ,89,94,0.9,5,VLVAA,0,
+AGT, elastase-2  and  matrix metallopeptidase-9 ,233,238,0.99,5,VVLPR,1,LAMB1( )
+AGT, elastase-2  and  matrix metallopeptidase-7 ,233,238,0.925,5,VVLPR,1,LAMB1( )
+AGT, elastase-2  and  cathepsin G ,36,41,0.91,5,VYIHP,0,

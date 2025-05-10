@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTHRC1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,175,179,0.975,4,IIYL,2,ITIH2( );C3( )
+CTHRC1, matrix metallopeptidase-2  and  elastase-2 ,171,175,1.065,4,PIEA,4,COL6A5( );COL6A6( );HSPH1( );LTF( )
+CTHRC1, cathepsin K  and  matrix metallopeptidase-2 ,57,61,1.1949999999999998,4,QGPA,9,COL1A2( );COL1A1( );COL2A1( );COL5A1( );COL6A3(Collagen-like 3);NID1( );COL4A6( );COL16A1( );CSPG4( )
+CTHRC1, cathepsin K  and  matrix metallopeptidase-9 ,57,61,1.0499999999999998,4,QGPA,9,COL1A2( );COL1A1( );COL2A1( );COL5A1( );COL6A3(Collagen-like 3);NID1( );COL4A6( );COL16A1( );CSPG4( )
+CTHRC1, cathepsin K  and  matrix metallopeptidase-3 ,57,61,1.095,4,QGPA,9,COL1A2( );COL1A1( );COL2A1( );COL5A1( );COL6A3(Collagen-like 3);NID1( );COL4A6( );COL16A1( );CSPG4( )
+CTHRC1, cathepsin K  and  cathepsin K ,95,99,1.2000000000000002,4,RESF,1,CDH1( )
+CTHRC1, matrix metallopeptidase-2  and  cathepsin K ,235,239,1.095,4,RIII,2,GLG1( );PRKDC( )
+CTHRC1, matrix metallopeptidase-3  and  cathepsin K ,235,239,1.12,4,RIII,2,GLG1( );PRKDC( )
+CTHRC1, cathepsin G  and  matrix metallopeptidase-7 ,51,55,1.015,4,YNGM,0,

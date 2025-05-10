@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTSG, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,128,132,0.95,4,ALPR,9,LTBP2( );PRELP( );HPSE( );ATP5A1( );MMP28( );MMP9(Hemopexin 1);RARRES2( );CST6( );FGF2( )
+CTSG, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,200,204,0.98,4,DSGG,30,EMILIN1( );SHH( );MMP8( );CFD( );CMA1( );ST14( );KLK14( );KLK13( );C1R( );KLK10( );KLK5( );CELA1( );KLK11( );KLK7( );KLKB1( );TPSD1( );TPSB2( );CFI( );PLG( );KLK6( );PRTN3( );PLAU( );CFB( );F2( );HGFAC( );C1S( );PRSS1( );KLK8( );TPSAB1( );PLAT( )
+CTSG, elastase-2  and  matrix metallopeptidase-7 ,109,113,0.955,4,IMLL,4,FRAS1( );CMA1( );KLK13( );KLK6( )
+CTSG, cathepsin K  and  cathepsin K ,41,45,0.95,4,QSPA,7,FRAS1( );LAMB1( );COL17A1( );IGKV3-15( );A1BG( );MUC4( );KLKB1( )
+CTSG, cathepsin K  and  matrix metallopeptidase-2 ,41,45,1.045,4,QSPA,7,FRAS1( );LAMB1( );COL17A1( );IGKV3-15( );A1BG( );MUC4( );KLKB1( )
+CTSG, cathepsin K  and  matrix metallopeptidase-3 ,41,45,0.965,4,QSPA,7,FRAS1( );LAMB1( );COL17A1( );IGKV3-15( );A1BG( );MUC4( );KLKB1( )
+CTSG, matrix metallopeptidase-7  and  cathepsin K ,37,41,0.97,4,YLQI,3,ASPN(LRR 9);NCAM1( );FGFR2( )

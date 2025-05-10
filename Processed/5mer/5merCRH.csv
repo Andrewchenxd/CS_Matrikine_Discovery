@@ -1,0 +1,24 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CRH, elastase-2  and  matrix metallopeptidase-9 ,184,189,0.93,5,AHSNR,0,
+CRH, matrix metallopeptidase-3  and  elastase-2 ,85,90,0.99,5,APLSP,0,
+CRH, elastase-2  and  elastase-2 ,90,95,0.99,5,ASSLL,1,COL18A1( )
+CRH, elastase-2  and  cathepsin K ,90,95,1.0,5,ASSLL,1,COL18A1( )
+CRH, cathepsin K  and  cathepsin G ,127,132,0.99,5,DSPAA,0,
+CRH, cathepsin K  and  cathepsin K ,47,52,0.925,5,FQPPP,0,
+CRH, cathepsin K  and  cathepsin G ,47,52,0.96,5,FQPPP,0,
+CRH, elastase-2  and  elastase-2 ,159,164,1.03,5,ISLDL,0,
+CRH, matrix metallopeptidase-9  and  elastase-2 ,189,194,0.925,5,KLMEI,0,
+CRH, cathepsin G  and  matrix metallopeptidase-7 ,87,92,0.945,5,LSPAS,1,SOGA1( )
+CRH, cathepsin G  and  matrix metallopeptidase-9 ,87,92,0.985,5,LSPAS,1,SOGA1( )
+CRH, cathepsin G  and  matrix metallopeptidase-2 ,87,92,1.085,5,LSPAS,1,SOGA1( )
+CRH, cathepsin K  and  matrix metallopeptidase-3 ,80,85,0.965,5,NKSPA,0,
+CRH, matrix metallopeptidase-3  and  cathepsin K ,43,48,0.945,5,PLDFF,0,
+CRH, matrix metallopeptidase-9  and  cathepsin K ,43,48,0.995,5,PLDFF,0,
+CRH, matrix metallopeptidase-7  and  cathepsin K ,43,48,1.025,5,PLDFF,0,
+CRH, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,86,91,0.915,5,PLSPA,2,HSPG2( );SOGA1( )
+CRH, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,86,91,0.985,5,PLSPA,2,HSPG2( );SOGA1( )
+CRH, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,86,91,1.035,5,PLSPA,2,HSPG2( );SOGA1( )
+CRH, cathepsin K  and  matrix metallopeptidase-9 ,60,65,0.995,5,QARPV,0,
+CRH, cathepsin K  and  cathepsin G ,39,44,0.94,5,QHPQP,0,
+CRH, matrix metallopeptidase-7  and  elastase-2 ,179,184,1.025,5,QLAQQ,0,
+CRH, matrix metallopeptidase-7  and  cathepsin K ,75,80,0.975,5,RLGNL,0,

@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CLCA4, matrix metallopeptidase-2  and  cathepsin G ,431,435,0.925,4,AIVH,1,FLNB( )
+CLCA4, matrix metallopeptidase-3  and  cathepsin G ,431,435,0.95,4,AIVH,1,FLNB( )
+CLCA4, cathepsin K  and  cathepsin K ,805,809,0.925,4,DDAL,2,ITIH3( );COPA( )
+CLCA4, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,350,354,0.92,4,DSTA,8,FRAS1( );COL7A1( );LAMC1( );MYH9( );CCT2( );P4HB( );TLL1( );NGFR( )
+CLCA4, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,718,722,0.985,4,EIDE,2,COL14A1( );IDE( )
+CLCA4, matrix metallopeptidase-9  and  cathepsin K ,78,82,1.125,4,ILIP,2,LCN1( );AMBP( )
+CLCA4, matrix metallopeptidase-3  and  cathepsin K ,78,82,0.995,4,ILIP,2,LCN1( );AMBP( )
+CLCA4, cathepsin G  and  matrix metallopeptidase-3 ,611,615,0.97,4,MIVY,0,
+CLCA4, matrix metallopeptidase-2  and  elastase-2 ,859,863,0.945,4,NIAQ,0,
+CLCA4, matrix metallopeptidase-3  and  elastase-2 ,859,863,0.915,4,NIAQ,0,
+CLCA4, elastase-2  and  matrix metallopeptidase-7 ,725,729,0.955,4,TTLE,15,TNXB( );FN1( );ABI3BP( );VCAN( );TGFBI( );COL12A1( );HYOU1( );CDH1( );HSD17B11( );DYNC1H1( );TUBA4A( );LCN1( );NELL2( );FGFR2( );ALB( )
+CLCA4, elastase-2  and  granzyme B ({Homo sapiens}-type) ,725,729,1.03,4,TTLE,15,TNXB( );FN1( );ABI3BP( );VCAN( );TGFBI( );COL12A1( );HYOU1( );CDH1( );HSD17B11( );DYNC1H1( );TUBA4A( );LCN1( );NELL2( );FGFR2( );ALB( )

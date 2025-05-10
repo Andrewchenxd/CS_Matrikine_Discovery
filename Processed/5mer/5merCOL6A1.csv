@@ -1,0 +1,25 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+COL6A1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,90,95,0.915,5,ALHYS,0,
+COL6A1, elastase-2  and  matrix metallopeptidase-9 ,255,260,1.03,5,ARGPP,3,COL1A2( );COL3A1( );COL4A1( )
+COL6A1, elastase-2  and  matrix metallopeptidase-7 ,255,260,0.905,5,ARGPP,3,COL1A2( );COL3A1( );COL4A1( )
+COL6A1, elastase-2  and  matrix metallopeptidase-3 ,255,260,1.0550000000000002,5,ARGPP,3,COL1A2( );COL3A1( );COL4A1( )
+COL6A1, elastase-2  and  matrix metallopeptidase-2 ,255,260,1.145,5,ARGPP,3,COL1A2( );COL3A1( );COL4A1( )
+COL6A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,480,485,0.95,5,DEGPP,2,COL7A1( );COL4A5( )
+COL6A1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,393,398,1.06,5,DEGQP,0,
+COL6A1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,158,163,1.11,5,DGHPL,0,
+COL6A1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,291,296,0.97,5,DLGPV,1,COL6A5( )
+COL6A1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,291,296,1.01,5,DLGPV,1,COL6A5( )
+COL6A1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,291,296,0.93,5,DLGPV,1,COL6A5( )
+COL6A1, cathepsin K  and  elastase-2 ,621,626,0.93,5,DSSES,2,VCAN( );COL6A2( )
+COL6A1, matrix metallopeptidase-3  and  elastase-2 ,621,626,0.925,5,DSSES,2,VCAN( );COL6A2( )
+COL6A1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,621,626,1.01,5,DSSES,2,VCAN( );COL6A2( )
+COL6A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,870,875,0.97,5,DVRVA,1,ACE2( )
+COL6A1, cathepsin G  and  matrix metallopeptidase-3 ,824,829,0.985,5,FSSPA,0,
+COL6A1, matrix metallopeptidase-2  and  cathepsin K ,584,589,0.95,5,GHQGP,3,COL1A2( );COL4A2( );COL17A1( )
+COL6A1, cathepsin G  and  elastase-2 ,200,205,0.93,5,LSIIA,0,
+COL6A1, matrix metallopeptidase-2  and  elastase-2 ,669,674,0.925,5,QMQEH,0,
+COL6A1, matrix metallopeptidase-9  and  elastase-2 ,669,674,0.925,5,QMQEH,0,
+COL6A1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,51,56,0.94,5,RLKPY,0,
+COL6A1, cathepsin K  and  cathepsin K ,1005,1010,0.945,5,RVPSY,1,APOB( )
+COL6A1, cathepsin K  and  cathepsin G ,142,147,0.94,5,VGGSH,0,
+COL6A1, elastase-2  and  cathepsin G ,142,147,0.91,5,VGGSH,0,

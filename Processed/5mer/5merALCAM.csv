@@ -1,0 +1,27 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ALCAM, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,540,545,1.0,5,ALVAG,1,RPL27( )
+ALCAM, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,348,353,0.9,5,DALPV,0,
+ALCAM, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,156,161,1.015,5,DCISE,0,
+ALCAM, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,81,86,0.94,5,DDVPE,0,
+ALCAM, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,509,514,0.915,5,DEADE,1,EIF4A1( )
+ALCAM, cathepsin K  and  elastase-2 ,181,186,1.185,5,EGAVV,0,
+ALCAM, cathepsin K  and  matrix metallopeptidase-2 ,138,143,1.0550000000000002,5,EIVSK,0,
+ALCAM, cathepsin K  and  matrix metallopeptidase-9 ,138,143,1.09,5,EIVSK,0,
+ALCAM, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,145,150,1.055,5,FLETE,2,ITIH4( );ATP5A1( )
+ALCAM, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,145,150,0.955,5,FLETE,2,ITIH4( );ATP5A1( )
+ALCAM, cathepsin K  and  cathepsin K ,54,59,0.905,5,GKWKY,0,
+ALCAM, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,535,540,0.945,5,GLLLA,1,TNFSF12( )
+ALCAM, cathepsin K  and  elastase-2 ,287,292,1.09,5,GQPEG,0,
+ALCAM, elastase-2  and  matrix metallopeptidase-9 ,186,191,0.965,5,IIFKK,0,
+ALCAM, cathepsin G  and  matrix metallopeptidase-9 ,315,320,0.955,5,LIDKK,0,
+ALCAM, cathepsin K  and  elastase-2 ,135,140,0.955,5,SKPEI,2,COL6A3( );C5( )
+ALCAM, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,381,386,0.92,5,SLHYQ,0,
+ALCAM, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,497,502,1.015,5,SLNVS,0,
+ALCAM, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,497,502,1.06,5,SLNVS,0,
+ALCAM, elastase-2  and  cathepsin K ,66,71,1.09,5,VFIAF,0,
+ALCAM, matrix metallopeptidase-9  and  cathepsin K ,176,181,1.025,5,VLHPL,0,
+ALCAM, elastase-2  and  matrix metallopeptidase-9 ,140,145,1.09,5,VSKAL,0,
+ALCAM, elastase-2  and  matrix metallopeptidase-7 ,140,145,1.19,5,VSKAL,0,
+ALCAM, elastase-2  and  cathepsin G ,140,145,0.975,5,VSKAL,0,
+ALCAM, elastase-2  and  matrix metallopeptidase-9 ,195,200,0.995,5,VTQLY,0,
+ALCAM, matrix metallopeptidase-9  and  cathepsin K ,545,550,1.02,5,VVYWL,0,

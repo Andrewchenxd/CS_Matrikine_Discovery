@@ -1,0 +1,22 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD14, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,109,114,0.95,5,ALRVL,3,CTHRC1( );C5( );TLR9( )
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,272,277,0.97,5,CMWSS,0,
+CD14, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,322,327,0.93,5,DNLTL,1,SFN( )
+CD14, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,141,146,0.92,5,GLALS,0,
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,298,303,1.02,5,KLRVL,1,TG( )
+CD14, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,298,303,0.99,5,KLRVL,1,TG( )
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,298,303,0.965,5,KLRVL,1,TG( )
+CD14, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,298,303,1.045,5,KLRVL,1,TG( )
+CD14, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,136,141,0.97,5,PLEAT,0,
+CD14, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,136,141,0.925,5,PLEAT,0,
+CD14, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,104,109,0.96,5,QLLVG,1,COL6A1( )
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,104,109,1.12,5,QLLVG,1,COL6A1( )
+CD14, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,104,109,0.975,5,QLLVG,1,COL6A1( )
+CD14, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,104,109,1.12,5,QLLVG,1,COL6A1( )
+CD14, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,104,109,1.065,5,QLLVG,1,COL6A1( )
+CD14, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,104,109,1.185,5,QLLVG,1,COL6A1( )
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,104,109,1.0,5,QLLVG,1,COL6A1( )
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,104,109,1.0550000000000002,5,QLLVG,1,COL6A1( )
+CD14, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,104,109,0.91,5,QLLVG,1,COL6A1( )
+CD14, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,104,109,0.945,5,QLLVG,1,COL6A1( )
+CD14, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,39,44,0.935,5,SEPQP,0,

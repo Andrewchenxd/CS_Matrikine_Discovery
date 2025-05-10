@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CPA3, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,62,67,0.975,5,ANMMV,0,
+CPA3, matrix metallopeptidase-9  and  elastase-2 ,2,7,1.085,5,RLILP,2,VWA8( );TG( )

@@ -1,0 +1,19 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+A1BG, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,293,298,0.915,5,DSAPV,1,ADM2( )
+A1BG, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,293,298,1.065,5,DSAPV,1,ADM2( )
+A1BG, cathepsin K  and  cathepsin G ,73,78,0.945,5,DSPAI,1,SERPINA6( )
+A1BG, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,298,303,0.955,5,ELILS,1,COPA( )
+A1BG, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,298,303,1.105,5,ELILS,1,COPA( )
+A1BG, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,489,494,0.93,5,ELLVA,0,
+A1BG, matrix metallopeptidase-2  and  elastase-2 ,483,488,0.935,5,ELSDP,0,
+A1BG, cathepsin G  and  elastase-2 ,264,269,0.985,5,FHLNA,0,
+A1BG, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,81,86,0.97,5,FLLTG,0,
+A1BG, cathepsin K  and  elastase-2 ,216,221,0.905,5,GESSQ,0,
+A1BG, cathepsin G  and  cathepsin K ,283,288,0.92,5,LHDNQ,0,
+A1BG, cathepsin K  and  matrix metallopeptidase-2 ,39,44,0.955,5,LKPLA,1,SERPINA7( )
+A1BG, matrix metallopeptidase-9  and  cathepsin K ,212,217,0.96,5,LMHHG,0,
+A1BG, cathepsin G  and  matrix metallopeptidase-2 ,484,489,0.925,5,LSDPV,0,
+A1BG, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,462,467,0.97,5,PQHAG,0,
+A1BG, elastase-2  and  cathepsin K ,488,493,0.935,5,VELLV,1,FLNB( )
+A1BG, elastase-2  and  matrix metallopeptidase-3 ,174,179,0.96,5,VHQPG,0,
+A1BG, elastase-2  and  matrix metallopeptidase-3 ,221,226,0.98,5,VLHPG,0,

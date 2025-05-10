@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CFI, elastase-2  and  cathepsin K ,378,383,0.9,5,AAHCL,6,CFD( );KLK13( );KLK11( );PLG( );PRTN3( );F2( )
+CFI, matrix metallopeptidase-3  and  cathepsin G ,343,348,0.92,5,GKRAQ,0,
+CFI, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,528,533,0.96,5,PLVCM,0,
+CFI, matrix metallopeptidase-7  and  cathepsin G ,406,411,0.94,5,RIVIE,0,

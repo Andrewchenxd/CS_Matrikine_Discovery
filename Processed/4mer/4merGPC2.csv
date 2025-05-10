@@ -1,0 +1,15 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GPC2, matrix metallopeptidase-2  and  cathepsin K ,138,142,1.04,4,ALIF,2,ACTN4( );ACTN1( )
+GPC2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,208,212,0.96,4,DSPR,2,TNC(Fibronectin type-III 15);RNASE3( )
+GPC2, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,292,296,0.925,4,DWGN,0,
+GPC2, cathepsin K  and  cathepsin G ,40,44,1.02,4,GARG,25,HMCN2( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL5A1( );COL4A4( );DMBT1( );COL12A1( );COL4A1( );COL4A3( );COL4A6( );COL6A1( );COL4A2( );COL16A1( );COL6A6( );COL15A1( );CD14( );IDE( );LCN1( );QPCT( );FGF2( );NELL2( )
+GPC2, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,53,57,0.9,4,LISG,12,FRAS1( );TNXB( );COL12A1( );TNXA( );RPN1( );GGH( );LCN1( );PRKDC( );KLK11( );CD55( );C1S( );PRSS1( )
+GPC2, cathepsin K  and  matrix metallopeptidase-2 ,308,312,1.015,4,QGPF,5,TNXB( );COL4A6( );TNXA( );MMP9( );ADAMTS17( )
+GPC2, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,389,393,0.97,4,RLVW,0,
+GPC2, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,389,393,0.955,4,RLVW,0,
+GPC2, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,389,393,0.97,4,RLVW,0,
+GPC2, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,389,393,1.02,4,RLVW,0,
+GPC2, matrix metallopeptidase-7  and  cathepsin K ,371,375,0.915,4,SMVT,2,TNC( );PRLR( )
+GPC2, elastase-2  and  cathepsin G ,564,568,0.915,4,TILI,5,COL14A1( );SHH( );FLNA( );ITIH5( );IL19( )
+GPC2, elastase-2  and  matrix metallopeptidase-7 ,385,389,1.08,4,TNLH,1,FN1( )
+GPC2, matrix metallopeptidase-9  and  cathepsin K ,228,232,0.96,4,VQGL,6,TNXB( );LAMC2( );VWF( );AGT( );SBSN( );GPC1( )

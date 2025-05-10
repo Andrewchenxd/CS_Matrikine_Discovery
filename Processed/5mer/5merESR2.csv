@@ -1,0 +1,30 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ESR2, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,262,267,0.95,5,ALSPE,1,FBN2( )
+ESR2, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,262,267,1.05,5,ALSPE,1,FBN2( )
+ESR2, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,262,267,0.97,5,ALSPE,1,FBN2( )
+ESR2, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,261,266,1.0550000000000002,5,DALSP,0,
+ESR2, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,85,90,0.92,5,HLSPL,0,
+ESR2, cathepsin G  and  cathepsin K ,95,100,1.005,5,LSHLY,0,
+ESR2, matrix metallopeptidase-9  and  elastase-2 ,294,299,0.915,5,MMMSL,0,
+ESR2, matrix metallopeptidase-9  and  cathepsin K ,294,299,0.905,5,MMMSL,0,
+ESR2, cathepsin K  and  cathepsin G ,11,16,1.025,5,NSPSS,0,
+ESR2, matrix metallopeptidase-7  and  cathepsin K ,61,66,0.97,5,NVTNL,1,CXADR( )
+ESR2, matrix metallopeptidase-3  and  cathepsin K ,61,66,1.0699999999999998,5,NVTNL,1,CXADR( )
+ESR2, matrix metallopeptidase-9  and  cathepsin K ,61,66,1.075,5,NVTNL,1,CXADR( )
+ESR2, matrix metallopeptidase-2  and  cathepsin K ,61,66,1.01,5,NVTNL,1,CXADR( )
+ESR2, matrix metallopeptidase-7  and  cathepsin G ,94,99,0.905,5,QLSHL,3,ACTN4( );ACTN1( );TLR9(LRR 16)
+ESR2, matrix metallopeptidase-7  and  cathepsin G ,254,259,0.92,5,RVREL,1,LAMA5( )
+ESR2, cathepsin K  and  cathepsin G ,254,259,0.925,5,RVREL,1,LAMA5( )
+ESR2, matrix metallopeptidase-3  and  cathepsin G ,254,259,1.01,5,RVREL,1,LAMA5( )
+ESR2, matrix metallopeptidase-9  and  elastase-2 ,9,14,0.91,5,SLNSP,0,
+ESR2, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,452,457,0.95,5,SMRLA,0,
+ESR2, matrix metallopeptidase-9  and  elastase-2 ,409,414,0.935,5,SMYPL,0,
+ESR2, elastase-2  and  granzyme B ({Homo sapiens}-type) ,414,419,0.945,5,VTATQ,0,
+ESR2, elastase-2  and  matrix metallopeptidase-3 ,137,142,1.085,5,VTGPG,1,YBX1( )
+ESR2, cathepsin G  and  matrix metallopeptidase-9 ,226,231,0.91,5,YRLVR,1,PENK( )
+ESR2, cathepsin G  and  matrix metallopeptidase-7 ,56,61,0.965,5,YSIPS,0,
+ESR2, cathepsin G  and  matrix metallopeptidase-9 ,56,61,1.0699999999999998,5,YSIPS,0,
+ESR2, cathepsin G  and  matrix metallopeptidase-2 ,56,61,1.005,5,YSIPS,0,
+ESR2, cathepsin G  and  matrix metallopeptidase-3 ,56,61,1.065,5,YSIPS,0,
+ESR2, cathepsin K  and  cathepsin G ,49,54,0.94,5,YSPAV,0,
+ESR2, cathepsin G  and  cathepsin K ,36,41,0.9,5,YVDSH,0,

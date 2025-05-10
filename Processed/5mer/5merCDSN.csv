@@ -1,0 +1,19 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CDSN, cathepsin K  and  cathepsin K ,504,509,0.98,5,AQVKP,0,
+CDSN, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,258,263,0.925,5,DQHGS,0,
+CDSN, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,61,66,0.915,5,DSSGF,0,
+CDSN, cathepsin K  and  elastase-2 ,263,268,1.01,5,GAPGV,6,COL7A1( );COL1A2( );COL2A1( );COL4A1( );COL4A2( );COL6A6( )
+CDSN, cathepsin K  and  cathepsin K ,427,432,1.005,5,GTGSF,0,
+CDSN, elastase-2  and  elastase-2 ,367,372,0.95,5,IAFQP,0,
+CDSN, elastase-2  and  cathepsin K ,404,409,0.905,5,ISSSS,0,
+CDSN, matrix metallopeptidase-2  and  cathepsin K ,124,129,0.915,5,SLQGA,0,
+CDSN, cathepsin K  and  cathepsin G ,407,412,0.905,5,SSGSP,1,COL17A1( )
+CDSN, elastase-2  and  cathepsin K ,242,247,0.96,5,SSHSV,0,
+CDSN, cathepsin K  and  cathepsin K ,242,247,0.96,5,SSHSV,0,
+CDSN, elastase-2  and  elastase-2 ,123,128,0.92,5,SSLQG,0,
+CDSN, cathepsin K  and  cathepsin K ,164,169,0.995,5,SSSSF,2,FGB( );IL4R(Poly-Ser)
+CDSN, elastase-2  and  granzyme B ({Homo sapiens}-type) ,299,304,1.02,5,VGGSS,0,
+CDSN, elastase-2  and  elastase-2 ,372,377,1.005,5,VGTGG,0,
+CDSN, elastase-2  and  matrix metallopeptidase-9 ,268,273,0.905,5,VQGPP,11,HSPG2( );COL1A1( );COL5A1( );COL4A5( );COL4A6( );COL14A1(Collagen-like 4);COL4A2( );COL16A1( );COL17A1( );IGHA1( );IGHA2( )
+CDSN, elastase-2  and  matrix metallopeptidase-3 ,233,238,0.995,5,VSHSG,0,
+CDSN, elastase-2  and  cathepsin K ,115,120,1.06,5,VSYSS,1,VCAN( )

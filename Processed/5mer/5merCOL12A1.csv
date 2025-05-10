@@ -1,0 +1,139 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+COL12A1, elastase-2  and  cathepsin K ,1881,1886,0.985,5,AAGGP,1,IGFBP7(IGFBP N-terminal)
+COL12A1, cathepsin K  and  cathepsin K ,1881,1886,0.96,5,AAGGP,1,IGFBP7(IGFBP N-terminal)
+COL12A1, cathepsin K  and  matrix metallopeptidase-3 ,46,51,0.915,5,AKPVD,0,
+COL12A1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,2385,2390,0.965,5,ALALG,2,FBLN2( );TGFBI( )
+COL12A1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,2385,2390,1.005,5,ALALG,2,FBLN2( );TGFBI( )
+COL12A1, matrix metallopeptidase-2  and  cathepsin K ,2390,2395,1.015,5,ALQNI,2,POSTN( );GAPDH( )
+COL12A1, matrix metallopeptidase-2  and  cathepsin K ,2006,2011,0.9,5,ALYSD,0,
+COL12A1, matrix metallopeptidase-7  and  cathepsin K ,2006,2011,0.99,5,ALYSD,0,
+COL12A1, matrix metallopeptidase-9  and  cathepsin K ,406,411,0.905,5,AMKGM,0,
+COL12A1, elastase-2  and  elastase-2 ,681,686,0.905,5,ASSTS,0,
+COL12A1, cathepsin K  and  elastase-2 ,2535,2540,0.975,5,ASVQG,1,HPSE( )
+COL12A1, matrix metallopeptidase-9  and  cathepsin K ,1636,1641,0.945,5,AVHDE,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,1735,1740,0.96,5,DDLIG,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,1126,1131,0.9,5,DDRRL,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,321,326,1.085,5,DEQLG,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,321,326,1.12,5,DEQLG,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,321,326,0.975,5,DEQLG,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,1730,1735,1.025,5,DESES,0,
+COL12A1, cathepsin K  and  elastase-2 ,2068,2073,0.97,5,DEYTT,0,
+COL12A1, matrix metallopeptidase-3  and  elastase-2 ,502,507,0.975,5,DIIEA,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,1696,1701,0.995,5,DKMET,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,26,31,0.96,5,DPPSD,0,
+COL12A1, matrix metallopeptidase-3  and  cathepsin G ,1410,1415,0.925,5,DSVDR,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,1997,2002,0.995,5,DTLYS,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,1179,1184,0.9,5,DTTVM,0,
+COL12A1, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,2462,2467,1.015,5,DVDYN,0,
+COL12A1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,2462,2467,0.995,5,DVDYN,0,
+COL12A1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,2464,2469,1.01,5,DYNEL,1,COL17A1( )
+COL12A1, cathepsin K  and  matrix metallopeptidase-3 ,2160,2165,1.055,5,EAFVG,0,
+COL12A1, cathepsin K  and  matrix metallopeptidase-7 ,2160,2165,0.935,5,EAFVG,0,
+COL12A1, cathepsin K  and  cathepsin G ,1386,1391,1.03,5,EAPSN,0,
+COL12A1, cathepsin K  and  elastase-2 ,1886,1891,1.1,5,EELVP,0,
+COL12A1, cathepsin K  and  cathepsin G ,101,106,0.925,5,EESVP,0,
+COL12A1, cathepsin K  and  elastase-2 ,101,106,0.975,5,EESVP,0,
+COL12A1, cathepsin K  and  matrix metallopeptidase-9 ,258,263,0.92,5,EIPAR,0,
+COL12A1, cathepsin K  and  matrix metallopeptidase-7 ,471,476,0.99,5,EISPN,0,
+COL12A1, cathepsin K  and  matrix metallopeptidase-9 ,2490,2495,0.9,5,EKIED,0,
+COL12A1, cathepsin K  and  cathepsin G ,420,425,0.985,5,EKTQP,0,
+COL12A1, matrix metallopeptidase-7  and  elastase-2 ,2467,2472,0.99,5,ELANI,2,COL6A3( );TGFBI( )
+COL12A1, matrix metallopeptidase-7  and  elastase-2 ,283,288,1.005,5,ELKQI,0,
+COL12A1, cathepsin K  and  elastase-2 ,611,616,0.91,5,ELTQS,0,
+COL12A1, cathepsin K  and  cathepsin K ,2543,2548,1.22,5,ESGSF,2,FGA( );TNFRSF1A( )
+COL12A1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,1121,1126,0.925,5,FHPTG,0,
+COL12A1, elastase-2  and  cathepsin K ,2583,2588,0.91,5,FRLLP,0,
+COL12A1, cathepsin K  and  elastase-2 ,2389,2394,0.93,5,GALQN,1,GAPDH( )
+COL12A1, cathepsin K  and  cathepsin G ,982,987,0.925,5,GEGEP,1,IGFBP7( )
+COL12A1, cathepsin K  and  cathepsin K ,1072,1077,1.035,5,GEGKL,0,
+COL12A1, cathepsin K  and  elastase-2 ,1641,1646,1.065,5,GESPP,0,
+COL12A1, cathepsin K  and  matrix metallopeptidase-2 ,2035,2040,1.05,5,GETTN,0,
+COL12A1, cathepsin K  and  matrix metallopeptidase-7 ,2035,2040,1.06,5,GETTN,0,
+COL12A1, matrix metallopeptidase-2  and  cathepsin G ,2360,2365,1.0699999999999998,5,GIQVS,0,
+COL12A1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,2360,2365,0.965,5,GIQVS,0,
+COL12A1, matrix metallopeptidase-3  and  cathepsin G ,2360,2365,0.925,5,GIQVS,0,
+COL12A1, matrix metallopeptidase-2  and  cathepsin K ,2798,2803,1.01,5,GLSIP,0,
+COL12A1, matrix metallopeptidase-2  and  cathepsin G ,2191,2196,0.97,5,GLSVP,0,
+COL12A1, matrix metallopeptidase-7  and  cathepsin G ,2191,2196,0.98,5,GLSVP,0,
+COL12A1, cathepsin K  and  cathepsin K ,2969,2974,0.965,5,GTPGM,1,COL4A4( )
+COL12A1, elastase-2  and  cathepsin G ,1238,1243,0.97,5,IALAQ,0,
+COL12A1, elastase-2  and  cathepsin G ,1801,1806,1.005,5,IGGRQ,0,
+COL12A1, elastase-2  and  cathepsin G ,507,512,0.9,5,INTFP,0,
+COL12A1, elastase-2  and  cathepsin G ,2916,2921,0.925,5,ISGQM,0,
+COL12A1, cathepsin G  and  matrix metallopeptidase-9 ,1753,1758,1.05,5,KSGPR,0,
+COL12A1, cathepsin K  and  matrix metallopeptidase-9 ,1753,1758,1.03,5,KSGPR,0,
+COL12A1, cathepsin G  and  cathepsin K ,1549,1554,0.92,5,LHDLT,0,
+COL12A1, cathepsin G  and  elastase-2 ,340,345,0.97,5,LIAME,0,
+COL12A1, matrix metallopeptidase-7  and  cathepsin K ,17,22,1.075,5,LLSSI,0,
+COL12A1, matrix metallopeptidase-9  and  cathepsin K ,17,22,0.98,5,LLSSI,0,
+COL12A1, cathepsin G  and  cathepsin K ,1177,1182,0.925,5,LSDTT,1,LAMB1( )
+COL12A1, cathepsin G  and  elastase-2 ,1177,1182,0.95,5,LSDTT,1,LAMB1( )
+COL12A1, cathepsin G  and  elastase-2 ,2196,2201,1.205,5,LTDQG,0,
+COL12A1, cathepsin G  and  cathepsin G ,444,449,0.94,5,LVDGS,2,COL6A3( );COL14A1( )
+COL12A1, cathepsin G  and  cathepsin G ,1169,1174,0.925,5,LVGQE,0,
+COL12A1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,2523,2528,0.97,5,MLEAY,0,
+COL12A1, matrix metallopeptidase-3  and  cathepsin K ,2121,2126,0.99,5,NIHIS,0,
+COL12A1, matrix metallopeptidase-9  and  cathepsin K ,2121,2126,1.075,5,NIHIS,0,
+COL12A1, matrix metallopeptidase-2  and  cathepsin K ,2121,2126,1.155,5,NIHIS,0,
+COL12A1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,2121,2126,0.96,5,NIHIS,0,
+COL12A1, cathepsin K  and  cathepsin G ,2340,2345,0.935,5,NKVVK,0,
+COL12A1, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,339,344,1.17,5,NLIAM,0,
+COL12A1, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,339,344,1.07,5,NLIAM,0,
+COL12A1, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,339,344,0.92,5,NLIAM,0,
+COL12A1, matrix metallopeptidase-9  and  cathepsin K ,1758,1763,1.035,5,NLQVY,0,
+COL12A1, matrix metallopeptidase-2  and  cathepsin K ,2030,2035,1.0750000000000002,5,NLRVF,0,
+COL12A1, matrix metallopeptidase-9  and  cathepsin K ,2030,2035,1.3250000000000002,5,NLRVF,0,
+COL12A1, matrix metallopeptidase-3  and  cathepsin K ,2030,2035,1.11,5,NLRVF,0,
+COL12A1, matrix metallopeptidase-7  and  cathepsin K ,2030,2035,1.025,5,NLRVF,0,
+COL12A1, matrix metallopeptidase-3  and  cathepsin K ,1067,1072,1.01,5,PIYKM,0,
+COL12A1, matrix metallopeptidase-2  and  cathepsin K ,1067,1072,1.015,5,PIYKM,0,
+COL12A1, matrix metallopeptidase-9  and  cathepsin K ,1067,1072,0.945,5,PIYKM,0,
+COL12A1, matrix metallopeptidase-3  and  elastase-2 ,1233,1238,0.95,5,PKRVQ,0,
+COL12A1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,2509,2514,0.905,5,PLIYL,1,PZP( )
+COL12A1, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,1168,1173,0.905,5,PLVGQ,0,
+COL12A1, cathepsin G  and  cathepsin G ,28,33,0.905,5,PSDLN,0,
+COL12A1, cathepsin G  and  elastase-2 ,337,342,0.905,5,PSNLI,0,
+COL12A1, matrix metallopeptidase-3  and  cathepsin K ,1476,1481,0.96,5,PVVSL,0,
+COL12A1, matrix metallopeptidase-9  and  cathepsin K ,1476,1481,0.945,5,PVVSL,0,
+COL12A1, cathepsin K  and  cathepsin G ,2794,2799,0.985,5,QGPNG,0,
+COL12A1, matrix metallopeptidase-7  and  elastase-2 ,323,328,0.9,5,QLGEL,2,CTGF( );COL15A1( )
+COL12A1, cathepsin K  and  cathepsin K ,606,611,0.97,5,QRISF,0,
+COL12A1, cathepsin K  and  elastase-2 ,2704,2709,1.06,5,QSFDI,0,
+COL12A1, cathepsin K  and  cathepsin K ,2275,2280,1.05,5,QTPNL,0,
+COL12A1, matrix metallopeptidase-7  and  cathepsin G ,2187,2192,0.925,5,QYDSG,0,
+COL12A1, cathepsin K  and  matrix metallopeptidase-9 ,558,563,0.96,5,RDPAI,1,CPA4( )
+COL12A1, cathepsin K  and  matrix metallopeptidase-9 ,2025,2030,1.04,5,RSGPR,0,
+COL12A1, cathepsin K  and  cathepsin G ,1216,1221,0.94,5,RTVRS,0,
+COL12A1, cathepsin K  and  cathepsin G ,641,646,1.205,5,SEVTS,0,
+COL12A1, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,690,695,1.045,5,SLKPE,0,
+COL12A1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,690,695,1.02,5,SLKPE,0,
+COL12A1, matrix metallopeptidase-2  and  cathepsin K ,1825,1830,1.04,5,SLYPD,0,
+COL12A1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,2260,2265,1.15,5,TGLSP,1,FN1( )
+COL12A1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,2260,2265,0.91,5,TGLSP,1,FN1( )
+COL12A1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,1820,1825,1.075,5,TITVS,0,
+COL12A1, elastase-2  and  elastase-2 ,422,427,0.9,5,TQPMK,0,
+COL12A1, elastase-2  and  elastase-2 ,2243,2248,0.95,5,TRGQE,0,
+COL12A1, cathepsin K  and  matrix metallopeptidase-3 ,1553,1558,1.075,5,TSEPV,0,
+COL12A1, elastase-2  and  cathepsin K ,2255,2260,1.135,5,TSHCF,0,
+COL12A1, cathepsin K  and  elastase-2 ,411,416,1.115,5,TSSEP,0,
+COL12A1, elastase-2  and  cathepsin G ,1266,1271,1.0499999999999998,5,VANLP,1,KITLG( )
+COL12A1, elastase-2  and  elastase-2 ,1266,1271,0.99,5,VANLP,1,KITLG( )
+COL12A1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,316,321,0.92,5,VCSGV,0,
+COL12A1, cathepsin K  and  elastase-2 ,1170,1175,0.905,5,VGQEM,0,
+COL12A1, elastase-2  and  cathepsin G ,179,184,0.92,5,VGVVQ,4,COL5A1( );COL6A3( );COL6A5( );COL6A2( )
+COL12A1, cathepsin K  and  cathepsin K ,1182,1187,0.905,5,VMPIL,0,
+COL12A1, elastase-2  and  cathepsin K ,1182,1187,0.93,5,VMPIL,0,
+COL12A1, elastase-2  and  matrix metallopeptidase-3 ,2002,2007,0.93,5,VNLVA,0,
+COL12A1, elastase-2  and  cathepsin K ,477,482,1.045,5,VQISL,0,
+COL12A1, elastase-2  and  elastase-2 ,1492,1497,0.97,5,VQWQP,0,
+COL12A1, elastase-2  and  elastase-2 ,1557,1562,1.02,5,VTVRE,0,
+COL12A1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,859,864,1.04,5,VTVRG,1,TNXB( )
+COL12A1, elastase-2  and  elastase-2 ,846,851,0.925,5,VTYTP,3,VCAN( );FLNA( );FLNB( )
+COL12A1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,1916,1921,0.9,5,VYTEG,0,
+COL12A1, cathepsin G  and  matrix metallopeptidase-9 ,1138,1143,1.045,5,YDNTV,0,
+COL12A1, matrix metallopeptidase-7  and  cathepsin K ,796,801,0.925,5,YFSGP,0,
+COL12A1, cathepsin G  and  cathepsin G ,2268,2273,0.95,5,YGVTV,2,P3H1( );EGFR( )
+COL12A1, cathepsin G  and  cathepsin K ,2512,2517,1.03,5,YLDGY,0,
+COL12A1, cathepsin G  and  matrix metallopeptidase-7 ,2465,2470,0.905,5,YNELA,1,COL17A1( )
+COL12A1, cathepsin G  and  cathepsin K ,1462,1467,0.975,5,YSEPL,0,
+COL12A1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,1455,1460,0.91,5,YSVVE,0,

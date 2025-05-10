@@ -1,0 +1,34 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CKAP4, cathepsin K  and  elastase-2 ,253,258,0.905,5,AIFTE,0,
+CKAP4, matrix metallopeptidase-7  and  elastase-2 ,288,293,0.93,5,ALKEA,0,
+CKAP4, matrix metallopeptidase-7  and  cathepsin K ,348,353,0.915,5,ALQAL,4,EMILIN1( );DYNC1H1( );PLEC( );A2ML1( )
+CKAP4, cathepsin K  and  matrix metallopeptidase-7 ,469,474,0.975,5,ASTVR,0,
+CKAP4, matrix metallopeptidase-3  and  cathepsin G ,528,533,0.91,5,DFLDR,0,
+CKAP4, matrix metallopeptidase-7  and  elastase-2 ,214,219,1.095,5,DLSDG,2,FLNA( );FLNB( )
+CKAP4, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,214,219,0.965,5,DLSDG,2,FLNA( );FLNB( )
+CKAP4, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,517,522,0.995,5,DQAQA,0,
+CKAP4, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,464,469,0.95,5,DQDGL,1,ITIH1( )
+CKAP4, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,558,563,1.085,5,DSLVA,0,
+CKAP4, cathepsin K  and  matrix metallopeptidase-2 ,159,164,0.905,5,EQKVQ,0,
+CKAP4, cathepsin K  and  cathepsin K ,318,323,0.92,5,ESDIY,0,
+CKAP4, cathepsin G  and  cathepsin K ,529,534,0.925,5,FLDRL,0,
+CKAP4, cathepsin K  and  elastase-2 ,476,481,1.07,5,GETQL,0,
+CKAP4, cathepsin K  and  matrix metallopeptidase-7 ,476,481,1.0,5,GETQL,0,
+CKAP4, matrix metallopeptidase-7  and  elastase-2 ,467,472,0.925,5,GLAST,0,
+CKAP4, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,459,464,0.95,5,GSSEA,0,
+CKAP4, elastase-2  and  granzyme B ({Homo sapiens}-type) ,219,224,0.95,5,IHVVK,0,
+CKAP4, cathepsin G  and  cathepsin K ,151,156,1.0,5,LGQGL,0,
+CKAP4, matrix metallopeptidase-7  and  elastase-2 ,552,557,0.98,5,MLRTA,0,
+CKAP4, cathepsin K  and  elastase-2 ,163,168,0.915,5,QSLQA,0,
+CKAP4, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,346,351,0.97,5,RLALQ,1,TG( )
+CKAP4, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,346,351,1.08,5,RLALQ,1,TG( )
+CKAP4, matrix metallopeptidase-7  and  cathepsin K ,454,459,0.925,5,RLEGL,1,TLR9( )
+CKAP4, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,523,528,0.99,5,RLPPQ,0,
+CKAP4, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,532,537,0.985,5,RLSSL,0,
+CKAP4, matrix metallopeptidase-2  and  cathepsin G ,164,169,0.93,5,SLQAT,1,PRKDC( )
+CKAP4, matrix metallopeptidase-7  and  cathepsin K ,502,507,0.965,5,SLQKV,0,
+CKAP4, matrix metallopeptidase-2  and  cathepsin K ,502,507,1.015,5,SLQKV,0,
+CKAP4, matrix metallopeptidase-9  and  cathepsin K ,471,476,1.03,5,TVRSL,0,
+CKAP4, cathepsin G  and  matrix metallopeptidase-7 ,483,488,1.075,5,YGDVE,0,
+CKAP4, cathepsin G  and  cathepsin K ,563,568,1.025,5,YSVKI,0,
+CKAP4, cathepsin G  and  matrix metallopeptidase-7 ,322,327,0.945,5,YTEVR,0,

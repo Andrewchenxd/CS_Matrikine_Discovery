@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EDN1, elastase-2  and  matrix metallopeptidase-7 ,22,27,0.925,5,AVLGA,1,HLA-C( )
+EDN1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,133,138,0.93,5,DIMEK,0,
+EDN1, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,128,133,0.95,5,ELRAE,0,
+EDN1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,128,133,1.005,5,ELRAE,0,
+EDN1, matrix metallopeptidase-9  and  cathepsin K ,84,89,0.925,5,GLGSP,2,COL3A1( );FGFR3( )
+EDN1, elastase-2  and  cathepsin G ,23,28,0.905,5,VLGAE,0,

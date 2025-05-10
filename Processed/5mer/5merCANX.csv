@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CANX, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,423,428,0.97,5,GLELW,0,
+CANX, elastase-2  and  matrix metallopeptidase-9 ,491,496,0.965,5,VALPV,0,
+CANX, elastase-2  and  matrix metallopeptidase-3 ,491,496,0.915,5,VALPV,0,
+CANX, elastase-2  and  matrix metallopeptidase-7 ,491,496,0.955,5,VALPV,0,

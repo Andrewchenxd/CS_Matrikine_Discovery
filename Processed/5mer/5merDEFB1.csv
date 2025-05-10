@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DEFB1, elastase-2  and  cathepsin K ,51,56,0.955,5,IFTKI,0,
+DEFB1, cathepsin K  and  elastase-2 ,46,51,1.0,5,YSACP,0,
+DEFB1, cathepsin G  and  elastase-2 ,46,51,1.09,5,YSACP,0,

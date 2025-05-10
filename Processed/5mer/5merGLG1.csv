@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GLG1, matrix metallopeptidase-3  and  cathepsin G ,365,370,1.035,5,DYKVS,0,
+GLG1, cathepsin G  and  cathepsin K ,339,344,1.235,5,FNHKF,0,
+GLG1, matrix metallopeptidase-2  and  cathepsin K ,60,65,1.085,5,GQQLP,0,
+GLG1, matrix metallopeptidase-7  and  cathepsin K ,525,530,1.0,5,ILSCL,0,
+GLG1, matrix metallopeptidase-9  and  cathepsin K ,401,406,1.08,5,LLMCL,1,LEPROT( )
+GLG1, cathepsin G  and  matrix metallopeptidase-9 ,524,529,0.96,5,MILSC,0,
+GLG1, cathepsin K  and  cathepsin K ,581,586,0.945,5,NETSE,0,
+GLG1, cathepsin K  and  cathepsin K ,993,998,0.91,5,QESAL,0,
+GLG1, cathepsin K  and  matrix metallopeptidase-9 ,993,998,0.93,5,QESAL,0,
+GLG1, cathepsin K  and  matrix metallopeptidase-3 ,993,998,0.93,5,QESAL,0,
+GLG1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,993,998,0.945,5,QESAL,0,
+GLG1, cathepsin K  and  cathepsin K ,68,73,0.975,5,QSSQL,0,

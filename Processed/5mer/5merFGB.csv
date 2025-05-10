@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGB, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,260,265,0.91,5,DSSVK,0,
+FGB, cathepsin K  and  matrix metallopeptidase-9 ,213,218,1.12,5,ESDVS,1,TGFBI( )
+FGB, cathepsin K  and  matrix metallopeptidase-3 ,213,218,1.11,5,ESDVS,1,TGFBI( )
+FGB, cathepsin G  and  elastase-2 ,188,193,1.165,5,NSNIP,0,
+FGB, elastase-2  and  cathepsin K ,5,10,0.91,5,VSWSF,0,
+FGB, cathepsin K  and  elastase-2 ,182,187,1.03,5,YIDET,0,
+FGB, cathepsin G  and  elastase-2 ,182,187,1.115,5,YIDET,0,

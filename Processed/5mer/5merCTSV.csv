@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTSV, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,251,256,1.02,5,DAGHS,1,LAMA5( )
+CTSV, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,246,251,0.925,5,ISVAM,0,

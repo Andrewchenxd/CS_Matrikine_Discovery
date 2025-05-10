@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CRTAP, matrix metallopeptidase-7  and  cathepsin K ,393,398,0.925,5,DLLEL,0,
+CRTAP, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,325,330,1.015,5,DQNDK,0,
+CRTAP, cathepsin K  and  matrix metallopeptidase-3 ,34,39,0.965,5,RSFPR,0,

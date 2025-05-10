@@ -1,0 +1,11 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CASP1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,103,108,0.945,5,DSQGV,0,
+CASP1, cathepsin K  and  elastase-2 ,139,144,0.9,5,EEAQR,3,LAMB2( );COL6A3( );MYH9( )
+CASP1, cathepsin G  and  cathepsin K ,295,300,1.075,5,FKDSV,0,
+CASP1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,255,260,0.92,5,ILQLN,1,C5( )
+CASP1, cathepsin G  and  cathepsin G ,1,6,0.9,5,MADKV,1,HYOU1( )
+CASP1, cathepsin K  and  elastase-2 ,112,117,1.005,5,PAPQA,0,
+CASP1, cathepsin K  and  matrix metallopeptidase-3 ,109,114,1.02,5,SSFPA,1,VWF( )
+CASP1, elastase-2  and  cathepsin K ,107,112,0.9,5,VLSSF,0,
+CASP1, elastase-2  and  cathepsin K ,117,122,1.12,5,VQDNP,0,
+CASP1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,98,103,1.04,5,YLNMQ,0,

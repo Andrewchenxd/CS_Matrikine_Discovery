@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EPO, cathepsin G  and  matrix metallopeptidase-9 ,97,101,0.935,4,LSEA,12,VWF( );SDCBP( );CSTA( );DPP7( );C3( );EPHB4( );MMP8( );LGALS3BP( );MUC4( );PRKDC( );IL17F( );IL4R( )
+EPO, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,119,123,0.99,4,QLHV,2,PLEC( );SERPINA4( )
+EPO, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,119,123,0.935,4,QLHV,2,PLEC( );SERPINA4( )
+EPO, cathepsin K  and  matrix metallopeptidase-2 ,115,119,0.935,4,WEPL,0,
+EPO, cathepsin K  and  matrix metallopeptidase-9 ,115,119,1.1,4,WEPL,0,
+EPO, cathepsin K  and  matrix metallopeptidase-7 ,115,119,1.045,4,WEPL,0,

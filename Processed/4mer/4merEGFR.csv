@@ -1,0 +1,27 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EGFR, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,375,379,0.925,4,AFRG,2,LAMA3( );VTN( )
+EGFR, cathepsin K  and  cathepsin K ,1155,1159,0.93,4,AHWA,0,
+EGFR, elastase-2  and  cathepsin K ,1155,1159,1.06,4,AHWA,0,
+EGFR, cathepsin K  and  matrix metallopeptidase-2 ,510,514,0.975,4,CSPE,3,LAMA3( );EMILIN1( );TLN1( )
+EGFR, cathepsin K  and  matrix metallopeptidase-2 ,1152,1156,0.93,4,DSPA,8,FRAS1( );FN1( );MATN2( );SERPINA6( );A1BG( );CRH( );CASP4( );TG( )
+EGFR, cathepsin K  and  matrix metallopeptidase-3 ,1152,1156,0.9,4,DSPA,8,FRAS1( );FN1( );MATN2( );SERPINA6( );A1BG( );CRH( );CASP4( );TG( )
+EGFR, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,317,321,1.085,4,EMEE,7,NUCB1( );GPC1( );NUCB2(Asp/Glu-rich (acidic));C4B( );C4A( );C1R(Peptidase S1)
+EGFR, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,317,321,0.92,4,EMEE,7,NUCB1( );GPC1( );NUCB2(Asp/Glu-rich (acidic));C4B( );C4A( );C1R(Peptidase S1)
+EGFR, cathepsin K  and  matrix metallopeptidase-3 ,421,425,0.975,4,ENLE,6,LAMC1( );LUM(LRR 9);VWA5B1( );IL18( );CASP4( );CFB( )
+EGFR, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,102,106,0.935,4,ENLQ,3,COL12A1( );ITIH3( );ANGPT1( )
+EGFR, cathepsin K  and  cathepsin K ,1024,1028,0.95,4,FSSP,8,ABI3BP( );DMBT1( );COL6A1( );SERPINB2( );MUC4( );PAPPA( );TF( );TG( )
+EGFR, cathepsin K  and  matrix metallopeptidase-3 ,544,548,0.97,4,GEPR,5,HSPG2( );LAMA3( );CHGB( );HLA-C( );IL1RL1( )
+EGFR, cathepsin K  and  cathepsin K ,663,667,0.915,4,GIGL,3,COL4A5( );COL16A1( );DSG1( )
+EGFR, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,649,653,1.005,4,GMVG,4,COL4A4( );PFKP( );HNRNPK( );LOX( )
+EGFR, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,649,653,0.985,4,GMVG,4,COL4A4( );PFKP( );HNRNPK( );LOX( )
+EGFR, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,952,956,1.07,4,MIDA,2,FGG( );ADH7( )
+EGFR, matrix metallopeptidase-2  and  elastase-2 ,103,107,0.9,4,NLQI,3,HMCN2( );MYH9( );CLTC( )
+EGFR, cathepsin K  and  cathepsin K ,1148,1152,0.9,4,NSTF,6,RAB8A( );MIF( );KDR(Ig-like C2-type 3);IGHG2( );IGHG3( );PSAP( )
+EGFR, cathepsin K  and  cathepsin G ,1106,1110,0.91,4,QNPV,3,TNXB( );C5( );MMP1( )
+EGFR, cathepsin K  and  cathepsin K ,1020,1024,1.0499999999999998,4,QQGF,0,
+EGFR, matrix metallopeptidase-9  and  cathepsin K ,986,990,0.935,4,RMHL,1,TNXB( )
+EGFR, matrix metallopeptidase-7  and  cathepsin K ,1199,1203,0.935,4,RVAP,4,LAMA2( );KDR(Ig-like C2-type 7);ACTG1( );POTEKP( )
+EGFR, matrix metallopeptidase-2  and  elastase-2 ,1037,1041,0.965,4,SLSA,21,FN1( );LAMC2( );ANOS1( );LUM( );VTN( );CDH1( );CHGA( );TNFSF12( );GPC2( );DYNC1H1( );IGKV1-33( );PLEC( );IGKV1-17( );CD8A( );ACE2( );MMP14( );LEPROT( );PRKDC( );IGKV1D-33( );IGKV1-39( );ADAMTS17( )
+EGFR, elastase-2  and  cathepsin K ,1074,1078,0.915,4,TGAL,9,LTBP2( );SERPINF1( );CSPG4( );ACTN2( );CTSV( );MMP9( );MUC4( );CTSL( );ST14( )
+EGFR, elastase-2  and  matrix metallopeptidase-3 ,39,43,0.95,4,TQLG,2,PFKP( );ACPP( )
+EGFR, elastase-2  and  matrix metallopeptidase-2 ,60,64,0.94,4,VVLG,7,COL6A3( );DMBT1( );RPL11( );DYNC1H1( );KLK10( );PRTN3( );HGFAC( )

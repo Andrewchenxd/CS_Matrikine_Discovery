@@ -1,0 +1,27 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CLU, matrix metallopeptidase-9  and  cathepsin K ,259,263,1.1,4,DIHF,2,COL6A5(VWFA 3);MMP10( )
+CLU, matrix metallopeptidase-3  and  cathepsin K ,259,263,1.095,4,DIHF,2,COL6A5(VWFA 3);MMP10( )
+CLU, matrix metallopeptidase-7  and  cathepsin K ,259,263,1.03,4,DIHF,2,COL6A5(VWFA 3);MMP10( )
+CLU, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,259,263,0.97,4,DIHF,2,COL6A5(VWFA 3);MMP10( )
+CLU, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,166,170,0.94,4,DRQQ,1,MMP28( )
+CLU, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,174,178,0.995,4,DVMQ,2,VWF( );IGHM( )
+CLU, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,397,401,0.93,4,DVPS,3,FRAS1( );FN1( );PLAT(Kringle 2)
+CLU, matrix metallopeptidase-3  and  cathepsin K ,436,440,1.015,4,EKAL,18,LAD1( );HSPA8( );CCT6A( );ITIH3( );AGT( );KARS( );GGH( );ERAP1( );CTSV( );MMP10( );CD109( );S100A8( );TNFSF10( );CTSL( );CTSK( );PRLR( );HRG( );CXCL12( )
+CLU, matrix metallopeptidase-7  and  cathepsin G ,30,34,1.0,4,ELQE,14,COMP( );MATN2( );LAMB2( );COL6A5( );COL14A1( );MYH9( );NGRN( );ANXA2P2( );ANXA2( );APOA1( );PPY( );APOB( );C1R( );CCL27( )
+CLU, cathepsin G  and  elastase-2 ,247,251,0.91,4,FLEM,2,GPC2( );C5( )
+CLU, matrix metallopeptidase-9  and  elastase-2 ,430,434,0.98,4,FMET,2,RAB8A( );AZGP1( )
+CLU, cathepsin K  and  cathepsin K ,244,248,1.03,4,FQPF,4,ITIH3( );PZP( );A2M( );CD109( )
+CLU, cathepsin K  and  matrix metallopeptidase-9 ,263,267,1.005,4,HSPA,4,THBS3( );COL17A1( );CD14( );MMP28( )
+CLU, cathepsin K  and  matrix metallopeptidase-2 ,263,267,1.03,4,HSPA,4,THBS3( );COL17A1( );CD14( );MMP28( )
+CLU, cathepsin K  and  matrix metallopeptidase-3 ,263,267,1.0699999999999998,4,HSPA,4,THBS3( );COL17A1( );CD14( );MMP28( )
+CLU, cathepsin K  and  cathepsin K ,359,363,0.905,4,LEQL,13,LAMA5( );LAMC1( );FMOD(LRR 7);KERA( );PRELP( );COL6A1( );EMILIN1( );LAMA4( );VCL( );TLN1( );RPL11( );PLEC( );PRKDC( )
+CLU, cathepsin G  and  elastase-2 ,238,242,0.9,4,LNFH,0,
+CLU, cathepsin G  and  cathepsin K ,71,75,1.205,4,LSNL,10,THBS4( );TGFBI(FAS1 1);COL16A1( );LAMA4( );CSPG4( );PDCD6IP( );SOGA1( );TNFSF10( );GBA( );LOX( )
+CLU, cathepsin G  and  matrix metallopeptidase-7 ,154,158,0.925,4,MNGD,0,
+CLU, cathepsin K  and  cathepsin K ,268,272,1.0,4,QHPP,0,
+CLU, matrix metallopeptidase-7  and  elastase-2 ,385,389,0.93,4,RVTT,4,FN1( );TNC( );DAG1( );COPA( )
+CLU, matrix metallopeptidase-7  and  cathepsin G ,228,232,0.955,4,SLMP,3,VWA5B1( );GPC2( );MUC4( )
+CLU, matrix metallopeptidase-3  and  cathepsin G ,228,232,0.905,4,SLMP,3,VWA5B1( );GPC2( );MUC4( )
+CLU, matrix metallopeptidase-9  and  cathepsin G ,228,232,0.94,4,SLMP,3,VWA5B1( );GPC2( );MUC4( )
+CLU, matrix metallopeptidase-2  and  cathepsin G ,228,232,0.93,4,SLMP,3,VWA5B1( );GPC2( );MUC4( )
+CLU, elastase-2  and  granzyme B ({Homo sapiens}-type) ,170,174,0.985,4,THML,0,

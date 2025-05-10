@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD8B, elastase-2  and  cathepsin K ,80,84,0.93,4,IHGE,2,POSTN( );HBEGF( )
+CD8B, elastase-2  and  matrix metallopeptidase-2 ,171,175,1.17,4,ITLG,1,DYNC1H1( )
+CD8B, matrix metallopeptidase-9  and  cathepsin G ,35,39,0.91,4,KMVM,0,
+CD8B, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,70,74,0.93,4,LALW,4,THBS2( );LAMB3( );APOB( );RARRES2( )
+CD8B, cathepsin G  and  elastase-2 ,167,171,1.1,4,LCSP,3,COL6A1( );TEK( );EGFR( )
+CD8B, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,156,160,0.975,4,RLPR,5,PMEL( );SERPINE1( );C4B( );C4A( );PRKDC( )
+CD8B, elastase-2  and  matrix metallopeptidase-9 ,31,35,0.93,4,VQTN,1,KNG1( )

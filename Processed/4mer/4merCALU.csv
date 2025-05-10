@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CALU, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,212,216,0.91,4,EYIG,0,
+CALU, matrix metallopeptidase-9  and  cathepsin K ,179,183,0.925,4,FLHP,2,LTBP2( );SERPINA7( )
+CALU, matrix metallopeptidase-3  and  cathepsin K ,179,183,0.92,4,FLHP,2,LTBP2( );SERPINA7( )
+CALU, matrix metallopeptidase-7  and  cathepsin K ,179,183,0.93,4,FLHP,2,LTBP2( );SERPINA7( )
+CALU, cathepsin G  and  elastase-2 ,34,38,1.0750000000000002,4,LSDK,4,LAMA3( );HNRNPU( );DSC2( );CCL27( )
+CALU, matrix metallopeptidase-7  and  cathepsin K ,63,67,0.93,4,QLTP,7,COLQ( );APOA4(5);APOE(1);APOA2( );SERPIND1( );A2M( );APOB( )
+CALU, elastase-2  and  cathepsin K ,38,42,0.925,4,VHND,0,

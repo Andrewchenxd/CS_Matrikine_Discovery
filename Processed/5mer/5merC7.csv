@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C7, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,726,731,0.91,5,DVCAQ,0,
+C7, matrix metallopeptidase-2  and  cathepsin K ,15,20,0.965,5,EFQSF,0,
+C7, matrix metallopeptidase-3  and  cathepsin K ,15,20,0.99,5,EFQSF,0,
+C7, cathepsin G  and  cathepsin K ,802,807,0.96,5,FSICV,0,
+C7, cathepsin G  and  cathepsin K ,344,349,0.905,5,FVVKF,0,
+C7, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,387,392,1.0750000000000002,5,GLSYL,2,FBN2( );GSN( )
+C7, matrix metallopeptidase-9  and  cathepsin K ,744,749,1.03,5,KMHVL,0,
+C7, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,744,749,0.92,5,KMHVL,0,
+C7, cathepsin G  and  cathepsin K ,677,682,0.945,5,LKWSP,0,
+C7, matrix metallopeptidase-9  and  cathepsin K ,636,641,1.09,5,LMDGI,0,
+C7, cathepsin G  and  cathepsin K ,563,568,0.97,5,LSLVP,0,
+C7, cathepsin K  and  cathepsin K ,305,310,1.08,5,QSGSL,0,

@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD209, cathepsin K  and  cathepsin K ,16,21,0.96,5,EEEQL,0,
+CD209, cathepsin K  and  cathepsin K ,139,144,0.945,5,EKSKL,1,SERPINC1( )
+CD209, cathepsin K  and  cathepsin K ,116,121,0.96,5,EKSKL,1,SERPINC1( )
+CD209, cathepsin K  and  matrix metallopeptidase-9 ,39,44,0.92,5,GHGPL,0,
+CD209, cathepsin G  and  cathepsin K ,318,323,0.95,5,LSDLN,0,
+CD209, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,334,339,1.01,5,PLLPS,1,IDE( )
+CD209, cathepsin K  and  matrix metallopeptidase-7 ,144,149,1.065,5,QEIYQ,0,
+CD209, cathepsin K  and  matrix metallopeptidase-7 ,121,126,1.095,5,QEIYQ,0,
+CD209, cathepsin K  and  matrix metallopeptidase-7 ,167,172,0.925,5,QEIYQ,0,
+CD209, cathepsin K  and  matrix metallopeptidase-7 ,98,103,0.96,5,QEIYQ,0,
+CD209, matrix metallopeptidase-7  and  cathepsin K ,11,16,1.045,5,QLGLL,0,
+CD209, cathepsin K  and  cathepsin K ,21,26,0.93,5,RGLGF,1,COL4A2( )

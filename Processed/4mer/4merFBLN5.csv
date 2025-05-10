@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FBLN5, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,52,56,0.94,4,ACRG,5,LAMA5( );CASP14( );CASP1( );SPINT1(BPTI/Kunitz inhibitor 1);CASP4( )
+FBLN5, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,56,60,0.99,4,DMMC,0,
+FBLN5, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,277,281,0.91,4,YILL,1,ANOS1(WAP)
+FBLN5, cathepsin G  and  cathepsin G ,88,92,0.91,4,YSGP,3,COMP( );LAMB2( );ACTN2( )
+FBLN5, cathepsin G  and  cathepsin K ,80,84,0.995,4,YSNP,1, calcium-binding);YBX1( )
+FBLN5, cathepsin G  and  cathepsin G ,80,84,1.075,4,YSNP,1, calcium-binding);YBX1( )
+FBLN5, cathepsin G  and  cathepsin G ,84,88,0.93,4,YSTP,3,IGKV4-1( );IGKV1-39( );FLT1( )

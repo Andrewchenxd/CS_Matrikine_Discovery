@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CFHR3, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,56,60,0.935,4,DEHF,3,HNRNPU( );CRTAP( );CFH( )
+CFHR3, matrix metallopeptidase-9  and  cathepsin K ,312,316,0.96,4,ILSF,3,EMILIN1( );HPR( );HP( )

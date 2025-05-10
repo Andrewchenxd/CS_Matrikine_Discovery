@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CFI, matrix metallopeptidase-7  and  cathepsin K ,156,160,0.975,4,DLGF,5,COL4A3( );COL4A6( );HYOU1( );SERPINA12( );CFB( )
+CFI, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,524,528,0.95,4,DSGG,30,EMILIN1( );SHH( );MMP8( );CTSG( );CFD( );CMA1( );ST14( );KLK14( );KLK13( );C1R( );KLK10( );KLK5( );CELA1( );KLK11( );KLK7( );KLKB1( );TPSD1( );TPSB2( );PLG( );KLK6( );PRTN3( );PLAU( );CFB( );F2( );HGFAC( );C1S( );PRSS1( );KLK8( );TPSAB1( );PLAT( )
+CFI, cathepsin G  and  cathepsin G ,417,421,0.975,4,FHEN,1,CFHR3( )
+CFI, cathepsin G  and  cathepsin G ,577,581,0.935,4,FISQ,3,COL6A2( );SERPINA12( );APOB( )
+CFI, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,160,164,1.025,4,QQGA,4,HMCN2( );COL3A1( );COL4A1( );LAMB3( )

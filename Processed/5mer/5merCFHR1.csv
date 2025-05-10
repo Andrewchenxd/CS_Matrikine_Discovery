@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CFHR1, cathepsin K  and  cathepsin G ,17,22,0.92,5,GGEAT,0,
+CFHR1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,180,185,0.91,5,YEMFG,1,CFH( )

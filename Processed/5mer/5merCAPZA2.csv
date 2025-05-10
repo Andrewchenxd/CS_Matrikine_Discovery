@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CAPZA2, cathepsin K  and  cathepsin K ,55,60,0.91,5,AQYNL,0,
+CAPZA2, matrix metallopeptidase-3  and  cathepsin G ,28,33,0.925,5,EFNEV,1,CAPZA1( )

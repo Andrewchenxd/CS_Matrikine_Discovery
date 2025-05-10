@@ -1,0 +1,11 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CCL11, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,16,21,1.05,5,AFSPQ,1,CCL7( )
+CCL11, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,16,21,0.98,5,AFSPQ,1,CCL7( )
+CCL11, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,16,21,1.015,5,AFSPQ,1,CCL7( )
+CCL11, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,16,21,1.1,5,AFSPQ,1,CCL7( )
+CCL11, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,16,21,0.94,5,AFSPQ,1,CCL7( )
+CCL11, matrix metallopeptidase-2  and  elastase-2 ,21,26,1.025,5,GLAGP,4,COL7A1( );COL1A1( );COL2A1( );COL3A1( )
+CCL11, matrix metallopeptidase-9  and  elastase-2 ,21,26,0.955,5,GLAGP,4,COL7A1( );COL1A1( );COL2A1( );COL3A1( )
+CCL11, matrix metallopeptidase-3  and  elastase-2 ,21,26,0.99,5,GLAGP,4,COL7A1( );COL1A1( );COL2A1( );COL3A1( )
+CCL11, matrix metallopeptidase-7  and  elastase-2 ,21,26,1.0750000000000002,5,GLAGP,4,COL7A1( );COL1A1( );COL2A1( );COL3A1( )
+CCL11, cathepsin G  and  matrix metallopeptidase-2 ,1,6,0.925,5,MKVSA,2,CCL2( );CCL5( )

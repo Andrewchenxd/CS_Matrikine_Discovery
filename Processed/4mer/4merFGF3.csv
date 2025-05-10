@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGF3, cathepsin K  and  matrix metallopeptidase-9 ,178,182,1.0,4,FLPR,3,FLNA( );MMP28( );PRKDC( )
+FGF3, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,24,28,0.91,4,RLRR,13,AEBP1( );LTBP2( );COL6A5( );MYH9( );PLEC( );LRPAP1( );ACTN2(Spectrin 4);HBEGF( );PRKDC( );IL10( );TLR9( );IGF2-AS( );EDN1( )
+FGF3, elastase-2  and  matrix metallopeptidase-7 ,225,229,0.925,4,VQAS,9,HMCN2( );HSPG2( );TLN1( );CSPG4( );PGLYRP2( );ITIH1( );LOXL1( );IFI30( );FLT1( )

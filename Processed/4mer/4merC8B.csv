@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C8B, cathepsin K  and  cathepsin K ,265,269,1.02,4,ELGI,4,ATP5B( );EFTUD2( );PON1( );PIP( )
+C8B, matrix metallopeptidase-7  and  cathepsin K ,265,269,0.925,4,ELGI,4,ATP5B( );EFTUD2( );PON1( );PIP( )
+C8B, cathepsin K  and  cathepsin K ,327,331,0.94,4,EYSY,1,FGFR2( )
+C8B, matrix metallopeptidase-9  and  cathepsin K ,327,331,0.915,4,EYSY,1,FGFR2( )
+C8B, matrix metallopeptidase-3  and  cathepsin K ,327,331,0.935,4,EYSY,1,FGFR2( )
+C8B, cathepsin G  and  matrix metallopeptidase-7 ,313,317,0.905,4,LHYE,2,HMCN2( );SHH( )
+C8B, cathepsin G  and  elastase-2 ,470,474,1.0699999999999998,4,LYEL,4,LAMB2( );NAXE( );C9( );C7( )
+C8B, matrix metallopeptidase-9  and  cathepsin K ,573,577,0.92,4,PQNG,1,PLAUR(UPAR/Ly6 2)
+C8B, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,450,454,1.115,4,QEWG,0,
+C8B, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,174,178,0.915,4,SLAS,8,FBN1( );EMILIN1( );LRG1( );ACE2( );MUC4( );ST14( );TEK( );CCL26( )
+C8B, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,269,273,0.945,4,SSQS,12,COL7A1( );COL17A1( );DYNC1H1( );IGKV2D-40( );KDR( );CDSN( );IGKV4-1( );IGKV2D-28( );IGKV2-30( );APOB( );CASP4( );VEGFD( )
+C8B, elastase-2  and  granzyme B ({Homo sapiens}-type) ,474,478,0.915,4,VTAT,8,LAMC1( );PCOLCE( );CDH1( );ANGPT2( );IL1RL1(Ig-like C2-type 2);IL13RA2( );FGFR1( );ESR2( )

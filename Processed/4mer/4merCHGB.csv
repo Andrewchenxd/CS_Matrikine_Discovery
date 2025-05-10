@@ -1,0 +1,19 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CHGB, cathepsin K  and  cathepsin K ,398,402,1.08,4,AHGY,3,LAMA2( );PLG( );HP( )
+CHGB, elastase-2  and  cathepsin K ,398,402,1.01,4,AHGY,3,LAMA2( );PLG( );HP( )
+CHGB, cathepsin K  and  matrix metallopeptidase-3 ,319,323,0.995,4,ASLG,14,LAMC2( );COL18A1( );LRG1(LRR 8);COL17A1( );TLN1( );PDCD6IP( );FAM3C( );PLEC( );MMP14( );PROCR( );CTSK( );PRKDC( );GLA( );KLK8( )
+CHGB, elastase-2  and  matrix metallopeptidase-3 ,319,323,1.08,4,ASLG,14,LAMC2( );COL18A1( );LRG1(LRR 8);COL17A1( );TLN1( );PDCD6IP( );FAM3C( );PLEC( );MMP14( );PROCR( );CTSK( );PRKDC( );GLA( );KLK8( )
+CHGB, cathepsin K  and  elastase-2 ,108,112,0.98,4,GEED,9,FN1( );VCAN( );HSPA5( );CDH1( );SERPIND1(1);ACE2( );CD209( );C1R( );PRKDC( )
+CHGB, cathepsin G  and  matrix metallopeptidase-9 ,542,546,0.905,4,MNDN,0,
+CHGB, cathepsin G  and  matrix metallopeptidase-7 ,542,546,1.0,4,MNDN,0,
+CHGB, cathepsin G  and  cathepsin G ,542,546,0.965,4,MNDN,0,
+CHGB, cathepsin K  and  cathepsin K ,543,547,1.075,4,NDNF,1,THBS1( )
+CHGB, matrix metallopeptidase-2  and  cathepsin K ,375,379,0.98,4,PQSE,4,COL4A5( );COL16A1( );AGT( );CRH( )
+CHGB, cathepsin K  and  matrix metallopeptidase-7 ,352,356,0.945,4,QAPE,5,TNC(Fibronectin type-III 5);VWF( );CKLF( );PSAPL1(Saposin B-type 2);TG( )
+CHGB, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,271,275,0.91,4,TSEV,9,VWF( );VCAN( );COL14A1( );FGG( );RPL22( );LGALS7( );PDCD6IP( );PTHLH( );GHR( )
+CHGB, elastase-2  and  matrix metallopeptidase-7 ,316,320,0.925,4,VSMA,1,HMCN2( )
+CHGB, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,429,433,0.965,4,YFMS,1,CD209( )
+CHGB, cathepsin G  and  elastase-2 ,341,345,0.925,4,YGEE,4,COL5A2( );DPT( );LAMA4( );CFH( )
+CHGB, cathepsin G  and  cathepsin K ,471,475,1.005,4,YLNY,0,
+CHGB, cathepsin G  and  cathepsin G ,525,529,1.0,4,YYDP,7,LAMA5( );LAMA3( );FMOD( );COL5A1( );COL6A3( );EMILIN1( );SPINT1( )
+CHGB, cathepsin G  and  elastase-2 ,525,529,1.01,4,YYDP,7,LAMA5( );LAMA3( );FMOD( );COL5A1( );COL6A3( );EMILIN1( );SPINT1( )

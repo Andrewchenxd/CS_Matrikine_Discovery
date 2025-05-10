@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CXCL1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,35,40,0.965,5,ASVAT,1,PRTN3( )
+CXCL1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,10,15,1.05,5,PSNPR,1,C5( )
+CXCL1, cathepsin K  and  elastase-2 ,47,52,0.945,5,QTLQG,0,

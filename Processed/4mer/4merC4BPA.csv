@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C4BPA, cathepsin K  and  matrix metallopeptidase-3 ,59,63,0.995,4,AAPM,3,COL5A1( );BDNF( );VEGFA( )
+C4BPA, cathepsin K  and  matrix metallopeptidase-7 ,59,63,1.035,4,AAPM,3,COL5A1( );BDNF( );VEGFA( )
+C4BPA, cathepsin K  and  cathepsin G ,18,22,0.97,4,AAWP,0,
+C4BPA, matrix metallopeptidase-3  and  elastase-2 ,41,45,0.98,4,ALLP,11,HMCN2( );LAMA5( );THBS4( );COL6A1( );PCOLCE( );MMP11( );PPT1( );CRH( );KLK10( );ADAMTS17( );VEGFC( )
+C4BPA, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,129,133,0.96,4,DLSF,10,ANOS1( );LUM( );COL12A1( );PZP( );A2M( );B2M( );A2ML1( );P3H1( );GDNF( );EGFR(Approximate)
+C4BPA, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,582,586,0.9,4,ELQR,11,ASPN(LRR 7);LAMB2( );PLEC( );CPQ( );NUCB2( );APOB( );SPINT1( );AFM( );TG( );SST( );P3H1( )
+C4BPA, cathepsin K  and  matrix metallopeptidase-2 ,502,506,0.97,4,VEPE,5,AEBP1( );ALDOA( );A2M( );IL4R( );HRG( )
+C4BPA, cathepsin K  and  matrix metallopeptidase-7 ,502,506,0.93,4,VEPE,5,AEBP1( );ALDOA( );A2M( );IL4R( );HRG( )

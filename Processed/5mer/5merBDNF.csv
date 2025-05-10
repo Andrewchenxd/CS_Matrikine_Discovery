@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+BDNF, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,88,93,0.9,5,DLYTS,0,
+BDNF, cathepsin G  and  cathepsin K ,59,64,0.97,5,LADTF,1,SERPINA5( )
+BDNF, matrix metallopeptidase-7  and  cathepsin K ,106,111,0.905,5,LLFLL,5,IGKV3-15( );PRDX4( );NTF4( );CMA1( );IGKV3-20( )
+BDNF, cathepsin G  and  elastase-2 ,21,26,0.98,5,MKEAN,0,
+BDNF, matrix metallopeptidase-7  and  elastase-2 ,121,126,0.91,5,NMSMR,0,
+BDNF, cathepsin K  and  cathepsin K ,97,102,0.965,5,SSQVP,2,NID1( );PRKDC( )
+BDNF, elastase-2  and  matrix metallopeptidase-9 ,2,7,0.905,5,TILFL,2,EMCN( );KNG1( )
+BDNF, cathepsin G  and  matrix metallopeptidase-7 ,116,121,0.93,5,YLDAA,1,MMP10( )

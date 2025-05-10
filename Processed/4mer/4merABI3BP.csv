@@ -1,0 +1,39 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ABI3BP, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,317,321,0.905,4,ALPA,12,HSPG2( );VTN( );TLN1( );KITLG( );PI16( );ACE( );GSN( );APOB( );IGHG1( );IGHG3( );PGF( );WFDC5( )
+ABI3BP, elastase-2  and  matrix metallopeptidase-7 ,771,775,0.96,4,ASGE,8,TNC( );COL1A1( );COL4A4( );COL15A1( );TLN1( );RNPEP( );PRKDC( );TG( )
+ABI3BP, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,304,308,0.92,4,DALK,11,TNC( );FBN1( );COL6A5( );COL6A1( );COL6A6( );CLTC( );ST14( );A2ML1( );CASP4( );WNT5A( );PRLR( )
+ABI3BP, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,1031,1035,0.905,4,DQLP,5,LAMA5( );HSPA9( );CLTC( );CLEC3B( );MUC4( )
+ABI3BP, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,633,637,1.07,4,DQST,1,LAMB1( )
+ABI3BP, cathepsin K  and  cathepsin G ,270,274,0.915,4,EKAP,4,AEBP1( );DAG1( );GGH( );PRKDC( )
+ABI3BP, cathepsin K  and  cathepsin K ,452,456,0.945,4,EMQP,1,ASPN(LRR 11)
+ABI3BP, cathepsin K  and  cathepsin K ,576,580,0.905,4,EVSY,1,C8B( )
+ABI3BP, cathepsin G  and  cathepsin G ,1015,1019,0.9,4,FVDS,2,FLNA( );TG( )
+ABI3BP, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,855,859,0.905,4,FVIL,1,ITIH5( )
+ABI3BP, cathepsin G  and  matrix metallopeptidase-9 ,440,444,0.93,4,FVPQ,5,COL6A2( );ITIH2( );FLNB( );A2ML1( );PI3(WAP)
+ABI3BP, matrix metallopeptidase-3  and  elastase-2 ,276,280,1.1,4,GVIL,6,COL14A1( );DSC2( );PGLYRP2( );ALDOA( );ITIH1( );PROS1( )
+ABI3BP, matrix metallopeptidase-2  and  elastase-2 ,276,280,1.02,4,GVIL,6,COL14A1( );DSC2( );PGLYRP2( );ALDOA( );ITIH1( );PROS1( )
+ABI3BP, elastase-2  and  elastase-2 ,253,257,1.035,4,IKQV,0,
+ABI3BP, matrix metallopeptidase-3  and  elastase-2 ,246,250,1.06,4,KLIP,2,TNC( );HSPA5( )
+ABI3BP, matrix metallopeptidase-7  and  elastase-2 ,246,250,0.925,4,KLIP,2,TNC( );HSPA5( )
+ABI3BP, matrix metallopeptidase-9  and  cathepsin G ,246,250,0.95,4,KLIP,2,TNC( );HSPA5( )
+ABI3BP, matrix metallopeptidase-9  and  elastase-2 ,246,250,1.145,4,KLIP,2,TNC( );HSPA5( )
+ABI3BP, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,30,34,0.925,4,KLPK,3,COL6A3( );COPA( );PSAP( )
+ABI3BP, cathepsin G  and  elastase-2 ,274,278,0.91,4,LGGV,14,HSPG2( );ELN( );LAMA5( );LAMA2( );LAMA4( );SDC1(Extracellular);TNF( );HSPA9( );ADH7( );LEP( );SLC25A6( );SLC25A5( );CTSD( );ADAMTS17( )
+ABI3BP, cathepsin G  and  elastase-2 ,39,43,0.91,4,LKVH,2,SOGA1( );LOXL1( )
+ABI3BP, cathepsin G  and  elastase-2 ,523,527,0.935,4,LSPE,17,FBN2( );ELN( );LAMA3( );COL2A1( );FBN1( );LTBP2( );COL6A3( );LRG1( );KITLG( );PGLYRP2( );IGHM( );GLG1( );CTSD( );HSPB1( );GNLY( );CXADR( );ESR2( )
+ABI3BP, cathepsin G  and  cathepsin K ,279,283,0.93,4,LVHL,2,COL4A6( );CLTC( )
+ABI3BP, cathepsin G  and  matrix metallopeptidase-2 ,127,131,0.94,4,LVVG,5,COL12A1( );COL14A1( );KARS( );CTSV( );CTSL( )
+ABI3BP, cathepsin K  and  elastase-2 ,288,292,0.995,4,NETT,4,VCAN( );NCAM1( );AFM(Albumin 2);CFH( )
+ABI3BP, matrix metallopeptidase-2  and  cathepsin K ,900,904,0.93,4,NLKP,6,TNC( );AIMP1( );LGALS1( );ACE2( );A2ML1( );TF( )
+ABI3BP, cathepsin K  and  cathepsin G ,955,959,0.955,4,NSDS,3,COL17A1( );SOD3( );APOB( )
+ABI3BP, cathepsin K  and  elastase-2 ,838,842,0.95,4,QNPP,0,
+ABI3BP, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,230,234,0.955,4,QSTY,2,FMOD( );NRP1( )
+ABI3BP, matrix metallopeptidase-3  and  cathepsin K ,297,301,0.99,4,SLMF,0,
+ABI3BP, matrix metallopeptidase-7  and  cathepsin K ,297,301,1.0,4,SLMF,0,
+ABI3BP, matrix metallopeptidase-9  and  cathepsin K ,297,301,0.945,4,SLMF,0,
+ABI3BP, matrix metallopeptidase-2  and  cathepsin K ,297,301,1.03,4,SLMF,0,
+ABI3BP, cathepsin K  and  elastase-2 ,783,787,0.925,4,SSSP,18,FN1( );HSPG2( );VCAN( );FBLN1( );CD34( );TNFSF12( );ENDOD1( );HNRNPU(Asp/Glu-rich (acidic));DYNC1H1( );CPE( );SERPING1( );ANGPT2( );MUC4( );PRKDC( );IL4R( );NELL2( );HGFAC( )
+ABI3BP, cathepsin K  and  matrix metallopeptidase-2 ,456,460,0.955,4,TTPA,3,LTBP2( );CD34( );CD8A( )
+ABI3BP, elastase-2  and  elastase-2 ,292,296,1.135,4,VKLP,4,CTGF( );PCOLCE( );LGALS1( );RPN1( )
+ABI3BP, elastase-2  and  elastase-2 ,225,229,0.9,4,VNGK,10,HSPG2( );NID1( );RPL22( );FGF3( );IFI30( );C7( );CELA1( );CD163( );CFI( );LTF( )
+ABI3BP, elastase-2  and  granzyme B ({Homo sapiens}-type) ,260,264,1.03,4,VTHK,0,

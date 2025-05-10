@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTSV, cathepsin K  and  cathepsin G ,200,204,0.965,4,ESYP,3,LUM( );DSG1( );CTSL( )
+CTSV, cathepsin K  and  matrix metallopeptidase-7 ,107,111,1.125,4,REPL,0,
+CTSV, cathepsin K  and  cathepsin G ,107,111,0.995,4,REPL,0,
+CTSV, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,247,251,1.005,4,SVAM,0,
+CTSV, cathepsin K  and  cathepsin K ,74,78,0.98,4,TMAM,2,SERPINB2( );CTSL( )
+CTSV, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,204,208,0.965,4,YVAV,2,F13A1( );PRKDC( )

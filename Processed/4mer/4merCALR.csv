@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CALR, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,125,129,0.94,4,DSEY,3,FRAS1( );COL14A1( );MMP14( )
+CALR, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,175,179,0.905,4,IVRP,0,
+CALR, cathepsin G  and  cathepsin K ,308,312,0.915,4,YDNF,2,PDCD6IP( );CLTC( )

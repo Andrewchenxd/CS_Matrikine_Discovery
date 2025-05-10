@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FST, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,329,334,0.955,5,DEDQD,0,
+FST, cathepsin K  and  matrix metallopeptidase-2 ,82,87,0.9,5,NGGAP,0,
+FST, cathepsin G  and  matrix metallopeptidase-9 ,214,219,1.02,5,YSSAC,0,

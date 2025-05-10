@@ -1,0 +1,14 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+HGFAC, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,424,429,0.99,5,AIYIG,0,
+HGFAC, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,592,597,0.945,5,DACQG,2,C1R( );PLAT( )
+HGFAC, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,283,288,1.0,5,DERCF,0,
+HGFAC, cathepsin K  and  elastase-2 ,368,373,1.015,5,ESLTR,1,COL14A1(VWFA 1)
+HGFAC, cathepsin G  and  cathepsin G ,375,380,1.005,5,LSPDL,1,CFH( )
+HGFAC, cathepsin K  and  matrix metallopeptidase-2 ,555,560,1.09,5,REALV,2,CPE( );C5( )
+HGFAC, cathepsin K  and  matrix metallopeptidase-7 ,555,560,0.955,5,REALV,2,CPE( );C5( )
+HGFAC, cathepsin K  and  cathepsin G ,568,573,0.96,5,SSPEV,0,
+HGFAC, elastase-2  and  matrix metallopeptidase-9 ,57,62,1.13,5,TILVT,0,
+HGFAC, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,373,378,0.905,5,VQLSP,0,
+HGFAC, elastase-2  and  matrix metallopeptidase-3 ,373,378,0.98,5,VQLSP,0,
+HGFAC, elastase-2  and  granzyme B ({Homo sapiens}-type) ,373,378,1.135,5,VQLSP,0,
+HGFAC, cathepsin G  and  cathepsin K ,550,555,0.93,5,YSSSL,1,LAD1( )

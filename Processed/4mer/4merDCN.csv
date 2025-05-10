@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DCN, cathepsin K  and  cathepsin K ,16,20,1.0,4,AGPF,1,TNXB( )
+DCN, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,273,277,1.08,4,ELHL,8,ASPN( );LAMA3( );FMOD( );BGN( );LRG1( );EEF2( );SERPINA4( );GLA( )
+DCN, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,273,277,0.985,4,ELHL,8,ASPN( );LAMA3( );FMOD( );BGN( );LRG1( );EEF2( );SERPINA4( );GLA( )
+DCN, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,27,31,0.965,4,FMLE,1,COL6A5( )
+DCN, cathepsin G  and  elastase-2 ,330,334,1.0,4,FSNP,0,
+DCN, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,218,222,0.925,4,GLPP,17,TNC( );ASPN( );SRPX( );LAMA3( );COL12A1( );LRG1( );ATP5B( );CSPG4( );KARS( );MMP28(Hemopexin 1);AHSG( );MMP2(Hemopexin 2);TEK(Fibronectin type-III 2);RBP4( );TG( );CD55( );HGFAC( )
+DCN, elastase-2  and  matrix metallopeptidase-3 ,353,357,1.02,4,IQLG,2,COL6A5( );ADAMTS17( )
+DCN, elastase-2  and  matrix metallopeptidase-7 ,129,133,0.995,4,VKLE,4,ABI3BP( );DYNC1H1( );CASP14( );APOB( )
+DCN, cathepsin G  and  matrix metallopeptidase-2 ,324,328,0.93,4,YSGV,6,HMCN2( );LAMA5( );THBS2( );LAMB1( );C5( );ST14( )

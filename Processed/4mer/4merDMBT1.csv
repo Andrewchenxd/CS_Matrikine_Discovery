@@ -1,0 +1,27 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DMBT1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,1233,1237,0.93,4,DTWP,0,
+DMBT1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,1104,1108,0.93,4,DTWP,0,
+DMBT1, cathepsin K  and  elastase-2 ,844,848,0.935,4,DTWP,0,
+DMBT1, cathepsin K  and  elastase-2 ,1362,1366,0.94,4,DTWP,0,
+DMBT1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,345,349,0.95,4,DTWP,0,
+DMBT1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,1362,1366,0.975,4,DTWP,0,
+DMBT1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,844,848,0.97,4,DTWP,0,
+DMBT1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,2052,2056,0.975,4,DVQL,6,VWF( );LAMA5( );LAMA3( );LGALS7( );PLEC( );MMP1( )
+DMBT1, cathepsin K  and  cathepsin G ,2246,2250,0.91,4,EEVQ,2,CKAP4( );P3H1( )
+DMBT1, cathepsin K  and  cathepsin K ,597,601,0.94,4,ESSL,2,GPI( );CD163( )
+DMBT1, matrix metallopeptidase-3  and  cathepsin K ,85,89,0.93,4,ESTL,8,FBN1( );VCAN( );HYOU1( );NGRN( );CLTC( );AGTR2( );LEPROT( );C1S( )
+DMBT1, matrix metallopeptidase-9  and  elastase-2 ,2265,2269,1.01,4,FLYP,4,NID1( );C2( );APOB( );PAPPA( )
+DMBT1, matrix metallopeptidase-7  and  elastase-2 ,2265,2269,1.005,4,FLYP,4,NID1( );C2( );APOB( );PAPPA( )
+DMBT1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,192,196,0.925,4,GHGE,4,ABI3BP( );LTBP2( );HNRNPU(Asp/Glu-rich (acidic))
+DMBT1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,1083,1087,0.91,4,GHSE,8,HMCN2( );HSPG2( );LAMC1( );LAMB3( );CD163( );CFHR2( );CFHR1( );CFH( )
+DMBT1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,324,328,0.91,4,GHSE,8,HMCN2( );HSPG2( );LAMC1( );LAMB3( );CD163( );CFHR2( );CFHR1( );CFH( )
+DMBT1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,164,168,0.985,4,IALD,7,SPARC( );LGALS3( );PLEC( );APOB( );C4B( );C4A( );TLL1( )
+DMBT1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,795,799,0.905,4,IVLD,3,TLN1( );CLTC( );CFB( )
+DMBT1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,556,560,0.925,4,IVLD,3,TLN1( );CLTC( );CFB( )
+DMBT1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,924,928,0.905,4,IVLD,3,TLN1( );CLTC( );CFB( )
+DMBT1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,1313,1317,0.905,4,IVLD,3,TLN1( );CLTC( );CFB( )
+DMBT1, matrix metallopeptidase-2  and  cathepsin K ,1810,1814,0.92,4,NLKL,8,CDH1( );TFRC( );FLNA( );APOA1(1);CPA4( );APOB( );FLNB( );PAPPA( )
+DMBT1, matrix metallopeptidase-3  and  cathepsin K ,2399,2403,1.04,4,PIQL,2,COLQ( );GHR( )
+DMBT1, matrix metallopeptidase-2  and  cathepsin K ,2399,2403,1.1949999999999998,4,PIQL,2,COLQ( );GHR( )
+DMBT1, matrix metallopeptidase-9  and  elastase-2 ,1882,1886,0.9,4,TLRL,15,COL7A1( );THBS2( );EMILIN1( );CSPG4( );PMEL( );PRDX1( );MAP2K2( );PLEC( );EPHB4( );PRDX4( );CPQ( );POTEKP( );IL10( );TLR9( );TIMP2( )
+DMBT1, matrix metallopeptidase-9  and  elastase-2 ,2396,2400,1.03,4,VLGP,10,FRAS1(Calx-beta 5);COL7A1( );MMP11( );MMP9( );GSN( );CD109( );FLNB( );KLK10( );SPINK5( );C1S( )

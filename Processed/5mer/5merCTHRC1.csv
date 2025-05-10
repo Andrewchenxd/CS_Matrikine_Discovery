@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTHRC1, cathepsin K  and  matrix metallopeptidase-7 ,7,12,1.03,5,AASPQ,0,
+CTHRC1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,174,179,0.955,5,AIIYL,0,
+CTHRC1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,174,179,0.95,5,AIIYL,0,
+CTHRC1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,179,184,0.995,5,DQGSP,0,
+CTHRC1, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,220,225,0.9,5,DYPKG,0,
+CTHRC1, matrix metallopeptidase-3  and  cathepsin G ,46,51,0.925,5,EVVDL,0,
+CTHRC1, cathepsin G  and  cathepsin K ,94,99,1.1,5,LRESF,0,
+CTHRC1, cathepsin G  and  matrix metallopeptidase-7 ,50,55,0.92,5,LYNGM,0,

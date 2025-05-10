@@ -1,0 +1,12 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GLA, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,15,20,0.93,5,ALRFL,2,COL5A1( );TLR9( )
+GLA, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,175,180,0.915,5,DSLEN,0,
+GLA, matrix metallopeptidase-2  and  elastase-2 ,116,121,0.91,5,GIRQL,0,
+GLA, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,261,266,0.91,5,GWNDP,0,
+GLA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,150,155,0.91,5,GYYDI,0,
+GLA, elastase-2  and  cathepsin K ,413,418,0.915,5,VLLQL,0,
+GLA, cathepsin G  and  cathepsin K ,173,178,0.98,5,YCDSL,0,
+GLA, cathepsin K  and  matrix metallopeptidase-9 ,397,402,0.98,5,YEWTS,0,
+GLA, cathepsin K  and  cathepsin K ,207,212,1.0750000000000002,5,YMWPF,0,
+GLA, matrix metallopeptidase-9  and  cathepsin K ,207,212,0.93,5,YMWPF,0,
+GLA, matrix metallopeptidase-7  and  cathepsin K ,207,212,0.9,5,YMWPF,0,

@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ARF4, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,133,138,0.9,5,AMAIS,0,
+ARF4, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,133,138,0.945,5,AMAIS,0,
+ARF4, cathepsin K  and  cathepsin K ,144,149,1.005,5,GLQSL,0,
+ARF4, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,2,7,0.97,5,GLTIS,0,
+ARF4, cathepsin K  and  cathepsin G ,149,154,0.995,5,RNRTW,0,

@@ -1,0 +1,26 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD163, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,1106,1111,0.92,5,DDLDL,0,
+CD163, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,1122,1127,0.915,5,DFSAA,1,HMCN2( )
+CD163, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,1122,1127,0.915,5,DFSAA,1,HMCN2( )
+CD163, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,367,372,0.94,5,DGSDL,0,
+CD163, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,153,158,1.035,5,DGSNL,0,
+CD163, matrix metallopeptidase-9  and  cathepsin K ,1107,1112,0.925,5,DLDLM,0,
+CD163, matrix metallopeptidase-7  and  cathepsin K ,1107,1112,1.06,5,DLDLM,0,
+CD163, cathepsin K  and  elastase-2 ,776,781,0.91,5,EGTGP,0,
+CD163, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,675,680,0.92,5,EQVAS,0,
+CD163, cathepsin K  and  cathepsin G ,602,607,0.91,5,GAWGS,0,
+CD163, cathepsin K  and  cathepsin K ,529,534,0.925,5,GGAHF,0,
+CD163, cathepsin G  and  elastase-2 ,35,40,0.95,5,LSACF,0,
+CD163, matrix metallopeptidase-3  and  elastase-2 ,1140,1145,0.915,5,MEKEA,0,
+CD163, cathepsin G  and  elastase-2 ,659,664,0.92,5,MGDCP,0,
+CD163, cathepsin K  and  matrix metallopeptidase-7 ,1104,1109,1.105,5,NADDL,1,THBS2( )
+CD163, cathepsin G  and  cathepsin K ,78,83,1.01,5,NGWSM,0,
+CD163, cathepsin K  and  cathepsin K ,78,83,0.93,5,NGWSM,0,
+CD163, matrix metallopeptidase-7  and  elastase-2 ,1089,1094,0.93,5,NLVHQ,0,
+CD163, cathepsin K  and  cathepsin G ,434,439,0.995,5,NTWLF,0,
+CD163, cathepsin K  and  cathepsin K ,434,439,0.92,5,NTWLF,0,
+CD163, cathepsin K  and  matrix metallopeptidase-2 ,932,937,0.99,5,QEGPT,0,
+CD163, cathepsin K  and  cathepsin G ,209,214,0.905,5,SGSSN,0,
+CD163, elastase-2  and  matrix metallopeptidase-3 ,664,669,0.91,5,VTALG,0,
+CD163, elastase-2  and  elastase-2 ,664,669,1.0750000000000002,5,VTALG,0,
+CD163, elastase-2  and  cathepsin K ,40,45,0.985,5,VTSSL,0,

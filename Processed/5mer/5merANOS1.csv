@@ -1,0 +1,24 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ANOS1, elastase-2  and  elastase-2 ,294,299,0.955,5,ANLRL,0,
+ANOS1, matrix metallopeptidase-3  and  cathepsin K ,64,69,0.905,5,FFQHF,0,
+ANOS1, cathepsin G  and  elastase-2 ,298,303,1.15,5,LANST,1,LAMA5( )
+ANOS1, cathepsin G  and  elastase-2 ,582,587,0.945,5,MTGFQ,0,
+ANOS1, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,553,558,0.935,5,NLSAS,2,DPP7( );PRTN3( )
+ANOS1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,553,558,0.975,5,NLSAS,2,DPP7( );PRTN3( )
+ANOS1, matrix metallopeptidase-2  and  cathepsin G ,553,558,1.015,5,NLSAS,2,DPP7( );PRTN3( )
+ANOS1, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,553,558,0.96,5,NLSAS,2,DPP7( );PRTN3( )
+ANOS1, matrix metallopeptidase-9  and  cathepsin G ,553,558,1.0,5,NLSAS,2,DPP7( );PRTN3( )
+ANOS1, matrix metallopeptidase-7  and  cathepsin G ,553,558,0.975,5,NLSAS,2,DPP7( );PRTN3( )
+ANOS1, matrix metallopeptidase-7  and  cathepsin G ,577,582,0.96,5,NLYQP,0,
+ANOS1, matrix metallopeptidase-9  and  cathepsin K ,267,272,0.96,5,NVHGT,0,
+ANOS1, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,504,509,0.935,5,PIRPK,0,
+ANOS1, cathepsin K  and  matrix metallopeptidase-2 ,102,107,1.015,5,QSFCE,0,
+ANOS1, matrix metallopeptidase-7  and  cathepsin G ,34,39,0.93,5,RLDES,0,
+ANOS1, elastase-2  and  elastase-2 ,235,240,0.955,5,THWQT,0,
+ANOS1, matrix metallopeptidase-3  and  cathepsin K ,646,651,0.91,5,TIKTF,0,
+ANOS1, matrix metallopeptidase-2  and  cathepsin K ,646,651,1.165,5,TIKTF,0,
+ANOS1, matrix metallopeptidase-7  and  elastase-2 ,177,182,0.965,5,TLYKG,0,
+ANOS1, elastase-2  and  matrix metallopeptidase-9 ,416,421,0.975,5,TQLPF,0,
+ANOS1, cathepsin G  and  cathepsin G ,458,463,0.995,5,YHVRW,0,
+ANOS1, cathepsin G  and  matrix metallopeptidase-7 ,486,491,0.97,5,YIILQ,0,
+ANOS1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,486,491,0.935,5,YIILQ,0,

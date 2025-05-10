@@ -1,0 +1,22 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APOA4, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,60,64,0.94,4,ALFQ,4,LGALS3BP( );ACTG1( );POTEKP( );KLK8( )
+APOA4, matrix metallopeptidase-9  and  cathepsin K ,227,231,0.91,4,AQDT,2,LAMA5( );LAMB3( )
+APOA4, cathepsin K  and  cathepsin K ,297,301,0.975,4,DQQV,0,
+APOA4, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,273,277,0.945,4,DVRG,1,COPA( )
+APOA4, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,273,277,0.935,4,DVRG,1,COPA( )
+APOA4, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,33,37,0.91,4,DYFS,1,ERAP1( )
+APOA4, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,86,90,1.03,4,ELHE,2,PLEC(Plectin 13);QPCT( )
+APOA4, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,86,90,0.965,4,ELHE,2,PLEC(Plectin 13);QPCT( )
+APOA4, cathepsin G  and  cathepsin G ,83,87,0.99,4,FATE,1,CSPG4( )
+APOA4, matrix metallopeptidase-7  and  cathepsin K ,390,394,0.965,4,MLAP,4,COL7A1( );THBS4( );DMBT1( );ADAMTSL5( )
+APOA4, cathepsin K  and  cathepsin K ,352,356,0.975,4,NSFF,1,PPT1( )
+APOA4, cathepsin K  and  cathepsin K ,286,290,0.905,4,QKSL,10,CLCA4( );IL1B( );PLEC( );COPA( );IGHG4( );IGHG1( );IGHG2( );IGHG3( );SST( );CFI( )
+APOA4, matrix metallopeptidase-7  and  cathepsin G ,156,160,0.94,4,QLTP,7,COLQ( );APOE(1);APOA2( );SERPIND1( );A2M( );APOB( );CALU( )
+APOA4, cathepsin K  and  matrix metallopeptidase-7 ,389,393,0.915,4,QMLA,0,
+APOA4, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,90,94,1.005,4,RLAK,10,HSPD1( );VCL( );HSP90B1( );ITIH2( );EEF2( );P4HB( );DYNC1H1( );ACTN1( );C1S( );ALB( )
+APOA4, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,163,167,0.925,4,RMER,0,
+APOA4, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,174,178,0.915,4,SLQA,5,CKAP4( );IGKV4-1( );CPA4( );APOB( );PRKDC( )
+APOA4, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,174,178,0.905,4,SLQA,5,CKAP4( );IGKV4-1( );CPA4( );APOB( );PRKDC( )
+APOA4, elastase-2  and  cathepsin K ,55,59,0.97,4,TQQL,10,NID1( );S100A13( );PZP( );AGT( );C3( );ATP5A1( );MIF( );A2M( );ITIH1( );PKM( )
+APOA4, elastase-2  and  cathepsin G ,351,355,0.955,4,VNSF,1,CLCA4( )
+APOA4, cathepsin G  and  cathepsin G ,204,208,1.03,4,YADE,3,DSG1( );IL2( );FLNB( )

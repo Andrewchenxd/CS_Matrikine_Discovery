@@ -1,0 +1,17 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGFR2, elastase-2  and  matrix metallopeptidase-2 ,260,265,0.96,5,AGLPA,6,THBS3( );COL4A6( );FLNA( );FGFR3( );FGFR4( );FGFR1( )
+FGFR2, elastase-2  and  matrix metallopeptidase-9 ,260,265,0.9,5,AGLPA,6,THBS3( );COL4A6( );FLNA( );FGFR3( );FGFR4( );FGFR1( )
+FGFR2, elastase-2  and  matrix metallopeptidase-3 ,260,265,0.915,5,AGLPA,6,THBS3( );COL4A6( );FLNA( );FGFR3( );FGFR4( );FGFR1( )
+FGFR2, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,283,288,0.94,5,DAQPH,2,FGFR3( );FGFR4( )
+FGFR2, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,685,690,0.9,5,DVWSF,5,KDR( );FGFR3( );SLTM( );FGFR4( );FGFR1( )
+FGFR2, cathepsin K  and  matrix metallopeptidase-9 ,36,41,0.93,5,EEPPT,0,
+FGFR2, cathepsin K  and  cathepsin K ,777,782,1.05,5,EQYSP,1,FGFR3( )
+FGFR2, cathepsin K  and  cathepsin G ,59,64,0.935,5,EVRCL,0,
+FGFR2, cathepsin K  and  cathepsin G ,798,803,1.13,5,FSPDP,0,
+FGFR2, cathepsin G  and  cathepsin G ,798,803,0.97,5,FSPDP,0,
+FGFR2, cathepsin K  and  cathepsin K ,488,493,0.975,5,GEGCF,3,FGFR3( );FGFR4( );FGFR1( )
+FGFR2, elastase-2  and  matrix metallopeptidase-2 ,548,553,0.925,5,INLLG,4,FGFR3( );TEK( );FGFR4( );FGFR1( )
+FGFR2, cathepsin G  and  cathepsin G ,439,444,0.925,5,NSNTP,0,
+FGFR2, cathepsin K  and  cathepsin G ,482,487,1.045,5,TLGKP,1,FGFR3( )
+FGFR2, elastase-2  and  cathepsin K ,428,433,0.92,5,VTVSA,3,PZP( );A2M( );FGFR1( )
+FGFR2, cathepsin G  and  cathepsin K ,214,219,0.94,5,WSLIM,0,

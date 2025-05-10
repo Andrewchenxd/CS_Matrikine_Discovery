@@ -1,0 +1,18 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CXADR, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,242,246,1.105,4,AIIG,2,SPON1( );NECTIN1( )
+CXADR, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,242,246,1.105,4,AIIG,2,SPON1( );NECTIN1( )
+CXADR, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,251,255,0.91,4,ALIG,3,LUM( );CPA4( );C1S( )
+CXADR, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,276,280,0.94,4,DIRE,1,LAMB1( )
+CXADR, cathepsin G  and  elastase-2 ,189,193,1.075,4,LAEM,4,FRAS1( );PMEL(6);EPHB4( );OLFML1( )
+CXADR, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,354,358,0.92,4,MIPA,1,VWF( )
+CXADR, cathepsin K  and  matrix metallopeptidase-9 ,305,309,0.93,4,MSPS,1,VWA8( )
+CXADR, cathepsin K  and  cathepsin G ,185,189,0.97,4,PTSW,0,
+CXADR, matrix metallopeptidase-2  and  cathepsin K ,19,23,1.08,4,SLSI,6,FRAS1( );UCN( );LBP( );FLNA( );IL1A( );EGFR( )
+CXADR, matrix metallopeptidase-7  and  cathepsin K ,19,23,1.0699999999999998,4,SLSI,6,FRAS1( );UCN( );LBP( );FLNA( );IL1A( );EGFR( )
+CXADR, matrix metallopeptidase-3  and  cathepsin K ,19,23,1.005,4,SLSI,6,FRAS1( );UCN( );LBP( );FLNA( );IL1A( );EGFR( )
+CXADR, matrix metallopeptidase-9  and  cathepsin K ,19,23,1.05,4,SLSI,6,FRAS1( );UCN( );LBP( );FLNA( );IL1A( );EGFR( )
+CXADR, cathepsin K  and  matrix metallopeptidase-9 ,334,338,0.925,4,TLPP,21,HMCN2( );COL7A1( );VWF( );AEBP1( );VCAN( );DMBT1( );LRG1( );TLN1( );HPSE( );NTF4( );MMP19( );IGHG4( );IGHG1( );HSPB1( );C4B( );C4A( );IGHG2( );IGHG3( );TPSD1( );TPSB2( );TPSAB1( )
+CXADR, elastase-2  and  elastase-2 ,193,197,0.96,4,TSSV,9,EFEMP1( );COL4A5( );CTHRC1( );DAG1( );FLNA( );IGHM( );MUC4( );PDGFA( );HRG( )
+CXADR, elastase-2  and  cathepsin K ,186,190,1.0,4,TSWL,0,
+CXADR, cathepsin K  and  matrix metallopeptidase-3 ,23,27,1.0699999999999998,4,TTPE,6,TNXB(Fibronectin type-III 18);THBS1( );HSPD1( );DYNC1H1( );CD14( );KDR( )
+CXADR, cathepsin K  and  matrix metallopeptidase-9 ,23,27,1.055,4,TTPE,6,TNXB(Fibronectin type-III 18);THBS1( );HSPD1( );DYNC1H1( );CD14( );KDR( )

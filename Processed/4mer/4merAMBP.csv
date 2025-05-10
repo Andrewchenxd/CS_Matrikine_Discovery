@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AMBP, matrix metallopeptidase-3  and  cathepsin K ,177,181,1.01,4,DSIF,2,COL15A1( );HADHA( )
+AMBP, cathepsin K  and  matrix metallopeptidase-2 ,2,6,0.96,4,RSLG,11,LAMC2( );LTBP2( );LAMA2( );CKAP4( );VCL( );SOGA1( );CALM1( );PRKDC( );ADM2( );GDNF( );CFH( )
+AMBP, matrix metallopeptidase-2  and  cathepsin K ,67,71,1.235,4,TLVL,12,COL7A1( );COL2A1( );COL18A1( );LRG1( );HSPD1( );HSP90B1( );CLCA4( );PGLYRP2( );CD14( );MMP9( );FLT1( );PI3( )
+AMBP, matrix metallopeptidase-9  and  cathepsin K ,67,71,1.04,4,TLVL,12,COL7A1( );COL2A1( );COL18A1( );LRG1( );HSPD1( );HSP90B1( );CLCA4( );PGLYRP2( );CD14( );MMP9( );FLT1( );PI3( )
+AMBP, matrix metallopeptidase-3  and  cathepsin K ,67,71,1.045,4,TLVL,12,COL7A1( );COL2A1( );COL18A1( );LRG1( );HSPD1( );HSP90B1( );CLCA4( );PGLYRP2( );CD14( );MMP9( );FLT1( );PI3( )

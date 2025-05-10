@@ -1,0 +1,12 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ECM1, elastase-2  and  cathepsin K ,94,98,0.93,4,AQLP,4,SERPINF1( );GBA( );SEMA3A(Sema);PLG( )
+ECM1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,136,140,0.91,4,DQSH,1,PAPPA( )
+ECM1, matrix metallopeptidase-3  and  cathepsin K ,125,129,0.915,4,EQKE,5,HYOU1( );GBP1( );HSPA9( );SOD1( );IGF1( )
+ECM1, cathepsin G  and  matrix metallopeptidase-9 ,499,503,0.945,4,FNIN,2,C1QBP( );ITIH1( )
+ECM1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,440,444,0.975,4,GLIH,0,
+ECM1, elastase-2  and  cathepsin K ,442,446,0.91,4,IHNM,0,
+ECM1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,509,513,0.945,4,LVSG,13,COL7A1( );HSPG2( );LAMB2( );TGFBI( );COL12A1( );LAMB3( );LAMA4( );CCT6A( );CPQ( );PROS1( );KLK5( );HPX( );CTSB( )
+ECM1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,420,424,0.91,4,NLMG,1,TNC( )
+ECM1, matrix metallopeptidase-9  and  elastase-2 ,176,180,0.945,4,NLNQ,2,FRAS1( );COL12A1( )
+ECM1, cathepsin K  and  matrix metallopeptidase-9 ,108,112,0.94,4,QEAV,5,COL3A1( );CSPG4( );PLEC( );PSAPL1( );P3H1( )
+ECM1, cathepsin K  and  matrix metallopeptidase-3 ,121,125,0.9,4,QHPN,3,EFEMP2( );IGHM( );LEPROT( )

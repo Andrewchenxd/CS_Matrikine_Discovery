@@ -1,0 +1,15 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGG, matrix metallopeptidase-3  and  cathepsin G ,287,291,0.985,4,DYAM,0,
+FGG, cathepsin K  and  cathepsin K ,70,74,1.11,4,EDIL,6,FRAS1( );THBS1( );THBS2( );VCAN( );LAMB1( );COL17A1( )
+FGG, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,441,445,1.025,4,ETEY,2,COL12A1( );IGFBP3(Thyroglobulin type-1)
+FGG, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,441,445,0.975,4,ETEY,2,COL12A1( );IGFBP3(Thyroglobulin type-1)
+FGG, cathepsin K  and  matrix metallopeptidase-9 ,429,433,0.93,4,GGAK,4,HIST1H4A( );GAPDH( );DYNC1H1( );NGFR(Extracellular)
+FGG, matrix metallopeptidase-9  and  cathepsin K ,335,339,0.92,4,GMQF,2,C5( );CD109( )
+FGG, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,126,130,0.905,4,ILTH,3,C5( );ANGPT1( );FLT1( )
+FGG, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,126,130,0.96,4,ILTH,3,C5( );ANGPT1( );FLT1( )
+FGG, elastase-2  and  cathepsin K ,119,123,0.97,4,IMKY,0,
+FGG, elastase-2  and  cathepsin G ,90,94,1.105,4,IQLT,2,COL1A1( );COLQ( )
+FGG, elastase-2  and  cathepsin K ,133,137,0.94,4,IRYL,1,NGRN( )
+FGG, cathepsin K  and  cathepsin G ,116,120,0.9,4,LEEI,12,LAMA3( );COL6A3( );COL6A5( );COL6A6( );LAMA4( );HSPA5( );MYH9( );PFKP( );PLEC( );AHSG( );S100B(EF-hand 1);PRKDC( )
+FGG, matrix metallopeptidase-7  and  elastase-2 ,104,108,1.06,4,MIDA,2,ADH7( );EGFR( )
+FGG, matrix metallopeptidase-7  and  cathepsin K ,417,421,0.935,4,RLTI,3,EFEMP1( );LAMA2( );SLTM( )

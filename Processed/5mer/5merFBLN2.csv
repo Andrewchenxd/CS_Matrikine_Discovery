@@ -1,0 +1,21 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FBLN2, cathepsin K  and  elastase-2 ,147,152,1.16,5,AAGHT,1,ACE( )
+FBLN2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,72,77,0.97,5,DCLQG,2,TUBB( );TUBB4B( )
+FBLN2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,1115,1120,1.005,5,DTIAL,0,
+FBLN2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,1115,1120,0.96,5,DTIAL,0,
+FBLN2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,1115,1120,0.975,5,DTIAL,0,
+FBLN2, matrix metallopeptidase-2  and  cathepsin K ,168,173,1.035,5,ELICY,0,
+FBLN2, cathepsin G  and  elastase-2 ,386,391,1.135,5,HNILS,0,
+FBLN2, matrix metallopeptidase-9  and  cathepsin K ,1174,1179,1.095,5,KMHIF,0,
+FBLN2, cathepsin G  and  matrix metallopeptidase-7 ,290,295,0.955,5,MAVTE,0,
+FBLN2, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,1110,1115,0.975,5,PAFTG,0,
+FBLN2, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,254,259,0.985,5,PTAAA,5,HSPA5( );HSPA8( );ITIH2( );HSPA9( );C4A( )
+FBLN2, cathepsin K  and  matrix metallopeptidase-2 ,1105,1110,1.085,5,RIGPA,0,
+FBLN2, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,1085,1090,0.96,5,RITHY,0,
+FBLN2, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,1085,1090,0.945,5,RITHY,0,
+FBLN2, elastase-2  and  matrix metallopeptidase-3 ,391,396,1.0550000000000002,5,TSLPD,0,
+FBLN2, elastase-2  and  matrix metallopeptidase-9 ,391,396,1.0550000000000002,5,TSLPD,0,
+FBLN2, elastase-2  and  cathepsin K ,356,361,1.015,5,VTHAP,2,HSPG2( );LTBP2( )
+FBLN2, elastase-2  and  matrix metallopeptidase-7 ,356,361,0.99,5,VTHAP,2,HSPG2( );LTBP2( )
+FBLN2, cathepsin G  and  matrix metallopeptidase-7 ,197,202,1.115,5,YSYDQ,0,
+FBLN2, cathepsin G  and  cathepsin K ,70,75,1.035,5,YYDCL,0,

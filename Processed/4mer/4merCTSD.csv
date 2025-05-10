@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTSD, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,225,229,0.91,4,DQNI,1,PRKDC( )
+CTSD, cathepsin K  and  matrix metallopeptidase-9 ,278,282,0.925,4,EVAS,3,LAMA5( );CASP4( );VEGFD( )
+CTSD, cathepsin G  and  cathepsin K ,26,30,0.985,4,LHKF,1,APOB( )
+CTSD, matrix metallopeptidase-2  and  cathepsin G ,5,9,1.035,4,SLLP,14,TNXB( );VWF( );NID1( );VWA5B1( );CD34( );VWA8( );PLEC( );GANAB( );ORM1( );APOB( );ORM2( );KLKB1( );CFI( );PRLR( )
+CTSD, elastase-2  and  elastase-2 ,35,39,0.96,4,TMSE,2,SPON1( );C7( )
+CTSD, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,93,97,0.91,4,TVVF,2,LAMA5( );LAMA3( )
+CTSD, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,383,387,0.9,4,WILG,1,PRKDC( )
+CTSD, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,383,387,1.0,4,WILG,1,PRKDC( )
+CTSD, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,383,387,1.0,4,WILG,1,PRKDC( )

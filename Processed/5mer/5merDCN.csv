@@ -1,0 +1,11 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DCN, matrix metallopeptidase-3  and  elastase-2 ,124,129,0.94,5,AFTPL,0,
+DCN, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,261,266,0.96,5,DNGSL,0,
+DCN, cathepsin K  and  matrix metallopeptidase-9 ,330,335,0.9,5,FSNPV,0,
+DCN, cathepsin G  and  matrix metallopeptidase-9 ,330,335,1.02,5,FSNPV,0,
+DCN, cathepsin G  and  matrix metallopeptidase-3 ,330,335,0.965,5,FSNPV,0,
+DCN, elastase-2  and  cathepsin G ,353,358,0.91,5,IQLGN,0,
+DCN, cathepsin K  and  matrix metallopeptidase-9 ,217,222,0.955,5,QGLPP,0,
+DCN, cathepsin K  and  matrix metallopeptidase-3 ,217,222,0.915,5,QGLPP,0,
+DCN, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,224,229,0.93,5,TELHL,0,
+DCN, cathepsin G  and  elastase-2 ,348,353,0.95,5,YVRSA,0,

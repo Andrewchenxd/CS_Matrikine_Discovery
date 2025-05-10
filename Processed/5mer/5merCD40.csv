@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD40, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,194,199,0.96,5,ALVVI,0,
+CD40, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,194,199,0.95,5,ALVVI,0,
+CD40, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,194,199,0.95,5,ALVVI,0,
+CD40, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,235,240,0.965,5,EINFP,0,
+CD40, elastase-2  and  matrix metallopeptidase-3 ,236,241,0.925,5,INFPD,0,
+CD40, cathepsin K  and  elastase-2 ,231,236,1.06,5,QEPQE,0,

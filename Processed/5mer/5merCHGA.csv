@@ -1,0 +1,26 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CHGA, elastase-2  and  matrix metallopeptidase-9 ,405,410,0.93,5,AGLPL,0,
+CHGA, matrix metallopeptidase-7  and  cathepsin G ,153,158,1.035,5,ALPEP,2,HMCN2( );PLEC( )
+CHGA, matrix metallopeptidase-9  and  cathepsin G ,153,158,0.945,5,ALPEP,2,HMCN2( );PLEC( )
+CHGA, matrix metallopeptidase-3  and  cathepsin G ,153,158,0.955,5,ALPEP,2,HMCN2( );PLEC( )
+CHGA, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,187,192,0.935,5,ASLPS,0,
+CHGA, elastase-2  and  matrix metallopeptidase-7 ,187,192,0.995,5,ASLPS,0,
+CHGA, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,187,192,1.005,5,ASLPS,0,
+CHGA, elastase-2  and  matrix metallopeptidase-9 ,187,192,1.065,5,ASLPS,0,
+CHGA, cathepsin K  and  matrix metallopeptidase-9 ,187,192,0.96,5,ASLPS,0,
+CHGA, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,366,371,0.935,5,DNRDS,0,
+CHGA, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,346,351,0.935,5,DQLAK,0,
+CHGA, cathepsin K  and  matrix metallopeptidase-7 ,346,351,0.92,5,DQLAK,0,
+CHGA, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,202,207,0.955,5,DSEGL,0,
+CHGA, cathepsin K  and  cathepsin G ,404,409,1.18,5,EAGLP,3,COL1A1( );COL4A1( );FLNA( )
+CHGA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,58,63,0.97,5,ETLRG,0,
+CHGA, cathepsin K  and  matrix metallopeptidase-7 ,76,81,0.925,5,LKELQ,0,
+CHGA, cathepsin G  and  cathepsin K ,154,159,0.98,5,LPEPM,1,LAMA5( )
+CHGA, cathepsin G  and  cathepsin G ,409,414,0.975,5,LQVRG,0,
+CHGA, cathepsin G  and  cathepsin K ,309,314,0.955,5,MAVVP,0,
+CHGA, cathepsin G  and  matrix metallopeptidase-9 ,1,6,1.0,5,MRSAA,0,
+CHGA, matrix metallopeptidase-9  and  cathepsin K ,450,455,0.96,5,QLQAL,2,HMCN2( );ACE2( )
+CHGA, cathepsin K  and  matrix metallopeptidase-3 ,377,382,0.945,5,RARAY,0,
+CHGA, cathepsin K  and  matrix metallopeptidase-9 ,377,382,0.93,5,RARAY,0,
+CHGA, matrix metallopeptidase-7  and  cathepsin K ,436,441,0.975,5,SLSAI,1,PLEC( )
+CHGA, elastase-2  and  cathepsin K ,447,452,1.075,5,VAHQL,0,

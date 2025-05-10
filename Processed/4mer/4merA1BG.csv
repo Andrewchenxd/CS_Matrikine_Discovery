@@ -1,0 +1,14 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+A1BG, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,260,264,0.945,4,DRIF,3,DYNC1H1( );C2( );TNFSF10( )
+A1BG, cathepsin K  and  elastase-2 ,73,77,1.055,4,DSPA,8,FRAS1( );FN1( );MATN2( );SERPINA6( );CRH( );CASP4( );TG( );EGFR( )
+A1BG, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,73,77,0.935,4,DSPA,8,FRAS1( );FN1( );MATN2( );SERPINA6( );CRH( );CASP4( );TG( );EGFR( )
+A1BG, matrix metallopeptidase-2  and  cathepsin K ,489,493,0.9,4,ELLV,9,HMCN2( );HSPG2( );PCOLCE( );CPE( );PI16( );GANAB( );APCS( );FLNB( );TNFRSF1A( )
+A1BG, cathepsin K  and  elastase-2 ,217,221,0.905,4,ESSQ,3,COL7A1( );POMC( );KLK6( )
+A1BG, elastase-2  and  matrix metallopeptidase-7 ,77,81,0.945,4,IKHQ,0,
+A1BG, cathepsin G  and  cathepsin K ,283,287,0.96,4,LHDN,1,TLL1( )
+A1BG, matrix metallopeptidase-9  and  cathepsin K ,212,216,0.96,4,LMHH,0,
+A1BG, cathepsin G  and  elastase-2 ,484,488,0.96,4,LSDP,6,HSPG2( );ITIH4( );DYNC1H1( );IDE( );WDR1( );PRKDC( )
+A1BG, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,236,240,0.975,4,LSGV,7,COL18A1( );COL4A4( );COL4A6( );COL15A1( );COL17A1( );LAD1( );SERPINA1( )
+A1BG, matrix metallopeptidase-9  and  elastase-2 ,454,458,1.035,4,NLEL,5,LBP( );SERPING1( );MUC4( );PROS1( );FLT1(Extracellular)
+A1BG, matrix metallopeptidase-7  and  elastase-2 ,454,458,0.93,4,NLEL,5,LBP( );SERPING1( );MUC4( );PROS1( );FLT1(Extracellular)
+A1BG, elastase-2  and  granzyme B ({Homo sapiens}-type) ,269,273,0.965,4,VALG,16,COL14A1(Collagen-like 1);COL6A1( );LAMA4( );CSPG4(Laminin G-like 2);CCT2( );IGLV3-19( );IL1B( );C4B( );C4A( );KLK14( );FGFR4( );HPX( );TLR9( );FGFR1( );WNT5A( );EGFR( )

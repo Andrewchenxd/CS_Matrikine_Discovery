@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FAM3C, cathepsin K  and  matrix metallopeptidase-2 ,74,79,1.02,5,ASGAA,1,P3H1( )
+FAM3C, cathepsin K  and  matrix metallopeptidase-9 ,74,79,1.015,5,ASGAA,1,P3H1( )
+FAM3C, cathepsin K  and  matrix metallopeptidase-3 ,74,79,0.995,5,ASGAA,1,P3H1( )
+FAM3C, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,32,37,0.95,5,DASLG,1,COL18A1( )
+FAM3C, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,32,37,0.905,5,DASLG,1,COL18A1( )

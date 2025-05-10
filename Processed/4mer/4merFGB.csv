@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGB, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,385,389,0.92,4,DGAS,11,HMCN2( );COL7A1( );COL18A1( );NID1( );LAMA2( );COL15A1( );SDC1( );CSPG4( );CD109( );IL1RL1( );CFH( )
+FGB, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,215,219,0.93,4,DVSA,5,HSPH1( );SERPIND1( );POMC( );ATP5A1( );TLR9( )
+FGB, cathepsin K  and  cathepsin G ,320,324,0.92,4,GEYW,8,COL1A1( );MFAP4( );COL5A2( );COL3A1( );COL5A1( );ANGPT2( );ANGPT1( );CFB( )
+FGB, elastase-2  and  cathepsin K ,209,213,1.155,4,IQKL,6,SPON1( );COL6A3( );ATP5O( );HSPA8( );IDE( );APOB( )
+FGB, elastase-2  and  matrix metallopeptidase-3 ,66,70,0.96,4,ISGG,5,TNC( );ITIH4( );DSG1( );C2( );SLTM( )
+FGB, cathepsin K  and  matrix metallopeptidase-7 ,146,150,0.945,4,QYMY,0,
+FGB, elastase-2  and  matrix metallopeptidase-9 ,193,197,1.185,4,TNLR,3,LAMB2( );LAMB1( );LAMB3( )
+FGB, elastase-2  and  matrix metallopeptidase-7 ,193,197,1.08,4,TNLR,3,LAMB2( );LAMB1( );LAMB3( )
+FGB, cathepsin G  and  matrix metallopeptidase-7 ,149,153,0.91,4,YLLK,3,LAMA4( );FLNA( );ACE( )

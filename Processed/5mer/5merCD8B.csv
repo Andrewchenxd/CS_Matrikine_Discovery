@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD8B, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,64,69,0.96,5,DSHHE,1,ESR2( )
+CD8B, cathepsin G  and  cathepsin K ,115,120,0.965,5,FCMIV,0,
+CD8B, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,69,74,1.01,5,FLALW,0,
+CD8B, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,175,180,1.005,5,LLVAG,4,COL6A3( );NAXE( );DYNC1H1( );LGALS3BP( )
+CD8B, cathepsin K  and  matrix metallopeptidase-2 ,23,28,1.165,5,QQTPA,0,
+CD8B, cathepsin K  and  matrix metallopeptidase-3 ,23,28,0.925,5,QQTPA,0,
+CD8B, cathepsin K  and  matrix metallopeptidase-7 ,23,28,0.98,5,QQTPA,0,
+CD8B, elastase-2  and  elastase-2 ,140,145,0.905,5,TTAQP,0,
+CD8B, elastase-2  and  cathepsin K ,37,42,1.09,5,VMLSC,1,FBLN2(Anaphylatoxin-like 3)

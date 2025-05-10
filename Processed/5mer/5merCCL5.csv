@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CCL5, matrix metallopeptidase-3  and  cathepsin G ,21,26,1.015,5,ASASP,0,
+CCL5, elastase-2  and  cathepsin G ,21,26,0.985,5,ASASP,0,
+CCL5, cathepsin G  and  cathepsin K ,84,89,0.95,5,YINSL,0,

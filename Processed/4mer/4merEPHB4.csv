@@ -1,0 +1,34 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EPHB4, elastase-2  and  cathepsin G ,894,898,1.025,4,ASHP,8,LTBP2( );COL6A5( );COL6A6( );DPP7( );PLSCR1( );P3H1( );WFDC5( );PLAT( )
+EPHB4, elastase-2  and  matrix metallopeptidase-7 ,894,898,0.92,4,ASHP,8,LTBP2( );COL6A5( );COL6A6( );DPP7( );PLSCR1( );P3H1( );WFDC5( );PLAT( )
+EPHB4, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,39,43,0.915,4,DGQW,5,LAMA5( );LAMA3( );LAMA2( );TLN1( );TG( )
+EPHB4, cathepsin K  and  matrix metallopeptidase-3 ,672,676,1.0950000000000002,4,EHPN,1,FRAS1( )
+EPHB4, cathepsin K  and  matrix metallopeptidase-7 ,672,676,0.905,4,EHPN,1,FRAS1( )
+EPHB4, cathepsin K  and  matrix metallopeptidase-2 ,937,941,1.005,4,ELVS,9,HSPG2( );COL12A1( );COL14A1( );CKAP4( );RPL9( );ENDOD1( );C5( );SLTM( );AFM( )
+EPHB4, cathepsin G  and  matrix metallopeptidase-2 ,422,426,0.94,4,FEPV,1,DSG1( )
+EPHB4, cathepsin K  and  cathepsin G ,817,821,1.26,4,GERP,3,UCN( );HSPA5( );C8B( )
+EPHB4, cathepsin K  and  matrix metallopeptidase-9 ,760,764,0.94,4,GLSR,11,LTBP2( );COL5A2( );LTBP2( );LAMA2( );EMILIN1( );ATP5O( );DAG1( );FLNA( );PTHLH( );CREG1( );TEK( )
+EPHB4, cathepsin G  and  matrix metallopeptidase-2 ,334,338,0.91,4,LNGS,7,COL7A1( );TLN1( );NECTIN1( );C2( );LIF( );NGFR( );P3H1( )
+EPHB4, cathepsin G  and  matrix metallopeptidase-9 ,334,338,0.93,4,LNGS,7,COL7A1( );TLN1( );NECTIN1( );C2( );LIF( );NGFR( );P3H1( )
+EPHB4, matrix metallopeptidase-9  and  elastase-2 ,421,425,0.92,4,PFEP,1,TIMP1( )
+EPHB4, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,716,720,0.985,4,QLVG,6,CCT6A( );DAG1( );ITIH2( );PLEC( );C5( );TSLP( )
+EPHB4, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,716,720,0.99,4,QLVG,6,CCT6A( );DAG1( );ITIH2( );PLEC( );C5( );TSLP( )
+EPHB4, cathepsin K  and  cathepsin K ,525,529,0.935,4,QTQL,4,ANOS1( );COL6A6( );DYNC1H1( );IFI30( )
+EPHB4, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,11,15,0.97,4,SLAA,14,LAMB2( );COL4A5( );SPX( );TLN1( );CSPG4( );PDCD6IP( );ITIH3( );DYNC1H1( );VWA8( );PLEC( );TG( );SST( );EFNA1( );ALB( )
+EPHB4, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,11,15,0.91,4,SLAA,14,LAMB2( );COL4A5( );SPX( );TLN1( );CSPG4( );PDCD6IP( );ITIH3( );DYNC1H1( );VWA8( );PLEC( );TG( );SST( );EFNA1( );ALB( )
+EPHB4, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,11,15,1.055,4,SLAA,14,LAMB2( );COL4A5( );SPX( );TLN1( );CSPG4( );PDCD6IP( );ITIH3( );DYNC1H1( );VWA8( );PLEC( );TG( );SST( );EFNA1( );ALB( )
+EPHB4, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,11,15,0.965,4,SLAA,14,LAMB2( );COL4A5( );SPX( );TLN1( );CSPG4( );PDCD6IP( );ITIH3( );DYNC1H1( );VWA8( );PLEC( );TG( );SST( );EFNA1( );ALB( )
+EPHB4, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,11,15,0.91,4,SLAA,14,LAMB2( );COL4A5( );SPX( );TLN1( );CSPG4( );PDCD6IP( );ITIH3( );DYNC1H1( );VWA8( );PLEC( );TG( );SST( );EFNA1( );ALB( )
+EPHB4, matrix metallopeptidase-7  and  cathepsin K ,449,453,1.005,4,SLSL,20,FRAS1( );TNXB( );LAMA5( );LAMA3( );LAMC1( );LAMA4( );SERPINB5( );CCT2( );SOGA1( );IGHG4( );IGHG1( );GBA( );IGHG2( );ACPP( );IGHG3( );A2ML1( );TG( );TIMP1( );TLR9( );CFB(Peptidase S1)
+EPHB4, matrix metallopeptidase-2  and  cathepsin K ,449,453,1.01,4,SLSL,20,FRAS1( );TNXB( );LAMA5( );LAMA3( );LAMC1( );LAMA4( );SERPINB5( );CCT2( );SOGA1( );IGHG4( );IGHG1( );GBA( );IGHG2( );ACPP( );IGHG3( );A2ML1( );TG( );TIMP1( );TLR9( );CFB(Peptidase S1)
+EPHB4, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,329,333,0.9,4,SVVS,8,THBS1( );LAMA2( );IGLV3-19( );NAMPT( );PI16( );WDR1(WD 5);NECTIN1( );MUC4( )
+EPHB4, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,329,333,0.925,4,SVVS,8,THBS1( );LAMA2( );IGLV3-19( );NAMPT( );PI16( );WDR1(WD 5);NECTIN1( );MUC4( )
+EPHB4, elastase-2  and  cathepsin K ,526,530,1.035,4,TQLD,0,
+EPHB4, elastase-2  and  matrix metallopeptidase-7 ,847,851,0.99,4,TSLH,4,NOV( );COL6A3( );CD34( );COPA( )
+EPHB4, elastase-2  and  matrix metallopeptidase-9 ,847,851,0.975,4,TSLH,4,NOV( );COL6A3( );CD34( );COPA( )
+EPHB4, elastase-2  and  cathepsin K ,689,693,1.0550000000000002,4,VMIL,2,COL12A1( );DSG1( )
+EPHB4, matrix metallopeptidase-9  and  cathepsin K ,813,817,1.185,4,VMSF,0,
+EPHB4, elastase-2  and  cathepsin K ,813,817,1.17,4,VMSF,0,
+EPHB4, elastase-2  and  matrix metallopeptidase-9 ,809,813,0.92,4,VMWE,0,
+EPHB4, elastase-2  and  elastase-2 ,809,813,0.905,4,VMWE,0,
+EPHB4, cathepsin G  and  cathepsin K ,906,910,0.925,4,YSAF,5,HSP90B1( );ENDOD1( );EFTUD2( );A2ML1( );EFNA3( )

@@ -1,0 +1,15 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GLG1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,662,666,0.92,4,DHLD,2,VCAN( );CCL2( )
+GLG1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,716,720,0.905,4,DLME,4,CSPG4( );APOA2( );KARS( );ANGPT2( )
+GLG1, cathepsin K  and  cathepsin K ,344,348,1.295,4,EESM,1,TNFSF10( )
+GLG1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,300,304,0.98,4,ELSS,8,COL7A1( );EFEMP1( );THBS1( );COL17A1( );HSPA9( );IGHV1-46( );GBA( );C8B( )
+GLG1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,300,304,0.965,4,ELSS,8,COL7A1( );EFEMP1( );THBS1( );COL17A1( );HSPA9( );IGHV1-46( );GBA( );C8B( )
+GLG1, cathepsin G  and  matrix metallopeptidase-9 ,228,232,0.965,4,FSDY,2,APOB( );F2( )
+GLG1, cathepsin K  and  elastase-2 ,43,47,0.945,4,GANF,0,
+GLG1, matrix metallopeptidase-2  and  cathepsin K ,60,64,1.06,4,GQQL,3,ABI3BP( );IL4R( );KLK8( )
+GLG1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,525,529,1.045,4,ILSC,0,
+GLG1, cathepsin K  and  cathepsin K ,64,68,0.91,4,PQLP,5,THBS3( );LAMB1( );PMEL( );FLNA( );MMP1(Hemopexin 1)
+GLG1, cathepsin K  and  cathepsin K ,485,489,1.0499999999999998,4,QTLI,1,ADM( )
+GLG1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,979,983,0.905,4,RLSS,9,LAMA2( );CKAP4( );FGFR3( );KLK7( );FGFR4( );FGFR1( );FGFR2( );CFHR1( );CFH( )
+GLG1, cathepsin K  and  cathepsin K ,535,539,0.945,4,TEKM,8,ENDOD1( );GBP1( );EIF4A1( );PFKP( );KARS( );CPA3( );C8B( );FGFR2( )
+GLG1, elastase-2  and  cathepsin K ,35,39,0.95,4,VHSQ,8,COL4A4( );COL4A1( );COL4A3( );COL4A5( );COL4A6( );COL4A2( );NECTIN1( );F2( )

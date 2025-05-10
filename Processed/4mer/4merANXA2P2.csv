@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ANXA2P2, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,86,90,0.965,4,ALKS,9,FBLN2( );COL6A5( );COL6A1( );VWA5B1( );SERPINF2( );DYNC1H1( );ANXA2( );GSN( );PRLR( )
+ANXA2P2, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,86,90,0.975,4,ALKS,9,FBLN2( );COL6A5( );COL6A1( );VWA5B1( );SERPINF2( );DYNC1H1( );ANXA2( );GSN( );PRLR( )
+ANXA2P2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,162,166,0.91,4,DTSG,5,BGN( );ANXA1( );FLNA( );ANXA2( );LIF( )
+ANXA2P2, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,113,117,0.955,4,ELKA,6,FRAS1( );APOA4( );NGRN( );APOE( );IL1B( );ANXA2(Annexin 2)
+ANXA2P2, matrix metallopeptidase-7  and  cathepsin K ,10,14,1.025,4,KLSL,10,OGN( );SCGB1D2( );HSPA5( );MYH9( );DYNC1H1( );ANXA2( );ITIH5( );APOB( );PRKDC( );C4BPA( )
+ANXA2P2, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,190,194,0.94,4,LIDQ,5,LAMC1( );POSTN( );ANXA2( );CLTC(CHCR 3);C7( )
+ANXA2P2, elastase-2  and  matrix metallopeptidase-3 ,98,102,0.91,4,VILG,11,HMCN2( );COL7A1( );COL6A3( );NID1( );GPX3( );DSC2( );PGLYRP2( );EFTUD2( );ANXA2(Annexin 1);PLG( );PLAT( )

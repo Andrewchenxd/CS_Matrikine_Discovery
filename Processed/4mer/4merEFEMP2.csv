@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EFEMP2, cathepsin K  and  matrix metallopeptidase-2 ,338,342,0.915,4,EQPS,3,VCAN( );NID1( );CSPG4( )
+EFEMP2, cathepsin K  and  matrix metallopeptidase-3 ,338,342,0.945,4,EQPS,3,VCAN( );NID1( );CSPG4( )
+EFEMP2, cathepsin G  and  matrix metallopeptidase-3 ,421,425,0.91,4,NSLM,0,
+EFEMP2, cathepsin K  and  matrix metallopeptidase-9 ,427,431,0.91,4,RASS,8,COL7A1( );AEBP1( );LAMB3( );CSPG4( );SERPING1( );CLU( );CRIP2( );PI3( )
+EFEMP2, cathepsin K  and  matrix metallopeptidase-2 ,60,64,0.94,4,TIPE,15,FBN2( );COMP(TSP C-terminal);THBS4(TSP C-terminal);COL18A1( );FBLN5( );KERA( );NID1( );COL4A2( );EMCN( );SPX( );SDCBP( );F13A1( );APOB( );CD163( );HGF( )
+EFEMP2, elastase-2  and  matrix metallopeptidase-2 ,418,422,0.95,4,VTMN,0,
+EFEMP2, cathepsin G  and  matrix metallopeptidase-9 ,373,377,0.94,4,YNAF,0,
+EFEMP2, cathepsin G  and  matrix metallopeptidase-3 ,373,377,0.94,4,YNAF,0,

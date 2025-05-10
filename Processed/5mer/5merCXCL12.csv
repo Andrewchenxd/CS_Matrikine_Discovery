@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CXCL12, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,20,25,0.99,5,DGKPV,1,RAC1( )
+CXCL12, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,20,25,0.92,5,DGKPV,1,RAC1( )
+CXCL12, cathepsin K  and  elastase-2 ,19,24,0.92,5,SDGKP,1,COL3A1( )
+CXCL12, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,12,17,0.905,5,VLTAL,0,

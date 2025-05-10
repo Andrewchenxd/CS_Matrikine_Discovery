@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DPP7, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,89,93,0.965,4,AFVA,3,CSPG4( );GPC1( );S100B( )
+DPP7, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,89,93,1.045,4,AFVA,3,CSPG4( );GPC1( );S100B( )
+DPP7, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,89,93,0.97,4,AFVA,3,CSPG4( );GPC1( );S100B( )
+DPP7, matrix metallopeptidase-3  and  cathepsin K ,156,160,0.955,4,AIAF,4,LAMA2( );COLQ( );EPHB4( );CDSN( )
+DPP7, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,80,84,1.005,4,DVWA,0,

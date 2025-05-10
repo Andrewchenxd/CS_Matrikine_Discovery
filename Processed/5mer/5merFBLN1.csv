@@ -1,0 +1,11 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FBLN1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,28,33,0.9,5,DADVL,0,
+FBLN1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,152,157,0.95,5,DLDVG,0,
+FBLN1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,216,221,0.9,5,DVNEC,10,HMCN2(EGF-like 4; calcium-binding);FBN2(EGF-like 14; calcium-binding);COMP(EGF-like 2; calcium-binding);LTBP4(EGF-like 10; calcium-binding);LTBP2(EGF-like 8; calcium-binding);FBLN2(EGF-like 6; calcium-binding);FBN1(EGF-like 21; calcium-binding);EFEMP2( );LTBP2(EGF-like 8; calcium-binding);FBLN5(EGF-like 4; calcium-binding); calcium-binding)
+FBLN1, cathepsin K  and  matrix metallopeptidase-3 ,416,421,1.045,5,ENTLG,1,FBLN2( )
+FBLN1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,157,162,0.985,5,GLQET,0,
+FBLN1, cathepsin G  and  matrix metallopeptidase-2 ,14,19,0.915,5,LLLLG,23,EFEMP2( );LTBP2( );COL17A1( );CAMP( );RPN1( );C1QB( );HPSE( );VWA8( );IGLL5( );SBSN( );ITIH5( );SLTM( );MUC4( );AZGP1( );PENK( );PRF1( );PDGFA( );RNASE3( );NGFR( );RNASE2( );RNASE7( );WFDC5( );KLK8( )
+FBLN1, matrix metallopeptidase-9  and  cathepsin K ,693,698,1.145,5,NVHIF,0,
+FBLN1, matrix metallopeptidase-2  and  cathepsin G ,665,670,1.095,5,PIVGP,0,
+FBLN1, matrix metallopeptidase-9  and  cathepsin G ,665,670,0.99,5,PIVGP,0,
+FBLN1, matrix metallopeptidase-3  and  cathepsin G ,665,670,1.085,5,PIVGP,0,

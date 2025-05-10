@@ -1,0 +1,14 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ENDOD1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,152,157,0.93,5,DVQVA,0,
+ENDOD1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,138,143,0.92,5,DYQRG,0,
+ENDOD1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,147,152,1.01,5,FSLSS,2,FBN1( );ERAP1( )
+ENDOD1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,270,275,0.93,5,GETEQ,0,
+ENDOD1, cathepsin K  and  cathepsin G ,125,130,0.9,5,GSKQA,0,
+ENDOD1, elastase-2  and  matrix metallopeptidase-2 ,118,123,0.98,5,ITSVN,0,
+ENDOD1, elastase-2  and  matrix metallopeptidase-7 ,118,123,0.945,5,ITSVN,0,
+ENDOD1, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,143,148,0.92,5,QLYPF,1,DYNC1H1( )
+ENDOD1, cathepsin K  and  cathepsin K ,297,302,0.935,5,QSQKS,0,
+ENDOD1, elastase-2  and  cathepsin K ,314,319,0.935,5,TLLPP,0,
+ENDOD1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,463,468,0.925,5,VSLLF,0,
+ENDOD1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,6,11,0.915,5,WLALG,1,FBLN2( )
+ENDOD1, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,348,353,0.94,5,YLVVA,0,

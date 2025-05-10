@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AIMP1, elastase-2  and  elastase-2 ,88,92,0.96,4,ANSM,1,FRAS1( )
+AIMP1, cathepsin G  and  cathepsin K ,86,90,0.91,4,LHAN,2,CP( );IL33( )
+AIMP1, cathepsin G  and  matrix metallopeptidase-9 ,86,90,1.005,4,LHAN,2,CP( );IL33( )
+AIMP1, cathepsin G  and  matrix metallopeptidase-3 ,86,90,0.935,4,LHAN,2,CP( );IL33( )
+AIMP1, cathepsin G  and  matrix metallopeptidase-7 ,86,90,1.005,4,LHAN,2,CP( );IL33( )
+AIMP1, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,188,192,1.015,4,TVVS,3,TNXB( );LEPROT( );CD163( )
+AIMP1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,188,192,0.9,4,TVVS,3,TNXB( );LEPROT( );CD163( )
+AIMP1, matrix metallopeptidase-9  and  cathepsin K ,227,231,0.975,4,VMCA,1,COPA( )

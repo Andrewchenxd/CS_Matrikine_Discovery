@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ADM, cathepsin K  and  matrix metallopeptidase-2 ,100,104,0.96,4,NNFQ,0,
+ADM, cathepsin K  and  matrix metallopeptidase-2 ,51,55,0.955,4,SYPT,2,LAMA2( );CTSL( )

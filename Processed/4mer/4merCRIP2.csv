@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CRIP2, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,169,173,1.045,4,DGQP,17,HMCN2( );TNXB( );COL7A1( );HSPG2( );LAMB2( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL3A1( );COL5A1( );COL4A5( );CSPG4( );GBP1( );C1QB( );ITIH5( );HGF( )
+CRIP2, cathepsin K  and  cathepsin K ,78,82,1.01,4,EKPL,7,FRAS1( );ABI3BP( );HPSE( );APCS( );TEK( );IL33( );ALB( )
+CRIP2, cathepsin K  and  matrix metallopeptidase-2 ,183,187,0.94,4,FGPK,1,COL6A5( )
+CRIP2, cathepsin K  and  matrix metallopeptidase-9 ,183,187,0.965,4,FGPK,1,COL6A5( )
+CRIP2, cathepsin K  and  matrix metallopeptidase-3 ,70,74,0.945,4,GGAG,14,FBN2( );ELN( );LAMB2( );MFAP4( );COL5A2( );LTBP2( );COL3A1( );IGFBP7( );COL17A1( );ATP5B( );GLG1( );C7( );IL4R( );INHBA( )
+CRIP2, matrix metallopeptidase-3  and  cathepsin K ,74,78,1.05,4,SYIY,3,FRAS1( );LGI3( );WDR1( )
+CRIP2, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,195,199,0.98,4,SYIY,3,FRAS1( );LGI3( );WDR1( )

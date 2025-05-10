@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GDNF, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,46,50,0.98,4,ALSS,17,HMCN2( );VWF( );LAMA3( );LAMB2( );MFAP4( );VCAN( );LAMA4( );COL15A1( );LAD1( );HSPA5( );DYNC1H1( );CD14(LRR 3);CD109( );APOB( );NCAM1( );PRKDC( );TG( )
+GDNF, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,46,50,1.035,4,ALSS,17,HMCN2( );VWF( );LAMA3( );LAMB2( );MFAP4( );VCAN( );LAMA4( );COL15A1( );LAD1( );HSPA5( );DYNC1H1( );CD14(LRR 3);CD109( );APOB( );NCAM1( );PRKDC( );TG( )
+GDNF, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,193,197,0.9,4,DNLV,5,COL6A3( );LAMA4( );TLN1( );PZP( );CASP4( )
+GDNF, cathepsin G  and  cathepsin G ,53,57,0.98,4,MPED,1,VTN( )
+GDNF, cathepsin K  and  matrix metallopeptidase-9 ,21,25,1.025,4,PLPA,8,ABI3BP( );LAMA2( );COL15A1( );CSPG4( );DPP7( );APCS( );ADAMTS17( );GRP( )
+GDNF, cathepsin K  and  matrix metallopeptidase-3 ,21,25,0.97,4,PLPA,8,ABI3BP( );LAMA2( );COL15A1( );CSPG4( );DPP7( );APCS( );ADAMTS17( );GRP( )
+GDNF, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,21,25,0.965,4,PLPA,8,ABI3BP( );LAMA2( );COL15A1( );CSPG4( );DPP7( );APCS( );ADAMTS17( );GRP( )
+GDNF, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,21,25,0.91,4,PLPA,8,ABI3BP( );LAMA2( );COL15A1( );CSPG4( );DPP7( );APCS( );ADAMTS17( );GRP( )
+GDNF, matrix metallopeptidase-7  and  elastase-2 ,119,123,1.09,4,VLTA,27,COL6A3( );VCL( );ITIH4( );CSPG4( );EEF2( );CTSG( );IDE( );CMA1( );C2( );MELTF( );APOB( );KLK13( );KLK10( );KLK7( );KLKB1( );TPSD1( );TPSB2( );PLG( );KLK6( );PRTN3( );CFB( );F2( );C1S( );CXCL12( );KLK8( );TPSAB1( );HGF( )

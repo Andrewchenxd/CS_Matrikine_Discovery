@@ -1,0 +1,76 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FRAS1, cathepsin K  and  cathepsin G ,530,535,1.135,5,ACRDP,1,PAPPA( )
+FRAS1, cathepsin K  and  matrix metallopeptidase-9 ,1559,1564,0.905,5,AGLPE,0,
+FRAS1, elastase-2  and  elastase-2 ,1897,1902,0.905,5,ASDLE,1,LTBP2( )
+FRAS1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,2110,2115,0.915,5,DDHQV,0,
+FRAS1, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,3861,3866,0.95,5,DDSLI,0,
+FRAS1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,740,745,0.92,5,DGQCL,0,
+FRAS1, matrix metallopeptidase-7  and  cathepsin K ,819,824,0.935,5,DLHNT,0,
+FRAS1, matrix metallopeptidase-3  and  cathepsin K ,819,824,1.035,5,DLHNT,0,
+FRAS1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,3574,3579,0.935,5,DLQLL,1,APOB( )
+FRAS1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,3850,3855,0.975,5,DLVEP,1,EPHB4( )
+FRAS1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,3850,3855,0.96,5,DLVEP,1,EPHB4( )
+FRAS1, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,3862,3867,0.975,5,DSLIY,0,
+FRAS1, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,32,37,0.93,5,DSLLA,1,PGLYRP2( )
+FRAS1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,2310,2315,0.9,5,DSLPV,0,
+FRAS1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,3170,3175,1.05,5,DYDHV,0,
+FRAS1, matrix metallopeptidase-3  and  cathepsin K ,3170,3175,0.99,5,DYDHV,0,
+FRAS1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,1372,1377,0.94,5,DYPQF,1,SERPINF2( )
+FRAS1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,3135,3140,0.94,5,EAVLG,2,SERPING1( );C8B( )
+FRAS1, cathepsin K  and  cathepsin K ,3940,3945,1.07,5,EEYPL,0,
+FRAS1, cathepsin K  and  cathepsin K ,162,167,1.005,5,EGHVF,0,
+FRAS1, cathepsin K  and  cathepsin G ,1747,1752,0.91,5,EIWIQ,0,
+FRAS1, matrix metallopeptidase-7  and  elastase-2 ,3888,3893,1.03,5,ELAVA,1,TNXB( )
+FRAS1, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,3888,3893,0.95,5,ELAVA,1,TNXB( )
+FRAS1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,1552,1557,0.92,5,ELMAF,0,
+FRAS1, cathepsin K  and  elastase-2 ,1580,1585,0.94,5,EMVLT,0,
+FRAS1, cathepsin K  and  cathepsin G ,2636,2641,0.97,5,ENVES,0,
+FRAS1, cathepsin K  and  cathepsin G ,2883,2888,0.9,5,ETFVV,0,
+FRAS1, cathepsin K  and  matrix metallopeptidase-7 ,2883,2888,0.99,5,ETFVV,0,
+FRAS1, cathepsin K  and  matrix metallopeptidase-9 ,2883,2888,0.93,5,ETFVV,0,
+FRAS1, cathepsin G  and  cathepsin K ,1558,1563,0.905,5,FAGLP,0,
+FRAS1, cathepsin G  and  matrix metallopeptidase-2 ,2548,2553,0.92,5,FHIQW,0,
+FRAS1, cathepsin K  and  cathepsin G ,3108,3113,0.955,5,FKVEI,0,
+FRAS1, cathepsin G  and  cathepsin G ,3108,3113,0.96,5,FKVEI,0,
+FRAS1, cathepsin K  and  cathepsin G ,1073,1078,0.93,5,FLKSG,1,PLG( )
+FRAS1, cathepsin G  and  cathepsin K ,2641,2646,0.91,5,FTVEL,0,
+FRAS1, cathepsin K  and  matrix metallopeptidase-2 ,3625,3630,1.0,5,GEKPL,0,
+FRAS1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,3569,3574,0.92,5,GGIEF,0,
+FRAS1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,1499,1504,0.94,5,GKIVY,0,
+FRAS1, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,1499,1504,0.955,5,GKIVY,0,
+FRAS1, cathepsin K  and  cathepsin K ,455,460,0.9,5,GLGFY,1,COL4A2( )
+FRAS1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,3856,3861,0.995,5,GQLIL,0,
+FRAS1, cathepsin K  and  matrix metallopeptidase-9 ,2715,2720,0.93,5,GSLFY,0,
+FRAS1, cathepsin K  and  matrix metallopeptidase-3 ,3158,3163,1.025,5,ILPAP,0,
+FRAS1, elastase-2  and  matrix metallopeptidase-9 ,3831,3836,0.905,5,ISGPR,1,COL6A3(Collagen-like 4)
+FRAS1, cathepsin G  and  matrix metallopeptidase-2 ,3889,3894,0.975,5,LAVAA,4,TNXB( );VCL( );P4HB( );TNFRSF18( )
+FRAS1, cathepsin G  and  matrix metallopeptidase-7 ,3889,3894,0.98,5,LAVAA,4,TNXB( );VCL( );P4HB( );TNFRSF18( )
+FRAS1, matrix metallopeptidase-7  and  cathepsin K ,2717,2722,1.01,5,LFYAL,0,
+FRAS1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,535,540,1.06,5,LHVLR,0,
+FRAS1, cathepsin G  and  cathepsin K ,3944,3949,0.93,5,LNTKV,0,
+FRAS1, cathepsin K  and  matrix metallopeptidase-9 ,3468,3473,0.91,5,LTVHV,1,PSAP( )
+FRAS1, cathepsin K  and  matrix metallopeptidase-7 ,3468,3473,0.93,5,LTVHV,1,PSAP( )
+FRAS1, matrix metallopeptidase-3  and  cathepsin G ,2047,2052,0.915,5,MVVDE,0,
+FRAS1, cathepsin G  and  cathepsin K ,1337,1342,0.925,5,MVWVP,0,
+FRAS1, cathepsin K  and  matrix metallopeptidase-7 ,2682,2687,0.9,5,NESAG,0,
+FRAS1, matrix metallopeptidase-9  and  cathepsin G ,1504,1509,0.905,5,NITLP,0,
+FRAS1, matrix metallopeptidase-3  and  cathepsin G ,1504,1509,0.92,5,NITLP,0,
+FRAS1, matrix metallopeptidase-2  and  cathepsin G ,3376,3381,0.935,5,NLVTT,0,
+FRAS1, matrix metallopeptidase-3  and  cathepsin G ,3163,3168,0.985,5,PIVVT,0,
+FRAS1, matrix metallopeptidase-3  and  cathepsin G ,1965,1970,0.925,5,PLRVQ,1,FLNA( )
+FRAS1, cathepsin K  and  matrix metallopeptidase-3 ,3315,3320,0.92,5,QSFIA,1,LAMA4( )
+FRAS1, cathepsin K  and  matrix metallopeptidase-2 ,3315,3320,0.915,5,QSFIA,1,LAMA4( )
+FRAS1, cathepsin K  and  matrix metallopeptidase-9 ,3315,3320,0.975,5,QSFIA,1,LAMA4( )
+FRAS1, cathepsin K  and  matrix metallopeptidase-2 ,1270,1275,0.935,5,QSPAT,2,IGKV3-15( );MUC4( )
+FRAS1, cathepsin K  and  matrix metallopeptidase-7 ,1598,1603,0.955,5,QVTAP,1,TNXB( )
+FRAS1, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,134,139,0.93,5,SCGHQ,0,
+FRAS1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,874,879,0.95,5,SCSSC,1,HRG( )
+FRAS1, matrix metallopeptidase-2  and  elastase-2 ,1110,1115,1.01,5,SLILP,1,EMILIN1( )
+FRAS1, cathepsin K  and  matrix metallopeptidase-9 ,2646,2651,0.92,5,SMPAY,0,
+FRAS1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,993,998,1.025,5,SSFYQ,0,
+FRAS1, cathepsin K  and  cathepsin G ,1214,1219,1.13,5,STQAP,1,NAMPT( )
+FRAS1, cathepsin K  and  matrix metallopeptidase-2 ,191,196,0.965,5,TAQCQ,0,
+FRAS1, cathepsin G  and  cathepsin K ,2878,2883,0.905,5,VIEGL,1,COL14A1( )
+FRAS1, matrix metallopeptidase-9  and  cathepsin K ,2960,2965,1.04,5,VMEDF,0,
+FRAS1, matrix metallopeptidase-9  and  cathepsin K ,3836,3841,0.915,5,VQRSL,1,DYNC1H1( )
+FRAS1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,3291,3296,0.98,5,VTIGT,0,

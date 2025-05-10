@@ -1,0 +1,21 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C1S, cathepsin K  and  cathepsin G ,15,20,1.03,5,AEPTM,0,
+C1S, matrix metallopeptidase-9  and  cathepsin K ,251,256,1.005,5,CGHGF,0,
+C1S, matrix metallopeptidase-3  and  elastase-2 ,269,274,0.9,5,DIIFQ,0,
+C1S, cathepsin K  and  elastase-2 ,433,438,1.085,5,EEKQR,1,MYH9( )
+C1S, matrix metallopeptidase-2  and  cathepsin K ,22,27,1.0,5,EILSP,0,
+C1S, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,161,166,0.92,5,EYFLH,0,
+C1S, cathepsin G  and  matrix metallopeptidase-9 ,99,104,0.915,5,FQVPY,0,
+C1S, cathepsin K  and  cathepsin K ,92,97,0.955,5,HSPIV,0,
+C1S, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,558,563,0.995,5,NLMDG,0,
+C1S, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,558,563,0.96,5,NLMDG,0,
+C1S, matrix metallopeptidase-2  and  cathepsin K ,547,552,0.91,5,PICLP,8,C2( );ST14( );HPR( );C1R( );KLKB1( );CFB( );HGFAC( );HP( )
+C1S, cathepsin K  and  cathepsin K ,273,278,0.915,5,QTDLT,0,
+C1S, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,581,586,0.955,5,RLKAA,2,PFKP( );CD209( )
+C1S, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,586,591,0.92,5,RLPVA,2,COL18A1( );C1R( )
+C1S, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,586,591,1.01,5,RLPVA,2,COL18A1( );C1R( )
+C1S, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,586,591,0.94,5,RLPVA,2,COL18A1( );C1R( )
+C1S, cathepsin K  and  matrix metallopeptidase-3 ,181,186,0.91,5,TALIG,0,
+C1S, cathepsin K  and  matrix metallopeptidase-2 ,181,186,0.98,5,TALIG,0,
+C1S, elastase-2  and  matrix metallopeptidase-7 ,18,23,0.93,5,TMYGE,0,
+C1S, cathepsin G  and  matrix metallopeptidase-9 ,610,615,0.935,5,YVFTP,0,

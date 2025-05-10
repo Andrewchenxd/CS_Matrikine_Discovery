@@ -1,0 +1,18 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ACTN4, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,213,218,0.93,5,DKLRK,1,IL1B( )
+ACTN4, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,550,555,0.975,5,DLQDM,1,ACTN2( )
+ACTN4, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,819,824,0.93,5,DPNHS,1,NGRN( )
+ACTN4, cathepsin K  and  matrix metallopeptidase-2 ,788,793,0.92,5,EEFKA,1,ACTN1( )
+ACTN4, cathepsin K  and  matrix metallopeptidase-9 ,788,793,0.92,5,EEFKA,1,ACTN1( )
+ACTN4, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,479,484,0.905,5,ELNEL,3,ACTN2( );ACTN1( );C2( )
+ACTN4, cathepsin G  and  cathepsin K ,540,545,1.025,5,FNNWM,2,ACTN2( );ACTN1( )
+ACTN4, matrix metallopeptidase-9  and  cathepsin K ,264,269,0.955,5,FYHAF,2,ACTN2(Actin-binding);ACTN1(Actin-binding)
+ACTN4, cathepsin G  and  cathepsin K ,264,269,1.01,5,FYHAF,2,ACTN2(Actin-binding);ACTN1(Actin-binding)
+ACTN4, matrix metallopeptidase-2  and  cathepsin K ,824,829,0.905,5,GLVTF,0,
+ACTN4, elastase-2  and  granzyme B ({Homo sapiens}-type) ,795,800,0.99,5,ISLGY,1,ACTN1(EF-hand 1)
+ACTN4, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,574,579,0.995,5,KSTLP,0,
+ACTN4, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,240,245,0.94,5,MLDAE,3,ITIH3( );ACTN2( );ACTN1( )
+ACTN4, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,240,245,0.96,5,MLDAE,3,ITIH3( );ACTN2( );ACTN1( )
+ACTN4, cathepsin G  and  elastase-2 ,821,826,0.935,5,NHSGL,0,
+ACTN4, cathepsin K  and  cathepsin G ,715,720,1.0,5,QEALI,1,ACTN1( )
+ACTN4, elastase-2  and  cathepsin G ,826,831,0.905,5,VTFQA,1,ACTN1( )

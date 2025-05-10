@@ -1,0 +1,2 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FKBP1A, matrix metallopeptidase-9  and  cathepsin K ,24,29,0.915,5,VVHYT,1,RPN1( )

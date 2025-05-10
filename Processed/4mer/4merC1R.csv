@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C1R, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,490,494,0.965,4,ALLG,17,FRAS1( );LAMA5( );COL18A1( );SERPINF1( );ATP5B( );CAMP( );NAXE( );GPC2( );PGLYRP2( );EFTUD2( );ATP5A1( );GPI( );PTGDS( );LCN2( );FGFR4( );TLR9( );HGFAC( )
+C1R, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,467,471,0.935,4,GQKA,3,THBS3( );ACE( );FGF2( )
+C1R, cathepsin K  and  cathepsin K ,93,97,1.055,4,GSPL,12,HMCN2( );HSPG2( );MATN2( );COL6A3( );EMILIN1( );VWA8( );EFTUD2( );FLNA( );NTF4( );SLTM( );LIF( );CD209( )
+C1R, elastase-2  and  granzyme B ({Homo sapiens}-type) ,576,580,1.12,4,ICLP,11,ECM1( );C2( );SLTM( );ST14( );HPR( );KLKB1( );PLAU( );CFB( );HGFAC( );C1S( );HP( )
+C1R, cathepsin K  and  matrix metallopeptidase-3 ,237,241,1.075,4,LEPF,4,LAMA2( );CANX( );CD14( );MUC4( )
+C1R, cathepsin K  and  matrix metallopeptidase-7 ,237,241,1.01,4,LEPF,4,LAMA2( );CANX( );CD14( );MUC4( )
+C1R, matrix metallopeptidase-3  and  cathepsin K ,22,26,0.955,4,PQKL,3,ABI3BP( );COL6A5( );IL17C( )
+C1R, cathepsin K  and  matrix metallopeptidase-9 ,455,459,0.91,4,VNPV,5,VCAN( );LAMB3( );CSPG4( );CTSG( );C5( )
+C1R, cathepsin G  and  cathepsin K ,252,256,1.06,4,YDQL,2,IL19( );NRP1( )

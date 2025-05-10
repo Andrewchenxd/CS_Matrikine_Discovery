@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CFD, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,207,211,0.955,4,DSGG,30,EMILIN1( );SHH( );MMP8( );CTSG( );CMA1( );ST14( );KLK14( );KLK13( );C1R( );KLK10( );KLK5( );CELA1( );KLK11( );KLK7( );KLKB1( );TPSD1( );TPSB2( );CFI( );PLG( );KLK6( );PRTN3( );PLAU( );CFB( );F2( );HGFAC( );C1S( );PRSS1( );KLK8( );TPSAB1( );PLAT( )
+CFD, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,145,149,0.98,4,GTLC,4,VWF( );LEP( );GPC1( );CTSG( )
+CFD, cathepsin K  and  matrix metallopeptidase-7 ,2,6,1.005,4,HSWE,0,
+CFD, matrix metallopeptidase-2  and  elastase-2 ,165,169,0.905,4,SLQH,3,ECM1( );NGRN( );IL1RL1( )
+CFD, matrix metallopeptidase-7  and  elastase-2 ,165,169,0.925,4,SLQH,3,ECM1( );NGRN( );IL1RL1( )

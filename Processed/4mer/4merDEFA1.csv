@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DEFA1, matrix metallopeptidase-2  and  elastase-2 ,9,13,1.035,4,AILL,7,LAMA2( );DAG1( );DSC2(Helical);LGALS3BP( );AGTR2( );CD40( );DEFA3( )
+DEFA1, matrix metallopeptidase-3  and  elastase-2 ,9,13,0.965,4,AILL,7,LAMA2( );DAG1( );DSC2(Helical);LGALS3BP( );AGTR2( );CD40( );DEFA3( )
+DEFA1, elastase-2  and  elastase-2 ,9,13,0.97,4,AILL,7,LAMA2( );DAG1( );DSC2(Helical);LGALS3BP( );AGTR2( );CD40( );DEFA3( )
+DEFA1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,23,27,0.92,4,QARA,10,LAMB2( );LAMC1( );COL18A1( );COL15A1( );VCL( );ITIH2( );IL6( );PLEC( );A2M( );DEFA3( )
+DEFA1, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,35,39,1.035,4,QIAA,9,FRAS1( );MFGE8( );PDCD6IP( );ACTN2( );ACTN4( );PIP( );ACTN1( );SLC25A6( );DEFA3( )
+DEFA1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,35,39,0.93,4,QIAA,9,FRAS1( );MFGE8( );PDCD6IP( );ACTN2( );ACTN4( );PIP( );ACTN1( );SLC25A6( );DEFA3( )

@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CREG1, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,87,91,0.925,4,DVLS,4,LAMA3( );LAMB1( );DYNC1H1( );CPA3( )
+CREG1, cathepsin G  and  cathepsin G ,85,89,0.945,4,FADV,1,CFI(SRCR)
+CREG1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,105,109,0.945,4,FYLS,5,COL6A3( );SERPINA3( );ANGPT2( );CRTAP( );CTSD( )
+CREG1, cathepsin K  and  matrix metallopeptidase-9 ,204,208,0.975,4,GGPK,4,COL4A2( );SOD1( );ST14( );CTSB( )
+CREG1, cathepsin G  and  elastase-2 ,146,150,1.055,4,LCVH,2,LTBP2( );ADAMTS17( )
+CREG1, cathepsin G  and  matrix metallopeptidase-2 ,112,116,1.025,4,LSVS,15,COL4A3( );LAMA4( );COL15A1( );PZP( );SERPIND1( );ATP5A1( );IGKV3-15( );GANAB( );A2M( );WDR1( );ACE( );C4B( );C4A( );TSLP( );MUC4( )
+CREG1, cathepsin G  and  matrix metallopeptidase-9 ,112,116,0.915,4,LSVS,15,COL4A3( );LAMA4( );COL15A1( );PZP( );SERPIND1( );ATP5A1( );IGKV3-15( );GANAB( );A2M( );WDR1( );ACE( );C4B( );C4A( );TSLP( );MUC4( )
+CREG1, elastase-2  and  cathepsin G ,148,152,0.91,4,VHIM,1,FLNB( )

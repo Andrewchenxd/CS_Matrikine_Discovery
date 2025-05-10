@@ -1,0 +1,25 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GSN, elastase-2  and  granzyme B ({Homo sapiens}-type) ,435,440,0.905,5,AQHGM,0,
+GSN, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,317,322,0.91,5,DENPF,0,
+GSN, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,88,93,0.915,5,DFFTG,0,
+GSN, matrix metallopeptidase-9  and  cathepsin G ,111,116,0.92,5,DLHYW,0,
+GSN, cathepsin K  and  matrix metallopeptidase-2 ,682,687,0.99,5,EEVPG,1,TG( )
+GSN, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,687,692,0.925,5,ELMQE,0,
+GSN, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,687,692,0.9,5,ELMQE,0,
+GSN, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,687,692,1.03,5,ELMQE,0,
+GSN, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,687,692,0.955,5,ELMQE,0,
+GSN, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,687,692,0.9,5,ELMQE,0,
+GSN, cathepsin K  and  cathepsin G ,539,544,0.91,5,FGGKP,0,
+GSN, cathepsin K  and  matrix metallopeptidase-7 ,540,545,0.945,5,GGKPM,0,
+GSN, matrix metallopeptidase-3  and  cathepsin K ,534,539,0.975,5,HLMSL,0,
+GSN, matrix metallopeptidase-9  and  cathepsin K ,534,539,1.01,5,HLMSL,0,
+GSN, matrix metallopeptidase-2  and  cathepsin K ,534,539,1.16,5,HLMSL,0,
+GSN, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,755,760,0.98,5,SFVGW,1,ACE2( )
+GSN, matrix metallopeptidase-3  and  cathepsin G ,755,760,0.935,5,SFVGW,1,ACE2( )
+GSN, elastase-2  and  matrix metallopeptidase-9 ,54,59,0.96,5,VEHPE,0,
+GSN, elastase-2  and  matrix metallopeptidase-3 ,54,59,0.945,5,VEHPE,0,
+GSN, elastase-2  and  matrix metallopeptidase-7 ,54,59,1.115,5,VEHPE,0,
+GSN, elastase-2  and  granzyme B ({Homo sapiens}-type) ,312,317,1.015,5,VSLVA,1,FN1( )
+GSN, cathepsin K  and  cathepsin G ,205,210,0.925,5,VSWES,1,APCS( )
+GSN, elastase-2  and  cathepsin G ,205,210,0.94,5,VSWES,1,APCS( )
+GSN, cathepsin G  and  cathepsin G ,205,210,0.945,5,VSWES,1,APCS( )

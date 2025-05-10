@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CREG1, matrix metallopeptidase-9  and  cathepsin K ,147,152,0.905,5,CVHIM,0,
+CREG1, matrix metallopeptidase-9  and  cathepsin G ,147,152,0.925,5,CVHIM,0,
+CREG1, cathepsin G  and  matrix metallopeptidase-7 ,85,90,0.955,5,FADVL,0,
+CREG1, matrix metallopeptidase-2  and  elastase-2 ,145,150,0.955,5,PLCVH,0,
+CREG1, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,111,116,1.045,5,QLSVS,2,C4B( );C4A( )
+CREG1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,111,116,1.01,5,QLSVS,2,C4B( );C4A( )
+CREG1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,111,116,1.055,5,QLSVS,2,C4B( );C4A( )
+CREG1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,111,116,0.935,5,QLSVS,2,C4B( );C4A( )
+CREG1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,111,116,0.945,5,QLSVS,2,C4B( );C4A( )
+CREG1, matrix metallopeptidase-9  and  cathepsin K ,199,204,0.975,5,VLDYF,1,COL6A5( )
+CREG1, elastase-2  and  cathepsin G ,80,85,0.935,5,VRGRP,0,
+CREG1, cathepsin G  and  matrix metallopeptidase-2 ,104,109,0.985,5,YFYLS,0,

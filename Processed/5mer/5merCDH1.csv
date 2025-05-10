@@ -1,0 +1,18 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CDH1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,569,574,0.905,5,DNGSP,0,
+CDH1, matrix metallopeptidase-3  and  cathepsin G ,662,667,0.915,5,DYKIN,0,
+CDH1, cathepsin G  and  cathepsin K ,462,467,1.06,5,FEVSL,1,APOB( )
+CDH1, cathepsin G  and  elastase-2 ,91,96,0.97,5,FHNPQ,0,
+CDH1, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,134,139,1.09,5,GIQAE,2,GBP1( );NGF( )
+CDH1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,134,139,0.985,5,GIQAE,2,GBP1( );NGF( )
+CDH1, cathepsin K  and  matrix metallopeptidase-7 ,839,844,0.975,5,GSEAA,3,SERPINI1( );PLEC( );SERPINC1( )
+CDH1, cathepsin K  and  matrix metallopeptidase-2 ,839,844,0.98,5,GSEAA,3,SERPINI1( );PLEC( );SERPINC1( )
+CDH1, cathepsin G  and  cathepsin K ,305,310,0.9,5,LSQDP,0,
+CDH1, cathepsin G  and  matrix metallopeptidase-9 ,792,797,1.105,5,MSVPR,0,
+CDH1, cathepsin G  and  cathepsin G ,792,797,1.01,5,MSVPR,0,
+CDH1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,613,618,0.915,5,NIIDA,1,APOB( )
+CDH1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,849,854,1.075,5,NSSES,0,
+CDH1, matrix metallopeptidase-7  and  cathepsin K ,844,849,1.18,5,SLSSL,2,LAMC2( );COL18A1( )
+CDH1, matrix metallopeptidase-3  and  cathepsin K ,844,849,0.965,5,SLSSL,2,LAMC2( );COL18A1( )
+CDH1, matrix metallopeptidase-2  and  cathepsin K ,844,849,1.185,5,SLSSL,2,LAMC2( );COL18A1( )
+CDH1, elastase-2  and  elastase-2 ,114,119,0.95,5,VTLNT,0,

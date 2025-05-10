@@ -1,0 +1,37 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ACE, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,1061,1066,0.92,5,AFIPF,0,
+ACE, elastase-2  and  matrix metallopeptidase-2 ,877,882,1.025,5,AHLLG,1,ACE2( )
+ACE, elastase-2  and  matrix metallopeptidase-9 ,877,882,0.985,5,AHLLG,1,ACE2( )
+ACE, elastase-2  and  matrix metallopeptidase-3 ,279,284,0.955,5,AHLLG,1,ACE2( )
+ACE, elastase-2  and  matrix metallopeptidase-3 ,877,882,0.98,5,AHLLG,1,ACE2( )
+ACE, elastase-2  and  matrix metallopeptidase-2 ,279,284,0.97,5,AHLLG,1,ACE2( )
+ACE, elastase-2  and  granzyme B ({Homo sapiens}-type) ,279,284,1.005,5,AHLLG,1,ACE2( )
+ACE, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,746,751,0.905,5,DMETT,0,
+ACE, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,587,592,0.91,5,DMVGL,0,
+ACE, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,587,592,0.94,5,DMVGL,0,
+ACE, matrix metallopeptidase-9  and  cathepsin G ,295,300,0.965,5,DMVVP,0,
+ACE, matrix metallopeptidase-3  and  cathepsin G ,295,300,0.91,5,DMVVP,0,
+ACE, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,634,639,0.955,5,DNYPE,0,
+ACE, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,383,388,0.935,5,DQLST,0,
+ACE, cathepsin K  and  cathepsin G ,872,877,0.94,5,EGPIP,2,A1BG( );CTSD( )
+ACE, cathepsin K  and  elastase-2 ,872,877,1.125,5,EGPIP,2,A1BG( );CTSD( )
+ACE, matrix metallopeptidase-7  and  elastase-2 ,103,108,0.925,5,ELYEP,0,
+ACE, cathepsin K  and  matrix metallopeptidase-7 ,835,840,0.905,5,EQDLE,1,VWF( )
+ACE, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,1065,1070,0.93,5,FSYLV,1,HMCN2( )
+ACE, cathepsin K  and  elastase-2 ,438,443,0.905,5,GLLDR,1,SDC1( )
+ACE, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,33,38,0.925,5,GLQPG,2,FN1( );COL7A1( )
+ACE, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,37,42,0.915,5,GNFSA,0,
+ACE, matrix metallopeptidase-2  and  cathepsin K ,433,438,0.99,5,HLHKI,0,
+ACE, matrix metallopeptidase-9  and  cathepsin K ,433,438,1.01,5,HLHKI,0,
+ACE, matrix metallopeptidase-2  and  cathepsin K ,1031,1036,0.96,5,HLHSL,0,
+ACE, matrix metallopeptidase-9  and  cathepsin K ,1031,1036,1.05,5,HLHSL,0,
+ACE, elastase-2  and  cathepsin K ,1186,1191,1.04,5,ITGQP,0,
+ACE, cathepsin K  and  cathepsin K ,1186,1191,0.91,5,ITGQP,0,
+ACE, cathepsin K  and  matrix metallopeptidase-3 ,1191,1196,0.945,5,NMSAS,1,PSAP( )
+ACE, cathepsin K  and  cathepsin G ,843,848,0.905,5,QELQP,0,
+ACE, cathepsin K  and  cathepsin G ,245,250,0.915,5,QQLEP,0,
+ACE, cathepsin K  and  elastase-2 ,274,279,0.905,5,RGPIP,0,
+ACE, cathepsin K  and  cathepsin G ,1232,1237,0.91,5,RSEGP,1,PYY( )
+ACE, matrix metallopeptidase-9  and  cathepsin G ,535,540,0.94,5,VLQFQ,0,
+ACE, elastase-2  and  cathepsin K ,606,611,1.2000000000000002,5,VTQWL,0,
+ACE, cathepsin G  and  matrix metallopeptidase-2 ,636,641,0.96,5,YPEGI,0,

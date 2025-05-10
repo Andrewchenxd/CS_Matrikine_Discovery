@@ -1,0 +1,20 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CPQ, cathepsin K  and  cathepsin K ,131,136,0.92,5,AILGL,0,
+CPQ, matrix metallopeptidase-3  and  elastase-2 ,383,388,0.975,5,AIMEE,0,
+CPQ, matrix metallopeptidase-9  and  elastase-2 ,383,388,1.015,5,AIMEE,0,
+CPQ, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,420,425,0.96,5,ASLLD,0,
+CPQ, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,98,103,1.065,5,DGLEK,0,
+CPQ, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,265,270,0.975,5,DTDSF,1,THBS3( )
+CPQ, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,419,424,0.95,5,GASLL,0,
+CPQ, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,145,150,1.06,5,GITAE,0,
+CPQ, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,145,150,0.93,5,GITAE,0,
+CPQ, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,145,150,0.95,5,GITAE,0,
+CPQ, cathepsin K  and  matrix metallopeptidase-2 ,140,145,0.985,5,GTPPE,1,LAMC1( )
+CPQ, cathepsin K  and  cathepsin G ,309,314,0.995,5,ISWEA,0,
+CPQ, cathepsin G  and  cathepsin K ,91,96,0.915,5,MYQNL,0,
+CPQ, cathepsin K  and  cathepsin K ,96,101,0.9,5,QQDGL,0,
+CPQ, elastase-2  and  cathepsin K ,371,376,0.995,5,TGLQF,0,
+CPQ, elastase-2  and  elastase-2 ,103,108,1.0,5,VHLEP,1,A2M( )
+CPQ, elastase-2  and  matrix metallopeptidase-9 ,442,447,1.01,5,VMDPK,0,
+CPQ, elastase-2  and  cathepsin G ,352,357,0.91,5,VNISN,0,
+CPQ, cathepsin G  and  cathepsin K ,357,362,0.935,5,YSLVM,0,

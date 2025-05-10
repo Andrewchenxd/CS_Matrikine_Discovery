@@ -1,0 +1,2 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CAPZA1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,1,5,0.925,4,MADF,1,PLEC( )

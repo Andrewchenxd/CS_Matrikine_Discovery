@@ -1,0 +1,11 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EMCN, elastase-2  and  elastase-2 ,27,32,0.935,5,ANNSL,0,
+EMCN, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,80,85,0.915,5,FLTSK,0,
+EMCN, elastase-2  and  matrix metallopeptidase-9 ,191,196,0.91,5,IILPV,1,APOB( )
+EMCN, elastase-2  and  elastase-2 ,102,107,1.11,5,ISNVT,0,
+EMCN, cathepsin K  and  matrix metallopeptidase-7 ,75,80,0.92,5,MSTAT,0,
+EMCN, matrix metallopeptidase-3  and  cathepsin K ,140,145,1.06,5,SVLQP,0,
+EMCN, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,140,145,1.21,5,SVLQP,0,
+EMCN, elastase-2  and  matrix metallopeptidase-2 ,110,115,0.93,5,VTLPN,0,
+EMCN, elastase-2  and  matrix metallopeptidase-7 ,110,115,0.925,5,VTLPN,0,
+EMCN, elastase-2  and  elastase-2 ,105,110,1.03,5,VTVTS,1,HSPG2( )

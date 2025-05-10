@@ -1,0 +1,14 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GBA, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,317,322,0.945,5,AAQLP,0,
+GBA, matrix metallopeptidase-9  and  cathepsin K ,255,260,0.91,5,AEDIT,0,
+GBA, matrix metallopeptidase-7  and  cathepsin K ,255,260,0.955,5,AEDIT,0,
+GBA, cathepsin K  and  elastase-2 ,468,473,1.01,5,AELKN,0,
+GBA, elastase-2  and  elastase-2 ,97,102,1.065,5,ESNSP,0,
+GBA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,187,192,1.095,5,GSCCT,0,
+GBA, cathepsin K  and  matrix metallopeptidase-2 ,207,212,0.98,5,KHLSL,0,
+GBA, cathepsin K  and  matrix metallopeptidase-9 ,91,96,0.92,5,LSAKS,0,
+GBA, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,212,217,0.915,5,LTTLS,2,COL6A2( );COL17A1( )
+GBA, cathepsin K  and  cathepsin K ,260,265,1.105,5,NILSK,0,
+GBA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,316,321,0.9,5,PAAQL,0,
+GBA, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,129,134,0.9,5,QPQEF,0,
+GBA, cathepsin K  and  cathepsin K ,182,187,1.06,5,YLSMV,0,

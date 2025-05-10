@@ -1,0 +1,24 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+COLQ, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,78,83,0.9,5,DMKNL,0,
+COLQ, cathepsin G  and  cathepsin K ,348,353,0.9,5,FKDSL,1,EGFR( )
+COLQ, cathepsin G  and  cathepsin K ,320,325,0.955,5,FVVNN,0,
+COLQ, matrix metallopeptidase-9  and  cathepsin K ,162,167,0.92,5,GMMGL,0,
+COLQ, cathepsin K  and  elastase-2 ,141,146,0.985,5,GMPGP,2,COL18A1( );COL3A1( )
+COLQ, cathepsin K  and  cathepsin G ,141,146,0.9,5,GMPGP,2,COL18A1( );COL3A1( )
+COLQ, cathepsin K  and  matrix metallopeptidase-9 ,353,358,1.05,5,GWLPI,0,
+COLQ, cathepsin K  and  matrix metallopeptidase-7 ,353,358,0.97,5,GWLPI,0,
+COLQ, cathepsin K  and  matrix metallopeptidase-3 ,353,358,0.915,5,GWLPI,0,
+COLQ, cathepsin K  and  matrix metallopeptidase-2 ,275,280,0.905,5,IMGPK,0,
+COLQ, elastase-2  and  matrix metallopeptidase-2 ,275,280,1.055,5,IMGPK,0,
+COLQ, elastase-2  and  matrix metallopeptidase-9 ,275,280,1.02,5,IMGPK,0,
+COLQ, elastase-2  and  matrix metallopeptidase-3 ,275,280,0.98,5,IMGPK,0,
+COLQ, elastase-2  and  cathepsin G ,357,362,1.12,5,IQLTP,0,
+COLQ, cathepsin G  and  cathepsin K ,209,214,0.9,5,LGQKG,0,
+COLQ, cathepsin G  and  elastase-2 ,352,357,1.19,5,LGWLP,0,
+COLQ, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,60,65,0.96,5,PLFPP,1,TG( )
+COLQ, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,60,65,0.935,5,PLFPP,1,TG( )
+COLQ, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,60,65,0.92,5,PLFPP,1,TG( )
+COLQ, cathepsin K  and  matrix metallopeptidase-7 ,325,330,0.91,5,QEELE,1,CASP14( )
+COLQ, matrix metallopeptidase-7  and  cathepsin K ,307,312,0.92,5,SVYGP,0,
+COLQ, elastase-2  and  matrix metallopeptidase-7 ,322,327,0.96,5,VNNQE,0,
+COLQ, matrix metallopeptidase-9  and  cathepsin G ,2,7,0.91,5,VVLNP,1,CHGA( )

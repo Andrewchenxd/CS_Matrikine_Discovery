@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ATP5B, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,496,500,0.94,4,AGEY,9,HSPG2( );IGFBP7( );FLNA( );FGFR3( );F13A1( );NCAM1( );FGFR4( );FGFR1( );FGFR2( )
+ATP5B, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,500,504,1.055,4,DHLP,1,CASP4( )
+ATP5B, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,72,76,0.94,4,DVQF,2,FLNA( );TG( )
+ATP5B, cathepsin K  and  cathepsin K ,504,508,0.965,4,EQAF,2,HNRNPK( );TG( )
+ATP5B, cathepsin K  and  matrix metallopeptidase-9 ,504,508,1.015,4,EQAF,2,HNRNPK( );TG( )
+ATP5B, cathepsin K  and  matrix metallopeptidase-2 ,139,143,0.91,4,ETLG,6,TGFBI( );LAMA2( );LAMA4( );HSPA9( );SERPINA7( );NELL2(EGF-like 6; calcium-binding)
+ATP5B, cathepsin K  and  matrix metallopeptidase-3 ,139,143,0.905,4,ETLG,6,TGFBI( );LAMA2( );LAMA4( );HSPA9( );SERPINA7( );NELL2(EGF-like 6; calcium-binding)
+ATP5B, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,440,444,0.93,4,ILGM,3,VCAN( );CTSD( );C9( )
+ATP5B, cathepsin K  and  matrix metallopeptidase-9 ,469,473,0.955,4,QVAE,10,HSPG2( );SPON1( );LAMB3( );ITIH4( );APOE(8);PLEC( );CLU( );GSN( );ILK( );A2ML1( )
+ATP5B, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,62,66,0.9,4,RIVA,6,LAMA5( );LAMA2( );VWA8( );ALDOA( );C5( );FGFR1( )
+ATP5B, matrix metallopeptidase-9  and  cathepsin G ,268,272,0.905,4,VYGQ,2,CLTC( );C7( )
+ATP5B, cathepsin G  and  cathepsin K ,247,251,0.99,4,YHEM,1,CPA4( )

@@ -1,0 +1,17 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ASPN, cathepsin K  and  cathepsin G ,218,223,1.095,5,EGVTV,1,HSPG2( )
+ASPN, cathepsin K  and  matrix metallopeptidase-9 ,201,206,0.96,5,EMSAN,0,
+ASPN, cathepsin K  and  matrix metallopeptidase-7 ,201,206,1.005,5,EMSAN,0,
+ASPN, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,201,206,0.915,5,EMSAN,0,
+ASPN, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,201,206,0.9,5,EMSAN,0,
+ASPN, cathepsin K  and  elastase-2 ,19,24,1.035,5,FSPSH,0,
+ASPN, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,23,28,1.05,5,HIALK,0,
+ASPN, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,23,28,1.005,5,HIALK,0,
+ASPN, cathepsin G  and  matrix metallopeptidase-2 ,167,172,0.95,5,LNLPK,1,IL6( )
+ASPN, cathepsin G  and  matrix metallopeptidase-9 ,167,172,0.935,5,LNLPK,1,IL6( )
+ASPN, cathepsin G  and  matrix metallopeptidase-7 ,167,172,0.975,5,LNLPK,1,IL6( )
+ASPN, cathepsin G  and  cathepsin G ,162,167,0.915,5,LSEIP,0,
+ASPN, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,28,33,0.97,5,NMMLK,0,
+ASPN, cathepsin K  and  cathepsin K ,374,379,0.985,5,QLGNF,0,
+ASPN, matrix metallopeptidase-7  and  elastase-2 ,342,347,0.92,5,SLYSA,0,
+ASPN, cathepsin K  and  elastase-2 ,357,362,0.995,5,WEMQP,0,

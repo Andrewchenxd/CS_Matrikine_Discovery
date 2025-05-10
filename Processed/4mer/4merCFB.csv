@@ -1,0 +1,15 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CFB, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,233,237,0.975,4,AFLS,6,COL18A1( );COL15A1( );PZP( );ATP5A1( );SERPINA3( );IL17F( )
+CFB, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,698,702,0.92,4,DSGG,30,EMILIN1( );SHH( );MMP8( );CTSG( );CFD( );CMA1( );ST14( );KLK14( );KLK13( );C1R( );KLK10( );KLK5( );CELA1( );KLK11( );KLK7( );KLKB1( );TPSD1( );TPSB2( );CFI( );PLG( );KLK6( );PRTN3( );PLAU( );F2( );HGFAC( );C1S( );PRSS1( );KLK8( );TPSAB1( );PLAT( )
+CFB, cathepsin K  and  cathepsin K ,113,117,0.9,4,EYWP,1,C5( )
+CFB, cathepsin G  and  matrix metallopeptidase-2 ,428,432,0.985,4,FGVG,4,ELN( );CDH1( );HSP90B1( );HSP90AA1( )
+CFB, cathepsin G  and  matrix metallopeptidase-3 ,428,432,1.03,4,FGVG,4,ELN( );CDH1( );HSP90B1( );HSP90AA1( )
+CFB, cathepsin K  and  elastase-2 ,395,399,0.94,4,GGDP,8,LAMA5( );CSPG4( );FLNA( );WDR1( );FLNB( );LOXL1( );TG( );ADM2( )
+CFB, cathepsin K  and  matrix metallopeptidase-3 ,169,173,0.925,4,GIPI,6,AEBP1( );LAMA3( );GPX3( );VWA8( );C3( );CD109( )
+CFB, cathepsin K  and  cathepsin G ,429,433,0.95,4,GVGP,5,VWF( );ELN( );COL2A1( );KARS( );EFNA3( )
+CFB, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,385,389,0.91,4,ILMT,1,CD109( )
+CFB, cathepsin K  and  cathepsin K ,235,239,1.035,4,LSSL,20,LAMC2( );LAMA5( );LAMB2( );ABI3BP( );COL18A1( );COL12A1( );LAD1( );CKAP4( );CDH1( );ITIH3( );TFRC( );SOGA1( );DSG1( );CD14(LRR 4);ERAP1(Helical; Signal-anchor for type II);FLNB( );AGTR2( );IGHV1-46( );PRKDC( );EGFR( )
+CFB, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,366,370,0.98,4,MSWP,0,
+CFB, cathepsin K  and  cathepsin G ,340,344,0.96,4,NEIN,2,LAMA4( );CD109( )
+CFB, cathepsin K  and  matrix metallopeptidase-7 ,53,57,0.955,4,QEGQ,6,LAMB2( );ATP5B( );GPC1( );F13A1( );APOB( );MUC4( )
+CFB, elastase-2  and  cathepsin G ,362,366,1.01,4,VYSM,1,HEBP1( )

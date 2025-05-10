@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DPP7, cathepsin K  and  cathepsin K ,465,470,0.935,5,EATII,2,HSPG2( );ANXA1( )
+DPP7, cathepsin G  and  matrix metallopeptidase-2 ,84,89,0.935,5,FANNS,0,
+DPP7, matrix metallopeptidase-2  and  cathepsin K ,15,20,0.945,5,GLRGL,2,COL7A1( );COL2A1( )
+DPP7, matrix metallopeptidase-9  and  cathepsin K ,15,20,1.065,5,GLRGL,2,COL7A1( );COL2A1( )
+DPP7, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,10,15,0.96,5,LLLAL,12,ADIPOQ( );HSPG2( );COL3A1( );CSPG4( );POMC( );DMKN( );MELTF( );NPC2( );FGFR4( );TPSD1( );TPSB2( );TPSAB1( )
+DPP7, cathepsin G  and  matrix metallopeptidase-7 ,249,254,0.985,5,LSDEK,1,VWA8( )
+DPP7, cathepsin G  and  matrix metallopeptidase-7 ,297,302,0.905,5,LSEAQ,0,
+DPP7, cathepsin K  and  cathepsin K ,32,37,1.005,5,QERFF,0,

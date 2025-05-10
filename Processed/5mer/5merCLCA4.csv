@@ -1,0 +1,21 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CLCA4, matrix metallopeptidase-3  and  elastase-2 ,431,436,0.915,5,AIVHF,0,
+CLCA4, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,699,704,0.96,5,AYIPG,0,
+CLCA4, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,720,725,1.04,5,DEDTQ,0,
+CLCA4, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,751,756,0.915,5,DQYPP,0,
+CLCA4, cathepsin K  and  cathepsin G ,244,249,0.98,5,DSVVE,0,
+CLCA4, cathepsin G  and  cathepsin K ,804,809,0.905,5,FDDAL,0,
+CLCA4, cathepsin G  and  matrix metallopeptidase-9 ,73,78,0.945,5,FKNVS,0,
+CLCA4, elastase-2  and  granzyme B ({Homo sapiens}-type) ,131,136,0.945,5,IHFTP,0,
+CLCA4, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,78,83,0.91,5,ILIPE,0,
+CLCA4, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,78,83,0.915,5,ILIPE,0,
+CLCA4, cathepsin G  and  matrix metallopeptidase-3 ,611,616,0.92,5,MIVYA,0,
+CLCA4, cathepsin G  and  matrix metallopeptidase-2 ,611,616,1.07,5,MIVYA,0,
+CLCA4, cathepsin G  and  matrix metallopeptidase-3 ,605,610,1.01,5,NSFPS,1,DMBT1(CUB 1)
+CLCA4, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,610,615,0.95,5,PMIVY,0,
+CLCA4, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,610,615,0.91,5,PMIVY,0,
+CLCA4, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,610,615,1.07,5,PMIVY,0,
+CLCA4, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,757,762,1.03,5,QITDL,0,
+CLCA4, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,746,751,0.9,5,SLPLP,1,LOXL1( )
+CLCA4, elastase-2  and  cathepsin G ,725,730,1.0,5,TTLED,1,VCAN( )
+CLCA4, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,642,647,0.93,5,VLELL,0,

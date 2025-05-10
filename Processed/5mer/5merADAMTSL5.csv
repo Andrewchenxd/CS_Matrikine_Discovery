@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ADAMTSL5, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,240,245,0.975,5,ALMGG,0,
+ADAMTSL5, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,240,245,1.025,5,ALMGG,0,
+ADAMTSL5, cathepsin G  and  matrix metallopeptidase-3 ,207,212,0.91,5,FRDAG,0,
+ADAMTSL5, cathepsin G  and  cathepsin K ,38,43,0.965,5,LGVSA,1,ELN( )
+ADAMTSL5, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,442,447,0.96,5,RLVSP,3,LTBP2( );FLNB( );NRP1( )
+ADAMTSL5, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,442,447,0.955,5,RLVSP,3,LTBP2( );FLNB( );NRP1( )
+ADAMTSL5, cathepsin K  and  cathepsin K ,41,46,1.045,5,SAQGP,0,
+ADAMTSL5, elastase-2  and  matrix metallopeptidase-9 ,382,387,0.9,5,VFQAR,0,
+ADAMTSL5, cathepsin K  and  cathepsin G ,123,128,0.965,5,YQWVP,1,SEMA3A( )

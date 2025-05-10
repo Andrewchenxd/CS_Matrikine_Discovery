@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CCL7, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,16,21,0.945,5,AFSPQ,1,CCL11( )
+CCL7, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,16,21,0.905,5,AFSPQ,1,CCL11( )
+CCL7, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,16,21,0.93,5,AFSPQ,1,CCL11( )
+CCL7, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,16,21,1.0,5,AFSPQ,1,CCL11( )
+CCL7, cathepsin K  and  elastase-2 ,23,28,1.025,5,AQPVG,0,
+CCL7, matrix metallopeptidase-2  and  elastase-2 ,21,26,0.955,5,GLAQP,2,HSPG2(Ig-like C2-type 14);CCL2( )
+CCL7, matrix metallopeptidase-9  and  elastase-2 ,21,26,0.915,5,GLAQP,2,HSPG2(Ig-like C2-type 14);CCL2( )
+CCL7, matrix metallopeptidase-3  and  elastase-2 ,21,26,0.94,5,GLAQP,2,HSPG2(Ig-like C2-type 14);CCL2( )
+CCL7, matrix metallopeptidase-7  and  elastase-2 ,21,26,1.01,5,GLAQP,2,HSPG2(Ig-like C2-type 14);CCL2( )

@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C1QB, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,50,54,0.93,4,DGQP,17,HMCN2( );TNXB( );COL7A1( );HSPG2( );LAMB2( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL3A1( );COL5A1( );COL4A5( );CSPG4( );GBP1( );ITIH5( );CRIP2( );HGF( )
+C1QB, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,70,74,0.965,4,DHGE,2,TNC( );CP( )
+C1QB, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,66,70,0.965,4,GLAG,22,HMCN2( );COL7A1( );ELN( );COL1A2( );COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL5A1( );COL4A4( );COL4A1( );COL14A1( );COL4A2( );COL16A1( );COL6A2( );TLN1( );CSPG4( );NECTIN1( );CCL11( );IL4( );LCN2( )
+C1QB, matrix metallopeptidase-9  and  cathepsin K ,213,217,0.935,4,VLKL,6,COL6A3( );FBLN1( );ATP5O( );DYNC1H1( );GLG1( );HBEGF( )

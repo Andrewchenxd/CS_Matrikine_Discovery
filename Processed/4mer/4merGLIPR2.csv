@@ -1,0 +1,2 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GLIPR2, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,124,128,0.91,4,DGSS,7,FRAS1( );COL7A1( );VWF( );COL6A3( );COL6A5( );COL14A1( );PAPPA( )

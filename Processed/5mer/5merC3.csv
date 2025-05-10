@@ -1,0 +1,70 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C3, matrix metallopeptidase-7  and  cathepsin G ,20,25,0.955,5,ALGSP,0,
+C3, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,1142,1147,0.995,5,ALTAF,2,C4B( );C4A( )
+C3, matrix metallopeptidase-3  and  cathepsin K ,1481,1486,0.985,5,AYYNL,1,PRL( )
+C3, cathepsin K  and  cathepsin K ,752,757,0.925,5,DEDII,0,
+C3, matrix metallopeptidase-2  and  elastase-2 ,371,376,0.93,5,DLMVF,0,
+C3, matrix metallopeptidase-7  and  cathepsin K ,371,376,0.98,5,DLMVF,0,
+C3, matrix metallopeptidase-9  and  cathepsin K ,371,376,1.055,5,DLMVF,0,
+C3, matrix metallopeptidase-2  and  cathepsin K ,371,376,1.005,5,DLMVF,0,
+C3, matrix metallopeptidase-7  and  elastase-2 ,371,376,0.905,5,DLMVF,0,
+C3, matrix metallopeptidase-9  and  elastase-2 ,371,376,0.98,5,DLMVF,0,
+C3, matrix metallopeptidase-9  and  cathepsin G ,832,837,0.96,5,DLRLP,0,
+C3, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,318,323,0.905,5,DLVGK,0,
+C3, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,318,323,0.965,5,DLVGK,0,
+C3, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,318,323,0.995,5,DLVGK,0,
+C3, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,318,323,0.925,5,DLVGK,0,
+C3, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,318,323,0.955,5,DLVGK,0,
+C3, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,318,323,1.025,5,DLVGK,0,
+C3, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,549,554,0.945,5,DSVWV,0,
+C3, cathepsin K  and  matrix metallopeptidase-7 ,1486,1491,0.96,5,EESCT,0,
+C3, cathepsin K  and  matrix metallopeptidase-9 ,266,271,0.985,5,EGTAF,0,
+C3, matrix metallopeptidase-7  and  cathepsin K ,197,202,0.96,5,ELVNM,0,
+C3, matrix metallopeptidase-3  and  cathepsin K ,197,202,0.965,5,ELVNM,0,
+C3, cathepsin K  and  cathepsin K ,197,202,0.995,5,ELVNM,0,
+C3, cathepsin K  and  matrix metallopeptidase-9 ,1650,1655,0.965,5,GAFTE,1,TLN1( )
+C3, cathepsin K  and  matrix metallopeptidase-7 ,684,689,0.92,5,GKYPK,0,
+C3, cathepsin K  and  cathepsin K ,202,207,0.91,5,GQWKI,0,
+C3, cathepsin K  and  cathepsin G ,333,338,0.93,5,HSGSD,0,
+C3, elastase-2  and  elastase-2 ,1311,1316,0.915,5,IHWES,0,
+C3, elastase-2  and  matrix metallopeptidase-3 ,282,287,0.94,5,ISLPE,1,PZP( )
+C3, elastase-2  and  matrix metallopeptidase-9 ,282,287,1.045,5,ISLPE,1,PZP( )
+C3, elastase-2  and  matrix metallopeptidase-7 ,282,287,0.995,5,ISLPE,1,PZP( )
+C3, elastase-2  and  matrix metallopeptidase-2 ,282,287,0.92,5,ISLPE,1,PZP( )
+C3, cathepsin K  and  matrix metallopeptidase-2 ,1004,1009,0.905,5,IVTPS,0,
+C3, cathepsin G  and  matrix metallopeptidase-9 ,19,24,0.93,5,LALGS,3,LGI3( );COL6A2( );ENDOD1( )
+C3, cathepsin G  and  matrix metallopeptidase-2 ,867,872,0.93,5,LHNPA,0,
+C3, cathepsin G  and  cathepsin K ,795,800,0.915,5,LKDSI,0,
+C3, cathepsin G  and  cathepsin K ,1554,1559,0.995,5,LSNDF,0,
+C3, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,1554,1559,0.98,5,LSNDF,0,
+C3, cathepsin G  and  matrix metallopeptidase-9 ,894,899,1.105,5,LSVPY,0,
+C3, cathepsin G  and  cathepsin G ,514,519,1.12,5,LVVLP,3,FGFR3(Ig-like C2-type 3);SLTM( );TG( )
+C3, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,1091,1096,1.135,5,NLIAI,0,
+C3, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,1091,1096,0.975,5,NLIAI,0,
+C3, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,1091,1096,1.0550000000000002,5,NLIAI,0,
+C3, matrix metallopeptidase-3  and  cathepsin G ,1251,1256,0.98,5,PVVRW,0,
+C3, cathepsin K  and  elastase-2 ,392,397,1.065,5,QGEDT,0,
+C3, cathepsin K  and  matrix metallopeptidase-7 ,699,704,0.975,5,RENPM,0,
+C3, matrix metallopeptidase-7  and  cathepsin K ,999,1004,0.94,5,RLKHL,0,
+C3, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,399,404,0.92,5,SLTQG,1,HSPG2( )
+C3, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,399,404,0.95,5,SLTQG,1,HSPG2( )
+C3, cathepsin K  and  cathepsin K ,1608,1613,0.95,5,SSDFW,0,
+C3, elastase-2  and  matrix metallopeptidase-7 ,15,20,0.9,5,THLPL,1,LAMA5( )
+C3, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,440,445,0.92,5,TMQAL,0,
+C3, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,440,445,0.915,5,TMQAL,0,
+C3, elastase-2  and  matrix metallopeptidase-9 ,4,9,0.965,5,TSGPS,0,
+C3, elastase-2  and  matrix metallopeptidase-2 ,4,9,1.08,5,TSGPS,0,
+C3, cathepsin K  and  cathepsin G ,800,805,0.975,5,TTWEI,3,C5( );C4B( );C4A( )
+C3, matrix metallopeptidase-9  and  cathepsin K ,899,904,0.97,5,VIVPL,0,
+C3, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,43,48,0.96,5,VLEAH,0,
+C3, matrix metallopeptidase-9  and  cathepsin K ,1147,1152,1.09,5,VLISL,0,
+C3, matrix metallopeptidase-9  and  cathepsin G ,825,830,0.975,5,VMQDF,0,
+C3, elastase-2  and  cathepsin K ,152,157,0.93,5,VNHKL,0,
+C3, elastase-2  and  matrix metallopeptidase-9 ,349,354,0.925,5,VTSPY,0,
+C3, elastase-2  and  granzyme B ({Homo sapiens}-type) ,823,828,0.935,5,VTVMQ,0,
+C3, elastase-2  and  cathepsin K ,515,520,0.905,5,VVLPL,0,
+C3, elastase-2  and  matrix metallopeptidase-9 ,515,520,0.95,5,VVLPL,0,
+C3, elastase-2  and  matrix metallopeptidase-2 ,515,520,1.085,5,VVLPL,0,
+C3, matrix metallopeptidase-9  and  cathepsin K ,916,921,0.915,5,VYHHF,0,
+C3, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,1620,1625,0.995,5,YIIGK,0,
+C3, cathepsin G  and  matrix metallopeptidase-3 ,446,451,0.95,5,YSTVG,1,COL14A1( )

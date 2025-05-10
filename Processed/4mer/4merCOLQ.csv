@@ -1,0 +1,11 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+COLQ, cathepsin K  and  matrix metallopeptidase-2 ,152,156,0.93,4,EGPR,10,ADIPOQ( );COL7A1( );HSPG2( );LAMA3( );COL5A1( );LAMB1( );COL4A3( );COL6A2( );CSPG4( );SOGA1( )
+COLQ, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,383,387,0.965,4,GEEC,1,TNFRSF18( )
+COLQ, cathepsin K  and  matrix metallopeptidase-7 ,141,145,0.9,4,GMPG,18,COL1A1( );COL2A1( );COL5A2( );COL18A1( );COL3A1( );COL5A1( );COL4A4( );COL4A1( );COL4A3( );COL4A5( );COL4A6( );COL14A1( );COL4A2( );COL16A1(Collagen-like 5);COL17A1( );HSPA8( );C1QC( );PAPPA( )
+COLQ, matrix metallopeptidase-2  and  cathepsin K ,272,276,0.91,4,GQLI,6,FRAS1( );FN1( );MAP2K2( );WDR1( );ACE2( );ITIH1( )
+COLQ, matrix metallopeptidase-3  and  cathepsin K ,272,276,0.905,4,GQLI,6,FRAS1( );FN1( );MAP2K2( );WDR1( );ACE2( );ITIH1( )
+COLQ, cathepsin K  and  elastase-2 ,353,357,1.3,4,GWLP,0,
+COLQ, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,74,78,0.94,4,LLSP,10,SPON1( );LAMA2( );SERPINF1( );SERPINA5( );PLEC( );TTR( );KARS( );NTF4( );ACE2( );CCL27( )
+COLQ, cathepsin K  and  cathepsin K ,95,99,1.01,4,QGSL,5,HSPG2( );LAMB2( );LAMB1( );LEP( );INHBA( )
+COLQ, elastase-2  and  elastase-2 ,318,322,1.0,4,VIFV,4,COL6A5( );COL6A6( );NCAM1( );IL13RA2( )
+COLQ, cathepsin G  and  elastase-2 ,318,322,0.96,4,VIFV,4,COL6A5( );COL6A6( );NCAM1( );IL13RA2( )

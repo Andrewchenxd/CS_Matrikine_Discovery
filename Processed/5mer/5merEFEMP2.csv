@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EFEMP2, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,372,377,0.98,5,AYNAF,0,
+EFEMP2, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,372,377,0.98,5,AYNAF,0,
+EFEMP2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,125,130,0.975,5,DECAQ,2,LTBP4( );FBLN2( )
+EFEMP2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,125,130,0.995,5,DECAQ,2,LTBP4( );FBLN2( )
+EFEMP2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,125,130,1.0550000000000002,5,DECAQ,2,LTBP4( );FBLN2( )
+EFEMP2, matrix metallopeptidase-9  and  cathepsin K ,272,277,0.91,5,GYQLL,2,FBLN1( );CFH( )
+EFEMP2, matrix metallopeptidase-3  and  cathepsin K ,272,277,0.94,5,GYQLL,2,FBLN1( );CFH( )
+EFEMP2, cathepsin K  and  cathepsin K ,271,276,0.985,5,QGYQL,3,FBLN2( );C1R( );GLA( )
+EFEMP2, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,6,11,0.91,5,SCLPG,2,NID1( );TLN1( )
+EFEMP2, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,342,347,1.03,5,SIVHR,2,ACTG1( );POTEKP( )
+EFEMP2, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,342,347,1.06,5,SIVHR,2,ACTG1( );POTEKP( )
+EFEMP2, elastase-2  and  matrix metallopeptidase-3 ,178,183,1.0750000000000002,5,VNLPG,3,FN1( );LTBP2( );PKM( )

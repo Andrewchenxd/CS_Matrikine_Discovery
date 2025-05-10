@@ -1,0 +1,22 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C7, cathepsin K  and  cathepsin K ,273,277,0.96,4,AEPF,1,LGI3( )
+C7, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,394,398,0.955,4,DNPA,3,CCT2( );CASP1( );WDR1( )
+C7, cathepsin K  and  cathepsin K ,446,450,1.005,4,EEYL,4,VCAN( );MMP9( );FGFR4(Protein kinase);FGFR2(Protein kinase)
+C7, cathepsin K  and  matrix metallopeptidase-2 ,666,670,1.19,4,EGPS,8,COL7A1( );LAMA5( );VCAN( );COL14A1( );MAP2K2( );FLNA( );EPHB4( );FLNB( )
+C7, cathepsin K  and  matrix metallopeptidase-3 ,666,670,1.1749999999999998,4,EGPS,8,COL7A1( );LAMA5( );VCAN( );COL14A1( );MAP2K2( );FLNA( );EPHB4( );FLNB( )
+C7, matrix metallopeptidase-9  and  cathepsin K ,269,273,1.145,4,FLQL,4,HMCN2( );COL18A1( );CD209( );PGF( )
+C7, matrix metallopeptidase-7  and  cathepsin K ,269,273,1.19,4,FLQL,4,HMCN2( );COL18A1( );CD209( );PGF( )
+C7, cathepsin G  and  cathepsin G ,344,348,1.0,4,FVVK,3,COL6A1( );EEF2( );SFRP5( )
+C7, matrix metallopeptidase-9  and  cathepsin K ,387,391,0.905,4,GLSY,6,COL7A1( );FBN2( );IDE( );GSN( );PRKDC( );FGFR4( )
+C7, matrix metallopeptidase-2  and  cathepsin K ,387,391,1.115,4,GLSY,6,COL7A1( );FBN2( );IDE( );GSN( );PRKDC( );FGFR4( )
+C7, cathepsin G  and  matrix metallopeptidase-9 ,740,744,0.935,4,LTVC,3,CSPG4( );GPC2( );ITIH5( )
+C7, cathepsin G  and  cathepsin K ,745,749,0.94,4,MHVL,1,LAMA5( )
+C7, cathepsin G  and  matrix metallopeptidase-2 ,1,5,0.905,4,MKVI,0,
+C7, matrix metallopeptidase-2  and  cathepsin K ,564,568,0.915,4,SLVP,4,ANOS1( );ITIH4( );ATP5A1( );PLEC(Plectin 6)
+C7, matrix metallopeptidase-3  and  cathepsin K ,564,568,0.995,4,SLVP,4,ANOS1( );ITIH4( );ATP5A1( );PLEC(Plectin 6)
+C7, matrix metallopeptidase-7  and  cathepsin K ,564,568,0.99,4,SLVP,4,ANOS1( );ITIH4( );ATP5A1( );PLEC(Plectin 6)
+C7, matrix metallopeptidase-9  and  cathepsin K ,564,568,0.905,4,SLVP,4,ANOS1( );ITIH4( );ATP5A1( );PLEC(Plectin 6)
+C7, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,619,623,1.03,4,WLVG,0,
+C7, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,619,623,0.9,4,WLVG,0,
+C7, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,619,623,0.96,4,WLVG,0,
+C7, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,390,394,0.9,4,YLEL,6,TLN1( );HSP90B1( );VWA8( );PLEC( );IDE( );PAPPA( )

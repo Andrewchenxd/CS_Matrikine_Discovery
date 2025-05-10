@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FMOD, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,367,372,1.015,5,CLRLA,0,
+FMOD, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,367,372,0.93,5,CLRLA,0,
+FMOD, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,367,372,0.95,5,CLRLA,0,
+FMOD, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,58,63,0.945,5,DEGPA,0,
+FMOD, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,58,63,0.915,5,DEGPA,0,
+FMOD, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,294,299,0.91,5,SLLEL,1,TG( )
+FMOD, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,53,58,1.005,5,YPYGV,0,

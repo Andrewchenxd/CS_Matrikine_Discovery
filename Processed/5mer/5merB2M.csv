@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+B2M, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,58,63,0.98,5,DLLKN,1,SERPINA5( )
+B2M, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,49,54,0.96,5,GFHPS,0,
+B2M, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,49,54,0.96,5,GFHPS,0,

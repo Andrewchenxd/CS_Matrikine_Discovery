@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FST, elastase-2  and  granzyme B ({Homo sapiens}-type) ,283,287,1.005,4,VCAS,1,KLK11( )
+FST, matrix metallopeptidase-9  and  cathepsin K ,78,82,0.945,4,WMIF,0,
+FST, cathepsin G  and  elastase-2 ,334,338,0.915,4,YSFP,2,LAMA3( );GPC2( )

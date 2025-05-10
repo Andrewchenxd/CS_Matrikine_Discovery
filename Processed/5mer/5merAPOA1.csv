@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APOA1, cathepsin K  and  matrix metallopeptidase-2 ,100,105,0.93,5,EKETE,0,
+APOA1, matrix metallopeptidase-7  and  cathepsin K ,253,258,0.965,5,FLSAL,0,
+APOA1, cathepsin K  and  matrix metallopeptidase-7 ,159,164,0.975,5,HELQE,0,
+APOA1, cathepsin K  and  matrix metallopeptidase-2 ,85,90,0.925,5,REQLG,0,
+APOA1, cathepsin K  and  matrix metallopeptidase-7 ,184,189,0.925,5,RTHLA,0,
+APOA1, elastase-2  and  cathepsin G ,185,190,1.265,5,THLAP,0,
+APOA1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,5,10,0.925,5,VLTLA,2,HMCN2( );APOA4( )
+APOA1, cathepsin G  and  cathepsin K ,124,129,1.0699999999999998,5,YLDDF,1,COL6A6( )

@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ACPP, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,290,295,1.12,5,DTTVS,0,
+ACPP, cathepsin G  and  matrix metallopeptidase-2 ,8,13,0.945,5,LARAA,0,
+ACPP, cathepsin G  and  matrix metallopeptidase-7 ,8,13,0.925,5,LARAA,0,
+ACPP, cathepsin G  and  matrix metallopeptidase-7 ,148,153,1.025,5,LSEDQ,0,
+ACPP, cathepsin K  and  matrix metallopeptidase-7 ,2,7,0.9,5,RAAPL,1,COL6A3( )
+ACPP, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,13,18,0.915,5,SLSLG,1,IGHG4( )
+ACPP, elastase-2  and  cathepsin G ,143,148,0.985,5,VHTVP,0,

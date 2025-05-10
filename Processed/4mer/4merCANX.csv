@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CANX, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,298,302,0.92,4,AVKP,2,COL6A3( );COL17A1(Extracellular)
+CANX, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,298,302,0.92,4,AVKP,2,COL6A3( );COL17A1(Extracellular)
+CANX, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,555,559,0.965,4,DAEE,5,FBLN2( );COL6A1( );MMP8( );CPA4( );PENK( )
+CANX, cathepsin G  and  matrix metallopeptidase-9 ,419,423,0.925,4,FSAI,1,C4BPA( )
+CANX, elastase-2  and  elastase-2 ,491,495,1.02,4,VALP,5,FBN2( );COL16A1( );COL15A1( );TLN1( );CTSG( )
+CANX, cathepsin G  and  elastase-2 ,487,491,0.97,4,YILT,5,EFEMP1( );CCT6A( );ENDOD1( );C4B( );C4A( )

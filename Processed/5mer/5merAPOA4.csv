@@ -1,0 +1,18 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APOA4, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,213,218,0.95,5,DQTVE,0,
+APOA4, cathepsin K  and  matrix metallopeptidase-7 ,213,218,0.915,5,DQTVE,0,
+APOA4, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,25,30,0.98,5,DQVAT,0,
+APOA4, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,335,340,0.935,5,DVEGH,0,
+APOA4, cathepsin K  and  cathepsin K ,239,244,1.165,5,EGLTF,2,CSPG4( );AGT( )
+APOA4, cathepsin K  and  matrix metallopeptidase-9 ,239,244,1.17,5,EGLTF,2,CSPG4( );AGT( )
+APOA4, cathepsin G  and  cathepsin K ,62,67,1.105,5,FQDKL,0,
+APOA4, cathepsin K  and  cathepsin G ,67,72,1.16,5,GEVNT,0,
+APOA4, matrix metallopeptidase-7  and  cathepsin K ,390,395,0.955,5,MLAPL,0,
+APOA4, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,59,64,1.06,5,NALFQ,0,
+APOA4, cathepsin K  and  matrix metallopeptidase-7 ,286,291,0.935,5,QKSLA,3,PLEC( );COPA( );SST( )
+APOA4, matrix metallopeptidase-7  and  elastase-2 ,141,146,0.975,5,QLRTQ,1,SPINT1( )
+APOA4, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,156,161,0.91,5,QLTPY,0,
+APOA4, matrix metallopeptidase-9  and  cathepsin G ,30,35,1.01,5,VMWDY,0,
+APOA4, elastase-2  and  matrix metallopeptidase-7 ,388,393,1.035,5,VQMLA,0,
+APOA4, cathepsin G  and  cathepsin K ,138,143,1.1,5,YADQL,0,
+APOA4, cathepsin G  and  cathepsin K ,226,231,0.985,5,YAQDT,0,

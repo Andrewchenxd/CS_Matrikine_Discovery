@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EFEMP1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,124,129,0.91,5,AVAGP,2,COL7A1( );COL4A2( )
+EFEMP1, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,1,6,0.965,5,MLKAL,1,PRKDC( )
+EFEMP1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,467,472,0.99,5,MLTVS,0,
+EFEMP1, cathepsin G  and  matrix metallopeptidase-3 ,269,274,0.98,5,YNILG,1,HNRNPU( )

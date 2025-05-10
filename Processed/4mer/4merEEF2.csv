@@ -1,0 +1,12 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EEF2, cathepsin K  and  matrix metallopeptidase-3 ,547,551,0.905,4,AGAG,10,TNC( );ELN( );FBLN2( );GAPDH( );LGALS3( );FLNA( );GLG1( );FLNB( );MUC4( );KLK5( )
+EEF2, matrix metallopeptidase-2  and  cathepsin K ,536,540,0.9,4,CIIE,1,CHGB( )
+EEF2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,348,352,0.9,4,DALL,10,LAMB2( );COL6A5( );CCT6A( );DYNC1H1( );VWA8( );PLEC( );GANAB( );LGALS3BP( );MMP28( );NGFR( )
+EEF2, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,703,707,0.935,4,DVHD,0,
+EEF2, cathepsin G  and  cathepsin G ,609,613,0.91,4,FPDG,4,THBS2( );COL5A1( );PMEL( );PYY( )
+EEF2, elastase-2  and  matrix metallopeptidase-2 ,744,748,1.05,4,IYLV,1,CFB( )
+EEF2, matrix metallopeptidase-9  and  elastase-2 ,740,744,1.26,4,LMEP,1,EFTUD2( )
+EEF2, matrix metallopeptidase-9  and  elastase-2 ,21,25,0.955,4,NMSV,0,
+EEF2, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,833,837,0.91,4,QVVA,6,HSPD1( );CSTA( );KNG1( );TLL1( );PSAPL1( );IL25( )
+EEF2, cathepsin K  and  cathepsin K ,274,278,1.01,4,SKSA,1,LAMB1( )
+EEF2, matrix metallopeptidase-9  and  cathepsin K ,496,500,0.9,4,VMKF,0,

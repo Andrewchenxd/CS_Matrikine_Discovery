@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APOE, cathepsin K  and  cathepsin G ,217,221,0.93,4,AGQP,10,HMCN2( );FBN2( );COL1A2( );LAMC1( );COL3A1( );COL6A5(Collagen-like 6);COL4A1( );COL4A6( );CSPG4( );EFTUD2( )
+APOE, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,172,176,0.975,4,DLQK,7,VWF( );APOA4( );ENDOD1( );DYNC1H1( );MAP2K2( );IDE( );SLTM( )
+APOE, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,128,132,0.905,4,DVCG,1,FRAS1( )
+APOE, cathepsin K  and  elastase-2 ,149,153,1.01,4,EELR,19,LAMB2( );COL12A1( );LAMB1( );LAMB3( );APOA4( );CKAP4( );MYH9( );CSPG4( );DYNC1H1( );SOGA1( );PLEC( );NUCB1( );GANAB( );ACTN2( );ACTN4( );MMP14( );PKM( );PRKDC( );TG( )
+APOE, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,256,260,0.975,4,EVRA,2,AEBP1( );ACTN2( )
+APOE, cathepsin G  and  elastase-2 ,61,65,1.005,4,LSEQ,5,COL6A3(VWFA 9);PLEC( );GPC1( );CTSV( );CTSL( )
+APOE, cathepsin G  and  elastase-2 ,70,74,0.93,4,LSSQ,13,LAMC1( );COL5A2( );VCAN( );HSPA5( );CSPG4( );DYNC1H1( );C3( );ITIH1( );APOB( );TEK( );PRKDC( );TG(Thyroglobulin type-1 5);BDNF( )
+APOE, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,285,289,0.92,4,PLVE,1,ALB(Albumin 3)
+APOE, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,285,289,1.05,4,PLVE,1,ALB(Albumin 3)
+APOE, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,285,289,0.915,4,PLVE,1,ALB(Albumin 3)
+APOE, cathepsin K  and  matrix metallopeptidase-7 ,76,80,1.005,4,QELR,9,LAMA5( );THBS3( );DCN( );MYH9( );SOGA1( );MMP28( );PRF1( );APOD( );LTF( )
+APOE, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,231,235,0.915,4,RLRA,13,LAMA5( );AEBP1( );COL6A5( );IGFBP3( );EMILIN1( );TLN1( );NAXE( );SERPINI1( );PLEC( );GPC1( );HEBP1( );CD40(Extracellular);PAPPA( )

@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EMCN, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,234,238,0.915,4,DKES,3,FN1( );TNC( );COL14A1( )
+EMCN, elastase-2  and  elastase-2 ,101,105,0.96,4,IISN,6,TGFBI( );GAPDH( );DSC2( );SLTM( );FLT1( );EGFR( )
+EMCN, cathepsin G  and  matrix metallopeptidase-9 ,204,208,0.945,4,LSVF,2,EFTUD2( );CGA( )
+EMCN, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,194,198,0.985,4,PVVI,5,FN1( );COL6A6( );DYNC1H1( );FLNA(Filamin 18);CLTC( )
+EMCN, elastase-2  and  elastase-2 ,155,159,1.015,4,TSIP,5,FBN2( );HSPG2( );ABI3BP( );DCN(LRR 7);LAMA2( )
+EMCN, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,208,212,0.985,4,VLVG,10,HMCN2( );HSPA5( );HSPA8( );P4HB( );FGFR3( );F13A1( );PROCR( );RAN( );C7( );KLK8( )
+EMCN, elastase-2  and  cathepsin K ,159,163,0.92,4,VTIP,6,TNXB( );ADIPOQ( );MYH9( );DAG1( );C3( );HNRNPK( )

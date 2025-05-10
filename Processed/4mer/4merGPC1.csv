@@ -1,0 +1,17 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GPC1, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,186,190,0.925,4,DDYL,3,FBN2( );SERPIND1( );GSN( )
+GPC1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,431,435,1.015,4,DGLA,9,COL2A1( );COL5A1( );COL6A3( );COL15A1( );CKAP4( );EEF2( );SOGA1( );ACTN4( );HBB( )
+GPC1, cathepsin K  and  cathepsin K ,160,164,0.96,4,EETL,8,POSTN( );LAMB1( );LAMB3( );EPHB4(Eph LBD);CPE( );MMP8( );KNG1( );PRKDC( )
+GPC1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,427,431,0.915,4,EVMG,2,PMEL( );PFKP( )
+GPC1, cathepsin K  and  cathepsin K ,203,207,0.93,4,GEAP,5,HMCN2( );FN1( );DYNC1H1( );SFN( );EGFR( )
+GPC1, cathepsin G  and  elastase-2 ,433,437,0.975,4,LANQ,2,TLN1( );PDCD6IP( )
+GPC1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,182,186,0.97,4,LLLP,41,LAMC2( );VWF( );SRPX( );LTBP4( );FBLN2( );COL6A5( );COL4A1( );COL4A3( );NID1( );IGFBP7( );LRG1(LRR 6);HSD17B11( );DAG1( );GPC2( );PLEC( );PI16( );CD14( );PRDX4( );SERPINB2( );CD8A( );NUCB1( );LGALS3BP( );CDSN( );CLTC( );MMP14( );CMA1( );C1QC( );ACE( );MELTF( );CRH( );CTSK( );PRF1( );TGFB1( );ADAMTSL5( );KLK7( );PSAPL1( );EFNA1( );HGFAC( );RETN( );TNFRSF1A( );HGF( )
+GPC1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,182,186,0.99,4,LLLP,41,LAMC2( );VWF( );SRPX( );LTBP4( );FBLN2( );COL6A5( );COL4A1( );COL4A3( );NID1( );IGFBP7( );LRG1(LRR 6);HSD17B11( );DAG1( );GPC2( );PLEC( );PI16( );CD14( );PRDX4( );SERPINB2( );CD8A( );NUCB1( );LGALS3BP( );CDSN( );CLTC( );MMP14( );CMA1( );C1QC( );ACE( );MELTF( );CRH( );CTSK( );PRF1( );TGFB1( );ADAMTSL5( );KLK7( );PSAPL1( );EFNA1( );HGFAC( );RETN( );TNFRSF1A( );HGF( )
+GPC1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,182,186,0.955,4,LLLP,41,LAMC2( );VWF( );SRPX( );LTBP4( );FBLN2( );COL6A5( );COL4A1( );COL4A3( );NID1( );IGFBP7( );LRG1(LRR 6);HSD17B11( );DAG1( );GPC2( );PLEC( );PI16( );CD14( );PRDX4( );SERPINB2( );CD8A( );NUCB1( );LGALS3BP( );CDSN( );CLTC( );MMP14( );CMA1( );C1QC( );ACE( );MELTF( );CRH( );CTSK( );PRF1( );TGFB1( );ADAMTSL5( );KLK7( );PSAPL1( );EFNA1( );HGFAC( );RETN( );TNFRSF1A( );HGF( )
+GPC1, cathepsin G  and  cathepsin G ,429,433,1.065,4,MGDG,0,
+GPC1, matrix metallopeptidase-2  and  cathepsin K ,156,160,0.99,4,NLHL,2,FN1( );TNFSF10( )
+GPC1, matrix metallopeptidase-7  and  cathepsin K ,156,160,0.95,4,NLHL,2,FN1( );TNFSF10( )
+GPC1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,408,412,0.915,4,STAS,11,HSPG2( );HSPA5( );TLN1( );HSPH1( );PZP( );RNPEP( );A2M( );APOB( );TEK( );PRKDC( );SPINK5(Kazal-like 7)
+GPC1, elastase-2  and  cathepsin K ,515,519,0.925,4,THAL,2,VCAN(Ig-like V-type);PSAPL1( )
+GPC1, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,428,432,1.1,4,VMGD,1,LAMC1( )
+GPC1, elastase-2  and  matrix metallopeptidase-7 ,428,432,0.915,4,VMGD,1,LAMC1( )

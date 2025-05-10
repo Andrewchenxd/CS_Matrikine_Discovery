@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ATP5B, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,24,29,0.965,5,ASLPP,2,FLNB(Filamin 9);MUC4( )
+ATP5B, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,24,29,0.955,5,ASLPP,2,FLNB(Filamin 9);MUC4( )
+ATP5B, matrix metallopeptidase-3  and  elastase-2 ,24,29,1.02,5,ASLPP,2,FLNB(Filamin 9);MUC4( )
+ATP5B, matrix metallopeptidase-3  and  cathepsin K ,480,485,0.905,5,KLVPL,1,DYNC1H1( )
+ATP5B, cathepsin G  and  matrix metallopeptidase-3 ,2,7,0.925,5,LGFVG,0,
+ATP5B, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,19,24,1.11,5,RLTPS,0,
+ATP5B, matrix metallopeptidase-7  and  elastase-2 ,19,24,0.965,5,RLTPS,0,
+ATP5B, matrix metallopeptidase-9  and  cathepsin K ,268,273,0.925,5,VYGQM,0,
+ATP5B, cathepsin G  and  cathepsin K ,247,252,0.925,5,YHEMI,0,

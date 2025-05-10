@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FAM3C, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,128,132,1.005,4,DVAP,6,COL1A1( );CDH1( );PZP( );CFD( );C2( );MMP2( )
+FAM3C, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,28,32,0.97,4,EIKM,1,TIMP1( )
+FAM3C, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,79,83,0.925,4,NVVG,8,HMCN2( );HSPG2( );LAMB1( );LAMB3( );SFN( );PFKP( );ACTN4( );ACE2( )
+FAM3C, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,79,83,0.92,4,NVVG,8,HMCN2( );HSPG2( );LAMB1( );LAMB3( );SFN( );PFKP( );ACTN4( );ACE2( )

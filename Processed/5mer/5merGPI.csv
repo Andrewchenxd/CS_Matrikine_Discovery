@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GPI, elastase-2  and  matrix metallopeptidase-9 ,337,342,1.045,5,AMLPY,0,
+GPI, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,539,544,0.985,5,DASTN,0,
+GPI, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,405,410,0.93,5,DFLIP,0,
+GPI, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,400,405,0.935,5,KMIPC,0,

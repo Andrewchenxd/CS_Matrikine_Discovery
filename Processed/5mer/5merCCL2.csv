@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CCL2, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,21,26,0.93,5,GLAQP,2,HSPG2(Ig-like C2-type 14);CCL7( )
+CCL2, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,21,26,1.02,5,GLAQP,2,HSPG2(Ig-like C2-type 14);CCL7( )
+CCL2, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,21,26,0.975,5,GLAQP,2,HSPG2(Ig-like C2-type 14);CCL7( )
+CCL2, cathepsin G  and  matrix metallopeptidase-2 ,1,6,0.925,5,MKVSA,2,CCL11( );CCL5( )
+CCL2, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,16,21,1.045,5,TFIPQ,0,
+CCL2, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,16,21,0.955,5,TFIPQ,0,
+CCL2, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,16,21,1.1349999999999998,5,TFIPQ,0,
+CCL2, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,16,21,1.09,5,TFIPQ,0,

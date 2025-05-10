@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EFNA1, matrix metallopeptidase-9  and  cathepsin K ,97,102,0.915,5,AKHGP,0,
+EFNA1, elastase-2  and  cathepsin K ,151,156,1.025,5,ITHSP,0,
+EFNA1, cathepsin G  and  matrix metallopeptidase-3 ,43,48,0.92,5,LNDYV,0,
+EFNA1, matrix metallopeptidase-9  and  cathepsin K ,175,180,0.985,5,VLHSI,0,
+EFNA1, elastase-2  and  cathepsin K ,175,180,0.995,5,VLHSI,0,

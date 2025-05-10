@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C1QC, cathepsin G  and  cathepsin K ,102,106,1.125,4,MGIP,3,HMCN2( );MYH9( );IGF2-AS( )
+C1QC, cathepsin K  and  matrix metallopeptidase-2 ,132,136,1.02,4,PAPN,2,HMCN2( );PRDX1( )
+C1QC, cathepsin G  and  cathepsin K ,33,37,0.98,4,YGIP,4,LTBP2( );VWA8( );GANAB( );FLT1( )

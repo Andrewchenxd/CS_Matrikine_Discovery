@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C8B, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,187,192,0.975,5,EGPVL,0,
+C8B, cathepsin G  and  cathepsin K ,182,187,0.955,5,FTNSF,0,
+C8B, cathepsin K  and  cathepsin G ,97,102,0.99,5,GEPCN,0,
+C8B, cathepsin K  and  matrix metallopeptidase-2 ,173,178,0.945,5,GSLAS,0,
+C8B, cathepsin K  and  cathepsin G ,232,237,1.005,5,KEYES,0,
+C8B, cathepsin G  and  elastase-2 ,419,424,0.905,5,MVEDL,0,
+C8B, matrix metallopeptidase-7  and  elastase-2 ,469,474,0.985,5,PLYEL,1,C7( )
+C8B, matrix metallopeptidase-2  and  elastase-2 ,174,179,0.97,5,SLASG,0,
+C8B, elastase-2  and  cathepsin K ,436,441,0.925,5,TTLAY,0,

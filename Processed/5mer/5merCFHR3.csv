@@ -1,0 +1,2 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CFHR3, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,215,220,0.905,5,PISNG,0,

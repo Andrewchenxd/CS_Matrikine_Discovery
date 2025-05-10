@@ -1,0 +1,16 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ANGPT1, cathepsin K  and  elastase-2 ,253,258,1.025,5,ELMDT,0,
+ANGPT1, matrix metallopeptidase-9  and  elastase-2 ,253,258,1.05,5,ELMDT,0,
+ANGPT1, matrix metallopeptidase-7  and  elastase-2 ,253,258,1.14,5,ELMDT,0,
+ANGPT1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,4,9,0.91,5,FLSFA,0,
+ANGPT1, cathepsin G  and  matrix metallopeptidase-7 ,283,288,0.905,5,FRDCA,1,ANGPT2( )
+ANGPT1, elastase-2  and  matrix metallopeptidase-2 ,187,192,0.975,5,IHEKN,0,
+ANGPT1, matrix metallopeptidase-7  and  elastase-2 ,127,132,0.915,5,MLEIG,0,
+ANGPT1, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,456,461,1.065,5,NLNGM,1,ANGPT2( )
+ANGPT1, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,456,461,0.965,5,NLNGM,1,ANGPT2( )
+ANGPT1, cathepsin K  and  matrix metallopeptidase-9 ,84,89,1.0,5,QHLEH,0,
+ANGPT1, cathepsin K  and  elastase-2 ,84,89,1.03,5,QHLEH,0,
+ANGPT1, cathepsin K  and  cathepsin G ,98,103,0.99,5,QKLEN,0,
+ANGPT1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,55,60,0.945,5,RESTT,0,
+ANGPT1, cathepsin K  and  cathepsin G ,223,228,0.925,5,VTRQT,1,C1QC( )
+ANGPT1, matrix metallopeptidase-7  and  cathepsin K ,96,101,0.935,5,WLQKL,0,

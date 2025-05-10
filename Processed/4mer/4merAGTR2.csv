@@ -1,0 +1,15 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AGTR2, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,291,295,0.905,4,EVIA,4,VWF( );DYNC1H1( );CXCL1( );PAPPA( )
+AGTR2, cathepsin K  and  matrix metallopeptidase-2 ,112,116,0.96,4,FGPV,2,DYNC1H1( );IL6( )
+AGTR2, matrix metallopeptidase-2  and  cathepsin G ,220,224,1.055,4,FIIP,1,APOB( )
+AGTR2, matrix metallopeptidase-3  and  cathepsin G ,220,224,1.02,4,FIIP,1,APOB( )
+AGTR2, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,123,127,0.91,4,FLTL,3,CXCL10( );KDR( );PENK( )
+AGTR2, cathepsin G  and  elastase-2 ,333,337,0.94,4,FRVP,8,FN1( );TNC( );COL6A1( );GAPDH( );DYNC1H1( );FLNB(Filamin 12);CP( );RNASE3( )
+AGTR2, elastase-2  and  cathepsin K ,337,341,1.055,4,ITWL,0,
+AGTR2, matrix metallopeptidase-9  and  elastase-2 ,62,66,0.9,4,NIVV,1,LAMA2( )
+AGTR2, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,127,131,0.96,4,NMFA,1,HSPG2( )
+AGTR2, matrix metallopeptidase-2  and  cathepsin G ,80,84,1.0,4,SIYI,3, Name=2);PRKDC( );CFHR3( );ESR2( )
+AGTR2, matrix metallopeptidase-3  and  cathepsin G ,80,84,0.905,4,SIYI,3, Name=2);PRKDC( );CFHR3( );ESR2( )
+AGTR2, matrix metallopeptidase-2  and  cathepsin G ,162,166,0.955,4,YIVP,3,ITIH3( );DYNC1H1( );ITIH1( )
+AGTR2, matrix metallopeptidase-9  and  cathepsin G ,162,166,0.97,4,YIVP,3,ITIH3( );DYNC1H1( );ITIH1( )
+AGTR2, cathepsin G  and  cathepsin G ,162,166,0.965,4,YIVP,3,ITIH3( );DYNC1H1( );ITIH1( )

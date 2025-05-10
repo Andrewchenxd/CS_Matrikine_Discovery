@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GGH, cathepsin K  and  matrix metallopeptidase-2 ,2,6,0.975,4,ASPG,13,FRAS1( );TNXB( );LTBP2( );FBLN2( );COL4A1( );COL4A3( );COL4A5( );VCL( );PPT1( );APOB( );KLK14( );IL10( );HGFAC( )
+GGH, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,150,154,0.92,4,LTAT,8,TNC( );COL15A1( );ITIH4( );FLNA( );IGHA1( );A2ML1( );FLT1(Ig-like C2-type 4);TLR9( )
+GGH, matrix metallopeptidase-9  and  cathepsin K ,116,120,0.935,4,NLSI,1,COL6A5( )
+GGH, matrix metallopeptidase-2  and  cathepsin K ,161,165,0.94,4,PLNF,1,CLU( )
+GGH, matrix metallopeptidase-9  and  cathepsin K ,161,165,1.035,4,PLNF,1,CLU( )
+GGH, matrix metallopeptidase-3  and  cathepsin K ,161,165,0.935,4,PLNF,1,CLU( )
+GGH, matrix metallopeptidase-7  and  cathepsin K ,161,165,0.955,4,PLNF,1,CLU( )
+GGH, cathepsin K  and  cathepsin G ,165,169,0.915,4,TGGQ,3,EEF2( );OLFML1( );TG( )

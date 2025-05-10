@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EFNA3, elastase-2  and  granzyme B ({Homo sapiens}-type) ,192,197,1.03,5,INVLE,0,
+EFNA3, cathepsin G  and  cathepsin G ,1,6,0.905,5,MAAAP,1,COL16A1(Collagen-like 7)
+EFNA3, elastase-2  and  matrix metallopeptidase-9 ,226,231,0.96,5,VGIAF,0,
+EFNA3, elastase-2  and  matrix metallopeptidase-7 ,226,231,0.925,5,VGIAF,0,
+EFNA3, matrix metallopeptidase-9  and  cathepsin K ,194,199,0.92,5,VLEDF,0,

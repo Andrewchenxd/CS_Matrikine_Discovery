@@ -1,0 +1,24 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DSC2, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,162,167,0.9,5,DAAQN,1,VCL( )
+DSC2, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,70,75,0.93,5,DFRVL,0,
+DSC2, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,219,224,0.925,5,DGYSA,0,
+DSC2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,179,184,0.965,5,DKEPL,0,
+DSC2, cathepsin K  and  cathepsin G ,224,229,1.01,5,DLPLP,0,
+DSC2, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,598,603,1.02,5,DPDEP,0,
+DSC2, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,30,35,0.97,5,EACKK,1,C3( )
+DSC2, cathepsin K  and  matrix metallopeptidase-9 ,114,119,0.995,5,EHQKK,0,
+DSC2, matrix metallopeptidase-3  and  elastase-2 ,763,768,0.93,5,FCGTM,0,
+DSC2, matrix metallopeptidase-7  and  cathepsin K ,155,160,0.99,5,FLQQV,0,
+DSC2, matrix metallopeptidase-9  and  cathepsin K ,155,160,1.0,5,FLQQV,0,
+DSC2, elastase-2  and  matrix metallopeptidase-2 ,700,705,0.935,5,IALLF,0,
+DSC2, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,42,47,0.905,5,KLEAD,0,
+DSC2, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,42,47,0.985,5,KLEAD,0,
+DSC2, cathepsin G  and  matrix metallopeptidase-9 ,37,42,0.94,5,LNVPS,0,
+DSC2, cathepsin G  and  cathepsin K ,229,234,1.0,5,LPIRV,0,
+DSC2, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,731,736,1.035,5,NLIIS,0,
+DSC2, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,731,736,1.035,5,NLIIS,0,
+DSC2, cathepsin K  and  matrix metallopeptidase-3 ,644,649,0.925,5,QEYTI,1,PRKDC( )
+DSC2, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,157,162,0.92,5,QQVES,0,
+DSC2, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,174,179,0.9,5,SGRGV,0,
+DSC2, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,214,219,0.965,5,YASTA,0,
+DSC2, matrix metallopeptidase-3  and  cathepsin G ,852,857,1.02,5,YNYEG,0,

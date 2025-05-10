@@ -1,0 +1,21 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ACTN1, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,456,460,0.91,4,AIAQ,4,TLN1( );DYNC1H1( );ACTN2( );ACTN4( )
+ACTN1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,456,460,0.955,4,AIAQ,4,TLN1( );DYNC1H1( );ACTN2( );ACTN4( )
+ACTN1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,698,702,0.98,4,ALIF,2,GPC2( );ACTN4( )
+ACTN1, matrix metallopeptidase-3  and  cathepsin K ,252,256,0.965,4,AQKA,5,VCAN( );LAD1( );TLN1( );PLEC( );ACTN4( )
+ACTN1, elastase-2  and  matrix metallopeptidase-2 ,425,429,1.055,4,ATLS,14,ATP5O( );CSPG4( );SERPINF2( );PZP( );CALCA( );IGKV3-15( );TUBB( );TUBB4B( );ACTN4( );AHSG( );IGHA1(Ig-like 2);IGKV3-20( );HBB( );FGFR2( )
+ACTN1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,691,695,0.93,4,DHQL,1,ACTN2( )
+ACTN1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,691,695,0.97,4,DHQL,1,ACTN2( )
+ACTN1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,702,706,0.91,4,DNKH,3,ACTN2( );ACTN4( );TLL1( )
+ACTN1, cathepsin K  and  matrix metallopeptidase-2 ,542,546,0.945,4,EEIQ,5,FN1( );VCAN( );VWA8( );ACTN2( );LCN1( )
+ACTN1, cathepsin K  and  cathepsin K ,441,445,0.9,4,ESDL,5,TLN1( );P4HB( );DYNC1H1( );ACTN2( );ACTN4( )
+ACTN1, cathepsin K  and  matrix metallopeptidase-9 ,256,260,0.905,4,ETAA,11,LAMB1( );COL16A1( );EMILIN1( );HSD17B11( );ACTN2( );ACTN4( );HSPB1( );MUC4( );IL17C( );F2( );PSAP( )
+ACTN1, elastase-2  and  matrix metallopeptidase-7 ,72,76,0.945,4,ISGE,12,TNXB( );GPC2( );DYNC1H1( );GGH( );GPC1( );ACTN2( );CLTC( );ACTN4( );ITIH1( );FLNB(Filamin 20);MUC4( );A2ML1( )
+ACTN1, elastase-2  and  cathepsin G ,656,660,0.925,4,ISIE,2,ANOS1( );ACTN4( )
+ACTN1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,281,285,0.965,4,KLAS,4,LAMB3( );RPN1( );LGALS3BP( );ACTN4( )
+ACTN1, cathepsin G  and  cathepsin K ,306,310,0.93,4,MHAM,0,
+ACTN1, cathepsin K  and  cathepsin K ,310,314,1.04,4,QQKL,5,ACTN4( );SERPINA4( );CTSD( );AGTR2( );CFHR2( )
+ACTN1, matrix metallopeptidase-7  and  elastase-2 ,803,807,0.92,4,RLGV,9,TNXB( );COMP( );THBS4( );THBS3( );ITIH4( );TNXA( );SOGA1( );TG( );P3H1( )
+ACTN1, elastase-2  and  cathepsin K ,538,542,0.93,4,VHTI,3,FBLN1( );ACTN4( );FLNB( )
+ACTN1, cathepsin G  and  cathepsin K ,246,250,0.975,4,YHAF,3,ACTN2(Actin-binding);ACTN4(Actin-binding);SERPING1( )
+ACTN1, cathepsin G  and  cathepsin G ,582,586,0.975,4,YHVN,0,

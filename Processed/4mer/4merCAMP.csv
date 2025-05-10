@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CAMP, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,27,31,1.26,4,AIIA,2,AEBP1( );PDCD6IP( )
+CAMP, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,27,31,0.905,4,AIIA,2,AEBP1( );PDCD6IP( )
+CAMP, matrix metallopeptidase-9  and  elastase-2 ,108,112,0.955,4,CMGT,0,
+CAMP, cathepsin K  and  matrix metallopeptidase-2 ,23,27,1.16,4,VMPL,0,
+CAMP, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,23,27,1.21,4,VMPL,0,
+CAMP, elastase-2  and  matrix metallopeptidase-2 ,23,27,1.16,4,VMPL,0,

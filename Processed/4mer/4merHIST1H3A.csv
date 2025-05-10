@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+HIST1H3A, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,74,78,0.96,4,EIAQ,4,HSPD1( );H3F3A( );HIST2H3A;( );HSP90AA1( )
+HIST1H3A, cathepsin K  and  matrix metallopeptidase-9 ,86,90,0.925,4,QSSA,3,LAMB3( );HIST2H3A;( );KDR( )
+HIST1H3A, elastase-2  and  matrix metallopeptidase-3 ,47,51,0.905,4,VALR,12,HMCN2( );COL6A1( );LAMB3( );H3F3A( );HIST2H3A;( );CCT6A( );GPI( );MYDGF( );NECTIN1( );ACE( );OLFML1( );PAPPA( )
+HIST1H3A, matrix metallopeptidase-9  and  cathepsin K ,90,94,1.07,4,VMAL,2,HIST2H3A;( );EIF4A1( )

@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD8A, elastase-2  and  cathepsin G ,153,157,0.97,4,ASQP,5,COL7A1( );HSPG2( );CPE( );ERAP1( );APOB( )
+CD8A, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,85,89,0.91,4,DTQR,3,COL6A1( );PRF1( );CFI( )
+CD8A, cathepsin K  and  matrix metallopeptidase-9 ,58,62,0.925,4,FQPR,1,CRTAP( )
+CD8A, cathepsin G  and  matrix metallopeptidase-7 ,89,93,0.945,4,FSGK,5,ABI3BP( );ITIH3( );ITIH1( );PRKDC( );A2ML1( )
+CD8A, matrix metallopeptidase-3  and  elastase-2 ,170,174,0.905,4,GAVH,2,DCD( );EPHB4( )
+CD8A, cathepsin K  and  matrix metallopeptidase-9 ,36,40,0.98,4,GETV,5,VWF( );HSPG2( );COL15A1( );YBX1( );CASP14( )
+CD8A, cathepsin K  and  matrix metallopeptidase-7 ,36,40,0.96,4,GETV,5,VWF( );HSPG2( );COL15A1( );YBX1( );CASP14( )
+CD8A, cathepsin G  and  cathepsin K ,47,51,0.93,4,LSNP,5,THBS1( );THBS2( );GHR( );APOB( );PRKDC( )
+CD8A, cathepsin G  and  elastase-2 ,47,51,0.93,4,LSNP,5,THBS1( );THBS2( );GHR( );APOB( );PRKDC( )
+CD8A, cathepsin K  and  cathepsin G ,25,29,0.935,4,RVSP,3,HMCN2( );VWF( );TG( )
+CD8A, elastase-2  and  cathepsin K ,32,36,0.955,4,TWNL,0,
+CD8A, cathepsin G  and  matrix metallopeptidase-3 ,184,188,0.95,4,YIWA,0,

@@ -1,0 +1,11 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CPA3, cathepsin K  and  cathepsin G ,61,65,0.905,4,AANM,2,PGLYRP2( );BDNF( )
+CPA3, matrix metallopeptidase-3  and  elastase-2 ,62,66,0.975,4,ANMM,0,
+CPA3, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,109,113,0.9,4,DIPG,4,TNC( );CSPG4( );PLEC( );GLA( )
+CPA3, matrix metallopeptidase-2  and  cathepsin G ,185,189,0.915,4,FCQW,0,
+CPA3, matrix metallopeptidase-7  and  cathepsin K ,387,391,0.9,4,FLLP,12,HMCN2( );EMCN( );PRDX4( );GPC1( );CTSG( );NTF4( );CPA4( );MMP19( );ANGPT2( );LEPROT( );PRKDC( );CCL27( )
+CPA3, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,63,67,1.15,4,NMMV,0,
+CPA3, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,63,67,0.935,4,NMMV,0,
+CPA3, cathepsin K  and  cathepsin K ,79,83,0.94,4,QSAL,2,LAMB1( );PRKDC( )
+CPA3, matrix metallopeptidase-3  and  cathepsin K ,113,117,0.93,4,RHSY,1,FGFR4( )
+CPA3, matrix metallopeptidase-2  and  cathepsin K ,142,146,0.9,4,RIKI,2,ADH7( );ITIH5( )

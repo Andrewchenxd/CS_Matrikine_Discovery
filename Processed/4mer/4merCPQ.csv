@@ -1,0 +1,24 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CPQ, matrix metallopeptidase-3  and  cathepsin G ,49,53,0.915,4,AIIN,0,
+CPQ, matrix metallopeptidase-2  and  cathepsin G ,49,53,0.935,4,AIIN,0,
+CPQ, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,199,203,0.95,4,ALAS,20,VWF( );LAMA5( );COL4A1( );COL4A3( );COL4A5( );COL6A1( );COL15A1( );LAD1(SEK 8);VCL( );PDCD6IP( );SERPINA5( );ADH7( );GLIPR2( );MMP11( );CPA4( );MMP14( );CST4( );PRTN3( );CFB( );TNFRSF1A( )
+CPQ, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,420,424,0.99,4,ASLL,14,PCOLCE( );HSPD1( );CSPG4( );IL6( );PGLYRP2( );C3( );SERPING1( );C4B( );C4A( );SEMA3A( );TG( );CCL26( );F2( );PSAP( )
+CPQ, elastase-2  and  granzyme B ({Homo sapiens}-type) ,420,424,0.92,4,ASLL,14,PCOLCE( );HSPD1( );CSPG4( );IL6( );PGLYRP2( );C3( );SERPING1( );C4B( );C4A( );SEMA3A( );TG( );CCL26( );F2( );PSAP( )
+CPQ, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,45,49,0.91,4,DVAK,4,CKAP4( );HADHA( );TLN1( );HMGB1( )
+CPQ, matrix metallopeptidase-2  and  cathepsin K ,372,376,0.985,4,GLQF,2,NID1( );MUC4( )
+CPQ, matrix metallopeptidase-9  and  cathepsin K ,372,376,0.94,4,GLQF,2,NID1( );MUC4( )
+CPQ, matrix metallopeptidase-9  and  elastase-2 ,384,388,0.96,4,IMEE,0,
+CPQ, cathepsin K  and  cathepsin K ,392,396,0.94,4,LQPL,8,FRAS1( );COL6A3( );COL12A1( );VWA5B1( );PROCR( );ACE( );SERPINC1( );QPCT( )
+CPQ, cathepsin K  and  matrix metallopeptidase-9 ,392,396,1.0550000000000002,4,LQPL,8,FRAS1( );COL6A3( );COL12A1( );VWA5B1( );PROCR( );ACE( );SERPINC1( );QPCT( )
+CPQ, cathepsin K  and  matrix metallopeptidase-3 ,392,396,0.97,4,LQPL,8,FRAS1( );COL6A3( );COL12A1( );VWA5B1( );PROCR( );ACE( );SERPINC1( );QPCT( )
+CPQ, cathepsin K  and  matrix metallopeptidase-2 ,270,274,1.105,4,NTVA,4,ABI3BP( );CLTC( );APOB( );TEK( )
+CPQ, cathepsin K  and  matrix metallopeptidase-3 ,270,274,1.165,4,NTVA,4,ABI3BP( );CLTC( );APOB( );TEK( )
+CPQ, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,421,425,1.06,4,SLLD,7,LAMA4( );VCL( );SOGA1( );IGKV2D-40( );MMP14( );SERPINA3( );PRKDC( )
+CPQ, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,421,425,0.93,4,SLLD,7,LAMA4( );VCL( );SOGA1( );IGKV2D-40( );MMP14( );SERPINA3( );PRKDC( )
+CPQ, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,421,425,0.935,4,SLLD,7,LAMA4( );VCL( );SOGA1( );IGKV2D-40( );MMP14( );SERPINA3( );PRKDC( )
+CPQ, elastase-2  and  matrix metallopeptidase-3 ,103,107,1.0,4,VHLE,5,COL12A1( );LAMA4( );VCL( );SHH( );A2M( )
+CPQ, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,360,364,0.94,4,VMES,2,FGFR3( );FGFR4( )
+CPQ, elastase-2  and  granzyme B ({Homo sapiens}-type) ,360,364,0.9,4,VMES,2,FGFR3( );FGFR4( )
+CPQ, elastase-2  and  cathepsin K ,388,392,1.13,4,VMSL,2,LBP( );FLNB( )
+CPQ, cathepsin G  and  cathepsin G ,173,177,0.955,4,YNQP,1,PLSCR1( )
+CPQ, cathepsin G  and  cathepsin K ,92,96,1.025,4,YQNL,1,CD209( )

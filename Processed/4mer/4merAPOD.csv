@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APOD, cathepsin K  and  matrix metallopeptidase-2 ,158,162,0.945,4,ETVD,6,LAMB1( );SERPINB5( );DYNC1H1( );MMP2( );C4B( );C4A( )
+APOD, cathepsin G  and  cathepsin K ,141,145,0.95,4,FHVD,4,TNXB( );LAMA2( );KARS( );SERPINA1( )
+APOD, cathepsin G  and  cathepsin G ,141,145,0.92,4,FHVD,4,TNXB( );LAMA2( );KARS( );SERPINA1( )
+APOD, cathepsin K  and  matrix metallopeptidase-2 ,100,104,0.99,4,TEPA,3,LAMA5( );COL18A1( );COL14A1( )
+APOD, cathepsin K  and  matrix metallopeptidase-9 ,100,104,1.02,4,TEPA,3,LAMA5( );COL18A1( );COL14A1( )
+APOD, cathepsin K  and  matrix metallopeptidase-3 ,100,104,1.05,4,TEPA,3,LAMA5( );COL18A1( );COL14A1( )
+APOD, cathepsin K  and  matrix metallopeptidase-7 ,100,104,1.145,4,TEPA,3,LAMA5( );COL18A1( );COL14A1( )
+APOD, cathepsin G  and  cathepsin K ,66,70,1.0,4,YSLM,1,FBLN1( )
+APOD, cathepsin G  and  cathepsin K ,118,122,0.965,4,YWIL,0,

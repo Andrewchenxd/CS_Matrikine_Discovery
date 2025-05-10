@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+APOH, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,27,31,0.905,4,DDLP,4,HSP90B1( );MMP11( );F13A1( );CD40( )
+APOH, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,212,216,0.965,4,DNGF,2,C5( );CTSB( )
+APOH, matrix metallopeptidase-7  and  elastase-2 ,245,249,0.91,4,EIEC,0,
+APOH, cathepsin K  and  matrix metallopeptidase-2 ,2,6,0.95,4,ISPV,3,SDC4( );SERPINA6( );KDR( )
+APOH, cathepsin K  and  matrix metallopeptidase-7 ,327,331,0.93,4,KEHS,3,IL33( );FLT1( );CFB( )
+APOH, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,208,212,0.915,4,PSRP,9,ELN( );LTBP4( );AEBP1( );LAMB2( );THBS3( );COL6A3( );VWA5B1( );PLSCR1( );LOX( )

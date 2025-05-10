@@ -1,0 +1,52 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ABI3BP, elastase-2  and  cathepsin K ,296,301,1.005,5,ASLMF,0,
+ABI3BP, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,241,246,1.055,5,AYVPR,0,
+ABI3BP, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,241,246,0.97,5,AYVPR,0,
+ABI3BP, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,859,864,0.91,5,DWEKP,0,
+ABI3BP, cathepsin G  and  cathepsin G ,954,959,0.915,5,FNSDS,0,
+ABI3BP, cathepsin G  and  matrix metallopeptidase-2 ,895,900,0.95,5,FSTVE,0,
+ABI3BP, matrix metallopeptidase-3  and  elastase-2 ,275,280,1.005,5,GGVIL,1,ALDOA( )
+ABI3BP, cathepsin K  and  elastase-2 ,731,736,1.015,5,GSAGI,1,COL5A2( )
+ABI3BP, cathepsin K  and  cathepsin K ,283,288,0.98,5,IIPGL,1,APOB( )
+ABI3BP, elastase-2  and  granzyme B ({Homo sapiens}-type) ,43,48,0.92,5,INTTS,1,PZP( )
+ABI3BP, elastase-2  and  granzyme B ({Homo sapiens}-type) ,229,234,0.905,5,IQSTY,0,
+ABI3BP, elastase-2  and  cathepsin K ,515,520,0.945,5,ISLKP,0,
+ABI3BP, elastase-2  and  elastase-2 ,736,741,0.945,5,ISSGP,0,
+ABI3BP, matrix metallopeptidase-9  and  cathepsin K ,444,449,1.0499999999999998,5,KLEIF,0,
+ABI3BP, matrix metallopeptidase-3  and  cathepsin K ,444,449,0.93,5,KLEIF,0,
+ABI3BP, matrix metallopeptidase-7  and  cathepsin K ,444,449,0.955,5,KLEIF,0,
+ABI3BP, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,246,251,0.97,5,KLIPI,0,
+ABI3BP, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,246,251,0.9,5,KLIPI,0,
+ABI3BP, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,246,251,1.035,5,KLIPI,0,
+ABI3BP, matrix metallopeptidase-9  and  elastase-2 ,246,251,0.98,5,KLIPI,0,
+ABI3BP, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,246,251,1.12,5,KLIPI,0,
+ABI3BP, elastase-2  and  matrix metallopeptidase-3 ,316,321,0.915,5,LALPA,4,HSPG2( );VTN( );APOB( );PGF( )
+ABI3BP, cathepsin G  and  matrix metallopeptidase-3 ,316,321,0.935,5,LALPA,4,HSPG2( );VTN( );APOB( );PGF( )
+ABI3BP, cathepsin G  and  elastase-2 ,917,922,0.92,5,LGEGP,0,
+ABI3BP, cathepsin G  and  cathepsin G ,274,279,0.955,5,LGGVI,1,SDC1(Extracellular)
+ABI3BP, cathepsin G  and  elastase-2 ,287,292,0.905,5,LNETT,0,
+ABI3BP, matrix metallopeptidase-3  and  elastase-2 ,287,292,0.905,5,LNETT,0,
+ABI3BP, cathepsin G  and  cathepsin K ,991,996,0.975,5,LSDSL,2,TLN1( );KITLG( )
+ABI3BP, cathepsin G  and  elastase-2 ,523,528,0.94,5,LSPEV,1,LAMA3( )
+ABI3BP, matrix metallopeptidase-2  and  cathepsin K ,778,783,0.955,5,NITDF,0,
+ABI3BP, matrix metallopeptidase-7  and  cathepsin K ,778,783,0.985,5,NITDF,0,
+ABI3BP, matrix metallopeptidase-9  and  cathepsin K ,534,539,0.965,5,PKQTP,0,
+ABI3BP, matrix metallopeptidase-3  and  cathepsin K ,59,64,0.9,5,PNVKL,0,
+ABI3BP, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,126,131,1.0750000000000002,5,QLVVG,0,
+ABI3BP, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,126,131,0.97,5,QLVVG,0,
+ABI3BP, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,126,131,0.98,5,QLVVG,0,
+ABI3BP, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,126,131,1.0,5,QLVVG,0,
+ABI3BP, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,126,131,1.085,5,QLVVG,0,
+ABI3BP, matrix metallopeptidase-7  and  elastase-2 ,659,664,0.9,5,RFYTT,0,
+ABI3BP, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,131,136,0.92,5,TLTPS,0,
+ABI3BP, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,131,136,1.08,5,TLTPS,0,
+ABI3BP, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,131,136,0.975,5,TLTPS,0,
+ABI3BP, cathepsin K  and  cathepsin K ,1029,1034,0.93,5,TSDQL,1,CSPG4( )
+ABI3BP, elastase-2  and  elastase-2 ,41,46,0.93,5,VHINT,0,
+ABI3BP, elastase-2  and  matrix metallopeptidase-2 ,292,297,1.16,5,VKLPA,0,
+ABI3BP, elastase-2  and  matrix metallopeptidase-3 ,292,297,1.12,5,VKLPA,0,
+ABI3BP, elastase-2  and  matrix metallopeptidase-9 ,292,297,1.0750000000000002,5,VKLPA,0,
+ABI3BP, elastase-2  and  matrix metallopeptidase-7 ,292,297,1.13,5,VKLPA,0,
+ABI3BP, elastase-2  and  cathepsin K ,225,230,0.95,5,VNGKI,0,
+ABI3BP, elastase-2  and  granzyme B ({Homo sapiens}-type) ,941,946,0.925,5,VSAGR,0,
+ABI3BP, cathepsin K  and  cathepsin G ,949,954,0.915,5,WTERP,0,

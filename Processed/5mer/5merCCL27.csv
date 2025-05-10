@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CCL27, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,20,25,0.93,5,DPTAA,0,
+CCL27, cathepsin K  and  matrix metallopeptidase-9 ,90,95,0.95,5,EHQER,0,

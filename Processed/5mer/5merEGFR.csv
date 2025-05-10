@@ -1,0 +1,23 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EGFR, elastase-2  and  cathepsin K ,21,26,0.905,5,ASRAL,1,PPT1( )
+EGFR, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,1180,1185,1.0,5,EAKPN,0,
+EGFR, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,1180,1185,1.005,5,EAKPN,0,
+EGFR, matrix metallopeptidase-7  and  cathepsin K ,906,911,0.965,5,ELMTF,0,
+EGFR, cathepsin K  and  elastase-2 ,421,426,1.005,5,ENLEI,0,
+EGFR, matrix metallopeptidase-3  and  elastase-2 ,102,107,0.935,5,ENLQI,0,
+EGFR, matrix metallopeptidase-7  and  cathepsin K ,78,83,0.915,5,FLKTI,0,
+EGFR, cathepsin G  and  elastase-2 ,55,60,1.135,5,FNNCE,0,
+EGFR, matrix metallopeptidase-9  and  cathepsin K ,283,288,1.0,5,GKYSF,0,
+EGFR, matrix metallopeptidase-7  and  cathepsin K ,283,288,1.04,5,GKYSF,0,
+EGFR, cathepsin K  and  cathepsin K ,719,724,0.945,5,GSGAF,1,FGF2( )
+EGFR, elastase-2  and  cathepsin G ,107,112,0.9,5,IRGNM,0,
+EGFR, matrix metallopeptidase-2  and  elastase-2 ,578,583,1.095,5,NCIQC,0,
+EGFR, cathepsin K  and  cathepsin K ,1020,1025,0.975,5,QQGFF,0,
+EGFR, cathepsin K  and  elastase-2 ,1203,1208,1.005,5,QSSEF,0,
+EGFR, matrix metallopeptidase-7  and  cathepsin G ,50,55,0.985,5,SLQRM,0,
+EGFR, elastase-2  and  cathepsin K ,505,510,0.995,5,VCHAL,0,
+EGFR, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,765,770,0.995,5,VMASV,0,
+EGFR, elastase-2  and  cathepsin K ,1147,1152,0.96,5,VNSTF,0,
+EGFR, elastase-2  and  cathepsin G ,1105,1110,0.905,5,VQNPV,0,
+EGFR, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,951,956,0.94,5,WMIDA,0,
+EGFR, cathepsin G  and  elastase-2 ,1069,1074,0.95,5,YSSDP,0,

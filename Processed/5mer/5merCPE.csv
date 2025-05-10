@@ -1,0 +1,16 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CPE, matrix metallopeptidase-2  and  cathepsin G ,171,176,0.965,5,ELKDW,1,CALU( )
+CPE, matrix metallopeptidase-3  and  cathepsin G ,171,176,0.92,5,ELKDW,1,CALU( )
+CPE, cathepsin G  and  matrix metallopeptidase-2 ,241,246,0.99,5,FVLSA,1,ITIH1( )
+CPE, cathepsin G  and  matrix metallopeptidase-9 ,241,246,1.01,5,FVLSA,1,ITIH1( )
+CPE, cathepsin K  and  matrix metallopeptidase-9 ,31,36,1.1,5,GAPAA,3,EMILIN1(Collagen-like);HNRNPU( );PFKP( )
+CPE, cathepsin K  and  matrix metallopeptidase-3 ,31,36,0.93,5,GAPAA,3,EMILIN1(Collagen-like);HNRNPU( );PFKP( )
+CPE, cathepsin K  and  matrix metallopeptidase-7 ,31,36,0.91,5,GAPAA,3,EMILIN1(Collagen-like);HNRNPU( );PFKP( )
+CPE, matrix metallopeptidase-9  and  cathepsin K ,325,330,0.9,5,GMQDF,0,
+CPE, cathepsin K  and  cathepsin K ,98,103,1.085,5,GVHEP,0,
+CPE, cathepsin G  and  cathepsin K ,93,98,0.91,5,LSDNP,1,CD14( )
+CPE, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,246,251,0.985,5,NLHGG,0,
+CPE, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,246,251,1.005,5,NLHGG,0,
+CPE, cathepsin G  and  matrix metallopeptidase-2 ,320,325,0.925,5,YSVPG,0,
+CPE, cathepsin G  and  matrix metallopeptidase-9 ,320,325,1.085,5,YSVPG,0,
+CPE, cathepsin G  and  matrix metallopeptidase-3 ,320,325,1.03,5,YSVPG,0,

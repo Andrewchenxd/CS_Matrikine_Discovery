@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+COMP, matrix metallopeptidase-2  and  cathepsin K ,102,106,0.985,4,CIQT,0,
+COMP, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,540,544,0.98,4,DPEG,12,SPON1( );FBLN2( );THBS4( );THBS3( );CHGA( );FLNA( );GANAB( );C5( );FLNB( );MUC4( );RBP4( );CRIP2( )
+COMP, cathepsin G  and  matrix metallopeptidase-2 ,727,731,0.9,4,FSQE,5,THBS4( );THBS1( );THBS2( );THBS3( );CSPG4( )
+COMP, cathepsin K  and  matrix metallopeptidase-2 ,98,102,0.935,4,PGVA,12,HMCN2( );COL7A1( );ELN( );LAMA5( );COL1A2( );COL3A1( );COL4A6( );COL4A2( );RPL9( );FLNA( );CXADR( );WNT5A( )

@@ -1,0 +1,16 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ENDOD1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,46,50,1.085,4,GLAA,5,PFKP( );AGT( );SOD3( );CHGB( );HBEGF( )
+ENDOD1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,46,50,1.195,4,GLAA,5,PFKP( );AGT( );SOD3( );CHGB( );HBEGF( )
+ENDOD1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,46,50,0.91,4,GLAA,5,PFKP( );AGT( );SOD3( );CHGB( );HBEGF( )
+ENDOD1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,46,50,1.02,4,GLAA,5,PFKP( );AGT( );SOD3( );CHGB( );HBEGF( )
+ENDOD1, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,46,50,0.91,4,GLAA,5,PFKP( );AGT( );SOD3( );CHGB( );HBEGF( )
+ENDOD1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,46,50,1.02,4,GLAA,5,PFKP( );AGT( );SOD3( );CHGB( );HBEGF( )
+ENDOD1, cathepsin G  and  cathepsin K ,105,109,1.05,4,NSNL,4,LAMA3( );DSG1( );EPHB4( );PAPPA( )
+ENDOD1, cathepsin K  and  cathepsin G ,171,175,1.17,4,QERW,1,MMP28( )
+ENDOD1, matrix metallopeptidase-2  and  cathepsin G ,143,147,0.915,4,QLYP,3,COL5A1( );PMEL( );DYNC1H1( )
+ENDOD1, cathepsin K  and  cathepsin K ,266,270,0.91,4,QNNC,0,
+ENDOD1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,148,152,1.015,4,SLSS,22,LAMC2( );LAMA5( );LAMB2( );FBN1( );COL5A2( );COL18A1( );LAMB1( );COL6A2( );LAMA4( );CDH1( );SERPINF2( );C3( );SERPINB2( );IGKC( );ERAP1( );IGHG4( );IGHG1( );IGHG2( );IGHG3( );TG( );TLR9( );WFDC5( )
+ENDOD1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,148,152,0.92,4,SLSS,22,LAMC2( );LAMA5( );LAMB2( );FBN1( );COL5A2( );COL18A1( );LAMB1( );COL6A2( );LAMA4( );CDH1( );SERPINF2( );C3( );SERPINB2( );IGKC( );ERAP1( );IGHG4( );IGHG1( );IGHG2( );IGHG3( );TG( );TLR9( );WFDC5( )
+ENDOD1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,148,152,0.975,4,SLSS,22,LAMC2( );LAMA5( );LAMB2( );FBN1( );COL5A2( );COL18A1( );LAMB1( );COL6A2( );LAMA4( );CDH1( );SERPINF2( );C3( );SERPINB2( );IGKC( );ERAP1( );IGHG4( );IGHG1( );IGHG2( );IGHG3( );TG( );TLR9( );WFDC5( )
+ENDOD1, cathepsin K  and  cathepsin K ,302,306,1.015,4,SSPL,12,TNXB( );VWF( );VCAN( );DMBT1( );COL12A1( );LAMA4( );TNFSF12( );VWA8( );F2R( );SLTM( );KLK11( );PAPPA( )
+ENDOD1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,134,138,0.9,4,YLDS,2,PRELP( );CD109( )

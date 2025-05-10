@@ -1,0 +1,16 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ANGPT2, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,200,204,1.065,4,DKHI,1,FLNB( )
+ANGPT2, cathepsin K  and  cathepsin K ,162,166,0.945,4,EHSL,4,COL7A1( );SOGA1( );POMC( );MUC4( )
+ANGPT2, cathepsin K  and  matrix metallopeptidase-2 ,253,257,1.035,4,ETVN,4,TNC( );FGB( );RPN1( );DYNC1H1( )
+ANGPT2, cathepsin K  and  matrix metallopeptidase-2 ,347,351,0.955,4,GNPS,5,HSPG2( );COL12A1( );LAMB1( );MUC4( );ANGPT1( )
+ANGPT2, elastase-2  and  matrix metallopeptidase-7 ,401,405,0.9,4,IHLK,1,NCAM1(Ig-like C2-type 3)
+ANGPT2, elastase-2  and  matrix metallopeptidase-2 ,204,208,1.095,4,IQLQ,4,DMBT1( );MYH9( );CSPG4( );PROCR( )
+ANGPT2, matrix metallopeptidase-7  and  cathepsin G ,96,100,0.935,4,KLEN,5,PRELP( );CASP14( );MMP2( );SEMA3A( );ANGPT1( )
+ANGPT2, matrix metallopeptidase-7  and  cathepsin G ,258,262,1.015,4,LLTM,5,HMCN2( );FRAS1( );LAMB3( );PGLYRP2( );S100A7( )
+ANGPT2, matrix metallopeptidase-9  and  elastase-2 ,251,255,1.03,4,LMET,0,
+ANGPT2, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,257,261,0.965,4,NLLT,5,SPARC( );COL6A5( );LAMB1( );PZP( );PRKDC( )
+ANGPT2, matrix metallopeptidase-2  and  cathepsin G ,257,261,0.965,4,NLLT,5,SPARC( );COL6A5( );LAMB1( );PZP( );PRKDC( )
+ANGPT2, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,70,74,0.93,4,PLEY,1,C8B( )
+ANGPT2, elastase-2  and  elastase-2 ,260,264,1.08,4,TMMS,1,ATP5O( )
+ANGPT2, matrix metallopeptidase-9  and  elastase-2 ,123,127,1.085,4,VMIE,0,
+ANGPT2, cathepsin G  and  cathepsin K ,19,23,0.93,4,YNNF,1,PAPPA( )

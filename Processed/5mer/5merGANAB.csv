@@ -1,0 +1,33 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GANAB, cathepsin K  and  matrix metallopeptidase-3 ,143,148,0.955,5,AEGPY,0,
+GANAB, cathepsin K  and  matrix metallopeptidase-2 ,143,148,0.92,5,AEGPY,0,
+GANAB, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,897,902,1.0550000000000002,5,AGKPA,0,
+GANAB, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,559,564,1.08,5,DAQHY,0,
+GANAB, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,247,252,0.93,5,DFSLP,0,
+GANAB, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,778,783,0.965,5,DIQSY,0,
+GANAB, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,408,413,0.92,5,DVLEV,2,EIF4A1( );PAPPA( )
+GANAB, cathepsin K  and  matrix metallopeptidase-9 ,531,536,0.94,5,EGSAP,0,
+GANAB, cathepsin K  and  matrix metallopeptidase-9 ,922,927,1.04,5,ETSVL,0,
+GANAB, cathepsin K  and  matrix metallopeptidase-7 ,922,927,0.925,5,ETSVL,0,
+GANAB, cathepsin G  and  cathepsin K ,156,161,0.9,5,FRLDL,0,
+GANAB, cathepsin G  and  matrix metallopeptidase-3 ,598,603,0.9,5,FVLAR,0,
+GANAB, cathepsin K  and  matrix metallopeptidase-9 ,80,85,0.95,5,HEVTK,0,
+GANAB, matrix metallopeptidase-7  and  cathepsin K ,63,68,1.0550000000000002,5,LLDSL,2,COL6A6( );SERPING1( )
+GANAB, cathepsin G  and  cathepsin K ,63,68,1.045,5,LLDSL,2,COL6A6( );SERPING1( )
+GANAB, cathepsin G  and  cathepsin G ,151,156,0.91,5,LTARP,0,
+GANAB, cathepsin G  and  matrix metallopeptidase-3 ,1,6,0.945,5,MAAVA,0,
+GANAB, cathepsin G  and  elastase-2 ,823,828,1.035,5,MKDDP,0,
+GANAB, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,242,247,0.975,5,MSVGL,1,DAG1( )
+GANAB, cathepsin K  and  elastase-2 ,550,555,0.905,5,NGPEV,0,
+GANAB, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,523,528,0.9,5,NMFSY,0,
+GANAB, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,523,528,1.005,5,NMFSY,0,
+GANAB, cathepsin K  and  matrix metallopeptidase-7 ,68,73,1.135,5,QLGPD,0,
+GANAB, cathepsin K  and  matrix metallopeptidase-3 ,68,73,1.11,5,QLGPD,0,
+GANAB, cathepsin K  and  matrix metallopeptidase-2 ,68,73,1.205,5,QLGPD,0,
+GANAB, cathepsin K  and  cathepsin K ,766,771,0.945,5,QVYLP,0,
+GANAB, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,17,22,0.905,5,SLVLA,1,CTSV( )
+GANAB, matrix metallopeptidase-9  and  elastase-2 ,790,795,1.1,5,TLYLP,0,
+GANAB, matrix metallopeptidase-7  and  elastase-2 ,790,795,1.17,5,TLYLP,0,
+GANAB, cathepsin K  and  cathepsin K ,75,80,0.98,5,TVHLI,0,
+GANAB, elastase-2  and  cathepsin K ,244,249,1.025,5,VGLDF,0,
+GANAB, cathepsin G  and  cathepsin K ,147,152,0.955,5,YKIIL,0,

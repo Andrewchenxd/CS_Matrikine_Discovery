@@ -1,0 +1,22 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CDH1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,299,303,0.915,4,AIAY,3,HSPA5( );HSPA8( );C5( )
+CDH1, elastase-2  and  matrix metallopeptidase-2 ,130,134,1.0,4,ASVS,13,HMCN2( );DMBT1( );COL16A1( );COL17A1( );VWA5B1( );CKAP4( );KDR( );A2M( );CPA4( );HNRNPK(1-1);CD109( );SPINT1( );PAPPA( )
+CDH1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,786,790,0.915,4,DVAP,6,COL1A1( );PZP( );FAM3C( );CFD( );C2( );MMP2( )
+CDH1, matrix metallopeptidase-3  and  cathepsin G ,138,142,0.93,4,ELLT,9,HMCN2( );FRAS1( );VCAN( );POSTN( );LAMA2( );HADHA( );DPP7( );CASP14( );APOB( )
+CDH1, cathepsin K  and  cathepsin K ,463,467,1.07,4,EVSL,7,FRAS1( );TNC( );TGFBI( );COL14A1( );COL15A1( );APOB( );A2ML1( )
+CDH1, matrix metallopeptidase-3  and  cathepsin K ,463,467,0.94,4,EVSL,7,FRAS1( );TNC( );TGFBI( );COL14A1( );COL15A1( );APOB( );A2ML1( )
+CDH1, cathepsin G  and  cathepsin K ,91,95,1.02,4,FHNP,0,
+CDH1, cathepsin G  and  matrix metallopeptidase-9 ,267,271,0.9,4,FKGS,9,VTN( );COL4A2( );COL6A6( );ITIH4( );SERPIND1( );MMP28( );MMP19( );SEMA3A( );EGFR( )
+CDH1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,716,720,0.905,4,GILA,9,COL7A1( );LAMC2( );LAMA5( );HADHA( );MYH9( );ALDOA( );MMP8( );MMP11( );PRKDC( )
+CDH1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,134,138,1.11,4,GIQA,9,VCL( );ITIH4( );GBP1( );PYCARD( );MMP8( );MMP19( );MMP1( );PRF1( );NGF( )
+CDH1, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,134,138,1.035,4,GIQA,9,VCL( );ITIH4( );GBP1( );PYCARD( );MMP8( );MMP19( );MMP1( );PRF1( );NGF( )
+CDH1, matrix metallopeptidase-9  and  cathepsin K ,655,659,0.9,4,KMAL,3,GPC1( );ACE( );C4BPA( )
+CDH1, cathepsin G  and  cathepsin K ,845,849,0.945,4,LSSL,20,LAMC2( );LAMA5( );LAMB2( );ABI3BP( );COL18A1( );COL12A1( );LAD1( );CKAP4( );ITIH3( );TFRC( );SOGA1( );DSG1( );CD14(LRR 4);ERAP1(Helical; Signal-anchor for type II);FLNB( );AGTR2( );IGHV1-46( );PRKDC( );CFB( );EGFR( )
+CDH1, cathepsin G  and  matrix metallopeptidase-3 ,792,796,1.0550000000000002,4,MSVP,0,
+CDH1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,609,613,0.935,4,PQVI,8,COL6A3( );NID1( );LAMA2( );ALDOA( );SERPINI1( );FLNA( );FLNB( );C7( )
+CDH1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,609,613,0.94,4,PQVI,8,COL6A3( );NID1( );LAMA2( );ALDOA( );SERPINI1( );FLNA( );FLNB( );C7( )
+CDH1, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,609,613,0.915,4,PQVI,8,COL6A3( );NID1( );LAMA2( );ALDOA( );SERPINI1( );FLNA( );FLNB( );C7( )
+CDH1, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,609,613,0.92,4,PQVI,8,COL6A3( );NID1( );LAMA2( );ALDOA( );SERPINI1( );FLNA( );FLNB( );C7( )
+CDH1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,609,613,0.915,4,PQVI,8,COL6A3( );NID1( );LAMA2( );ALDOA( );SERPINI1( );FLNA( );FLNB( );C7( )
+CDH1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,609,613,0.92,4,PQVI,8,COL6A3( );NID1( );LAMA2( );ALDOA( );SERPINI1( );FLNA( );FLNB( );C7( )
+CDH1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,797,801,0.925,4,YLPR,1,SERPINI1( )

@@ -1,0 +1,22 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ANGPT1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,51,55,1.05,4,DGNC,2,CP( );TLR9( )
+ANGPT1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,256,260,0.94,4,DTVH,1,LRG1( )
+ANGPT1, cathepsin K  and  cathepsin K ,87,91,1.03,4,EHVM,2,NUCB1( );NUCB2( )
+ANGPT1, cathepsin K  and  matrix metallopeptidase-3 ,87,91,0.91,4,EHVM,2,NUCB1( );NUCB2( )
+ANGPT1, cathepsin G  and  matrix metallopeptidase-3 ,392,396,0.91,4,FHIG,0,
+ANGPT1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,9,13,0.925,4,FLAA,7,SERPIND1( );IL1RL1( );OLFML1( );NPC2( );HBEGF( );TG( );CD59( )
+ANGPT1, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,9,13,0.95,4,FLAA,7,SERPIND1( );IL1RL1( );OLFML1( );NPC2( );HBEGF( );TG( );CD59( )
+ANGPT1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,9,13,0.945,4,FLAA,7,SERPIND1( );IL1RL1( );OLFML1( );NPC2( );HBEGF( );TG( );CD59( )
+ANGPT1, cathepsin K  and  matrix metallopeptidase-2 ,349,353,1.01,4,GNPS,5,HSPG2( );COL12A1( );LAMB1( );ANGPT2( );MUC4( )
+ANGPT1, cathepsin K  and  matrix metallopeptidase-2 ,188,192,0.955,4,HEKN,1,IDE( )
+ANGPT1, cathepsin G  and  elastase-2 ,254,258,1.01,4,LMDT,0,
+ANGPT1, matrix metallopeptidase-9  and  elastase-2 ,254,258,1.01,4,LMDT,0,
+ANGPT1, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,260,264,0.96,4,NLVN,1,COL6A3( )
+ANGPT1, elastase-2  and  elastase-2 ,266,270,0.945,4,TKEG,8,FRAS1( );HSP90AA1( );EEF2( );SNCA( );ERAP1( );GBA( );KLK13( );BDNF( )
+ANGPT1, cathepsin K  and  cathepsin K ,94,98,0.9,4,TQWL,2,ACE( );ANGPT2( )
+ANGPT1, elastase-2  and  cathepsin K ,258,262,1.155,4,VHNL,2,THBS4( );FGFR3( )
+ANGPT1, elastase-2  and  elastase-2 ,258,262,1.275,4,VHNL,2,THBS4( );FGFR3( )
+ANGPT1, cathepsin K  and  elastase-2 ,262,266,0.905,4,VNLC,2,DSC2( );NCAM1( )
+ANGPT1, elastase-2  and  elastase-2 ,262,266,1.025,4,VNLC,2,DSC2( );NCAM1( )
+ANGPT1, cathepsin G  and  matrix metallopeptidase-7 ,228,232,0.905,4,YIIQ,2,CASP14( );TPSD1( )
+ANGPT1, cathepsin G  and  matrix metallopeptidase-9 ,103,107,1.015,4,YIVE,0,

@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DPT, cathepsin K  and  cathepsin K ,85,89,1.26,4,GEPT,6,HMCN2( );NID1( );LAMA2( );DYNC1H1( );MUC4( );PRKDC( )
+DPT, cathepsin K  and  matrix metallopeptidase-2 ,85,89,1.23,4,GEPT,6,HMCN2( );NID1( );LAMA2( );DYNC1H1( );MUC4( );PRKDC( )
+DPT, matrix metallopeptidase-2  and  cathepsin K ,81,85,1.25,4,PQSL,4,PZP( );IGLL5( );MMP14( );TNFRSF1A( )
+DPT, cathepsin G  and  cathepsin K ,20,24,0.945,4,YGDY,1,ACE2( )

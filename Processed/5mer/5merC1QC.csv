@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C1QC, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,43,48,0.91,5,GAPGK,11,COL7A1( );COL1A1( );COL2A1( );COL5A2( );COL3A1( );COL5A1( );COL12A1( );COL4A6( );COL4A2( );COL17A1( );CHGB( )
+C1QC, elastase-2  and  matrix metallopeptidase-2 ,68,73,1.025,5,IRGPK,0,
+C1QC, elastase-2  and  matrix metallopeptidase-9 ,68,73,1.02,5,IRGPK,0,
+C1QC, elastase-2  and  matrix metallopeptidase-3 ,68,73,0.93,5,IRGPK,0,
+C1QC, cathepsin G  and  cathepsin K ,114,119,1.115,5,YKQKF,0,

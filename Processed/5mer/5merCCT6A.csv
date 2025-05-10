@@ -1,0 +1,11 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CCT6A, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,343,348,0.925,5,CLGHA,0,
+CCT6A, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,337,342,0.91,5,DDLSP,1,ITIH4( )
+CCT6A, cathepsin G  and  elastase-2 ,64,69,0.955,5,LHEMQ,0,
+CCT6A, matrix metallopeptidase-3  and  cathepsin K ,190,195,0.935,5,MIEIM,0,
+CCT6A, matrix metallopeptidase-7  and  cathepsin K ,190,195,0.945,5,MIEIM,0,
+CCT6A, cathepsin G  and  cathepsin K ,190,195,0.935,5,MIEIM,0,
+CCT6A, elastase-2  and  cathepsin K ,196,201,0.945,5,MKHKS,0,
+CCT6A, cathepsin K  and  matrix metallopeptidase-2 ,70,75,0.92,5,QHPTA,0,
+CCT6A, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,96,101,0.905,5,VLIIG,0,
+CCT6A, elastase-2  and  matrix metallopeptidase-3 ,48,53,0.935,5,VSGAG,2,DYNC1H1( );DSG1( )

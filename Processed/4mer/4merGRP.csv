@@ -1,0 +1,2 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GRP, cathepsin K  and  matrix metallopeptidase-7 ,99,103,0.97,4,PQPK,3,HMCN2( );C1R( );PSAP( )

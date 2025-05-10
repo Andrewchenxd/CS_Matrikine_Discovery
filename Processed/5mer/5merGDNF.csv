@@ -1,0 +1,11 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GDNF, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,185,190,0.94,5,DDDLS,0,
+GDNF, matrix metallopeptidase-3  and  elastase-2 ,66,71,0.9,5,DFIQA,0,
+GDNF, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,30,35,0.93,5,EAPAE,0,
+GDNF, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,45,50,0.91,5,FALSS,0,
+GDNF, matrix metallopeptidase-9  and  cathepsin K ,25,30,0.99,5,GKRPP,1,AEBP1( )
+GDNF, matrix metallopeptidase-3  and  cathepsin K ,25,30,0.935,5,GKRPP,1,AEBP1( )
+GDNF, cathepsin K  and  matrix metallopeptidase-2 ,69,74,0.9,5,QATIK,0,
+GDNF, cathepsin K  and  matrix metallopeptidase-7 ,69,74,0.93,5,QATIK,0,
+GDNF, cathepsin K  and  cathepsin G ,48,53,0.955,5,SSDSN,0,
+GDNF, matrix metallopeptidase-9  and  cathepsin K ,64,69,0.955,5,VMDFI,0,

@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CELA1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,77,81,0.995,4,DHNL,3,LUM( );GANAB( );CMA1( )
+CELA1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,205,209,0.96,4,DSGG,30,EMILIN1( );SHH( );MMP8( );CTSG( );CFD( );CMA1( );ST14( );KLK14( );KLK13( );C1R( );KLK10( );KLK5( );KLK11( );KLK7( );KLKB1( );TPSD1( );TPSB2( );CFI( );PLG( );KLK6( );PRTN3( );PLAU( );CFB( );F2( );HGFAC( );C1S( );PRSS1( );KLK8( );TPSAB1( );PLAT( )
+CELA1, cathepsin K  and  cathepsin K ,130,134,0.945,4,GVLP,5,ELN( );LAMA3( );EFEMP1( );LAMB3( );C3( )
+CELA1, cathepsin K  and  cathepsin K ,10,14,0.9,4,QDLP,4,LGI3( );HSPH1( );ARF4( );PI16( )
+CELA1, cathepsin K  and  matrix metallopeptidase-7 ,134,138,1.005,4,QEGA,4,LAMB2( );COL4A2( );APOA1( );PAPPA( )
+CELA1, matrix metallopeptidase-2  and  cathepsin K ,33,37,1.05,4,QISL,7,FBN2( );COL12A1( );COL16A1( );PZP( );PLEC( );A2M( );EGFR( )
+CELA1, matrix metallopeptidase-3  and  cathepsin K ,33,37,0.97,4,QISL,7,FBN2( );COL12A1( );COL16A1( );PZP( );PLEC( );A2M( );EGFR( )
+CELA1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,116,120,0.92,4,RLAQ,7,HMCN2( );LAMA5( );TLN1( );CSPG4( );PLEC( );OLFML3( );CLTC(CHCR 5)
+CELA1, elastase-2  and  cathepsin G ,96,100,0.94,4,VVHP,2,SDC4( );KLK10( )

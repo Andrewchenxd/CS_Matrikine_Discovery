@@ -1,0 +1,12 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+F2R, matrix metallopeptidase-3  and  cathepsin G ,123,127,0.93,4,AIVV,0,
+F2R, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,167,171,0.94,4,DWQF,0,
+F2R, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,87,91,1.05,4,FISE,4,SCGB1D2( );PLEC( );CFHR3( );CFH( )
+F2R, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,87,91,1.035,4,FISE,4,SCGB1D2( );PLEC( );CFHR3( );CFH( )
+F2R, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,87,91,1.095,4,FISE,4,SCGB1D2( );PLEC( );CFHR3( );CFH( )
+F2R, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,403,407,0.93,4,LMAS,3,VWF( );HPSE( );PPY( )
+F2R, cathepsin G  and  matrix metallopeptidase-3 ,119,123,0.915,4,LNIM,0,
+F2R, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,185,189,1.03,4,NMYA,0,
+F2R, matrix metallopeptidase-9  and  cathepsin K ,207,211,1.025,4,PMQS,1,PRKDC(TPR 1)
+F2R, cathepsin K  and  elastase-2 ,298,302,1.04,4,SSSA,13,HSPG2( );LAMA3( );VCAN( );LAMA2( );CKAP4(Poly-Ala);CSPG4( );PMEL( );DMKN( );GANAB( );CDSN( );TNFSF15( );TG( );NELL2( )
+F2R, matrix metallopeptidase-9  and  cathepsin G ,138,142,1.01,4,VVYM,0, Name=2)

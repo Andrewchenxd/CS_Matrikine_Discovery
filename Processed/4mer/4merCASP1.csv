@@ -1,0 +1,15 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CASP1, cathepsin K  and  cathepsin K ,122,126,1.005,4,AMPT,0,
+CASP1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,103,107,0.93,4,DSQG,3,HMCN2( );COL18A1( );TG( )
+CASP1, cathepsin K  and  matrix metallopeptidase-3 ,139,143,0.905,4,EEAQ,12,LAMC2( );LAMB2( );COL6A3( );MYH9( );CHGA( );NAXE( );HNRNPU( );EFTUD2( );ITIH5( );FLNB( );PRKDC( );KLK7( )
+CASP1, cathepsin K  and  matrix metallopeptidase-7 ,139,143,0.995,4,EEAQ,12,LAMC2( );LAMB2( );COL6A3( );MYH9( );CHGA( );NAXE( );HNRNPU( );EFTUD2( );ITIH5( );FLNB( );PRKDC( );KLK7( )
+CASP1, cathepsin G  and  elastase-2 ,295,299,1.115,4,FKDS,5,COLQ( );MELTF( );TF( );LTF( );EGFR( )
+CASP1, cathepsin K  and  cathepsin G ,291,295,1.065,4,GVVW,2,FGB( );FGA( )
+CASP1, cathepsin K  and  cathepsin K ,108,112,0.915,4,LSSF,7,FRAS1( );POSTN( );COL6A2( );SERPINB5( );SERPINF2( );GBA( );PAPPA( )
+CASP1, cathepsin G  and  matrix metallopeptidase-9 ,1,5,0.945,4,MADK,3,HYOU1( );AFM( );CALU( )
+CASP1, cathepsin K  and  matrix metallopeptidase-2 ,112,116,0.9,4,PAPQ,7,LTBP2( );ABI3BP( );CKAP4( );EPHB4(Cytoplasmic);TUBA4A( );PLSCR1( );C4BPA( )
+CASP1, cathepsin K  and  matrix metallopeptidase-9 ,112,116,0.95,4,PAPQ,7,LTBP2( );ABI3BP( );CKAP4( );EPHB4(Cytoplasmic);TUBA4A( );PLSCR1( );C4BPA( )
+CASP1, cathepsin K  and  matrix metallopeptidase-9 ,251,255,0.99,4,QVPD,4,LGI3( );C3( );APOB( );LOXL1( )
+CASP1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,352,356,0.95,4,RLIE,3,VWF( );LAMC1( );SOGA1( )
+CASP1, cathepsin K  and  elastase-2 ,90,94,0.985,4,SADQ,1,APOA4( )
+CASP1, elastase-2  and  cathepsin G ,94,98,1.06,4,TSGN,4,VWA5B1( );CLCA4( );NAMPT( );CLTC( )

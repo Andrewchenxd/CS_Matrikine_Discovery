@@ -1,0 +1,108 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DYNC1H1, matrix metallopeptidase-2  and  cathepsin G ,1032,1037,0.95,5,ALEES,0,
+DYNC1H1, matrix metallopeptidase-9  and  cathepsin G ,1032,1037,0.93,5,ALEES,0,
+DYNC1H1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,814,819,1.045,5,ALIAE,0,
+DYNC1H1, matrix metallopeptidase-2  and  cathepsin K ,2809,2814,0.93,5,ALRPL,2,HMCN2( );GPC2( )
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-2 ,3311,3316,1.18,5,ANPPA,1,NECTIN1( )
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-3 ,3311,3316,0.91,5,ANPPA,1,NECTIN1( )
+DYNC1H1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,478,483,0.92,5,AVIVR,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,3617,3622,0.95,5,DAFRK,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,4351,4356,0.915,5,DEDDL,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,4351,4356,0.93,5,DEDDL,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,685,690,0.925,5,DGDSF,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,4371,4376,0.905,5,DGRPA,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,3879,3884,0.92,5,DHITF,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,351,356,0.9,5,DKIRQ,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,1743,1748,0.905,5,DKYQA,0,
+DYNC1H1, matrix metallopeptidase-3  and  elastase-2 ,4026,4031,0.91,5,DLTHI,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,1062,1067,0.995,5,DMQAE,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,3962,3967,1.045,5,DSSSP,0,
+DYNC1H1, cathepsin K  and  cathepsin K ,3962,3967,1.035,5,DSSSP,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,1794,1799,1.005,5,DSVLM,0,
+DYNC1H1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,2737,2742,0.93,5,DYPGP,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-9 ,407,412,1.0,5,EEFEK,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-3 ,1460,1465,1.09,5,EEFLK,1,NUCB2( )
+DYNC1H1, cathepsin K  and  cathepsin K ,4537,4542,1.05,5,EELCL,1,RBP4( )
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-9 ,3216,3221,0.92,5,EELRR,7,LAMB2( );APOA4( );NUCB1( );ACTN2( );ACTN4( );PKM( );PRKDC( )
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-9 ,3785,3790,0.945,5,EETDI,0,
+DYNC1H1, cathepsin K  and  elastase-2 ,3785,3790,0.92,5,EETDI,0,
+DYNC1H1, cathepsin K  and  elastase-2 ,3022,3027,0.94,5,EGDEY,0,
+DYNC1H1, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,1428,1433,0.93,5,ELTLG,1,PLEC( )
+DYNC1H1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,1428,1433,0.91,5,ELTLG,1,PLEC( )
+DYNC1H1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,1428,1433,0.98,5,ELTLG,1,PLEC( )
+DYNC1H1, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,1428,1433,0.995,5,ELTLG,1,PLEC( )
+DYNC1H1, cathepsin K  and  cathepsin G ,3967,3972,1.045,5,EQTVP,0,
+DYNC1H1, matrix metallopeptidase-3  and  cathepsin K ,3306,3311,0.925,5,EVRSM,0,
+DYNC1H1, cathepsin G  and  cathepsin K ,777,782,0.95,5,FAISL,0,
+DYNC1H1, cathepsin G  and  cathepsin K ,232,237,0.915,5,FGDKV,0,
+DYNC1H1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,3957,3962,0.925,5,FGIWL,0,
+DYNC1H1, cathepsin G  and  cathepsin K ,3957,3962,0.915,5,FGIWL,0,
+DYNC1H1, matrix metallopeptidase-7  and  elastase-2 ,739,744,1.02,5,FLPEI,0,
+DYNC1H1, cathepsin G  and  elastase-2 ,739,744,0.95,5,FLPEI,0,
+DYNC1H1, cathepsin G  and  cathepsin K ,4017,4022,0.945,5,FMSIM,0,
+DYNC1H1, cathepsin G  and  elastase-2 ,3354,3359,0.97,5,FSAEE,0,
+DYNC1H1, cathepsin G  and  cathepsin G ,2364,2369,0.955,5,FSEDV,1,CHGB( )
+DYNC1H1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,1629,1634,0.95,5,FYFVG,0,
+DYNC1H1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,3897,3902,0.97,5,GEPTY,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-7 ,4014,4019,0.915,5,GESFM,0,
+DYNC1H1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,3019,3024,0.925,5,GLFEG,0,
+DYNC1H1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,3874,3879,0.905,5,GMLHQ,0,
+DYNC1H1, matrix metallopeptidase-3  and  cathepsin G ,4072,4077,0.975,5,GSAEG,0,
+DYNC1H1, elastase-2  and  cathepsin K ,820,825,1.045,5,IALVW,0,
+DYNC1H1, elastase-2  and  cathepsin K ,3324,3329,0.965,5,ICLLL,2,RNASE3( );RNASE2( )
+DYNC1H1, elastase-2  and  cathepsin K ,2216,2221,0.955,5,INHGL,0,
+DYNC1H1, elastase-2  and  matrix metallopeptidase-9 ,275,280,1.035,5,ISFWL,0,
+DYNC1H1, cathepsin G  and  matrix metallopeptidase-9 ,3062,3067,0.95,5,LHVVF,0,
+DYNC1H1, cathepsin G  and  cathepsin G ,2156,2161,0.935,5,LLFSL,1,CD5L( )
+DYNC1H1, cathepsin G  and  cathepsin K ,341,346,1.065,5,LNDLL,1,CLTC(CHCR 6)
+DYNC1H1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,3091,3096,0.915,5,LNWFG,0,
+DYNC1H1, cathepsin G  and  elastase-2 ,1782,1787,1.03,5,LSNVE,1,KLKB1( )
+DYNC1H1, cathepsin G  and  cathepsin G ,1839,1844,0.9,5,LSQMR,0,
+DYNC1H1, cathepsin G  and  cathepsin G ,822,827,0.91,5,LVWES,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-3 ,4021,4026,0.945,5,MEQPL,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-7 ,4021,4026,0.915,5,MEQPL,0,
+DYNC1H1, cathepsin G  and  matrix metallopeptidase-9 ,505,510,0.95,5,MKVAE,0,
+DYNC1H1, cathepsin G  and  cathepsin K ,3043,3048,0.915,5,MLDSH,0,
+DYNC1H1, matrix metallopeptidase-7  and  cathepsin K ,3043,3048,0.97,5,MLDSH,0,
+DYNC1H1, matrix metallopeptidase-9  and  cathepsin G ,4156,4161,0.92,5,NMLRT,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-7 ,2376,2381,0.94,5,NNFLA,0,
+DYNC1H1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,3869,3874,0.92,5,NRVAR,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-2 ,4038,4043,0.925,5,NTPVL,0,
+DYNC1H1, cathepsin K  and  cathepsin G ,694,699,0.93,5,NTQEI,0,
+DYNC1H1, matrix metallopeptidase-3  and  cathepsin G ,2338,2343,0.9,5,NVRIM,0,
+DYNC1H1, matrix metallopeptidase-9  and  cathepsin G ,2338,2343,1.0,5,NVRIM,0,
+DYNC1H1, matrix metallopeptidase-7  and  cathepsin G ,1777,1782,1.06,5,PLHSV,0,
+DYNC1H1, matrix metallopeptidase-3  and  cathepsin G ,1777,1782,1.03,5,PLHSV,0,
+DYNC1H1, matrix metallopeptidase-2  and  cathepsin G ,1777,1782,0.99,5,PLHSV,0,
+DYNC1H1, matrix metallopeptidase-9  and  cathepsin G ,1777,1782,1.0699999999999998,5,PLHSV,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-2 ,4392,4397,0.975,5,PQTLS,0,
+DYNC1H1, cathepsin K  and  cathepsin K ,273,278,0.9,5,QEISF,1,A2ML1( )
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-2 ,844,849,0.915,5,QEKVD,1,DMBT1( )
+DYNC1H1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,1433,1438,0.91,5,QIWDV,0,
+DYNC1H1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,3399,3404,0.92,5,QLNYA,0,
+DYNC1H1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,773,778,0.93,5,QLYPF,1,ENDOD1( )
+DYNC1H1, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,773,778,0.92,5,QLYPF,1,ENDOD1( )
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-2 ,1233,1238,1.0,5,QQQVA,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-9 ,1233,1238,0.955,5,QQQVA,0,
+DYNC1H1, cathepsin K  and  cathepsin K ,3709,3714,1.165,5,QSQCL,0,
+DYNC1H1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,2831,2836,0.915,5,RLFQD,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-2 ,2927,2932,1.025,5,RQPQG,0,
+DYNC1H1, cathepsin K  and  cathepsin G ,2060,2065,0.9,5,RTAEV,0,
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-7 ,2763,2768,0.91,5,RTYAE,0,
+DYNC1H1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,647,652,0.96,5,SIIWA,0,
+DYNC1H1, matrix metallopeptidase-2  and  cathepsin G ,2457,2462,0.98,5,SLFSM,0,
+DYNC1H1, elastase-2  and  elastase-2 ,270,275,1.0699999999999998,5,TALQE,1,ALCAM( )
+DYNC1H1, cathepsin K  and  matrix metallopeptidase-2 ,1140,1145,0.99,5,TEFHS,0,
+DYNC1H1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,4309,4314,0.94,5,VELLP,0,
+DYNC1H1, cathepsin K  and  cathepsin G ,3305,3310,0.945,5,VEVRS,0,
+DYNC1H1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,1588,1593,0.91,5,VMDVL,1,TGFBI( )
+DYNC1H1, elastase-2  and  cathepsin K ,945,950,1.085,5,VSHKP,0,
+DYNC1H1, matrix metallopeptidase-9  and  cathepsin K ,945,950,1.0,5,VSHKP,0,
+DYNC1H1, cathepsin K  and  cathepsin K ,4009,4014,1.015,5,VSTNL,0,
+DYNC1H1, elastase-2  and  matrix metallopeptidase-7 ,1711,1716,0.905,5,VTLAK,0,
+DYNC1H1, elastase-2  and  matrix metallopeptidase-9 ,4605,4610,0.915,5,VTLPV,0,
+DYNC1H1, matrix metallopeptidase-9  and  cathepsin K ,3129,3134,0.9,5,VYDKL,0,
+DYNC1H1, matrix metallopeptidase-7  and  cathepsin K ,4105,4110,0.99,5,WLMQL,0,
+DYNC1H1, matrix metallopeptidase-2  and  cathepsin K ,4105,4110,1.0499999999999998,5,WLMQL,0,
+DYNC1H1, cathepsin G  and  cathepsin K ,3972,3977,0.965,5,YLWSE,0,
+DYNC1H1, cathepsin G  and  cathepsin K ,2055,2060,0.96,5,YSQGF,0,

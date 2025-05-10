@@ -1,0 +1,23 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DMBT1, cathepsin K  and  elastase-2 ,61,66,1.06,5,AEGSP,3,COL1A1( );LTBP2( );NID1(Nidogen G2 beta-barrel)
+DMBT1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,2018,2023,0.93,5,DFSSP,0,
+DMBT1, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,2327,2332,0.965,5,DTYGP,0,
+DMBT1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,2385,2390,0.965,5,DVGSY,0,
+DMBT1, cathepsin K  and  cathepsin G ,2056,2061,1.08,5,EGGCN,0,
+DMBT1, cathepsin K  and  matrix metallopeptidase-3 ,2145,2150,0.92,5,GFSAS,1,PCOLCE( )
+DMBT1, cathepsin K  and  matrix metallopeptidase-2 ,2145,2150,0.95,5,GFSAS,1,PCOLCE( )
+DMBT1, cathepsin K  and  matrix metallopeptidase-9 ,2145,2150,0.98,5,GFSAS,1,PCOLCE( )
+DMBT1, cathepsin K  and  cathepsin K ,21,26,0.9,5,GGWIP,0,
+DMBT1, cathepsin K  and  matrix metallopeptidase-3 ,290,295,0.905,5,GQGSG,1,LGALS3BP( )
+DMBT1, cathepsin K  and  matrix metallopeptidase-3 ,1565,1570,0.905,5,GQGSG,1,LGALS3BP( )
+DMBT1, elastase-2  and  matrix metallopeptidase-9 ,66,71,1.09,5,ISLES,1,FBN2( )
+DMBT1, cathepsin G  and  matrix metallopeptidase-9 ,2289,2294,0.905,5,LHSDA,0,
+DMBT1, cathepsin G  and  elastase-2 ,1,6,0.925,5,MGIST,1,CTGF( )
+DMBT1, matrix metallopeptidase-9  and  cathepsin K ,2169,2174,0.935,5,NLVIF,0,
+DMBT1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,103,108,0.905,5,RLVNG,1,CD163( )
+DMBT1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,32,37,0.96,5,SLIPS,0,
+DMBT1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,80,85,0.935,5,SLIPS,0,
+DMBT1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,469,474,1.025,5,STPSP,0,
+DMBT1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,968,973,1.055,5,STPSP,0,
+DMBT1, elastase-2  and  cathepsin G ,2269,2274,1.055,5,VTSRP,0,
+DMBT1, cathepsin G  and  elastase-2 ,2307,2312,0.99,5,YSNDF,0,

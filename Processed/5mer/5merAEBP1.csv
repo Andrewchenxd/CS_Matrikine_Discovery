@@ -1,0 +1,23 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AEBP1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,481,486,0.9,5,DSQTW,0,
+AEBP1, cathepsin K  and  matrix metallopeptidase-7 ,39,44,0.91,5,EGFLS,0,
+AEBP1, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,519,524,0.9,5,FIRIY,1,NRP1( )
+AEBP1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,519,524,0.93,5,FIRIY,1,NRP1( )
+AEBP1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,519,524,0.965,5,FIRIY,1,NRP1( )
+AEBP1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,519,524,0.935,5,FIRIY,1,NRP1( )
+AEBP1, cathepsin G  and  matrix metallopeptidase-2 ,756,761,0.955,5,FVLGA,0,
+AEBP1, cathepsin K  and  matrix metallopeptidase-2 ,411,416,0.975,5,GAQRG,0,
+AEBP1, cathepsin K  and  cathepsin K ,609,614,1.285,5,GEHEL,0,
+AEBP1, cathepsin K  and  cathepsin K ,684,689,0.99,5,GNWAL,0,
+AEBP1, elastase-2  and  cathepsin K ,604,609,0.925,5,ISDNP,0,
+AEBP1, cathepsin K  and  elastase-2 ,997,1002,0.915,5,NGNRP,0,
+AEBP1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,514,519,0.9,5,PVVAR,0,
+AEBP1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,514,519,0.9,5,PVVAR,0,
+AEBP1, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,514,519,0.935,5,PVVAR,0,
+AEBP1, cathepsin K  and  matrix metallopeptidase-2 ,196,201,0.91,5,QEGGA,0,
+AEBP1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,783,788,0.94,5,QLLAA,1,MUC4( )
+AEBP1, matrix metallopeptidase-9  and  cathepsin G ,678,683,0.97,5,QMGSE,0,
+AEBP1, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,1032,1037,0.965,5,QMRLR,0,
+AEBP1, matrix metallopeptidase-3  and  cathepsin K ,732,737,0.92,5,RYLSP,1,EIF4A1( )
+AEBP1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,732,737,1.06,5,RYLSP,1,EIF4A1( )
+AEBP1, elastase-2  and  cathepsin G ,4,9,0.93,5,VRGAP,0,

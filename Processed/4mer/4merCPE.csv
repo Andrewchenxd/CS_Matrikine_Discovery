@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CPE, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,446,450,0.91,4,DFEL,4,FBN1( );SDC4( );MELTF( );APOB( )
+CPE, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,251,255,0.98,4,DLVA,8,POSTN( );PRELP( );COL6A2( );CCT2( );SERPINF2( );PZP( );ILK( );LOX( )
+CPE, cathepsin G  and  elastase-2 ,241,245,0.99,4,FVLS,5,FBN2( );VWF( );CALR( );MMP11( );ITIH1( )
+CPE, cathepsin K  and  matrix metallopeptidase-7 ,103,107,1.145,4,GEPE,4,AEBP1( );POSTN( );TLN1( );SHH( )
+CPE, matrix metallopeptidase-3  and  cathepsin K ,418,422,0.96,4,NYKL,2,COPA(WD 2);GLG1( )
+CPE, cathepsin G  and  cathepsin K ,258,262,0.925,4,YDET,2,MMP11( );HNRNPK( )

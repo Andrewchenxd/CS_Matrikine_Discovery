@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FOLR2, cathepsin G  and  matrix metallopeptidase-9 ,222,226,0.965,4,FYAA,1,C1S( )
+FOLR2, cathepsin K  and  cathepsin K ,205,209,1.09,4,QMWF,0,
+FOLR2, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,205,209,1.09,4,QMWF,0,
+FOLR2, elastase-2  and  matrix metallopeptidase-9 ,229,233,0.945,4,VNAG,1,VWA8( )
+FOLR2, elastase-2  and  matrix metallopeptidase-3 ,229,233,0.905,4,VNAG,1,VWA8( )

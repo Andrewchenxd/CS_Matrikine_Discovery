@@ -1,0 +1,27 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD109, matrix metallopeptidase-2  and  cathepsin G ,529,534,0.9,5,ACVIV,0,
+CD109, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,744,749,0.94,5,AFQPF,2,PZP( );A2M( )
+CD109, matrix metallopeptidase-3  and  cathepsin K ,674,679,1.065,5,DIHDF,0,
+CD109, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,674,679,0.975,5,DIHDF,0,
+CD109, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,437,442,0.955,5,DSSEL,0,
+CD109, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,1133,1138,0.91,5,DSWQP,0,
+CD109, matrix metallopeptidase-9  and  cathepsin K ,1329,1334,0.925,5,EAISL,2,SFN( );PRKDC( )
+CD109, matrix metallopeptidase-2  and  elastase-2 ,322,327,0.935,5,EILTT,0,
+CD109, matrix metallopeptidase-9  and  cathepsin K ,741,746,1.005,5,ELQAF,0,
+CD109, cathepsin G  and  cathepsin G ,751,756,0.965,5,FLNLP,0,
+CD109, cathepsin K  and  cathepsin K ,702,707,0.945,5,GYRIY,1,KDR(Ig-like C2-type 3)
+CD109, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,35,40,0.92,5,IIRPG,1,PLEC( )
+CD109, cathepsin K  and  cathepsin G ,997,1002,1.065,5,LEADP,0,
+CD109, cathepsin G  and  cathepsin G ,175,180,0.91,5,LIQQW,0,
+CD109, cathepsin G  and  matrix metallopeptidase-7 ,95,100,0.905,5,LNSAD,0,
+CD109, cathepsin K  and  cathepsin G ,1316,1321,0.995,5,MEVNL,0,
+CD109, cathepsin K  and  cathepsin K ,1316,1321,0.915,5,MEVNL,0,
+CD109, cathepsin K  and  cathepsin G ,287,292,0.9,5,NGSAN,1,LIF( )
+CD109, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,932,937,0.91,5,NIYIL,0,
+CD109, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,68,73,0.99,5,NLTVS,2,C4B( );C4A( )
+CD109, cathepsin K  and  matrix metallopeptidase-9 ,1192,1197,0.935,5,SEFAA,0,
+CD109, matrix metallopeptidase-9  and  cathepsin K ,992,997,1.145,5,VLRCF,0,
+CD109, elastase-2  and  matrix metallopeptidase-9 ,1318,1323,0.975,5,VNLLS,2,ITIH4( );TNF( )
+CD109, elastase-2  and  matrix metallopeptidase-3 ,1318,1323,0.935,5,VNLLS,2,ITIH4( );TNF( )
+CD109, elastase-2  and  matrix metallopeptidase-3 ,30,35,0.93,5,VTAPG,1,TNXB( )
+CD109, cathepsin G  and  cathepsin K ,215,220,0.96,5,YYQSF,0,

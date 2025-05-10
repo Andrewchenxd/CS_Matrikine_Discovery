@@ -1,0 +1,10 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+F2, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,12,17,0.92,5,CLALA,0,
+F2, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,476,481,1.095,5,DYIHP,0,
+F2, cathepsin K  and  cathepsin G ,469,474,0.91,5,KKPVA,1,FBN1( )
+F2, cathepsin K  and  matrix metallopeptidase-9 ,383,388,0.905,5,RKSPQ,0,
+F2, matrix metallopeptidase-9  and  cathepsin K ,24,29,0.905,5,SQHVF,0,
+F2, cathepsin K  and  cathepsin G ,573,578,0.925,5,VMKSP,0,
+F2, matrix metallopeptidase-9  and  cathepsin G ,573,578,1.07,5,VMKSP,0,
+F2, elastase-2  and  matrix metallopeptidase-9 ,526,531,0.935,5,VNLPI,0,
+F2, cathepsin G  and  cathepsin G ,285,290,0.91,5,YCDLN,0,

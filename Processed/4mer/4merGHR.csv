@@ -1,0 +1,27 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GHR, elastase-2  and  cathepsin G ,471,475,1.12,4,AHIQ,2,LAMA5( );CLTC( )
+GHR, matrix metallopeptidase-3  and  cathepsin G ,471,475,1.12,4,AHIQ,2,LAMA5( );CLTC( )
+GHR, matrix metallopeptidase-2  and  cathepsin K ,126,130,0.905,4,CIKL,1,RARRES2( )
+GHR, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,618,622,0.99,4,DKEF,1,CP( )
+GHR, matrix metallopeptidase-9  and  cathepsin K ,515,519,0.91,4,DMHP,0,
+GHR, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,515,519,0.96,4,DMHP,0,
+GHR, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,531,535,0.9,4,DNAY,3,TNC( );PKM( );KNG1( )
+GHR, cathepsin K  and  matrix metallopeptidase-2 ,320,324,0.975,4,EEVN,1,DYNC1H1( )
+GHR, cathepsin K  and  matrix metallopeptidase-2 ,519,523,0.94,4,EMVS,5,HSP90AA1( );SLTM( );CPA3( );FLT1( );C4BPA( )
+GHR, cathepsin K  and  cathepsin K ,396,400,0.975,4,ETDF,3,THBS1( );THBS2( );VCAN( )
+GHR, matrix metallopeptidase-2  and  cathepsin K ,472,476,0.96,4,HIQL,1,FGA( )
+GHR, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,394,398,0.935,4,ILET,4,POSTN( );SERPINA4( );PRKDC( );SFRP2( )
+GHR, elastase-2  and  cathepsin K ,82,86,1.065,4,IQLF,1,APOD( )
+GHR, cathepsin G  and  cathepsin K ,475,479,1.07,4,LSNP,5,THBS1( );THBS2( );CD8A( );APOB( );PRKDC( )
+GHR, cathepsin G  and  matrix metallopeptidase-7 ,516,520,0.935,4,MHPE,2,DSG1( );SERPINI1( )
+GHR, matrix metallopeptidase-7  and  cathepsin K ,520,524,0.93,4,MVSL,3,HSP90AA1( );WFDC12( );HGF( )
+GHR, cathepsin K  and  cathepsin K ,92,96,0.92,4,QEWT,1,VWF( )
+GHR, cathepsin K  and  matrix metallopeptidase-2 ,602,606,1.23,4,QSPQ,2,IGKV2D-40( );IGKV2D-28( )
+GHR, cathepsin K  and  matrix metallopeptidase-7 ,602,606,1.12,4,QSPQ,2,IGKV2D-40( );IGKV2D-28( )
+GHR, cathepsin K  and  matrix metallopeptidase-3 ,602,606,1.2200000000000002,4,QSPQ,2,IGKV2D-40( );IGKV2D-28( )
+GHR, cathepsin K  and  matrix metallopeptidase-9 ,602,606,1.21,4,QSPQ,2,IGKV2D-40( );IGKV2D-28( )
+GHR, matrix metallopeptidase-7  and  elastase-2 ,35,39,0.95,4,SLQS,6,LAMA3( );DYNC1H1( );C3( );IGKV1-17( );IGKV3-15( );IGKV1-39( )
+GHR, cathepsin K  and  matrix metallopeptidase-9 ,476,480,1.0,4,SNPS,3,EFEMP1( );DYNC1H1( );MUC4( )
+GHR, cathepsin K  and  matrix metallopeptidase-7 ,476,480,0.98,4,SNPS,3,EFEMP1( );DYNC1H1( );MUC4( )
+GHR, cathepsin K  and  matrix metallopeptidase-2 ,476,480,1.01,4,SNPS,3,EFEMP1( );DYNC1H1( );MUC4( )
+GHR, elastase-2  and  cathepsin K ,601,605,0.915,4,VQSP,0,

@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FOLR2, cathepsin G  and  matrix metallopeptidase-2 ,235,240,0.91,5,LHGTG,0,
+FOLR2, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,221,226,1.005,5,RFYAA,0,
+FOLR2, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,221,226,0.92,5,RFYAA,0,

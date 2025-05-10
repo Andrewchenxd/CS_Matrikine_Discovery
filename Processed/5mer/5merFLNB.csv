@@ -1,0 +1,54 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FLNB, cathepsin K  and  cathepsin K ,1427,1432,1.07,5,AGPGL,0,
+FLNB, matrix metallopeptidase-9  and  cathepsin K ,240,245,0.965,5,AKLKP,1,FLNA( )
+FLNB, matrix metallopeptidase-3  and  cathepsin K ,240,245,1.045,5,AKLKP,1,FLNA( )
+FLNB, elastase-2  and  matrix metallopeptidase-9 ,2306,2311,1.045,5,ASFAI,0,
+FLNB, elastase-2  and  matrix metallopeptidase-3 ,1534,1539,0.925,5,ASLPV,1,FLNA( )
+FLNB, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,2241,2246,0.905,5,DDHKN,1,PAPPA( )
+FLNB, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,348,353,1.015,5,DKAQG,0,
+FLNB, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,2341,2346,0.95,5,DKYAV,1,FLNA( )
+FLNB, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,1934,1939,0.91,5,DLSSL,0,
+FLNB, matrix metallopeptidase-9  and  cathepsin G ,1748,1753,1.0699999999999998,5,DLVIP,1,FLNA( )
+FLNB, cathepsin K  and  cathepsin G ,1748,1753,0.935,5,DLVIP,1,FLNA( )
+FLNB, matrix metallopeptidase-7  and  cathepsin G ,1748,1753,1.035,5,DLVIP,1,FLNA( )
+FLNB, matrix metallopeptidase-2  and  cathepsin G ,1748,1753,1.19,5,DLVIP,1,FLNA( )
+FLNB, matrix metallopeptidase-3  and  cathepsin G ,1748,1753,1.02,5,DLVIP,1,FLNA( )
+FLNB, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,219,224,0.985,5,EIIHP,0,
+FLNB, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,343,348,0.905,5,FEVSV,0,
+FLNB, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,343,348,0.965,5,FEVSV,0,
+FLNB, cathepsin G  and  cathepsin K ,1318,1323,0.975,5,FKVAV,1,LGALS3( )
+FLNB, matrix metallopeptidase-9  and  elastase-2 ,1464,1469,1.015,5,GLVEP,2,TLN1( );FLNA( )
+FLNB, matrix metallopeptidase-2  and  elastase-2 ,1464,1469,0.985,5,GLVEP,2,TLN1( );FLNA( )
+FLNB, matrix metallopeptidase-2  and  cathepsin G ,1464,1469,1.035,5,GLVEP,2,TLN1( );FLNA( )
+FLNB, matrix metallopeptidase-3  and  cathepsin G ,1464,1469,0.91,5,GLVEP,2,TLN1( );FLNA( )
+FLNB, matrix metallopeptidase-9  and  cathepsin G ,1464,1469,1.065,5,GLVEP,2,TLN1( );FLNA( )
+FLNB, cathepsin K  and  matrix metallopeptidase-7 ,1921,1926,0.945,5,GSAAD,1,FLNA( )
+FLNB, cathepsin K  and  elastase-2 ,2480,2485,0.945,5,GSANE,0,
+FLNB, cathepsin K  and  elastase-2 ,2594,2599,1.245,5,GSPFH,0,
+FLNB, cathepsin K  and  cathepsin K ,1046,1051,0.97,5,HGPGL,2,FN1(Fibronectin type-III 16);AHSG( )
+FLNB, elastase-2  and  cathepsin K ,2035,2040,0.975,5,ISLAV,0,
+FLNB, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,681,686,0.92,5,KIFAQ,0,
+FLNB, cathepsin G  and  cathepsin K ,880,885,1.175,5,LNVQF,0,
+FLNB, matrix metallopeptidase-2  and  cathepsin G ,39,44,1.01,5,NLQTD,1,FLNA( )
+FLNB, matrix metallopeptidase-9  and  cathepsin K ,917,922,0.94,5,NMQVL,0,
+FLNB, matrix metallopeptidase-9  and  elastase-2 ,917,922,0.905,5,NMQVL,0,
+FLNB, cathepsin K  and  elastase-2 ,1697,1702,0.985,5,NSPFT,0,
+FLNB, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,1441,1446,0.9,5,QSFTV,0,
+FLNB, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,2289,2294,1.13,5,RLTVM,0,
+FLNB, matrix metallopeptidase-2  and  cathepsin K ,2475,2480,0.965,5,RLVSP,3,LTBP2( );ADAMTSL5( );NRP1( )
+FLNB, matrix metallopeptidase-7  and  cathepsin K ,2475,2480,1.09,5,RLVSP,3,LTBP2( );ADAMTSL5( );NRP1( )
+FLNB, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,2113,2118,0.915,5,SICDL,0,
+FLNB, matrix metallopeptidase-7  and  cathepsin K ,846,851,0.98,5,SKVKA,2,FLNA( );CD109( )
+FLNB, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,2294,2299,0.93,5,SLQES,1,FLNA( )
+FLNB, elastase-2  and  granzyme B ({Homo sapiens}-type) ,763,768,0.94,5,THFTV,2,FLNA( );APOB( )
+FLNB, cathepsin K  and  cathepsin K ,2184,2189,1.145,5,TVGPL,2,LAMA5( );FLNA(Filamin 20)
+FLNB, cathepsin K  and  elastase-2 ,1712,1717,0.965,5,VEEAP,0,
+FLNB, matrix metallopeptidase-9  and  elastase-2 ,1712,1717,0.92,5,VEEAP,0,
+FLNB, elastase-2  and  matrix metallopeptidase-9 ,2111,2116,0.91,5,VGSIC,0,
+FLNB, elastase-2  and  matrix metallopeptidase-9 ,1764,1769,0.935,5,VHMPS,0,
+FLNB, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,214,219,0.935,5,VITPE,1,FLNA( )
+FLNB, matrix metallopeptidase-9  and  cathepsin K ,823,828,0.91,5,VLFAS,0,
+FLNB, matrix metallopeptidase-9  and  cathepsin K ,1439,1444,0.965,5,VLQSF,0,
+FLNB, elastase-2  and  cathepsin K ,2176,2181,1.01,5,VTGSP,3,VWF( );COL6A2( );ITIH5( )
+FLNB, elastase-2  and  cathepsin G ,2176,2181,1.015,5,VTGSP,3,VWF( );COL6A2( );ITIH5( )
+FLNB, elastase-2  and  cathepsin K ,1878,1883,0.935,5,VTYLP,0,

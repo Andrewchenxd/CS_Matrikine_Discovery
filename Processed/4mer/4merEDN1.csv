@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EDN1, matrix metallopeptidase-9  and  cathepsin G ,4,8,0.955,4,LLMI,0,
+EDN1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,23,27,0.925,4,VLGA,15,HMCN2( );AEBP1( );LAMB2( );FBLN2( );COL6A3( );COL4A2( );CLCA4( );GPC2( );EPO( );IDE( );HLA-C( );ILK( );HBB( );HPX( );PRTN3( )
+EDN1, elastase-2  and  matrix metallopeptidase-7 ,23,27,1.015,4,VLGA,15,HMCN2( );AEBP1( );LAMB2( );FBLN2( );COL6A3( );COL4A2( );CLCA4( );GPC2( );EPO( );IDE( );HLA-C( );ILK( );HBB( );HPX( );PRTN3( )
+EDN1, elastase-2  and  matrix metallopeptidase-9 ,161,165,0.905,4,VRGR,5,TNXB( );FBLN2( );DYNC1H1( );ERAP1( );CREG1( )
+EDN1, cathepsin G  and  elastase-2 ,157,161,0.91,4,YQQL,3,IGLV1-47( );PLEC( );ACE( )

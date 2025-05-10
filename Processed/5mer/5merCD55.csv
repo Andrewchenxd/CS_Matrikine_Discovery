@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD55, matrix metallopeptidase-3  and  cathepsin K ,11,16,0.92,5,ALPLL,3,TNC(Fibronectin type-III 10);MFAP4( );PRDX4( )
+CD55, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,6,11,0.905,5,PSVPA,0,
+CD55, matrix metallopeptidase-2  and  cathepsin G ,108,113,0.915,5,SLKQP,0,
+CD55, matrix metallopeptidase-3  and  cathepsin G ,108,113,0.925,5,SLKQP,0,
+CD55, matrix metallopeptidase-9  and  cathepsin K ,295,300,0.98,5,TVQKP,0,

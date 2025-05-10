@@ -1,0 +1,25 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GPC1, matrix metallopeptidase-3  and  cathepsin G ,140,145,1.01,5,AFRDL,0,
+GPC1, matrix metallopeptidase-9  and  cathepsin G ,140,145,0.975,5,AFRDL,0,
+GPC1, matrix metallopeptidase-9  and  cathepsin K ,198,203,0.975,5,ALRPF,0,
+GPC1, matrix metallopeptidase-3  and  cathepsin K ,198,203,0.975,5,ALRPF,0,
+GPC1, matrix metallopeptidase-7  and  cathepsin K ,198,203,0.975,5,ALRPF,0,
+GPC1, matrix metallopeptidase-9  and  cathepsin K ,256,261,1.095,5,CAHCL,0,
+GPC1, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,412,417,0.92,5,DDRCW,0,
+GPC1, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,445,450,0.93,5,DITKP,0,
+GPC1, cathepsin G  and  cathepsin K ,126,131,0.97,5,FPGAF,0,
+GPC1, cathepsin K  and  matrix metallopeptidase-2 ,203,208,0.995,5,GEAPR,1,FN1( )
+GPC1, cathepsin K  and  matrix metallopeptidase-9 ,203,208,1.11,5,GEAPR,1,FN1( )
+GPC1, cathepsin K  and  matrix metallopeptidase-3 ,203,208,0.955,5,GEAPR,1,FN1( )
+GPC1, cathepsin K  and  matrix metallopeptidase-7 ,203,208,0.985,5,GEAPR,1,FN1( )
+GPC1, cathepsin K  and  matrix metallopeptidase-3 ,193,198,0.92,5,GKQAE,0,
+GPC1, cathepsin K  and  matrix metallopeptidase-7 ,193,198,0.92,5,GKQAE,0,
+GPC1, cathepsin K  and  matrix metallopeptidase-9 ,193,198,0.92,5,GKQAE,0,
+GPC1, matrix metallopeptidase-7  and  elastase-2 ,432,437,0.98,5,GLANQ,0,
+GPC1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,407,412,0.985,5,LSTAS,1,PRKDC( )
+GPC1, cathepsin G  and  cathepsin K ,514,519,0.98,5,LTHAL,0,
+GPC1, cathepsin G  and  cathepsin K ,429,434,0.96,5,MGDGL,0,
+GPC1, cathepsin K  and  cathepsin K ,519,524,0.97,5,PGLSE,0,
+GPC1, cathepsin K  and  cathepsin K ,351,356,1.035,5,QGPGP,1,PCOLCE( )
+GPC1, matrix metallopeptidase-9  and  cathepsin G ,428,433,1.095,5,VMGDG,0,
+GPC1, elastase-2  and  cathepsin G ,428,433,0.91,5,VMGDG,0,

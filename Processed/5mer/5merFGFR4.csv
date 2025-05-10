@@ -1,0 +1,29 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGFR4, elastase-2  and  matrix metallopeptidase-9 ,253,258,0.975,5,AGLPA,6,THBS3( );COL4A6( );FLNA( );FGFR3( );FGFR1( );FGFR2( )
+FGFR4, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,276,281,0.92,5,DAQPH,2,FGFR3( );FGFR2( )
+FGFR4, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,187,192,0.975,5,DGQAF,0,
+FGFR4, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,511,516,0.98,5,DKDLA,0,
+FGFR4, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,785,790,0.98,5,DPLPL,0,
+FGFR4, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,671,676,0.925,5,DVWSF,5,KDR( );FGFR3( );SLTM( );FGFR1( );FGFR2( )
+FGFR4, cathepsin K  and  elastase-2 ,23,28,0.93,5,EASEE,0,
+FGFR4, cathepsin K  and  cathepsin K ,474,479,0.975,5,GEGCF,3,FGFR3( );FGFR1( );FGFR2( )
+FGFR4, matrix metallopeptidase-3  and  cathepsin K ,448,453,1.055,5,GLVSL,0,
+FGFR4, matrix metallopeptidase-7  and  cathepsin K ,448,453,0.925,5,GLVSL,0,
+FGFR4, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,448,453,0.94,5,GLVSL,0,
+FGFR4, matrix metallopeptidase-2  and  cathepsin K ,448,453,1.01,5,GLVSL,0,
+FGFR4, matrix metallopeptidase-9  and  cathepsin K ,599,604,1.135,5,GMQYL,0,
+FGFR4, cathepsin K  and  elastase-2 ,192,197,0.92,5,HGENR,0,
+FGFR4, matrix metallopeptidase-3  and  elastase-2 ,445,450,1.03,5,LLAGL,6,FMOD( );PGLYRP2( );CDSN( );SERPINA1( );CD209( );PGF( )
+FGFR4, matrix metallopeptidase-9  and  elastase-2 ,445,450,1.12,5,LLAGL,6,FMOD( );PGLYRP2( );CDSN( );SERPINA1( );CD209( );PGF( )
+FGFR4, matrix metallopeptidase-7  and  elastase-2 ,445,450,1.215,5,LLAGL,6,FMOD( );PGLYRP2( );CDSN( );SERPINA1( );CD209( );PGF( )
+FGFR4, matrix metallopeptidase-2  and  elastase-2 ,445,450,1.065,5,LLAGL,6,FMOD( );PGLYRP2( );CDSN( );SERPINA1( );CD209( );PGF( )
+FGFR4, cathepsin G  and  matrix metallopeptidase-3 ,584,589,0.93,5,LSFPV,2,CSPG4( );PZP( )
+FGFR4, cathepsin G  and  cathepsin K ,45,50,0.975,5,LTVAL,1,CANX( )
+FGFR4, cathepsin G  and  matrix metallopeptidase-2 ,107,112,0.915,5,MIVLQ,0,
+FGFR4, cathepsin K  and  matrix metallopeptidase-2 ,542,547,0.945,5,QEGPL,1,COL4A2( )
+FGFR4, matrix metallopeptidase-3  and  cathepsin G ,232,237,1.025,5,SIRYN,0,
+FGFR4, matrix metallopeptidase-2  and  cathepsin G ,232,237,0.955,5,SIRYN,0,
+FGFR4, matrix metallopeptidase-2  and  cathepsin K ,405,410,0.92,5,TVQKL,1,ADM( )
+FGFR4, elastase-2  and  cathepsin G ,433,438,1.0,5,VRGVR,0,
+FGFR4, cathepsin K  and  cathepsin K ,207,212,0.91,5,WSLVM,1,FGFR3( )
+FGFR4, cathepsin G  and  cathepsin K ,301,306,0.98,5,YVQVL,0,

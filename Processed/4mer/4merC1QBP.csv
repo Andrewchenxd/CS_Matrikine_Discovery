@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C1QBP, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,237,241,0.915,4,DHLM,0,
+C1QBP, cathepsin G  and  cathepsin G ,82,86,0.99,4,FVDF,3,FBLN2( );VWA8( );HRG( )

@@ -1,0 +1,14 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AGTR2, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,260,265,0.975,5,AVVLA,1,PMEL( )
+AGTR2, matrix metallopeptidase-2  and  elastase-2 ,90,95,1.0,5,DLLLL,2,HSPA8( );CFD( )
+AGTR2, matrix metallopeptidase-3  and  elastase-2 ,90,95,0.965,5,DLLLL,2,HSPA8( );CFD( )
+AGTR2, cathepsin G  and  cathepsin G ,272,277,0.96,5,FHVLT,0,
+AGTR2, matrix metallopeptidase-2  and  cathepsin G ,265,270,0.94,5,FIICW,0,
+AGTR2, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,220,225,1.06,5,FIIPL,0,
+AGTR2, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,220,225,1.025,5,FIIPL,0,
+AGTR2, matrix metallopeptidase-2  and  cathepsin K ,116,121,0.91,5,MCKVF,0,
+AGTR2, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,85,90,0.91,5,NLAVA,0,
+AGTR2, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,127,132,0.9,5,NMFAS,0,
+AGTR2, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,80,85,0.91,5,SIYIF,0, Name=2)
+AGTR2, matrix metallopeptidase-3  and  cathepsin G ,161,166,0.93,5,SYIVP,0, Name=4)
+AGTR2, matrix metallopeptidase-9  and  elastase-2 ,332,337,0.935,5,VFRVP,0,

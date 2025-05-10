@@ -1,0 +1,22 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CCT2, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,32,37,0.93,5,AIAIG,0,
+CCT2, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,32,37,1.105,5,AIAIG,0,
+CCT2, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,32,37,1.035,5,AIAIG,0,
+CCT2, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,32,37,1.1800000000000002,5,AIAIG,0,
+CCT2, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,81,86,0.975,5,AKVLV,1,TLN1( )
+CCT2, elastase-2  and  cathepsin G ,24,29,1.0,5,ARLTS,0,
+CCT2, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,357,362,0.93,5,DKLIH,1,SBSN( )
+CCT2, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,452,457,0.93,5,DNAGY,0,
+CCT2, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,452,457,0.905,5,DNAGY,0,
+CCT2, cathepsin K  and  matrix metallopeptidase-2 ,437,442,0.96,5,ESYAK,0,
+CCT2, cathepsin K  and  matrix metallopeptidase-7 ,437,442,0.99,5,ESYAK,0,
+CCT2, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,206,211,0.94,5,GGSLA,0,
+CCT2, matrix metallopeptidase-9  and  cathepsin K ,47,52,0.99,5,GMDKI,0,
+CCT2, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,120,125,1.04,5,KIHPQ,0,
+CCT2, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,142,147,0.93,5,LSSAV,1,VWA8( )
+CCT2, matrix metallopeptidase-2  and  cathepsin K ,10,15,0.97,5,NIFKA,0,
+CCT2, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,115,120,0.955,5,SLIAK,1,CCT6A( )
+CCT2, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,352,357,0.91,5,VMIGE,0,
+CCT2, elastase-2  and  granzyme B ({Homo sapiens}-type) ,352,357,0.985,5,VMIGE,0,
+CCT2, cathepsin G  and  matrix metallopeptidase-7 ,297,302,0.94,5,YNYPE,0,
+CCT2, cathepsin G  and  matrix metallopeptidase-2 ,297,302,0.925,5,YNYPE,0,

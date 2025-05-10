@@ -1,0 +1,15 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C9, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,357,361,0.91,4,ELIY,1,FRAS1( )
+C9, elastase-2  and  matrix metallopeptidase-3 ,301,305,0.96,4,IHLG,0,
+C9, elastase-2  and  matrix metallopeptidase-2 ,416,420,0.915,4,ITSE,3,EFEMP2( );COL14A1( );PFKP( )
+C9, matrix metallopeptidase-9  and  elastase-2 ,483,487,0.98,4,KMKN,0,
+C9, cathepsin K  and  matrix metallopeptidase-9 ,236,240,1.015,4,NAAI,3,CDH1( );PDCD6IP( );TUBA4A( )
+C9, cathepsin K  and  matrix metallopeptidase-7 ,236,240,1.025,4,NAAI,3,CDH1( );PDCD6IP( );TUBA4A( )
+C9, matrix metallopeptidase-2  and  cathepsin K ,201,205,0.97,4,SLIY,2,FRAS1( );PMEL(Helical)
+C9, matrix metallopeptidase-3  and  cathepsin K ,201,205,0.935,4,SLIY,2,FRAS1( );PMEL(Helical)
+C9, cathepsin K  and  cathepsin G ,417,421,0.995,4,TSEN,4,EPHB4( );IDE( );TLL1( );NTF3( )
+C9, elastase-2  and  elastase-2 ,297,301,0.94,4,VKGE,15,COL1A2( );COL2A1( );COL5A2( );COL3A1( );COL4A1( );COL4A3( );COL6A1( );COL4A2( );COL16A1( );COL6A6( );PCOLCE( );COL15A1( );RPN1( );PLEC( );SLTM( )
+C9, cathepsin G  and  matrix metallopeptidase-2 ,197,201,0.995,4,WNVA,1,PZP( )
+C9, cathepsin G  and  matrix metallopeptidase-3 ,197,201,0.96,4,WNVA,1,PZP( )
+C9, elastase-2  and  cathepsin G ,280,284,0.905,4,YQLF,0,
+C9, cathepsin G  and  cathepsin G ,280,284,0.91,4,YQLF,0,

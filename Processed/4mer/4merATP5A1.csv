@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ATP5A1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,308,312,0.925,4,LIIY,1,C3( )
+ATP5A1, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,258,262,0.985,4,QLVK,5,ANOS1( );HSPA5( );ITIH4( );ITIH3( );GBA( )
+ATP5A1, matrix metallopeptidase-3  and  cathepsin K ,182,186,0.905,4,RISV,7,COL12A1( );TUBB( );CD109( );CTSD( );NCAM1( );CD40( );TLL1( )
+ATP5A1, matrix metallopeptidase-7  and  cathepsin G ,287,291,0.925,4,YLAP,4,LTBP4( );C4B( );C4A( );TF( )

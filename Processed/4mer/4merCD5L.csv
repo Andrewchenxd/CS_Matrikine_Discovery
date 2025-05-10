@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD5L, cathepsin K  and  matrix metallopeptidase-3 ,19,23,0.955,4,ASPS,11,LTBP4( );THBS2( );VCAN( );NID1( );COL17A1( );VWA5B1( );EMCN( );CKAP4( );DSG1( );FLNA(Filamin 22);CD163( )
+CD5L, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,25,29,0.97,4,RLVG,10,LTBP2( );EMILIN1( );VWA5B1( );ENDOD1( );HSPA9( );SBSN( );MMP11( );CST3( );CD163( );KLKB1( )

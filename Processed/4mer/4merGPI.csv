@@ -1,0 +1,14 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GPI, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,489,493,1.03,4,ALVA,13,APOA4( );HYOU1( );CKAP4(Poly-Ala);HSP90B1( );RPL27( );DYNC1H1( );GPC1( );ALCAM( );AHSG( );C4B( );C4A( );MUC4( );CST6( )
+GPI, elastase-2  and  cathepsin G ,337,341,0.915,4,AMLP,0,
+GPI, cathepsin K  and  cathepsin K ,304,308,1.02,4,DQHF,1,TFRC( )
+GPI, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,304,308,0.92,4,DQHF,1,TFRC( )
+GPI, cathepsin K  and  cathepsin K ,294,298,0.97,4,EQLL,11,LAMA5( );AEBP1( );LAMB2( );COL6A1( );COL15A1( );ITIH3( );GBP1( );HPSE( );PLEC( );ACTN4( );ACTN1( )
+GPI, matrix metallopeptidase-3  and  cathepsin K ,290,294,1.015,4,FDNF,4,TNC( );CANX( );CALR( );PAPPA( )
+GPI, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,485,489,1.055,4,FMLG,2,FKBP1A( );PRKDC( )
+GPI, elastase-2  and  matrix metallopeptidase-2 ,485,489,1.005,4,FMLG,2,FKBP1A( );PRKDC( )
+GPI, matrix metallopeptidase-3  and  cathepsin K ,10,14,1.06,4,FQKL,5,LAMC1( );RPL27( );EIF4A1( );NCAM1(Ig-like C2-type 2);TG( )
+GPI, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,502,506,0.985,4,GIIW,1,FGG( )
+GPI, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,50,54,0.905,4,HILV,2,GBP1( );VWA8( )
+GPI, matrix metallopeptidase-2  and  cathepsin K ,198,202,1.035,4,QLNP,1,FBN2( )
+GPI, cathepsin K  and  cathepsin K ,14,18,1.12,4,QQWY,0,

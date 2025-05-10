@@ -1,0 +1,18 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ACTN1, cathepsin K  and  cathepsin G ,587,592,0.905,5,AGTNP,0,
+ACTN1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,691,696,1.02,5,DHQLI,1,ACTN2( )
+ACTN1, cathepsin K  and  matrix metallopeptidase-2 ,769,774,0.93,5,EEFKA,1,ACTN4( )
+ACTN1, cathepsin K  and  matrix metallopeptidase-9 ,769,774,0.92,5,EEFKA,1,ACTN4( )
+ACTN1, cathepsin K  and  elastase-2 ,651,656,0.95,5,EEIGR,1,ACTN4( )
+ACTN1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,460,465,0.905,5,ELNEL,3,ACTN2( );ACTN4( );C2( )
+ACTN1, cathepsin G  and  cathepsin K ,521,526,1.0,5,FNNWM,2,ACTN2( );ACTN4( )
+ACTN1, matrix metallopeptidase-9  and  cathepsin K ,245,250,0.955,5,FYHAF,2,ACTN2(Actin-binding);ACTN4(Actin-binding)
+ACTN1, cathepsin G  and  cathepsin K ,245,250,1.01,5,FYHAF,2,ACTN2(Actin-binding);ACTN4(Actin-binding)
+ACTN1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,776,781,0.97,5,ISLGY,1,ACTN4(EF-hand 1)
+ACTN1, matrix metallopeptidase-2  and  cathepsin G ,577,582,0.94,5,KIVQT,0,
+ACTN1, matrix metallopeptidase-9  and  cathepsin G ,577,582,0.94,5,KIVQT,0,
+ACTN1, matrix metallopeptidase-3  and  cathepsin G ,577,582,0.975,5,KIVQT,0,
+ACTN1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,221,226,0.96,5,MLDAE,3,ITIH3( );ACTN2( );ACTN4( )
+ACTN1, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,221,226,0.94,5,MLDAE,3,ITIH3( );ACTN2( );ACTN4( )
+ACTN1, matrix metallopeptidase-9  and  cathepsin K ,305,310,0.915,5,TMHAM,0,
+ACTN1, cathepsin G  and  cathepsin K ,582,587,1.01,5,YHVNM,0,

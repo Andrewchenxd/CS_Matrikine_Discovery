@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ANXA1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,295,299,1.035,4,ALIR,2,VCAN( );ACTN4( )
+ANXA1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,122,126,0.96,4,ELRA,12,DCN( );COL12A1( );COL16A1( );APOA4( );MYH9( );APOE(1);TREM1( );GPC1( );MMP14( );HBEGF( );APOD( );EDN1( )
+ANXA1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,122,126,0.905,4,ELRA,12,DCN( );COL12A1( );COL16A1( );APOA4( );MYH9( );APOE(1);TREM1( );GPC1( );MMP14( );HBEGF( );APOD( );EDN1( )
+ANXA1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,122,126,1.005,4,ELRA,12,DCN( );COL12A1( );COL16A1( );APOA4( );MYH9( );APOE(1);TREM1( );GPC1( );MMP14( );HBEGF( );APOD( );EDN1( )
+ANXA1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,277,281,0.95,4,FFAE,3,LAMA3( );THBS2( );MMP14( )
+ANXA1, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,277,281,0.975,4,FFAE,3,LAMA3( );THBS2( );MMP14( )
+ANXA1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,281,285,0.92,4,KLHQ,0,
+ANXA1, cathepsin G  and  elastase-2 ,21,25,0.92,4,YVQT,2,HMCN2( );A2ML1( )

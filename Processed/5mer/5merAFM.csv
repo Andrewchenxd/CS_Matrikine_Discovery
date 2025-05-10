@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AFM, matrix metallopeptidase-2  and  cathepsin K ,226,231,1.13,5,ALLKF,0,
+AFM, elastase-2  and  cathepsin K ,226,231,0.945,5,ALLKF,0,
+AFM, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,476,481,0.96,5,DLVFG,2,COL6A6(VWFA 4);ITIH2( )
+AFM, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,476,481,0.91,5,DLVFG,2,COL6A6(VWFA 4);ITIH2( )
+AFM, matrix metallopeptidase-7  and  cathepsin K ,446,451,0.99,5,ELVSL,1,CKAP4( )
+AFM, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,511,516,0.92,5,ESLKA,0,

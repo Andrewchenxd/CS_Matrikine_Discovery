@@ -1,0 +1,18 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FBLN1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,301,305,0.945,4,DALG,10,COL7A1( );VWF( );COL6A1( );ATP5A1( );COPA( );DMKN( );GANAB( );LGALS3BP( );ACTN4( );TG( )
+FBLN1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,26,30,0.91,4,GVDA,2,HMCN2( );CFB( )
+FBLN1, elastase-2  and  matrix metallopeptidase-2 ,616,620,1.025,4,IFLR,4,HSP90B1( );HSP90AA1( );ORM1( );ORM2( )
+FBLN1, cathepsin G  and  cathepsin G ,666,670,0.975,4,IVGP,10,HMCN2( );TNC( );EFEMP1( );COL2A1( );FBN1( );COL15A1( );COL17A1( );FLNA( );PLEC( );CFH( )
+FBLN1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,631,635,0.985,4,NIIF,4,LAMB1( );SERPINB5( );DPP7( );ITIH5( )
+FBLN1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,631,635,0.92,4,NIIF,4,LAMB1( );SERPINB5( );DPP7( );ITIH5( )
+FBLN1, matrix metallopeptidase-9  and  cathepsin G ,693,697,0.985,4,NVHI,2,HSPG2( );LAMA3( )
+FBLN1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,669,673,1.165,4,PFHA,1,LIF( )
+FBLN1, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,665,669,0.93,4,PIVG,3,COL12A1( );NENF( );HLA-C(Extracellular)
+FBLN1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,665,669,1.025,4,PIVG,3,COL12A1( );NENF( );HLA-C(Extracellular)
+FBLN1, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,665,669,1.035,4,PIVG,3,COL12A1( );NENF( );HLA-C(Extracellular)
+FBLN1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,431,435,0.97,4,RLSV,12,HMCN2(Ig-like C2-type 6);COL7A1( );COL4A1( );LBP( );SOGA1( );PLEC( );GANAB( );TUBA4A( );ITIH5( );MELTF( );LOXL1( );C4BPA( )
+FBLN1, cathepsin K  and  matrix metallopeptidase-2 ,316,320,0.92,4,SAPC,2,LAMA5( );NGFR( )
+FBLN1, matrix metallopeptidase-9  and  cathepsin K ,694,698,0.975,4,VHIF,0,
+FBLN1, matrix metallopeptidase-9  and  cathepsin K ,673,677,1.07,4,VLKL,6,COL6A3( );ATP5O( );C1QB( );DYNC1H1( );GLG1( );HBEGF( )
+FBLN1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,673,677,1.02,4,VLKL,6,COL6A3( );ATP5O( );C1QB( );DYNC1H1( );GLG1( );HBEGF( )
+FBLN1, cathepsin G  and  cathepsin K ,345,349,0.99,4,YHLN,1,SERPINF1( )

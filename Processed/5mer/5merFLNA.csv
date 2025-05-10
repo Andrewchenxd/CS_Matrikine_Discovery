@@ -1,0 +1,50 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FLNA, matrix metallopeptidase-9  and  cathepsin K ,267,272,0.965,5,AKLKP,1,FLNB( )
+FLNA, matrix metallopeptidase-3  and  cathepsin K ,267,272,1.045,5,AKLKP,1,FLNB( )
+FLNA, elastase-2  and  matrix metallopeptidase-7 ,2351,2356,0.98,5,ASFAV,0,
+FLNA, elastase-2  and  matrix metallopeptidase-9 ,2351,2356,1.05,5,ASFAV,0,
+FLNA, elastase-2  and  matrix metallopeptidase-2 ,2351,2356,1.005,5,ASFAV,0,
+FLNA, elastase-2  and  matrix metallopeptidase-9 ,1562,1567,0.92,5,ASLPV,1,FLNB( )
+FLNA, elastase-2  and  matrix metallopeptidase-3 ,1562,1567,0.955,5,ASLPV,1,FLNB( )
+FLNA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,2326,2331,1.0499999999999998,5,ASPSG,1,CD5L( )
+FLNA, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,375,380,0.97,5,DKSQG,0,
+FLNA, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,2386,2391,0.915,5,DKYAV,1,FLNB( )
+FLNA, matrix metallopeptidase-7  and  cathepsin G ,1792,1797,0.91,5,DLVIP,1,FLNB( )
+FLNA, matrix metallopeptidase-3  and  cathepsin G ,1792,1797,0.965,5,DLVIP,1,FLNB( )
+FLNA, matrix metallopeptidase-2  and  cathepsin G ,1792,1797,1.16,5,DLVIP,1,FLNB( )
+FLNA, matrix metallopeptidase-9  and  cathepsin G ,1792,1797,1.04,5,DLVIP,1,FLNB( )
+FLNA, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,1142,1147,1.145,5,DTHIP,0,
+FLNA, cathepsin K  and  cathepsin K ,1060,1065,1.0,5,EAVAP,1,PSAPL1( )
+FLNA, cathepsin K  and  matrix metallopeptidase-3 ,2168,2173,0.915,5,EISIQ,0,
+FLNA, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,370,375,0.91,5,FEVYV,0,
+FLNA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,370,375,0.9,5,FEVYV,0,
+FLNA, cathepsin G  and  cathepsin K ,2321,2326,1.135,5,FVVPV,0,
+FLNA, cathepsin K  and  cathepsin K ,1652,1657,1.095,5,GGHGL,0,
+FLNA, cathepsin K  and  elastase-2 ,2502,2507,0.915,5,GGPYH,0,
+FLNA, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,1838,1843,0.91,5,GLHEM,1,FLNB( )
+FLNA, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,1838,1843,0.94,5,GLHEM,1,FLNB( )
+FLNA, matrix metallopeptidase-9  and  cathepsin G ,946,951,0.905,5,GVNVT,2,HSPG2( );TG( )
+FLNA, matrix metallopeptidase-2  and  cathepsin G ,946,951,0.94,5,GVNVT,2,HSPG2( );TG( )
+FLNA, cathepsin K  and  cathepsin K ,2058,2063,0.98,5,HEGHT,0,
+FLNA, cathepsin K  and  elastase-2 ,2528,2533,1.02,5,HETSS,0,
+FLNA, cathepsin K  and  matrix metallopeptidase-2 ,1850,1855,0.935,5,HIPGS,1,FLNB( )
+FLNA, elastase-2  and  matrix metallopeptidase-9 ,654,659,0.91,5,IRLSP,0,
+FLNA, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,1974,1979,0.9,5,NISET,0,
+FLNA, matrix metallopeptidase-2  and  cathepsin G ,66,71,1.085,5,NLQTD,1,FLNB( )
+FLNA, cathepsin K  and  elastase-2 ,1733,1738,0.99,5,NSPFQ,0,
+FLNA, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,1241,1246,1.035,5,PNFPS,0,
+FLNA, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,2334,2339,1.205,5,RLTVS,0,
+FLNA, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,2334,2339,0.935,5,RLTVS,0,
+FLNA, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,2334,2339,1.01,5,RLTVS,0,
+FLNA, matrix metallopeptidase-7  and  cathepsin K ,2520,2525,0.94,5,RLVSN,0,
+FLNA, cathepsin K  and  matrix metallopeptidase-2 ,2598,2603,0.945,5,RTPCE,0,
+FLNA, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,1787,1792,0.98,5,SLRPF,0,
+FLNA, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,1787,1792,1.1,5,SLRPF,0,
+FLNA, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,1787,1792,0.905,5,SLRPF,0,
+FLNA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,2531,2536,0.935,5,SSVFV,0,
+FLNA, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,845,850,0.965,5,SYTIM,0,
+FLNA, cathepsin K  and  cathepsin K ,2229,2234,1.16,5,TVGPL,2,LAMA5( );FLNB(Filamin 20)
+FLNA, matrix metallopeptidase-9  and  cathepsin K ,1523,1528,1.035,5,VLYGD,1,CKAP4( )
+FLNA, elastase-2  and  cathepsin K ,2104,2109,1.03,5,VTYCP,0,
+FLNA, matrix metallopeptidase-9  and  cathepsin K ,2298,2303,0.925,5,VVQEP,0,
+FLNA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,155,160,0.92,5,WDEEE,0,

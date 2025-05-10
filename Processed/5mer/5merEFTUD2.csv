@@ -1,0 +1,25 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EFTUD2, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,230,235,1.01,5,DAAEG,0,
+EFTUD2, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,860,865,1.005,5,DAPIP,0,
+EFTUD2, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,841,846,1.015,5,DCVSA,0,
+EFTUD2, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,485,490,0.905,5,DDGVQ,0,
+EFTUD2, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,20,25,0.945,5,DEDDD,3,SPP1( );APOB( );RAN( )
+EFTUD2, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,460,465,0.98,5,DLGEA,1,ACTN2(EF-hand 2)
+EFTUD2, matrix metallopeptidase-9  and  cathepsin G ,460,465,0.92,5,DLGEA,1,ACTN2(EF-hand 2)
+EFTUD2, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,643,648,0.925,5,DLRKM,0,
+EFTUD2, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,879,884,0.925,5,DSFGF,0,
+EFTUD2, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,85,90,1.235,5,DTQPL,0,
+EFTUD2, cathepsin G  and  cathepsin G ,331,336,0.915,5,FGDIN,0,
+EFTUD2, matrix metallopeptidase-2  and  cathepsin G ,287,292,1.02,5,GLISM,0,
+EFTUD2, matrix metallopeptidase-9  and  cathepsin G ,287,292,0.945,5,GLISM,0,
+EFTUD2, matrix metallopeptidase-2  and  cathepsin K ,547,552,0.97,5,GNWVL,1,KLK8( )
+EFTUD2, cathepsin G  and  matrix metallopeptidase-9 ,641,646,1.015,5,MHDLR,0,
+EFTUD2, cathepsin G  and  matrix metallopeptidase-7 ,641,646,1.0,5,MHDLR,0,
+EFTUD2, cathepsin K  and  matrix metallopeptidase-7 ,337,342,0.945,5,QEFAK,0,
+EFTUD2, cathepsin K  and  matrix metallopeptidase-9 ,337,342,0.94,5,QEFAK,0,
+EFTUD2, cathepsin K  and  elastase-2 ,248,253,1.025,5,QERLA,0,
+EFTUD2, matrix metallopeptidase-9  and  cathepsin K ,671,676,1.02,5,SLKCF,0,
+EFTUD2, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,686,691,0.9,5,TMIAE,0,
+EFTUD2, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,187,192,0.9,5,TVVLP,0,
+EFTUD2, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,112,117,0.915,5,TVYEM,0,
+EFTUD2, cathepsin G  and  matrix metallopeptidase-9 ,292,297,0.905,5,YSTDE,0,

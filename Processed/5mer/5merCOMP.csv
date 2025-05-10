@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+COMP, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,428,433,0.93,5,DACDS,2,THBS4( );THBS3( )
+COMP, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,70,75,0.94,5,DACGM,0,
+COMP, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,29,34,0.91,5,DLGPQ,0,
+COMP, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-3 ,29,34,0.96,5,DLGPQ,0,
+COMP, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,29,34,0.91,5,DLGPQ,0,
+COMP, matrix metallopeptidase-3  and  cathepsin K ,34,39,0.945,5,MLREL,0,
+COMP, cathepsin K  and  elastase-2 ,532,537,0.91,5,RAFQT,0,

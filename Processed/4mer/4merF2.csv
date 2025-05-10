@@ -1,0 +1,14 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+F2, cathepsin K  and  cathepsin K ,68,72,0.92,4,EEAF,4,CLTC( );IDE( );SERPINA3( );QPCT( )
+F2, cathepsin K  and  matrix metallopeptidase-3 ,29,33,0.93,4,LAPQ,4,SPP1( );FLNA( );PAPPA( );TPSD1( )
+F2, cathepsin G  and  cathepsin G ,355,359,0.935,4,LLES,7,MATN2( );PLEC( );SERPINA6( );SERPINB2( );CLTC( );PRKDC( );ESR2( )
+F2, cathepsin K  and  matrix metallopeptidase-2 ,252,256,0.905,4,NSAV,1,PAPPA( )
+F2, cathepsin K  and  matrix metallopeptidase-9 ,252,256,0.985,4,NSAV,1,PAPPA( )
+F2, cathepsin K  and  matrix metallopeptidase-7 ,252,256,0.98,4,NSAV,1,PAPPA( )
+F2, cathepsin K  and  cathepsin K ,584,588,0.91,4,QMGI,0,
+F2, cathepsin K  and  cathepsin K ,383,387,0.92,4,RKSP,1,TLL1( )
+F2, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,394,398,1.01,4,SLIS,11,FRAS1( );TNC( );COL3A1( );LAMA4(Laminin G-like 3);TNF( );CPE( );KDR( );ST14( );TLR9(LRR 3);PLAU( );IL25( )
+F2, elastase-2  and  granzyme B ({Homo sapiens}-type) ,481,485,1.115,4,VCLP,4,DSG1( );ACE( );PROS1( );PLAT( )
+F2, matrix metallopeptidase-9  and  elastase-2 ,522,526,1.07,4,VLQV,1,HMCN2(Ig-like C2-type 17)
+F2, elastase-2  and  cathepsin K ,379,383,0.925,4,VMLF,1,GHR( )
+F2, elastase-2  and  elastase-2 ,526,530,0.935,4,VNLP,5,FN1( );LTBP2( );EFEMP2( );LTBP2( );PKM( )

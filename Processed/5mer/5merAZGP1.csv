@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AZGP1, matrix metallopeptidase-3  and  cathepsin K ,46,51,0.9,5,AFQAL,0,
+AZGP1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,81,86,0.9,5,EDWKQ,0,
+AZGP1, cathepsin G  and  matrix metallopeptidase-2 ,157,162,0.905,5,FDPAA,0,
+AZGP1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,47,52,0.94,5,FQALG,1,TIMP1( )
+AZGP1, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,47,52,0.98,5,FQALG,1,TIMP1( )
+AZGP1, cathepsin K  and  cathepsin K ,113,118,0.935,5,GSHVL,0,
+AZGP1, matrix metallopeptidase-2  and  cathepsin G ,286,291,0.965,5,SLAQP,1,COL6A2( )

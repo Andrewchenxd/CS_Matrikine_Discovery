@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DEFB1, cathepsin K  and  matrix metallopeptidase-2 ,46,50,0.975,4,YSAC,1,MMP9( )
+DEFB1, cathepsin G  and  matrix metallopeptidase-2 ,46,50,1.065,4,YSAC,1,MMP9( )
+DEFB1, cathepsin G  and  matrix metallopeptidase-3 ,46,50,0.935,4,YSAC,1,MMP9( )

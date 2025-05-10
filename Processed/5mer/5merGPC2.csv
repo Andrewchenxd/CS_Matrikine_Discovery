@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GPC2, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,138,143,0.99,5,ALIFN,0,
+GPC2, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,52,57,0.925,5,ALISG,0,
+GPC2, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,459,464,0.91,5,DASGP,0,
+GPC2, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,496,501,0.91,5,DEDAS,0,
+GPC2, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,491,496,0.9,5,DGQDA,0,
+GPC2, cathepsin K  and  matrix metallopeptidase-2 ,40,45,0.955,5,GARGY,0,
+GPC2, cathepsin K  and  matrix metallopeptidase-9 ,207,212,1.06,5,GDSPR,0,
+GPC2, cathepsin K  and  matrix metallopeptidase-7 ,207,212,0.955,5,GDSPR,0,
+GPC2, matrix metallopeptidase-7  and  cathepsin K ,368,373,0.96,5,RLWSM,0,
+GPC2, elastase-2  and  matrix metallopeptidase-9 ,451,456,0.945,5,VNNPE,0,
+GPC2, elastase-2  and  matrix metallopeptidase-7 ,451,456,0.995,5,VNNPE,0,
+GPC2, cathepsin G  and  cathepsin G ,508,513,0.955,5,YADDW,0,

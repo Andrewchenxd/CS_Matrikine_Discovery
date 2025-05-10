@@ -1,0 +1,21 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GSN, elastase-2  and  matrix metallopeptidase-7 ,533,537,0.985,4,AHLM,1,HMCN2( )
+GSN, elastase-2  and  cathepsin K ,533,537,1.0,4,AHLM,1,HMCN2( )
+GSN, matrix metallopeptidase-2  and  elastase-2 ,129,133,1.015,4,AIFT,4,CKAP4( );DYNC1H1( );CPA3( );TEK( )
+GSN, matrix metallopeptidase-3  and  elastase-2 ,129,133,1.015,4,AIFT,4,CKAP4( );DYNC1H1( );CPA3( );TEK( )
+GSN, matrix metallopeptidase-9  and  elastase-2 ,129,133,0.965,4,AIFT,4,CKAP4( );DYNC1H1( );CPA3( );TEK( )
+GSN, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,136,140,0.905,4,DDYL,3,FBN2( );SERPIND1( );GPC1( )
+GSN, cathepsin K  and  matrix metallopeptidase-2 ,683,687,1.005,4,EVPG,7,NOV( );COL7A1( );LTBP4( );SERPINB5( );DYNC1H1( );FGFR3( );TG( )
+GSN, cathepsin G  and  matrix metallopeptidase-2 ,321,325,0.96,4,FAQG,2,PCOLCE( );CLTC( )
+GSN, cathepsin G  and  matrix metallopeptidase-7 ,422,426,1.0,4,FDAA,2,DYNC1H1( );SERPINI1( )
+GSN, cathepsin K  and  cathepsin G ,540,544,0.95,4,GGKP,9,TNXB( );ELN( );AEBP1( );COL2A1( );COL5A2( );COL14A1( );COL16A1( );RPL35A( );HNRNPK( )
+GSN, cathepsin G  and  elastase-2 ,21,25,0.905,4,LSLP,20,HSPG2( );LAMB3( );EMILIN1( );APOC1( );APOA4( );DYNC1H1( );EPO( );EPHB4( );IGKV2D-40( );KDR( );ERAP1( );IGKV2D-28( );CASP1( );MMP9( );IGKV2-30( );APOB( );HBEGF( );PRKDC( );C8B( );CFH( )
+GSN, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,84,88,0.925,4,NLYG,3,TNXB( );LAMC1( );PRKDC( )
+GSN, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,755,759,0.985,4,SFVG,6,LAMA3( );MAP2K2( );APCS( );ACE2( );GLG1( );TAC1( )
+GSN, matrix metallopeptidase-9  and  cathepsin G ,206,210,0.9,4,SWES,2,APCS( );TNFSF10( )
+GSN, elastase-2  and  cathepsin K ,757,761,1.07,4,VGWF,0,
+GSN, cathepsin K  and  cathepsin K ,757,761,1.035,4,VGWF,0,
+GSN, elastase-2  and  cathepsin K ,698,702,0.985,4,VMLL,2,SERPINA12( );APOD( )
+GSN, elastase-2  and  granzyme B ({Homo sapiens}-type) ,698,702,1.065,4,VMLL,2,SERPINA12( );APOD( )
+GSN, elastase-2  and  granzyme B ({Homo sapiens}-type) ,133,137,0.9,4,VQLD,4,FRAS1( );LAMA4( );LGALS7( );PROS1( )
+GSN, cathepsin K  and  cathepsin K ,642,646,0.93,4,WEAL,2,COL18A1( );CPQ( )

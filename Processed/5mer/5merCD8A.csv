@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD8A, elastase-2  and  matrix metallopeptidase-9 ,153,158,0.905,5,ASQPL,0,
+CD8A, elastase-2  and  matrix metallopeptidase-3 ,153,158,0.91,5,ASQPL,0,
+CD8A, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,83,88,0.905,5,GLDTQ,0,
+CD8A, elastase-2  and  cathepsin G ,152,157,1.065,5,IASQP,0,
+CD8A, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,23,28,0.98,5,QFRVS,1,APOB( )
+CD8A, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,23,28,0.955,5,QFRVS,1,APOB( )
+CD8A, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,88,93,0.945,5,RFSGK,0,

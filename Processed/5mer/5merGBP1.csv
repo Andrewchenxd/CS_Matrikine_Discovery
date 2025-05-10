@@ -1,0 +1,14 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GBP1, matrix metallopeptidase-2  and  cathepsin G ,33,38,1.05,5,AITQP,0,
+GBP1, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,199,204,0.9,5,DEYLT,0,
+GBP1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,167,172,0.955,5,DSADF,0,
+GBP1, cathepsin K  and  matrix metallopeptidase-7 ,190,195,0.905,5,EADGQ,1,HMCN2( )
+GBP1, cathepsin G  and  cathepsin G ,269,274,0.92,5,FCSYI,0,
+GBP1, cathepsin G  and  matrix metallopeptidase-2 ,373,378,0.905,5,FKDVD,0,
+GBP1, elastase-2  and  cathepsin K ,414,419,0.97,5,IFSPL,2,SERPINA3( );PAPPA( )
+GBP1, cathepsin G  and  cathepsin K ,561,566,0.925,5,LKEGF,0,
+GBP1, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,37,42,0.915,5,PMVVV,0,
+GBP1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,37,42,0.92,5,PMVVV,0,
+GBP1, cathepsin K  and  matrix metallopeptidase-7 ,525,530,1.0,5,QEHLK,0,
+GBP1, elastase-2  and  matrix metallopeptidase-3 ,172,177,0.925,5,VSFFP,0,
+GBP1, cathepsin G  and  matrix metallopeptidase-3 ,427,432,0.9,5,YSKPG,0,

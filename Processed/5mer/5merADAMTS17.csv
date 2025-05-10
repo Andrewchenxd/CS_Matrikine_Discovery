@@ -1,0 +1,28 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ADAMTS17, matrix metallopeptidase-3  and  cathepsin K ,912,917,0.95,5,AVQSC,0,
+ADAMTS17, matrix metallopeptidase-2  and  cathepsin K ,912,917,1.045,5,AVQSC,0,
+ADAMTS17, matrix metallopeptidase-9  and  cathepsin K ,999,1004,0.925,5,CMHKV,0,
+ADAMTS17, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,629,634,0.985,5,DDKPC,0,
+ADAMTS17, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,840,845,0.935,5,DSDCP,0,
+ADAMTS17, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,634,639,1.05,5,ELYCS,0,
+ADAMTS17, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,634,639,0.925,5,ELYCS,0,
+ADAMTS17, matrix metallopeptidase-2  and  cathepsin K ,152,157,0.91,5,GLIQL,0,
+ADAMTS17, matrix metallopeptidase-3  and  elastase-2 ,149,154,0.91,5,GLVGL,3,COL4A6( );SDC1( );GANAB( )
+ADAMTS17, matrix metallopeptidase-2  and  elastase-2 ,149,154,0.99,5,GLVGL,3,COL4A6( );SDC1( );GANAB( )
+ADAMTS17, matrix metallopeptidase-7  and  cathepsin K ,497,502,0.96,5,GLWCL,0,
+ADAMTS17, cathepsin K  and  cathepsin K ,497,502,0.95,5,GLWCL,0,
+ADAMTS17, matrix metallopeptidase-2  and  cathepsin K ,497,502,1.015,5,GLWCL,0,
+ADAMTS17, matrix metallopeptidase-9  and  elastase-2 ,82,87,0.975,5,LLHLP,0,
+ADAMTS17, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,1014,1019,0.935,5,LSKPA,0,
+ADAMTS17, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,1014,1019,0.92,5,LSKPA,0,
+ADAMTS17, cathepsin G  and  cathepsin K ,168,173,0.91,5,NSQGP,0,
+ADAMTS17, matrix metallopeptidase-9  and  cathepsin G ,1019,1024,0.915,5,PYRQC,0,
+ADAMTS17, matrix metallopeptidase-3  and  cathepsin G ,1019,1024,0.93,5,PYRQC,0,
+ADAMTS17, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,1025,1030,0.93,5,QEVCN,0,
+ADAMTS17, cathepsin K  and  cathepsin G ,1015,1020,0.92,5,SKPAP,1,PRDX4( )
+ADAMTS17, elastase-2  and  matrix metallopeptidase-2 ,758,763,1.085,5,TKLPL,0,
+ADAMTS17, elastase-2  and  matrix metallopeptidase-9 ,758,763,1.045,5,TKLPL,0,
+ADAMTS17, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,236,241,0.91,5,TLVVA,1,FLT1( )
+ADAMTS17, matrix metallopeptidase-9  and  cathepsin K ,996,1001,0.91,5,VVQCM,0,
+ADAMTS17, cathepsin G  and  cathepsin K ,1084,1089,0.98,5,YANKM,0,
+ADAMTS17, cathepsin G  and  cathepsin K ,1020,1025,1.12,5,YRQCY,0,

@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DMKN, cathepsin K  and  matrix metallopeptidase-3 ,349,354,0.97,5,ETSPG,0,
+DMKN, cathepsin G  and  cathepsin K ,43,48,0.915,5,LGDAL,2,GANAB( );SERPING1( )
+DMKN, matrix metallopeptidase-2  and  cathepsin K ,23,28,0.935,5,PLQSG,0,
+DMKN, matrix metallopeptidase-3  and  cathepsin K ,23,28,0.93,5,PLQSG,0,
+DMKN, matrix metallopeptidase-7  and  cathepsin K ,23,28,0.915,5,PLQSG,0,
+DMKN, cathepsin K  and  matrix metallopeptidase-2 ,4,9,1.16,5,QGPLA,0,
+DMKN, elastase-2  and  cathepsin K ,128,133,0.92,5,VRGSW,0,

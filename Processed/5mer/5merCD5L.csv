@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CD5L, cathepsin K  and  elastase-2 ,19,24,0.915,5,ASPSG,1,FLNA(Filamin 22)
+CD5L, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,245,250,0.925,5,RLVGG,3,LTBP2( );CST3( );CD163( )
+CD5L, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,245,250,0.92,5,RLVGG,3,LTBP2( );CST3( );CD163( )
+CD5L, elastase-2  and  matrix metallopeptidase-2 ,24,29,0.965,5,VRLVG,0,

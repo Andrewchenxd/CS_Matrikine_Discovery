@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CAMP, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,27,32,1.185,5,AIIAQ,0,
+CAMP, cathepsin G  and  matrix metallopeptidase-3 ,26,31,1.035,5,LAIIA,0,

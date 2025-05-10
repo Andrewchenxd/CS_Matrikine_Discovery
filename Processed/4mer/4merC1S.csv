@@ -1,0 +1,17 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C1S, matrix metallopeptidase-9  and  cathepsin K ,269,273,1.035,4,DIIF,3,COL6A3(VWFA 1);SHH( );IL18( )
+C1S, matrix metallopeptidase-3  and  cathepsin K ,269,273,1.08,4,DIIF,3,COL6A3(VWFA 1);SHH( );IL18( )
+C1S, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,186,190,0.92,4,EIAS,8,MATN2( );LAMC1( );COL6A3( );COL6A5( );COL14A1( );CCT2( );CPQ( );FGFR4( )
+C1S, cathepsin G  and  cathepsin K ,455,459,0.935,4,FDNP,0,
+C1S, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,552,556,0.905,4,GTSS,6,LAMC1( );COL4A5( );VWA5B1( );CSPG4( );LEPROT( );PLG( )
+C1S, elastase-2  and  cathepsin K ,548,552,1.005,4,ICLP,11,ECM1( );C2( );SLTM( );ST14( );HPR( );C1R( );KLKB1( );PLAU( );CFB( );HGFAC( );HP( )
+C1S, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,72,76,0.965,4,IISG,2,A2ML1( );EGFR( )
+C1S, cathepsin K  and  cathepsin K ,256,260,0.97,4,PGPL,20,COL7A1( );MFAP2( );COL1A2( );COL5A2( );FMOD( );COL3A1( );COL5A1( );COL4A4( );COL4A5( );COL4A6( );COL6A6( );COL17A1( );VWA8( );A2M( );ITIH5( );MMP19( );PROS1( );TGFB1( );TG( );SFRP5( )
+C1S, cathepsin K  and  matrix metallopeptidase-2 ,256,260,1.075,4,PGPL,20,COL7A1( );MFAP2( );COL1A2( );COL5A2( );FMOD( );COL3A1( );COL5A1( );COL4A4( );COL4A5( );COL4A6( );COL6A6( );COL17A1( );VWA8( );A2M( );ITIH5( );MMP19( );PROS1( );TGFB1( );TG( );SFRP5( )
+C1S, cathepsin K  and  matrix metallopeptidase-3 ,256,260,0.975,4,PGPL,20,COL7A1( );MFAP2( );COL1A2( );COL5A2( );FMOD( );COL3A1( );COL5A1( );COL4A4( );COL4A5( );COL4A6( );COL6A6( );COL17A1( );VWA8( );A2M( );ITIH5( );MMP19( );PROS1( );TGFB1( );TG( );SFRP5( )
+C1S, matrix metallopeptidase-3  and  cathepsin K ,258,262,0.93,4,PLNI,6,LAMA2( );HSP90AA1( );HSPH1( );CPQ( );F2R( );PRKDC( )
+C1S, cathepsin K  and  cathepsin K ,429,433,1.02,4,REPF,4,NAXE( );C4B( );C4A( );IL4R( )
+C1S, elastase-2  and  matrix metallopeptidase-2 ,18,22,1.035,4,TMYG,0,
+C1S, cathepsin K  and  matrix metallopeptidase-2 ,459,463,1.1800000000000002,4,WAGG,4,CSPG4( );HNRNPU( );VWA8( );DPP7( )
+C1S, cathepsin G  and  elastase-2 ,14,18,0.925,4,YAEP,2,DYNC1H1( );ESR2( )
+C1S, cathepsin G  and  cathepsin G ,20,24,0.985,4,YGEI,3,COL4A2( );PPY( );CTSD( )

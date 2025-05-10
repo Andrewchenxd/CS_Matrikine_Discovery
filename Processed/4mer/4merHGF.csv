@@ -1,0 +1,18 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+HGF, cathepsin K  and  matrix metallopeptidase-7 ,585,589,0.905,4,ARPA,2,FGB( );KLK6( )
+HGF, cathepsin K  and  elastase-2 ,481,485,0.9,4,DHPV,3,SPARC( );C4B( );C4A( )
+HGF, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,472,476,0.925,4,DTTP,5,TNXB( );COL6A1( );TNXA( );MMP19( );CCL5( )
+HGF, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,297,301,0.945,4,DVPL,8,HMCN2( );DYNC1H1( );PI16( );MYDGF( );PAPPA( );TG( );NELL2( );FOLR2( )
+HGF, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,672,676,0.995,4,DYGG,1,HNRNPK( )
+HGF, matrix metallopeptidase-3  and  cathepsin G ,633,637,0.95,4,HLYI,0,
+HGF, matrix metallopeptidase-2  and  cathepsin G ,633,637,0.955,4,HLYI,0,
+HGF, elastase-2  and  cathepsin G ,24,28,1.0699999999999998,4,IAIP,1,APOB( )
+HGF, elastase-2  and  matrix metallopeptidase-2 ,518,522,0.935,4,ICGG,2,FBN1( );TLL1(CUB 2)
+HGF, elastase-2  and  cathepsin G ,719,723,0.935,4,IILT,3,CLCA4( );IL36G( );GANAB( )
+HGF, cathepsin K  and  cathepsin K ,21,25,0.925,4,LLPI,4,COL6A5( );CSPG4( );PROCR( );C1R( )
+HGF, cathepsin G  and  matrix metallopeptidase-2 ,565,569,0.94,4,LNVS,10,HMCN2( );TNC( );HSPA8( );HSP90B1( );PMEL( );KDR( );ALCAM(Ig-like C2-type 3);GHR( );MUC4( );TG( )
+HGF, matrix metallopeptidase-9  and  cathepsin G ,566,570,0.93,4,NVSQ,2,SERPINF2( );TG( )
+HGF, cathepsin K  and  matrix metallopeptidase-9 ,685,689,0.995,4,RMVL,2,SERPINB2( );CD163( )
+HGF, cathepsin K  and  matrix metallopeptidase-3 ,428,432,1.195,4,WEPD,0,
+HGF, cathepsin K  and  matrix metallopeptidase-3 ,98,102,0.9,4,WFPF,0,
+HGF, cathepsin G  and  cathepsin K ,723,727,0.94,4,YKVP,0,

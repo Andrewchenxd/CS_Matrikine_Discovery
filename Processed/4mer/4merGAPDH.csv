@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+GAPDH, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,127,131,0.925,4,DAPM,0,
+GAPDH, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,127,131,0.905,4,DAPM,0,
+GAPDH, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,326,330,0.92,4,DLMA,2,VCAN( );HNRNPK( )
+GAPDH, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,311,315,0.905,4,ISWY,0,
+GAPDH, elastase-2  and  cathepsin K ,74,78,1.18,4,ITIF,2,COL6A5( );CD109( )
+GAPDH, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,205,209,0.925,4,NIIP,2,KARS( );CLTC( )
+GAPDH, matrix metallopeptidase-2  and  elastase-2 ,205,209,0.975,4,NIIP,2,KARS( );CLTC( )

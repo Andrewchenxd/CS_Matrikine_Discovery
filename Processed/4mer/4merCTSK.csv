@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTSK, cathepsin K  and  cathepsin G ,72,76,0.9,4,ELAM,0,
+CTSK, elastase-2  and  elastase-2 ,60,64,0.915,4,HNLE,3,MYH9( );PRKDC( );PSAPL1( )
+CTSK, cathepsin G  and  matrix metallopeptidase-3 ,76,80,1.07,4,NHLG,3,VWF( );SOGA1( );EGFR( )
+CTSK, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,246,250,0.94,4,SVAI,4,COL6A1( );C2( );CTSL( );TEK( )

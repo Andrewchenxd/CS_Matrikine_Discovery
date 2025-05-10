@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CMA1, granzyme B ({Homo sapiens}-type)  and  elastase-2 ,160,165,1.05,5,DTLQE,2,LAMC1( );GLG1(Cys-rich GLG1 11)
+CMA1, cathepsin K  and  cathepsin K ,158,163,0.96,5,GSDTL,1,KLK7( )
+CMA1, cathepsin K  and  matrix metallopeptidase-9 ,163,168,0.915,5,QEVKL,0,
+CMA1, matrix metallopeptidase-9  and  elastase-2 ,106,111,1.0,5,TLHHD,0,

@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AIMP1, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,183,188,0.99,5,EIAPR,0,
+AIMP1, matrix metallopeptidase-2  and  elastase-2 ,192,197,0.93,5,GLVNH,0,
+AIMP1, matrix metallopeptidase-9  and  cathepsin G ,217,222,1.05,5,KMRGV,0,
+AIMP1, matrix metallopeptidase-3  and  cathepsin G ,217,222,0.93,5,KMRGV,0,
+AIMP1, cathepsin G  and  matrix metallopeptidase-9 ,222,227,0.955,5,LSQAM,0,
+AIMP1, cathepsin G  and  elastase-2 ,306,311,0.985,5,MSNSG,0,
+AIMP1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,212,217,1.015,5,NLKPA,1,A2ML1( )
+AIMP1, cathepsin K  and  cathepsin G ,81,86,0.98,5,PSGTP,1,COL5A2( )
+AIMP1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,90,95,0.91,5,SMVSE,0,
+AIMP1, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,90,95,0.91,5,SMVSE,0,
+AIMP1, elastase-2  and  elastase-2 ,92,97,1.02,5,VSENV,0,
+AIMP1, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,175,180,0.95,5,YVEEV,0,

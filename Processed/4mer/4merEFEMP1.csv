@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+EFEMP1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,284,288,0.905,4,ELSS,8,COL7A1( );THBS1( );COL17A1( );HSPA9( );GLG1( );IGHV1-46( );GBA( );C8B( )
+EFEMP1, matrix metallopeptidase-7  and  cathepsin G ,6,10,0.995,4,FLTM,7,SPON1( );DYNC1H1( );VWA8( );CALM1( );CST6( );NELL2( );BDNF( )
+EFEMP1, elastase-2  and  cathepsin G ,487,491,1.02,4,IVGP,10,HMCN2( );TNC( );COL2A1( );FBN1( );FBLN1( );COL15A1( );COL17A1( );FLNA( );PLEC( );CFH( )
+EFEMP1, cathepsin K  and  matrix metallopeptidase-3 ,311,315,0.94,4,NEPG,1,EFEMP2( )
+EFEMP1, cathepsin K  and  elastase-2 ,412,416,0.915,4,QIQA,3,EFEMP2( );PLEC( );SERPINE1( )
+EFEMP1, cathepsin K  and  matrix metallopeptidase-9 ,477,481,0.92,4,RTSS,3,CTHRC1( );APOB( );TG( )
+EFEMP1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,392,396,0.91,4,SIVY,1,GLA( )
+EFEMP1, elastase-2  and  matrix metallopeptidase-7 ,463,467,0.925,4,VDLE,6,TNC( );MFAP4( );ATP5A1( );TUBB( );TUBB4B( );TUBA4A( )

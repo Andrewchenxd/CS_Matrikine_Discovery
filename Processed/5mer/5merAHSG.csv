@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AHSG, cathepsin K  and  matrix metallopeptidase-3 ,302,307,0.945,5,AAPPG,0,
+AHSG, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,113,118,0.94,5,DCDFQ,0,
+AHSG, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,274,279,0.925,5,DPDAP,3,CSPG4(CSPG 5);C4B( );C4A( )
+AHSG, cathepsin K  and  matrix metallopeptidase-7 ,20,25,0.945,5,PHGPG,2,FN1(Fibronectin type-III 16);FBN2( )
+AHSG, cathepsin K  and  cathepsin K ,279,284,0.98,5,PSPPL,1,ECM1( )
+AHSG, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,271,276,0.965,5,PVVDP,0,
+AHSG, cathepsin K  and  matrix metallopeptidase-2 ,71,76,0.945,5,QQPSG,0,

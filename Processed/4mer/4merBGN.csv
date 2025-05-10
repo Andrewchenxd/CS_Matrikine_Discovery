@@ -1,0 +1,16 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+BGN, elastase-2  and  granzyme B ({Homo sapiens}-type) ,41,45,0.92,4,ASGA,11,COL12A1( );VWA5B1( );ATP5B( );PDCD6IP( );PZP( );FAM3C( );SBSN( );IGHA2( );KLK10( );TG( );P3H1( )
+BGN, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,30,34,0.95,4,DDGP,5,COL7A1( );COL2A1( );COL5A1( );VWA5B1( );WFDC5( )
+BGN, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-7 ,30,34,0.91,4,DDGP,5,COL7A1( );COL2A1( );COL5A1( );VWA5B1( );WFDC5( )
+BGN, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,281,285,0.975,4,ELHL,8,ASPN( );LAMA3( );FMOD( );DCN( );LRG1( );EEF2( );SERPINA4( );GLA( )
+BGN, cathepsin K  and  matrix metallopeptidase-2 ,229,233,0.955,4,ETLN,6,ECM1( );TGFBI( );LAMB1( );EMILIN1( );C3( );CPE( )
+BGN, cathepsin K  and  matrix metallopeptidase-7 ,229,233,1.02,4,ETLN,6,ECM1( );TGFBI( );LAMB1( );EMILIN1( );C3( );CPE( )
+BGN, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,34,38,0.975,4,FMMN,0,
+BGN, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,34,38,0.935,4,FMMN,0,
+BGN, elastase-2  and  matrix metallopeptidase-2 ,244,248,0.995,4,IELE,4,HSPG2( );VCAN( );LAMA2( );NAMPT( )
+BGN, elastase-2  and  matrix metallopeptidase-7 ,244,248,1.005,4,IELE,4,HSPG2( );VCAN( );LAMA2( );NAMPT( )
+BGN, elastase-2  and  granzyme B ({Homo sapiens}-type) ,244,248,0.91,4,IELE,4,HSPG2( );VCAN( );LAMA2( );NAMPT( )
+BGN, cathepsin K  and  matrix metallopeptidase-2 ,156,160,0.915,4,NLPS,8,LGI3(LRRNT);COL17A1( );SRGN( );LAD1( );RPN1( );MMP19( );C5( );TLR9(LRR 6)
+BGN, cathepsin K  and  matrix metallopeptidase-3 ,156,160,0.925,4,NLPS,8,LGI3(LRRNT);COL17A1( );SRGN( );LAD1( );RPN1( );MMP19( );C5( );TLR9(LRR 6)
+BGN, elastase-2  and  matrix metallopeptidase-3 ,159,163,0.94,4,SSLV,9,TNXB( );LAMC2( );LUM(LRR 9);COL6A3( );COL6A5( );PCOLCE( );CSPG4( );SOGA1( );FGFR4( )
+BGN, cathepsin G  and  elastase-2 ,331,335,0.92,4,YYNG,0,

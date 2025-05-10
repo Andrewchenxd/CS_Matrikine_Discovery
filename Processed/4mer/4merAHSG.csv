@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+AHSG, cathepsin K  and  matrix metallopeptidase-3 ,327,331,1.155,4,GSPS,10,TNXB( );COMP( );HSPG2( );LAMA5( );FMOD(LRRNT);COL6A5( );COL4A2( );SOGA1( );SERPINA4( );LTF( )
+AHSG, cathepsin K  and  matrix metallopeptidase-7 ,21,25,0.935,4,HGPG,6,FN1(Fibronectin type-III 16);FBN2( );FLNA( );FLNB( );ST14( );CFB( )
+AHSG, cathepsin G  and  cathepsin G ,151,155,0.995,4,LLAP,11,HMCN2(Ig-like C2-type 23);TNC( );LGI3( );POSTN( );COL6A3( );TGFBI( );SPP1( );ATP5B( );ERAP1( );TGFB1( );TPSD1( )
+AHSG, cathepsin K  and  cathepsin K ,71,75,0.91,4,QQPS,6,FN1( );PDCD6IP( );HNRNPA2B1( );GHR( );LOXL1( );GRP( )
+AHSG, cathepsin K  and  elastase-2 ,251,255,0.97,4,QTQP,2,ABI3BP( );TG( )
+AHSG, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,272,276,0.935,4,VVDP,6,THBS3( );SPP1( );CSPG4( );SERPINA4( );FLNB( );TG( )
+AHSG, elastase-2  and  cathepsin K ,323,327,1.215,4,VVSL,16,LAMA5( );LAMA3( );THBS2( );COL6A5( );COL12A1(Fibronectin type-III 10);LAMB1( );TNFSF12(Helical; Signal-anchor for type II);PFKP( );KDR(Ig-like C2-type 4);F2R( );LEPROT( );C9( );GBA( );EGFR( );DEFA1( );DEFA3( )

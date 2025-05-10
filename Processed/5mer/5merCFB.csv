@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CFB, matrix metallopeptidase-3  and  elastase-2 ,289,294,1.015,5,AKKCL,0,
+CFB, matrix metallopeptidase-7  and  cathepsin G ,361,366,0.945,5,AVYSM,0,
+CFB, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,370,375,1.02,5,DDVPP,0,
+CFB, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,627,632,0.905,5,DIKAL,2,ACTN4( );C9( )
+CFB, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,627,632,0.915,5,DIKAL,2,ACTN4( );C9( )
+CFB, cathepsin G  and  cathepsin G ,428,433,0.975,5,FGVGP,0,
+CFB, matrix metallopeptidase-7  and  cathepsin K ,234,239,0.965,5,FLSSL,0,
+CFB, cathepsin K  and  cathepsin K ,282,287,1.005,5,GASNF,0,

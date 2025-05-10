@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTSG, matrix metallopeptidase-3  and  cathepsin K ,20,25,0.935,5,EIIGG,1,CMA1(Peptidase S1)
+CTSG, matrix metallopeptidase-2  and  cathepsin K ,213,218,0.975,5,GIVSY,1,CMA1( )
+CTSG, matrix metallopeptidase-7  and  cathepsin K ,247,252,1.025,5,LLDQM,0,
+CTSG, elastase-2  and  matrix metallopeptidase-9 ,127,132,1.065,5,VALPR,0,

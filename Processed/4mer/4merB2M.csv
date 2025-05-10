@@ -1,0 +1,3 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+B2M, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,54,58,1.06,4,DIEV,5,DMBT1( );LAMA4( );CD109( );TG( );C1S( )
+B2M, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,54,58,1.06,4,DIEV,5,DMBT1( );LAMA4( );CD109( );TG( );C1S( )

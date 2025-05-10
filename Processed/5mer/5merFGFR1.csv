@@ -1,0 +1,25 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGFR1, elastase-2  and  matrix metallopeptidase-3 ,259,264,0.93,5,AGLPA,6,THBS3( );COL4A6( );FLNA( );FGFR3( );FGFR4( );FGFR2( )
+FGFR1, elastase-2  and  matrix metallopeptidase-9 ,259,264,0.99,5,AGLPA,6,THBS3( );COL4A6( );FLNA( );FGFR3( );FGFR4( );FGFR2( )
+FGFR1, elastase-2  and  matrix metallopeptidase-9 ,303,308,0.93,5,DNLPY,0,
+FGFR1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-9 ,303,308,1.105,5,DNLPY,0,
+FGFR1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,682,687,0.92,5,DVWSF,5,KDR( );FGFR3( );SLTM( );FGFR4( );FGFR2( )
+FGFR1, cathepsin K  and  matrix metallopeptidase-2 ,363,368,0.95,5,EERPA,0,
+FGFR1, cathepsin K  and  matrix metallopeptidase-9 ,363,368,1.07,5,EERPA,0,
+FGFR1, cathepsin K  and  matrix metallopeptidase-7 ,363,368,0.94,5,EERPA,0,
+FGFR1, cathepsin G  and  cathepsin G ,796,801,1.055,5,FSHEP,0,
+FGFR1, elastase-2  and  cathepsin G ,796,801,1.005,5,FSHEP,0,
+FGFR1, cathepsin K  and  cathepsin G ,796,801,1.005,5,FSHEP,0,
+FGFR1, cathepsin K  and  cathepsin K ,485,490,0.975,5,GEGCF,3,FGFR3( );FGFR4( );FGFR2( )
+FGFR1, cathepsin K  and  matrix metallopeptidase-9 ,270,275,0.95,5,GSNVE,0,
+FGFR1, cathepsin K  and  cathepsin K ,798,803,0.98,5,HEPLP,0,
+FGFR1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,498,503,0.995,5,IGLDK,0,
+FGFR1, cathepsin G  and  matrix metallopeptidase-3 ,44,49,0.96,5,LVHPG,0,
+FGFR1, cathepsin G  and  matrix metallopeptidase-2 ,44,49,0.94,5,LVHPG,0,
+FGFR1, matrix metallopeptidase-9  and  cathepsin K ,30,35,0.995,5,QAQPW,0,
+FGFR1, matrix metallopeptidase-7  and  cathepsin K ,448,453,0.925,5,RLSSS,1,FGFR4( )
+FGFR1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,393,398,0.905,5,SVIVY,0,
+FGFR1, elastase-2  and  matrix metallopeptidase-9 ,441,446,0.93,5,VLLVR,0,
+FGFR1, matrix metallopeptidase-9  and  cathepsin G ,368,373,0.965,5,VMTSP,1,GLG1( )
+FGFR1, elastase-2  and  cathepsin K ,427,432,0.9,5,VTVSA,3,PZP( );A2M( );FGFR2( )
+FGFR1, elastase-2  and  granzyme B ({Homo sapiens}-type) ,427,432,0.965,5,VTVSA,3,PZP( );A2M( );FGFR2( )

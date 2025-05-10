@@ -1,0 +1,13 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CCT6A, matrix metallopeptidase-2  and  matrix metallopeptidase-2 ,19,23,0.94,4,ALAV,16,LAMA3( );LAMB2( );MGP( );TLN1( );CHGA( );GBP1( );DSG1( );ITIH5( );CD109( );B2M( );CST3( );FGFR4( );TAC1( );CCL5( );EGFR( );TGFA( )
+CCT6A, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,480,484,1.0,4,DLNT,2,PTN( );RNASE7( )
+CCT6A, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,163,167,0.905,4,ELAD,6,HSPG2( );LAMA5( );LUM( );TGFBI( );MYH9( );SOGA1( )
+CCT6A, matrix metallopeptidase-9  and  cathepsin K ,66,70,0.935,4,EMQI,0,
+CCT6A, cathepsin G  and  matrix metallopeptidase-7 ,300,304,0.96,4,FSLD,11,FBN2( );LAMA5( );FBN1( );COL6A3( );CDH1( );CSPG4( );GBP1( );ITIH1( );APOB( );C4B( );C4A( )
+CCT6A, cathepsin K  and  matrix metallopeptidase-3 ,345,349,0.93,4,GHAG,4,COL1A2( );COL3A1( );COL4A4( );PPY( )
+CCT6A, matrix metallopeptidase-2  and  matrix metallopeptidase-3 ,348,352,1.035,4,GLVY,3,DPP7( );FLNB( );TF( )
+CCT6A, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,348,352,0.925,4,GLVY,3,DPP7( );FLNB( );TF( )
+CCT6A, elastase-2  and  matrix metallopeptidase-3 ,186,190,0.955,4,IDLF,2,TGFBI( );SERPIND1( )
+CCT6A, elastase-2  and  matrix metallopeptidase-7 ,186,190,0.965,4,IDLF,2,TGFBI( );SERPIND1( )
+CCT6A, elastase-2  and  cathepsin G ,186,190,0.955,4,IDLF,2,TGFBI( );SERPIND1( )
+CCT6A, cathepsin G  and  cathepsin K ,64,68,0.9,4,LHEM,2,FLNA( );FLNB( )

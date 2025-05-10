@@ -1,0 +1,22 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C1R, granzyme B ({Homo sapiens}-type)  and  granzyme B ({Homo sapiens}-type) ,648,653,0.925,5,DACQG,2,HGFAC( );PLAT( )
+C1R, matrix metallopeptidase-2  and  cathepsin G ,217,222,1.0,5,DLRCN,0,
+C1R, matrix metallopeptidase-7  and  cathepsin G ,217,222,1.03,5,DLRCN,0,
+C1R, matrix metallopeptidase-3  and  cathepsin G ,217,222,1.105,5,DLRCN,0,
+C1R, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,580,585,0.96,5,DNDTF,1,FLNA( )
+C1R, cathepsin K  and  matrix metallopeptidase-3 ,555,560,0.9,5,EGDIA,1,SBSN( )
+C1R, cathepsin K  and  matrix metallopeptidase-7 ,555,560,0.985,5,EGDIA,1,SBSN( )
+C1R, matrix metallopeptidase-7  and  cathepsin K ,528,533,1.0,5,ELMKL,0,
+C1R, matrix metallopeptidase-3  and  elastase-2 ,459,464,0.995,5,EQRQR,0,
+C1R, matrix metallopeptidase-9  and  elastase-2 ,459,464,1.11,5,EQRQR,0,
+C1R, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,236,241,0.91,5,FLEPF,0,
+C1R, cathepsin K  and  matrix metallopeptidase-9 ,27,32,0.905,5,GEVTS,0,
+C1R, matrix metallopeptidase-9  and  cathepsin G ,101,106,0.94,5,GKKEF,0,
+C1R, matrix metallopeptidase-7  and  elastase-2 ,24,29,0.945,5,KLFGE,2,LAMA2( );SERPINB2( )
+C1R, matrix metallopeptidase-3  and  elastase-2 ,24,29,1.0699999999999998,5,KLFGE,2,LAMA2( );SERPINB2( )
+C1R, matrix metallopeptidase-9  and  elastase-2 ,24,29,0.9,5,KLFGE,2,LAMA2( );SERPINB2( )
+C1R, cathepsin G  and  matrix metallopeptidase-9 ,96,101,1.01,5,LGNPP,0,
+C1R, matrix metallopeptidase-3  and  cathepsin K ,22,27,0.97,5,PQKLF,0,
+C1R, matrix metallopeptidase-7  and  cathepsin G ,91,96,1.02,5,QLGSP,1,VWA8( )
+C1R, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,355,360,1.015,5,TAVCQ,0,
+C1R, cathepsin G  and  granzyme B ({Homo sapiens}-type) ,552,557,0.935,5,YNFEG,0,

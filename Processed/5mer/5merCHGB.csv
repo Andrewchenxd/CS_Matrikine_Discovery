@@ -1,0 +1,17 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CHGB, matrix metallopeptidase-9  and  matrix metallopeptidase-7 ,207,212,0.93,5,AIKKE,0,
+CHGB, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,428,433,0.945,5,AYFMS,0,
+CHGB, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,428,433,0.965,5,AYFMS,0,
+CHGB, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,428,433,0.98,5,AYFMS,0,
+CHGB, cathepsin K  and  elastase-2 ,625,630,1.02,5,DSEEP,1,EFEMP2( )
+CHGB, cathepsin K  and  cathepsin K ,184,189,1.045,5,EEKHL,0,
+CHGB, matrix metallopeptidase-7  and  cathepsin G ,466,471,0.93,5,ELDRN,1,VEGFC( )
+CHGB, matrix metallopeptidase-2  and  cathepsin G ,520,525,0.975,5,ELFNP,0,
+CHGB, matrix metallopeptidase-3  and  cathepsin G ,520,525,0.96,5,ELFNP,0,
+CHGB, matrix metallopeptidase-7  and  cathepsin G ,520,525,0.95,5,ELFNP,0,
+CHGB, cathepsin G  and  cathepsin K ,542,547,1.225,5,MNDNF,0,
+CHGB, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,658,663,0.94,5,NLAAM,0,
+CHGB, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,658,663,0.965,5,NLAAM,0,
+CHGB, elastase-2  and  matrix metallopeptidase-7 ,351,356,0.985,5,VQAPE,0,
+CHGB, cathepsin G  and  cathepsin K ,525,530,0.965,5,YYDPL,0,
+CHGB, cathepsin G  and  matrix metallopeptidase-2 ,525,530,0.915,5,YYDPL,0,

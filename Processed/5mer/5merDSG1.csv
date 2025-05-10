@@ -1,0 +1,53 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DSG1, cathepsin K  and  matrix metallopeptidase-3 ,160,165,0.905,5,ATFAG,0,
+DSG1, matrix metallopeptidase-2  and  cathepsin K ,876,881,0.99,5,DLHGM,0,
+DSG1, matrix metallopeptidase-3  and  cathepsin K ,876,881,0.95,5,DLHGM,0,
+DSG1, matrix metallopeptidase-7  and  cathepsin K ,876,881,0.95,5,DLHGM,0,
+DSG1, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,876,881,0.95,5,DLHGM,0,
+DSG1, matrix metallopeptidase-2  and  granzyme B ({Homo sapiens}-type) ,431,436,1.135,5,DLLAV,1,TGFA( )
+DSG1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,431,436,0.985,5,DLLAV,1,TGFA( )
+DSG1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,431,436,1.04,5,DLLAV,1,TGFA( )
+DSG1, matrix metallopeptidase-7  and  granzyme B ({Homo sapiens}-type) ,431,436,1.03,5,DLLAV,1,TGFA( )
+DSG1, matrix metallopeptidase-3  and  cathepsin G ,217,222,0.9,5,EIRTM,0,
+DSG1, matrix metallopeptidase-7  and  cathepsin G ,942,947,0.925,5,ELANA,0,
+DSG1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,142,147,1.01,5,ELRVR,2,APOE( );APOB( )
+DSG1, matrix metallopeptidase-9  and  cathepsin K ,641,646,1.03,5,EMQDL,0,
+DSG1, cathepsin G  and  cathepsin K ,357,362,0.945,5,FHHSI,0,
+DSG1, cathepsin G  and  cathepsin G ,299,304,0.9,5,FSANW,0,
+DSG1, matrix metallopeptidase-2  and  elastase-2 ,550,555,1.015,5,GIGLL,0,
+DSG1, matrix metallopeptidase-2  and  cathepsin K ,550,555,1.03,5,GIGLL,0,
+DSG1, cathepsin K  and  cathepsin K ,1002,1007,0.91,5,GLSSL,2,SOGA1( );PRKDC( )
+DSG1, matrix metallopeptidase-9  and  matrix metallopeptidase-3 ,562,567,0.93,5,GLVPF,0,
+DSG1, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,562,567,1.02,5,GLVPF,0,
+DSG1, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,562,567,1.08,5,GLVPF,0,
+DSG1, matrix metallopeptidase-2  and  matrix metallopeptidase-9 ,562,567,1.005,5,GLVPF,0,
+DSG1, elastase-2  and  cathepsin G ,1001,1006,0.92,5,IGLSS,0,
+DSG1, elastase-2  and  cathepsin K ,911,916,1.02,5,IHHPR,0,
+DSG1, elastase-2  and  matrix metallopeptidase-3 ,911,916,1.035,5,IHHPR,0,
+DSG1, elastase-2  and  elastase-2 ,996,1001,0.91,5,ISGGG,1,FGB( )
+DSG1, elastase-2  and  cathepsin K ,970,975,0.935,5,ISGGI,0,
+DSG1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,567,572,0.91,5,LMICC,0,
+DSG1, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,567,572,1.06,5,LMICC,0,
+DSG1, cathepsin G  and  cathepsin G ,304,309,1.0,5,MAVIF,0,
+DSG1, matrix metallopeptidase-2  and  elastase-2 ,622,627,0.94,5,NIIEC,0,
+DSG1, matrix metallopeptidase-9  and  cathepsin G ,825,830,0.92,5,PILDP,0,
+DSG1, matrix metallopeptidase-2  and  cathepsin G ,825,830,1.085,5,PILDP,0,
+DSG1, matrix metallopeptidase-3  and  cathepsin G ,825,830,1.005,5,PILDP,0,
+DSG1, matrix metallopeptidase-7  and  cathepsin G ,825,830,0.97,5,PILDP,0,
+DSG1, matrix metallopeptidase-3  and  granzyme B ({Homo sapiens}-type) ,871,876,0.935,5,PISGA,0,
+DSG1, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,871,876,0.935,5,PISGA,0,
+DSG1, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,871,876,0.975,5,PISGA,0,
+DSG1, matrix metallopeptidase-3  and  matrix metallopeptidase-7 ,871,876,0.935,5,PISGA,0,
+DSG1, cathepsin K  and  elastase-2 ,906,911,0.995,5,PTSLT,0,
+DSG1, cathepsin K  and  elastase-2 ,787,792,0.945,5,QETEP,0,
+DSG1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,484,489,0.91,5,QSFGN,0,
+DSG1, cathepsin K  and  elastase-2 ,778,783,1.12,5,QSTEP,0,
+DSG1, matrix metallopeptidase-3  and  elastase-2 ,778,783,1.01,5,QSTEP,0,
+DSG1, matrix metallopeptidase-7  and  matrix metallopeptidase-7 ,650,655,0.945,5,RMTGF,0,
+DSG1, cathepsin K  and  elastase-2 ,902,907,1.155,5,SSSLP,2,COL16A1( );HGFAC( )
+DSG1, elastase-2  and  cathepsin K ,910,915,1.17,5,TIHHP,0,
+DSG1, elastase-2  and  cathepsin K ,982,987,0.915,5,TSMGA,0,
+DSG1, elastase-2  and  matrix metallopeptidase-9 ,783,788,1.03,5,VCLPQ,0,
+DSG1, elastase-2  and  matrix metallopeptidase-3 ,726,731,0.98,5,VGSPA,0,
+DSG1, matrix metallopeptidase-9  and  matrix metallopeptidase-2 ,820,825,0.94,5,VLHPK,1,TEK( )
+DSG1, elastase-2  and  cathepsin K ,394,399,0.925,5,VTGNM,0,

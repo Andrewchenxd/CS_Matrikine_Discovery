@@ -1,0 +1,24 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+FGA, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,231,236,0.915,5,DLVPG,0,
+FGA, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,231,236,0.98,5,DLVPG,0,
+FGA, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,409,414,1.005,5,DWGTF,0,
+FGA, cathepsin K  and  cathepsin K ,493,498,1.0699999999999998,5,EAMDL,0,
+FGA, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,759,764,0.995,5,EGTAG,1,COL5A2( )
+FGA, matrix metallopeptidase-7  and  cathepsin G ,532,537,0.93,5,FFSPM,0,
+FGA, matrix metallopeptidase-3  and  cathepsin G ,532,537,0.975,5,FFSPM,0,
+FGA, cathepsin G  and  elastase-2 ,2,7,0.99,5,FSMRI,0,
+FGA, cathepsin G  and  cathepsin K ,533,538,0.915,5,FSPML,0,
+FGA, cathepsin K  and  cathepsin K ,533,538,0.955,5,FSPML,0,
+FGA, cathepsin K  and  cathepsin G ,350,355,1.07,5,GSPRP,3,LAMA5( );AEBP1( );ITIH5( )
+FGA, cathepsin K  and  cathepsin K ,324,329,1.02,5,GSSGP,10,COL7A1( );HSPG2( );COL5A2( );COL5A1( );COL4A4( );COL12A1( );COL4A1( );COL4A6( );COL14A1( );COL6A1( )
+FGA, cathepsin K  and  elastase-2 ,498,503,0.935,5,GTLSG,2,LTBP2( );CANX( )
+FGA, cathepsin K  and  cathepsin G ,423,428,1.005,5,GTRRE,1,SPON1( )
+FGA, cathepsin K  and  cathepsin K ,767,772,1.025,5,IEGSV,0,
+FGA, cathepsin K  and  cathepsin K ,637,642,0.96,5,QTHPS,1,LTBP2( )
+FGA, matrix metallopeptidase-2  and  matrix metallopeptidase-7 ,206,211,0.905,5,QVIAK,0,
+FGA, cathepsin K  and  cathepsin K ,754,759,0.955,5,QVSSY,0,
+FGA, matrix metallopeptidase-7  and  cathepsin K ,754,759,0.905,5,QVSSY,0,
+FGA, elastase-2  and  elastase-2 ,270,275,0.95,5,TRGGS,0,
+FGA, elastase-2  and  matrix metallopeptidase-2 ,667,672,0.92,5,TSLGG,0,
+FGA, elastase-2  and  cathepsin K ,379,384,0.92,5,VSGST,0,
+FGA, elastase-2  and  granzyme B ({Homo sapiens}-type) ,434,439,0.91,5,VTSKG,1,FLNB( )

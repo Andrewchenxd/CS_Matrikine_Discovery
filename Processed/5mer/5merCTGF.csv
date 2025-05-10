@@ -1,0 +1,7 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTGF, elastase-2  and  elastase-2 ,4,9,0.98,5,ASMGP,0,
+CTGF, granzyme B ({Homo sapiens}-type)  and  cathepsin K ,332,337,1.09,5,DNDIF,0,
+CTGF, cathepsin K  and  cathepsin K ,162,167,0.93,5,EEWVC,0,
+CTGF, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,162,167,0.945,5,EEWVC,0,
+CTGF, matrix metallopeptidase-3  and  matrix metallopeptidase-2 ,194,199,0.935,5,MIRAN,0,
+CTGF, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,194,199,0.925,5,MIRAN,0,

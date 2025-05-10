@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CMA1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,202,206,0.98,4,DSGG,30,EMILIN1( );SHH( );MMP8( );CTSG( );CFD( );ST14( );KLK14( );KLK13( );C1R( );KLK10( );KLK5( );CELA1( );KLK11( );KLK7( );KLKB1( );TPSD1( );TPSB2( );CFI( );PLG( );KLK6( );PRTN3( );PLAU( );CFB( );F2( );HGFAC( );C1S( );PRSS1( );KLK8( );TPSAB1( );PLAT( )
+CMA1, granzyme B ({Homo sapiens}-type)  and  matrix metallopeptidase-2 ,160,164,0.94,4,DTLQ,4,LAMC1( );GLG1(Cys-rich GLG1 11);SERPINC1( );IGF2-AS( )
+CMA1, elastase-2  and  matrix metallopeptidase-7 ,111,115,0.905,4,IMLL,4,FRAS1( );CTSG( );KLK13( );KLK6( )
+CMA1, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,82,86,1.04,4,TEEE,19,TNXB( );SPARC( );LTBP2( );VCAN( );MYH9( );NENF( );GPC2( );DYNC1H1( );PLEC( );MYL6( );TTR( );NUCB1( );SERPINA1( );MMP14( );NUCB2( );NCAM1( );NELL2( );FST( );PSAP( )
+CMA1, matrix metallopeptidase-7  and  elastase-2 ,38,42,0.965,4,YLEI,5,COL14A1( );ITIH5( );CRTAP( );FGFR1(Extracellular);FGFR2(Extracellular)

@@ -1,0 +1,4 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+C1QB, elastase-2  and  cathepsin K ,27,32,1.03,5,AQLSC,0,
+C1QB, cathepsin G  and  cathepsin G ,197,202,1.045,5,FCDYA,0,
+C1QB, cathepsin K  and  granzyme B ({Homo sapiens}-type) ,45,50,1.015,5,GTPGP,10,COL7A1( );COL1A2( );COL1A1( );COL5A2( );COL4A1( );COL4A3( );COL4A5( );COL4A6( );COL17A1( );VWA5B1( )

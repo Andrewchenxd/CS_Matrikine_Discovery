@@ -1,0 +1,6 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CCL5, matrix metallopeptidase-9  and  matrix metallopeptidase-9 ,7,11,0.95,4,ALAV,16,LAMA3( );LAMB2( );MGP( );TLN1( );CHGA( );CCT6A( );GBP1( );DSG1( );ITIH5( );CD109( );B2M( );CST3( );FGFR4( );TAC1( );EGFR( );TGFA( )
+CCL5, matrix metallopeptidase-3  and  matrix metallopeptidase-9 ,7,11,0.99,4,ALAV,16,LAMA3( );LAMB2( );MGP( );TLN1( );CHGA( );CCT6A( );GBP1( );DSG1( );ITIH5( );CD109( );B2M( );CST3( );FGFR4( );TAC1( );EGFR( );TGFA( )
+CCL5, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,7,11,0.95,4,ALAV,16,LAMA3( );LAMB2( );MGP( );TLN1( );CHGA( );CCT6A( );GBP1( );DSG1( );ITIH5( );CD109( );B2M( );CST3( );FGFR4( );TAC1( );EGFR( );TGFA( )
+CCL5, matrix metallopeptidase-3  and  matrix metallopeptidase-3 ,7,11,0.935,4,ALAV,16,LAMA3( );LAMB2( );MGP( );TLN1( );CHGA( );CCT6A( );GBP1( );DSG1( );ITIH5( );CD109( );B2M( );CST3( );FGFR4( );TAC1( );EGFR( );TGFA( )
+CCL5, matrix metallopeptidase-3  and  cathepsin G ,22,26,1.055,4,SASP,8,EFEMP2( );COL17A1( );ATP5O( );VCL( );TFRC( );DSG1( );MUC4( );GBA( )

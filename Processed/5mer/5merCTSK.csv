@@ -1,0 +1,9 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+CTSK, cathepsin G  and  cathepsin K ,14,19,0.94,5,FALYP,0,
+CTSK, cathepsin G  and  matrix metallopeptidase-3 ,75,80,0.98,5,MNHLG,0,
+CTSK, matrix metallopeptidase-7  and  matrix metallopeptidase-2 ,161,166,0.905,5,NLSPQ,1,CFB( )
+CTSK, matrix metallopeptidase-7  and  matrix metallopeptidase-9 ,161,166,0.935,5,NLSPQ,1,CFB( )
+CTSK, matrix metallopeptidase-7  and  matrix metallopeptidase-3 ,161,166,0.91,5,NLSPQ,1,CFB( )
+CTSK, matrix metallopeptidase-2  and  cathepsin G ,166,171,0.9,5,NLVDC,2,CTSV( );CTSL( )
+CTSK, matrix metallopeptidase-9  and  cathepsin G ,166,171,0.93,5,NLVDC,2,CTSV( );CTSL( )
+CTSK, matrix metallopeptidase-3  and  cathepsin G ,166,171,0.905,5,NLVDC,2,CTSV( );CTSL( )

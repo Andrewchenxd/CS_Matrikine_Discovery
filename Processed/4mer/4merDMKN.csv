@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+DMKN, granzyme B ({Homo sapiens}-type)  and  cathepsin G ,427,431,0.97,4,DDQN,0,
+DMKN, cathepsin K  and  cathepsin K ,349,353,0.955,4,ETSP,0,
+DMKN, cathepsin K  and  cathepsin K ,185,189,0.92,4,GMNP,0,
+DMKN, cathepsin K  and  elastase-2 ,169,173,0.97,4,GTPW,0,
+DMKN, elastase-2  and  cathepsin K ,345,349,1.08,4,IQNS,0,
+DMKN, cathepsin G  and  cathepsin G ,43,47,0.94,4,LGDA,7,HMCN2( );COL18A1( );TGFBI( );GANAB( );SERPING1( );TIMP1( );PLAUR( )
+DMKN, cathepsin K  and  matrix metallopeptidase-2 ,4,8,1.23,4,QGPL,3,COL18A1( );PLEC( );CXADR( )

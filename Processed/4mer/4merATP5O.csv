@@ -1,0 +1,5 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ATP5O, elastase-2  and  matrix metallopeptidase-2 ,152,156,1.015,4,ATLS,14,CSPG4( );SERPINF2( );PZP( );CALCA( );IGKV3-15( );TUBB( );TUBB4B( );ACTN4( );ACTN1( );AHSG( );IGHA1(Ig-like 2);IGKV3-20( );HBB( );FGFR2( )
+ATP5O, cathepsin G  and  cathepsin G ,128,132,0.935,4,FSTM,6,MATN2( );VCAN( );COL4A1( );COL4A5( );COL4A6( );COL4A2( )
+ATP5O, cathepsin G  and  matrix metallopeptidase-9 ,16,20,1.04,4,FSTS,7,LAMA5( );THBS2( );LAMA4( );COL17A1( );CSPG4( );IL6( );SERPINA4( )
+ATP5O, matrix metallopeptidase-9  and  elastase-2 ,148,152,0.995,4,PLEE,7,MATN2( );VCAN( );LAMB3( );GBP1( );KDR( );IL2( );IDE( )

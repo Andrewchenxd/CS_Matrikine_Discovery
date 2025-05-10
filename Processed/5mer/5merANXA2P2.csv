@@ -1,0 +1,8 @@
+GN,Enzyme,start_cleavage_site,end_cleavage_site,average_cleavage_score,length_of_peptide,peptide,How many other protein has this peptide:,peptide_proteins_domains:
+ANXA2P2, matrix metallopeptidase-2  and  cathepsin G ,86,91,1.04,5,ALKSA,1,ANXA2( )
+ANXA2P2, matrix metallopeptidase-9  and  cathepsin G ,86,91,1.05,5,ALKSA,1,ANXA2( )
+ANXA2P2, matrix metallopeptidase-3  and  cathepsin G ,86,91,0.955,5,ALKSA,1,ANXA2( )
+ANXA2P2, matrix metallopeptidase-9  and  granzyme B ({Homo sapiens}-type) ,189,194,0.955,5,ELIDQ,1,ANXA2( )
+ANXA2P2, matrix metallopeptidase-9  and  cathepsin G ,113,118,0.92,5,ELKAS,1,ANXA2(Annexin 2)
+ANXA2P2, cathepsin G  and  cathepsin K ,91,96,0.905,5,LSGHL,1,ANXA2( )
+ANXA2P2, cathepsin G  and  matrix metallopeptidase-2 ,1,6,0.9,5,MSTVH,1,ANXA2( )
