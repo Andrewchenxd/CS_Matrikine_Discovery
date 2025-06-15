@@ -12,6 +12,8 @@ logger = logging.getLogger(__name__)
 
 # 全局阈值
 CUT_THRESHOLD = 0.9
+min_length = 4  # 最小片段长度
+max_length = 50  # 最大片段长度
 
 def read_fasta(fastafile):
     """读取FASTA文件到有序字典"""
@@ -69,17 +71,19 @@ def process_protein(seq_id, protein_seq, protein_cuts):
         
         # 计算切割概率
         frag_prob = front_pro * back_pro
-        
-        fragments.append({
-            'sequence_id': seq_id,
-            'fragment_seq': frag_seq,
-            'front_protease': front_protease,
-            'back_protease': back_protease,
-            'start': start + 1,  # 转换为1-based起始位置
-            'end': end,          # 1-based终止位置
-            'length': frag_length,
-            'probability': frag_prob
-        })
+        if frag_length < min_length or frag_length > max_length:
+            continue
+        else:
+            fragments.append({
+                'sequence_id': seq_id,
+                'fragment_seq': frag_seq,
+                'front_protease': front_protease,
+                'back_protease': back_protease,
+                'start': start + 1,  # 转换为1-based起始位置
+                'end': end,          # 1-based终止位置
+                'length': frag_length,
+                'probability': frag_prob
+            })
     
     return fragments
 
@@ -127,17 +131,21 @@ def main():
             fragments = process_protein(seq_id, protein_seq, protein_data[seq_id])
             all_fragments.extend(fragments)
         else:
-            # 无切割点的蛋白质作为完整片段
-            all_fragments.append({
-                'sequence_id': seq_id,
-                'fragment_seq': protein_seq,
-                'front_protease': "None",
-                'back_protease': "None",
-                'start': 1,
-                'end': len(protein_seq),
-                'length': len(protein_seq),
-                'probability': 1.0
-            })
+            if  len(protein_seq) < min_length or len(protein_seq) > max_length:
+                logger.warning(f"蛋白质 {seq_id} 的长度不符合要求，跳过处理")
+                continue
+            else:
+                # 无切割点的蛋白质作为完整片段
+                all_fragments.append({
+                    'sequence_id': seq_id,
+                    'fragment_seq': protein_seq,
+                    'front_protease': "None",
+                    'back_protease': "None",
+                    'start': 1,
+                    'end': len(protein_seq),
+                    'length': len(protein_seq),
+                    'probability': 1.0
+                })
     
     # 转换为DataFrame并保存
     result_df = pd.DataFrame(all_fragments)
